@@ -1,8 +1,12 @@
 ---
-title: 'L''accordo di mutuo riconoscimento EU-USA'
-date: Thu, 07 Dec 2017 12:27:18 +0000
-draft: false
-tags: [Farmaceutica]
+title: L'accordo di mutuo riconoscimento EU-USA
+date: 'Thu, 07 Dec 2017 12:27:18 +0000'
+description: >-
+  Il 1° Novembre 2017 segna l'entrata in vigore effettivo dell'accordo di mutuo
+  riconoscimento tra l'Unione Europea (UE) e gli Stati Uniti (USA), che aggiorna
+  quello del 1998, che riconosce i reciproci risultati delle ispezioni fatte
+  dalle rispettive autorità americane e dei singoli stati membri europei.
+image: /img/senza-titolo-1.png
 ---
 
 Il **1° Novembre 2017** segna l'entrata in vigore effettivo dell'[accordo di mutuo riconoscimento tra l'Unione Europea (UE) e gli Stati Uniti (USA)](http://www.ema.europa.eu/docs/en_GB/document_library/Press_release/2017/10/WC500237909.pdf), che aggiorna quello del 1998, che riconosce i reciproci risultati delle ispezioni fatte dalle rispettive autorità americane e dei singoli stati membri europei. Ad oggi, infatti nell'UE, le ispezioni dei siti di produzione sono condotte dalle autorità nazionali competenti. L'Agenzia europea dei medicinali svolge un ruolo importante nel coordinamento di queste attività in collaborazione con gli Stati membri.
