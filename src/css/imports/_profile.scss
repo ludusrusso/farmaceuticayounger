@@ -1,0 +1,14 @@
+.profile {
+    display: grid;
+    grid-template-columns: auto 1fr;
+
+    justify-items: right;
+    align-items: center;
+    grid-gap: 20px;
+    padding: 20px;
+
+    img {
+        height: 100px;
+        border-radius: 50%;
+    }
+}

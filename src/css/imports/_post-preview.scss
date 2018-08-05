@@ -1,0 +1,17 @@
+.post-preview-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.post-preview {
+    padding: 20px;
+    
+    h1 {
+        padding: 0;
+        margin: 0;
+        font-size: 16pt;
+    }
+    img {
+        width: 100%;
+    }
+}

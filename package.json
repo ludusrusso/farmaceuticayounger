@@ -1,5 +1,5 @@
 {
-  "name": "victor-hugo",
+  "name": "farmaceuticayounger",
   "version": "1.0.0",
   "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "start": "gulp server",
     "lint": "eslint src"
   },
-  "author": "",
+  "author": "ludusrusso",
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.26.3",
@@ -51,8 +51,17 @@
   },
   "devDependencies": {
     "gulp-inject": "^4.2.0",
+    "gulp-sass": "^4.0.1",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
     "svg-sprite-loader": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludusrusso/farmaceuticayounger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ludusrusso/farmaceuticayounger/issues"
+  },
+  "homepage": "https://github.com/ludusrusso/farmaceuticayounger#readme"
 }

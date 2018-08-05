@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto';
+
+    min-height: 100vh;
+
+    display: grid;
+    grid-template-rows: 60px 1fr 100px;
+}
+
