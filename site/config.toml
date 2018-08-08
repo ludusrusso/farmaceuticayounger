@@ -1,4 +1,7 @@
-baseurl = "/"
+baseurl = "https://farmaceuticayounger.science/"
 languageCode = "it"
-title = "Homepage"
+title = "Farmacetica Younger"
 defaultContentLanguage = "it"
+
+[permalinks]
+  post = "/:year/:month/:title/"

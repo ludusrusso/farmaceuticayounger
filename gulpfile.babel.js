@@ -22,10 +22,10 @@ if (process.env.DEBUG) {
   defaultArgs.unshift("--debug")
 }
 
-gulp.task("hugo", (cb) => buildSite(cb));
+gulp.task("hugo", (cb) => buildSite(cb, ["--baseURL=/"]));
 gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
-gulp.task("build", ["css", "js", "cms-assets", "hugo"]);
-gulp.task("build-preview", ["css", "js", "cms-assets", "hugo-preview"]);
+gulp.task("build", ["css", "js", "cms-assets", "hugo"], (cb) => buildSite(cb, [], "production"));
+gulp.task("build-preview", ["css", "js", "cms-assets", "hugo-preview"],  (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"], "production"));
 
 
 gulp.task("css", () => (
@@ -87,8 +87,10 @@ gulp.task("server", ["hugo", "css", "cms-assets", "js", "svg"], () => {
   gulp.watch("./site/**/*", ["hugo"]);
 });
 
-function buildSite(cb, options) {
+function buildSite(cb, options, environment = "development") {
   const args = options ? defaultArgs.concat(options) : defaultArgs;
+
+  process.env.NODE_ENV = environment;
 
   return cp.spawn(hugoBin, args, {stdio: "inherit"}).on("close", (code) => {
     if (code === 0) {
