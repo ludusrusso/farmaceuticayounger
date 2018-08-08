@@ -1,12 +1,23 @@
 header {
-    background-color: #eee;    
-    display: flex;
-    align-items: center;
+    background-color: #eee;  
+    .cnt {
+        display: flex;
+        align-items: center;
+        height: 100%;
+        }  
+
+    .flex-fill {
+        flex-grow: 1;
+    }
 
     a {
         font-weight: bold;
         padding: 0 10px;
         text-decoration: none;
         color: black;
+    }
+
+    .title {
+        font-size: 16pt;
     }
 }
