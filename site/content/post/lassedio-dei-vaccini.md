@@ -1,8 +1,8 @@
 ---
-title: 'L''assedio dei vaccini'
-date: Sun, 18 Jun 2017 20:00:03 +0000
-draft: false
-tags: [Farmaceutica]
+title: L'assedio dei vaccini
+date: 'Sun, 18 Jun 2017 20:00:03 +0000'
+description: Siamo sotto assedio? Tutti costringono a vaccinare i nostri figli?
+image: /img/vaccini.jpg
 ---
 
 ![vaccini.jpg](https://silviavernotico.files.wordpress.com/2017/06/vaccini.jpg)
