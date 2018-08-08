@@ -1,14 +1,14 @@
 body {
     padding: 0;
     margin: 0;
-    font-family: 'Roboto';
+    font-family: "Helvetica Neue";
     line-height: 150%;
     letter-spacing: 1pt;
 
     min-height: 100vh;
 
     display: grid;
-    grid-template-rows: 60px 1fr auto;
+    grid-template-rows: auto 1fr auto;
 }
 
 .cnt {

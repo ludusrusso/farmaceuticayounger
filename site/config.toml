@@ -2,6 +2,8 @@ baseurl = "https://www.farmaceuticayounger.science/"
 languageCode = "it"
 title = "Farmacetica Younger"
 defaultContentLanguage = "it"
+enableRobotsTXT = true
+canonifyURLs = true
 
 [permalinks]
   post = "/:year/:month/:title/"

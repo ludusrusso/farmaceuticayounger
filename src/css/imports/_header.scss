@@ -3,15 +3,27 @@ header {
     .cnt {
         display: flex;
         align-items: center;
-        height: 100%;
         }  
+    
+    .primary-nav {
+        height: 60px;
+        border-bottom: 1px solid #ccc;
+
+        a {
+            font-weight: bold;
+        }
+    }
+
+    .secondary-nav {
+        height: 40px;
+
+    }
 
     .flex-fill {
         flex-grow: 1;
     }
 
     a {
-        font-weight: bold;
         padding: 0 10px;
         text-decoration: none;
         color: black;

@@ -16,7 +16,11 @@ article.post {
 
     .content {
         padding: 40px 0;
-        font-size: 13pt;
+
+        p {
+            line-height: 30px;
+            font-size: 13pt;
+        }
 
     }
 }
