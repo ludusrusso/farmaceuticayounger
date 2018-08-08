@@ -1,6 +1,10 @@
 <head>
 
-	<title>{{ .Title }} | Farmaceutica Younger </title>
+	<title>
+		{{ if .Title }}
+		{{ .Title }} | 
+		{{ end }}
+		Farmaceutica Younger </title>
 	<link rel="stylesheet" href="/css/main.css" />
 
 	<meta charset="utf-8">
