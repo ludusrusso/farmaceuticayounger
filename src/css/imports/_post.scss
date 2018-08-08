@@ -2,7 +2,9 @@ article.post {
     padding-top: 40px;
 
     img {
-        width: 100%;
+        max-width: 100%;
+        display: block;
+        margin: auto;
     }
 
     .title {
