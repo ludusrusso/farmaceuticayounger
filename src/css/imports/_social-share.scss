@@ -1,0 +1,50 @@
+
+
+
+.social-share {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+
+    .twitter {
+        background-color: $color-twitter;
+    }
+
+    .facebook {
+        background: $color-facebook;
+    }
+
+    .linkedin {
+        background: $color-linkedin;
+    }
+
+    .whatsapp {
+        background: $color-whatsapp;
+    }
+
+    .googleplus {
+        background: $color-googleplus;
+    }
+
+    .mail {
+        background: #7975D5;
+    }
+
+    li {
+        margin-right: 5px;
+        margin-top: 20px;
+        padding: 10px;
+        list-style: none;
+        border-radius: 5px;
+        a {
+            color: white;
+            display: flex;
+            text-decoration: none;
+            align-items: center;
+            * {
+                padding: 0 10px;
+                margin: 0;
+            }
+        }
+    }
+}
