@@ -1,9 +1,9 @@
 ---
 title: 'La nuova sede dell''EMA... il 20 Novembre si deciderà la città che ospiterà l''Agenzia Europea dei Medicinali'
-date: Sun, 12 Nov 2017 19:46:46 +0000
+date: 2017-11-12T19:46:46+00:00
 draft: false
 tags: [Farma Survey]
-image: https://silviavernotico.files.wordpress.com/2017/11/150229129-029d796c-25b2-4107-97ee-82c8e839ee05.jpg
+image: /img/la-nuova-sede-dellema-il-20-novembre-si-decidera-la-citta-che-ospitera-lagenzia-europea-dei-medicinali.md/150229129-029d796c-25b2-4107-97ee-82c8e839ee05.jpg
 ---
 
 Il **20 Novembre 2017** si sta sempre più avvicinando. Sarà un giorno di decisioni importanti. **Quale secondo voi sarà la nuova sede che ospiterà L'Agenzia Europea dei Medicinali?**
@@ -12,4 +12,4 @@ Il **20 Novembre 2017** si sta sempre più avvicinando. Sarà un giorno di decis
 
 Partecipa anche tu al sondaggio!!! Clicca sul link in basso e dai anche tu un'opinione su quale sarà la nuova sede dell'EMA...
 
-https://goo.gl/forms/qb60x4Kp6HncxYPb2 ![150229129-029d796c-25b2-4107-97ee-82c8e839ee05.jpg](https://silviavernotico.files.wordpress.com/2017/11/150229129-029d796c-25b2-4107-97ee-82c8e839ee05.jpg)
+https://goo.gl/forms/qb60x4Kp6HncxYPb2 ![150229129-029d796c-25b2-4107-97ee-82c8e839ee05.jpg](/img/la-nuova-sede-dellema-il-20-novembre-si-decidera-la-citta-che-ospitera-lagenzia-europea-dei-medicinali.md/150229129-029d796c-25b2-4107-97ee-82c8e839ee05.jpg)

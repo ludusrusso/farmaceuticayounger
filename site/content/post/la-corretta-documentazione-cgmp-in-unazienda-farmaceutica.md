@@ -1,10 +1,10 @@
 ---
 title: La corretta DOCUMENTAZIONE cGMP in un'azienda farmaceutica
-date: 'Sun, 25 Feb 2018 17:29:30 +0000'
+date: 2018-02-25T17:29:30+00:00
 description: Prova Prova
 image: 'https://silviavernotico.files.wordpress.com/2018/02/gmp-documentazione.png'
 ---
-_![GMP-documentazione.png](https://silviavernotico.files.wordpress.com/2018/02/gmp-documentazione.png)"If it isn’t written down, it’s just a rumor"_
+_![GMP-documentazione.png](/img/la-corretta-documentazione-cgmp-in-unazienda-farmaceutica.md/gmp-documentazione.png)"If it isn’t written down, it’s just a rumor"_
 
 "Fai quello che è scritto, scrivi quello che fai e se non lo scrivi è come se non lo avessi fatto"
 

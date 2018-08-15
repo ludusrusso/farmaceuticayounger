@@ -1,11 +1,11 @@
 ---
 title: L'assedio dei vaccini
-date: 'Sun, 18 Jun 2017 20:00:03 +0000'
+date: 2017-06-18T20:00:03+00:00
 description: Siamo sotto assedio? Tutti costringono a vaccinare i nostri figli?
 image: /img/vaccini.jpg
 ---
 
-![vaccini.jpg](https://silviavernotico.files.wordpress.com/2017/06/vaccini.jpg)
+![vaccini.jpg](/img/lassedio-dei-vaccini.md/vaccini.jpg)
 
 ### **Il DECRETO-LEGGE 7 giugno 2017, n. 7**
 
@@ -15,7 +15,7 @@ il decreto legge, nello specifico, rende obbligatorie **12 vaccinazioni**: ant
 
 ### **Il Movimento NO-Vax e la "Herd Immunity"**
 
-![Screen-Shot-2014-12-15-at-4.44.19-PM.png](https://silviavernotico.files.wordpress.com/2017/06/screen-shot-2014-12-15-at-4-44-19-pm1.png)
+![Screen-Shot-2014-12-15-at-4.44.19-PM.png](/img/lassedio-dei-vaccini.md/screen-shot-2014-12-15-at-4-44-19-pm1.png)
 
 _"Queso decreto è un ricatto che mina la libertà di scelta delle famiglie"_
 
@@ -23,13 +23,13 @@ _"No alle imposizioni sulla pelle dei nostri figli e alle minacce a suon di mult
 
 _"Vogliamo decidere noi della salute dei nostri figli"_
 
-![Schermata 2017-06-14 alle 21.01.25.png](https://silviavernotico.files.wordpress.com/2017/06/schermata-2017-06-14-alle-21-01-25.png)  
+![Schermata 2017-06-14 alle 21.01.25.png](/img/lassedio-dei-vaccini.md/schermata-2017-06-14-alle-21-01-25.png)  
 
 Queste sono alcune delle voci del popolo, di quella fetta di popolazione che si schiera, in nome della legittimità di prendere proprie scelte nella lotta contro l'imposizione della campagna sulla vaccinazione obbligatoria, i cosiddetti **"NO-Vax"**. Decidere di non vaccinare i propri figli, le generazionie non è una scelta individuale, è una scelta di sanità pubblica. Significa mettere a rischio le generazioni future e tutti noi come collettività.
 
 Infatti, non tutti conoscono la **"Herd Immunity"**, comunemente detta "Immunità di gregge o di gruppo". Ecco come viene definita dall'OMS, Organizzazione Mondiale della Sanità: _"L’immunità di gregge descrive l’immunità che si ottiene quando la vaccinazione di una porzione della popolazione (il “branco”) offre una protezione agli individui non protetti. La teoria dell’immunità di gregge propone che nelle malattie trasmissibili da un individuo ad un altro è difficile mantenere una catena di infezione quando un gran numero della popolazione è immune. Quindi, maggiore è la percentuale di individui immuni in una popolazione, più si riduce la probabilità che una persona suscettibile entrerà in contatto con un agente infettivo. Sia nella teoria che nella pratica, la malattia scompare di solito già prima del raggiungimento di una copertura vaccinale del 100%, questo si è visto con il vaiolo e si spera accadrà con la polio. La percentuale __di individui immuni in una popolazione sopra la quale una malattia non può più persistere è la “soglia dell’immunità di gregge”. Questa percentuale varia con la virulenza e la trasmissibilità di un determinato agente infettivo, l’efficacia e la copertura complessiva del vaccin__o, la copertura vaccinale della popolazione a rischio e il parametro di contatto nella popolazione"._
 
-_![vaccines-work-here-are-the-facts-5de3d0f9ffd0-48-01ca88.jpg](https://silviavernotico.files.wordpress.com/2017/06/vaccines-work-here-are-the-facts-5de3d0f9ffd0-48-01ca88.jpg)_
+_![vaccines-work-here-are-the-facts-5de3d0f9ffd0-48-01ca88.jpg](/img/lassedio-dei-vaccini.md/vaccines-work-here-are-the-facts-5de3d0f9ffd0-48-01ca88.jpg)_
 
 Quindi, in poche parole, una persona non vaccinata che vive tra tanti vaccinati gode di questa Immunità di gregge: i soggetti vaccinati riducono la circolazione dei virus e dei batteri responsabili delle malattie e diminuiscono la possibilità che i non vaccinati possano ammalarsi. Questa immunità di gregge si realizza con quella che l'OMS definisce "soglia dell'immunità di gregge" cioè quando, il **95%** della popolazione è vaccinata contro una determinata malattia.
 

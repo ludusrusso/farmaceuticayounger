@@ -1,11 +1,12 @@
 ---
 title: 'La TOP 10 dei farmaci più venduti nel 2016'
-date: Sat, 01 Jul 2017 15:45:01 +0000
+date: 2017-07-01T15:45:01+00:00
 draft: false
+image: /img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/top-drugs-by-sales-in-2016-who-sold-the-blockbuster-drugs-test-1492513807.jpg
 tags: [Farmaceutica]
 ---
 
-![Top-drugs-by-sales-in-2016-Who-sold-the-blockbuster-drugs-test-1492513807.jpg](https://silviavernotico.files.wordpress.com/2017/06/top-drugs-by-sales-in-2016-who-sold-the-blockbuster-drugs-test-1492513807.jpg)
+![Top-drugs-by-sales-in-2016-Who-sold-the-blockbuster-drugs-test-1492513807.jpg](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/top-drugs-by-sales-in-2016-who-sold-the-blockbuster-drugs-test-1492513807.jpg)
 
 Quali sono i farmaci più venduti a livello globale nell'anno passato 2016? Ecco qui una lista completa fatta da PharmaCompass che ci mostra quali siano i farmaci più venduti, le aree di utilizzo e le case farmaceutiche produttrici che hanno ricavato un bottino milionario dalla vendita di questi 10 Blockbuster. I dati sono stati estratti da relazioni annuali e da depositi presso la Securities and Exchange Commission (SEC) delle Big Pharma.
 
@@ -25,7 +26,7 @@ Ultimo posto per un farmaco della Big tra le Big Pfizer, per **Prevnar13** (Pneu
 
 ### **1.HUMIRA**
 
-_![HUMIRA-PEN-with-box.jpg](https://silviavernotico.files.wordpress.com/2017/06/humira-pen-with-box.jpg)Principio attivo:_ Adalimumab
+_![HUMIRA-PEN-with-box.jpg](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/humira-pen-with-box.jpg)Principio attivo:_ Adalimumab
 
 _Aree d'impiego:_ Immunologia (trapianti d'organo, Artriti ecc.)
 
@@ -39,7 +40,7 @@ _Meccanismo d'azione:_ Adalimumab, è un anticorpo monoclonale concepito per r
 
 ### **2\. HARVONI**
 
-_![Harvoni.png](https://silviavernotico.files.wordpress.com/2017/06/harvoni.png)Principio attivo:_ Ledipasvir e Sofosbuvir
+_![Harvoni.png](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/harvoni.png)Principio attivo:_ Ledipasvir e Sofosbuvir
 
 _Aree d'impiego:_ Malattie Infettive (HIV, Epatiti ecc.)
 
@@ -53,7 +54,7 @@ _Meccanismo d'azione:_ i principi attivi di Harvoni, ledipasvir e sofosbuvir, b
 
 ### **3\. ENBREL**
 
-_![enbrel.jpg](https://silviavernotico.files.wordpress.com/2017/06/enbrel.jpg)Principio attivo:_ Etanercept
+_![enbrel.jpg](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/enbrel.jpg)Principio attivo:_ Etanercept
 
 _Aree d'impiego:_ Immunologia (trapianti d'organo, Artriti ecc.)
 
@@ -69,7 +70,7 @@ _Meccanismo d'azione:_ Etanercept, è una proteina che blocca l’attività di 
 
 ### **4\. REMICADE**
 
-_![remicade.jpg](https://silviavernotico.files.wordpress.com/2017/06/remicade.jpg)Principio attivo:_ Infliximab
+_![remicade.jpg](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/remicade.jpg)Principio attivo:_ Infliximab
 
 _Aree d'impiego:_ Immunologia (trapianti d'organo, Artriti ecc.)
 
@@ -85,7 +86,7 @@ _Meccanismo d'azione:_ Infliximab è un anticorpo chimerico, umano-murino, mono
 
 ### 5. MabThera
 
-_![mabthera.jpeg](https://silviavernotico.files.wordpress.com/2017/06/mabthera.jpeg)Principio attivo:_ Rituximab
+_![mabthera.jpeg](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/mabthera.jpeg)Principio attivo:_ Rituximab
 
 _Aree d'impiego:_ Oncologia
 
@@ -99,7 +100,7 @@ _Meccanismo d'azione:_ Rituximab, è un anticorpo monoclonale, concepito per ri
 
 ### 6. REVLIMID
 
-_![revlimid-10.png](https://silviavernotico.files.wordpress.com/2017/06/revlimid-10.png)Principio attivo:_ Lenalidomide _Aree d'impiego:_ Oncologia _Pharma Company:_ Celgene _Vendite:_ 6,974 milioni di dollari
+_![revlimid-10.png](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/revlimid-10.png)Principio attivo:_ Lenalidomide _Aree d'impiego:_ Oncologia _Pharma Company:_ Celgene _Vendite:_ 6,974 milioni di dollari
 
 _Patologie:_ trattamento del mieloma multiplo (un tumore che colpisce le plasmacellule, una componente molto importante del sistema immunitario), delle sindromi mielodisplastiche (malattie del sangue causate dal danneggiamento di una delle cellule staminali presenti all'interno del midollo osseo_) _e del linfoma mantellare ( una rara malattia del sangue che origina nel sistema linfatico caratterizzata dalla crescita incontrollata di linfociti B), tutte patologie che colpiscono i globuli rossi e il midollo osseo.
 
@@ -109,7 +110,7 @@ _Meccanismo d'azione:_ Lenalidomide, è un agente immunomodulante. Ciò signific
 
 ### **7. AVASTIN**
 
-_![Avastin.jpg](https://silviavernotico.files.wordpress.com/2017/06/avastin.jpg)Principio attivo:_ Bevacizumab _Aree d'impiego:_ Oncologia _Pharma Company:_ Roche _Vendite:_ 6,715 milioni di dollari
+_![Avastin.jpg](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/avastin.jpg)Principio attivo:_ Bevacizumab _Aree d'impiego:_ Oncologia _Pharma Company:_ Roche _Vendite:_ 6,715 milioni di dollari
 
 _Patologie:_ carcinoma del colon o del retto metastatico, in combinazione con medicinali chemioterapici tra cui una “fluoropimiridina”; carcinoma metastatico della mammella, in combinazione con paclitaxel o capecitabina; tumore non a piccole cellule del polmone in stadio avanzato, metastatico o ricorrente, che non può essere rimosso chirurgicamente; carcinoma renale avanzato o metastatico, in combinazione con interferone alfa-2a; tumore epiteliale delle ovaie, tumore delle tube di Falloppio (una parte del sistema riproduttivo femminile che collega le ovaie all’utero) o del peritoneo (la membrana che riveste la cavità tumore della cervice) persistente, ricorrente o metastatico.
 
@@ -119,7 +120,7 @@ _Meccanismo d'azione:_ Bevacizumab è un anticorpo monoclonale, cioè un antic
 
 ### 8. HERCEPTIN
 
-_![herceptin.jpg](https://silviavernotico.files.wordpress.com/2017/06/herceptin.jpg)Principio attivo:_ Trastuzumab _Aree d'impiego:_ Oncologia _Pharma Company:_ Roche _Vendite:_ 6,714 milioni di dollari
+_![herceptin.jpg](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/herceptin.jpg)Principio attivo:_ Trastuzumab _Aree d'impiego:_ Oncologia _Pharma Company:_ Roche _Vendite:_ 6,714 milioni di dollari
 
 _Patologie:_ carcinoma mammario in fase iniziale dopo intervento chirurgico, chemioterapia e radioterapia; carcinoma mammario metastatico. Quando usato come infusione endovenosa, Herceptin può anche essere usato per: tumore metastatico gastrico, in associazione con cisplatino e capecitabina o 5-fluorouracile (altri medicinali antitumorali).
 
@@ -129,7 +130,7 @@ _Meccanismo d'azione:_ Trastuzumab, è un anticorpo monoclonale concepito per r
 
 ### 9. LANTUS
 
-_![lantus.jpg](https://silviavernotico.files.wordpress.com/2017/06/lantus.jpg)Principio attivo:_ Insulina Glargine _Aree d'impiego:_ Diabete _Pharma Company:_ Sanofi _Vendite:_ 6,057 milioni di dollari
+_![lantus.jpg](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/lantus.jpg)Principio attivo:_ Insulina Glargine _Aree d'impiego:_ Diabete _Pharma Company:_ Sanofi _Vendite:_ 6,057 milioni di dollari
 
 _Patologie:_ Trattamento del diabete mellito tipo 1 (una forma di diabete, una malattia autoimmune, caratterizzata dalla distruzione delle cellule β pancreatiche) in adulti, adolescenti e bambini a partire dai 2 anni di età; trattamento di pazienti adulti con diabete mellito tipo 2 (una malattia metabolica, caratterizzata da glicemia alta che si differenzia dal diabete mellito di tipo 1, in quanto vi è una carenza assoluta di insulina a causa della distruzione delle Isole di Langerhans del pancreas, modulatori nella attività di secrezione di diversi ormoni atti a regolare la glicemia) che necessitano un trattamento insulinico per il controllo della glicemia.
 
@@ -137,7 +138,7 @@ _Meccanismo d'azione:_ L'insulina è un ormone prodotto dal pancreas, esattamen
 
 ### 10. PREVENAR 13
 
-_![prevenar13.gif](https://silviavernotico.files.wordpress.com/2017/06/prevenar13.gif)Principio attivo:_ Pneumococcal 13-Valent Conjugate _Aree d'impiego:_ Antibatterico _Pharma Company:_ Pfizer _Vendite:_ 5,718 milioni di dollari
+_![prevenar13.gif](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/prevenar13.gif)Principio attivo:_ Pneumococcal 13-Valent Conjugate _Aree d'impiego:_ Antibatterico _Pharma Company:_ Pfizer _Vendite:_ 5,718 milioni di dollari
 
 _Patologie:_ Prevenar è indicato per la vaccinazione dei lattanti e dei bambini dai due mesi ai cinque anni contro le malattie causate dallo _S. pneumoniae. _Tali patologie comprendono_: _sepsi (infezione del sangue), meningite (infiammazione delle membrane che circondano il cervello e il midollo spinale), polmonite (infiammazione dei polmoni), otite media (infiammazione dell'orecchio medio) e batteriemia (presenza di batteri nel sangue).
 

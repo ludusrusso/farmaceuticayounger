@@ -1,7 +1,8 @@
 ---
 title: 'La TOP 10 del Pharma "Made in Italy"'
-date: Sun, 19 Mar 2017 22:47:08 +0000
+date: 2017-03-19T22:47:08+00:00
 draft: false
+image: /img/la-top-10-del-pharma-made-in-italy.md/menarini.jpg
 tags: [Farmaceutica]
 ---
 
@@ -17,7 +18,7 @@ In questo articolo volevo focalizzarmi su quel 40% delle Aziende Farmaceutiche c
 
 Menarini è il primo Gruppo Farmaceutico italiano nel mondo, presente con i suoi 15 stabilimenti produttivi a: Firenze (Firenze-Sette Santi e Fienze-Scandicci, sede centrale), Pisa, Lomagna, Casaletto Lodigiano,L'Aquila, Badalona (Barcellona), Berlino, Dresda Shannon, Topkapi - Istanbul, Wuhan (Cina), Giacarta,Kaluga (Russia) e Città del Guatemala. 
 
-![Menarini.jpg](https://silviavernotico.files.wordpress.com/2017/03/menarini.jpg)
+![Menarini.jpg](/img/la-top-10-del-pharma-made-in-italy.md/menarini.jpg)
 
 La sua nascita risale al lontano **1886**, quando Archimede Menarini aprì a Napoli il piccolo laboratorio della Farmacia Internazionale. Successivamente spostato a Firenze, oggi ha assunto, in seguito a numerosi investimenti ed acquisizioni in tutto il mondo le dimensioni di una vera e propria "Big Pharma".
 
@@ -31,7 +32,7 @@ Seconda per fatturato, dietro solo a Menarini, la Chiesi è un’azienda nata a 
 
 ### BRACCO
 
-![Bracco.png](https://silviavernotico.files.wordpress.com/2017/03/bracco1.png)
+![Bracco.png](/img/la-top-10-del-pharma-made-in-italy.md/bracco1.png)
 
 Al terzo posto si piazza la Bracco, azienda milanese fondata nel **1927** da Elio Bracco. Nata con il nome di _Società Italiana Prodotti E. Merck_, aveva per oggetto la fabbricazione, la confezione e la compravendita dei prodotti chimici della tedesca _E. Merck_. Successivamente con l'ingresso in azienda del figlio Fulvio Bracco e il concomitante ingresso sui mercati del _Cebion, la _società inizia ad assumere numeri più importanti fino a quando nel 1949 viene costruito il grande **impianto di Lambrate** che occuperà una superficie di 50.000 mq, di cui 30.000 coperti che avrebbero ospitato la produzione e i nuovi laboratori di ricerca, gestiti dal professor Ernst Felder (uno dei principali referenti scientifici per l’azienda) che lavora soprattutto sulla chemioterapia e **sui mezzi di contrasto per la diagnostica radiologica.**
 
@@ -61,7 +62,7 @@ Il marchio Angelini concentra i suoi stabilimenti in Italia: Ancona, Aprilia (
 
 ### ZAMBON
 
-![Schermata 2017-03-19 alle 23.37.39.png](https://silviavernotico.files.wordpress.com/2017/03/schermata-2017-03-19-alle-23-37-39.png)
+![Schermata 2017-03-19 alle 23.37.39.png](/img/la-top-10-del-pharma-made-in-italy.md/schermata-2017-03-19-alle-23-37-39.png)
 
 Quartultimo posto per il gruppo Zambon, fondato nel **1906** da Gaetano Zambon e il suo socio Silvio Farina a Vicenza con il nome di "Magazzino medicinali Zambon". Con il distacco dalla società del ramo dei Farina negli anni cinquanta, la gestione dell'attività passa ad Alberto Zambon. Nel 1959, con lui la società assume la ragione sociale _Zambon SpA_ e si apre ai mercati esteri.
 
@@ -85,7 +86,7 @@ A pari merito con Italfarmaco, troviamo l'azienda leader in Italia per la raccol
 
 ### DOMPE'
 
-![Dompè.jpg](https://silviavernotico.files.wordpress.com/2017/03/dompc3a81.jpg)
+![Dompè.jpg](/img/la-top-10-del-pharma-made-in-italy.md/dompc3a81.jpg)
 
 _Least but not last,_ la biotecnologica Dompè, che vanta una storia non da poco. E' il **1853** quando Gian Antonio Dompé, apre una bottega di speziale in Piazza della Scala a Milano. Bisogna attendere il 1940 quando Franco Dompé, convertendo l’operato del padre in un’attività industriale vera e propria, costituisce Dompé farmaceutici nella sede che tuttora ospita gli uffici centrali dell’Azienda.
 

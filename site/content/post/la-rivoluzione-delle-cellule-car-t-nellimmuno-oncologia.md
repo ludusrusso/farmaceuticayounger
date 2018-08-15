@@ -1,7 +1,8 @@
 ---
 title: 'La rivoluzione delle cellule CAR-T nell''Immuno-Oncologia'
-date: Wed, 20 Sep 2017 15:08:21 +0000
+date: 2017-09-20T15:08:21+00:00
 draft: false
+image: /img/la-rivoluzione-delle-cellule-car-t-nellimmuno-oncologia.md/0031kymriah2.jpg
 tags: [Farmaceutica]
 ---
 
@@ -9,7 +10,7 @@ Tre sono le Big Pharma che sul panorama mondiale stanno sfidando il tempo nella 
 
 Ripercorriamo insieme, nell'attesa dei nuovi sempre più promettenti risultati nel campo, l'evento che ha fatto la storia nel campo della terapia genica immuno-oncologica...
 
-![0031kymriah.jpg](https://silviavernotico.files.wordpress.com/2017/09/0031kymriah2.jpg)  
+![0031kymriah.jpg](/img/la-rivoluzione-delle-cellule-car-t-nellimmuno-oncologia.md/0031kymriah2.jpg)  
 
 20 Agosto 2017: un momento “**storico**” come lo definisce la stessa Fda dalle parole del suo commissario **Scott Gottlieb **_"We’re entering a new frontier in medical innovation with the ability to reprogram a patient’s own cells to attack a deadly cancer."_
 
@@ -17,7 +18,7 @@ Ripercorriamo insieme, nell'attesa dei nuovi sempre più promettenti risultati n
 
 L'Fda con oltre un mese di anticipo rispetto ai tempi canonici ha approvato il farmaco _tisagenlecleucel_ per pazienti pediatrici e giovani adulti (under 25) colpiti da forme molto gravi e incurabili di _leucemia linfoblastica acuta_ (ALL) da cellule B. Si tratta della prima terapia  genica a base di CAR-T cell approvata a livello mondiale. Sviluppato da Novartis, il farmaco innovativo porta il nome di **Kymriah**.
 
-**Ma cosa sono le CAR-T cell?** Innanzitutto l'acronimo CAR-T sta per _“Chimeric Antigen Receptor T cell”_.![CAR-T-cell-therapy-cancer-Novartis-Kymriah-CTL019.png](https://silviavernotico.files.wordpress.com/2017/09/car-t-cell-therapy-cancer-novartis-kymriah-ctl019.png?w=469)
+**Ma cosa sono le CAR-T cell?** Innanzitutto l'acronimo CAR-T sta per _“Chimeric Antigen Receptor T cell”_.![CAR-T-cell-therapy-cancer-Novartis-Kymriah-CTL019.png](/img/la-rivoluzione-delle-cellule-car-t-nellimmuno-oncologia.md/car-t-cell-therapy-cancer-novartis-kymriah-ctl019.png?w=469)
 
 Si tratta di recettori "artificiali" che vengono "posizionati" sulle cellule T del paziente. Questi recettori speciali consentono alle cellule T di riconoscere e attaccare un antigene specifico (**_CD19_**) presente sulla superficie delle cellule tumorali. Una volta che le cellule T, prelevate dal paziente, sono state ingegnerizzate per esprimere lo specifico antigene CAR (**CTL019**), vengono "moltiplicate" in laboratorio. Il passaggio finale prevede l'infusione delle cellule CAR-T nel paziente. Le cellule così ingegnerizzate si moltiplicano ulteriormente nel corpo del paziente e, sotto la guida del loro recettore, riconoscono e uccidono le cellule tumorali che portano l'antigene specifico CD19 sulla loro superficie. Il vettore scelto per il trasporto del genoma contenente le istruzioni per l’espressione della proteina CAR è un particolare virus, il lentivirus. Questo approccio, essendo basato sull’utilizzo di cellule proprie del paziente, minimizza al massimo l’eventualità di rigetto.
 
