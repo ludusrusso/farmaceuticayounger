@@ -5,7 +5,7 @@ draft: false
 tags: [chimicafarmaceutica, dompè, farmaceuticayounger, hotthisweek, medicina, montalcini, ngf, science]
 ---
 
-![IMG_0462.JPG](https://silviavernotico.files.wordpress.com/2018/02/img_04621.jpg)L’Aifa ha infatti autorizzato la vendita dell’**Oxervate**, nome commerciale del cenegermin (principio attivo), che verrà prodotto nello stabilimento **Dompè** dell’Aquila. L’oxervate, sotto forma di collirio, è destinato al trattamento della cheratite neurotrofica moderata o grave, una malattia rara e invalidante dell’occhio che fino ad ora era priva di qualsiasi cura. **Si tratta infatti del primo farmaco orfano biotecnologico al mondo autorizzato per questa indicazione, disponibile anche in Italia.**
+![IMG_0462.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-36.md/img_04621.jpg)L’Aifa ha infatti autorizzato la vendita dell’**Oxervate**, nome commerciale del cenegermin (principio attivo), che verrà prodotto nello stabilimento **Dompè** dell’Aquila. L’oxervate, sotto forma di collirio, è destinato al trattamento della cheratite neurotrofica moderata o grave, una malattia rara e invalidante dell’occhio che fino ad ora era priva di qualsiasi cura. **Si tratta infatti del primo farmaco orfano biotecnologico al mondo autorizzato per questa indicazione, disponibile anche in Italia.**
 
 Il tutto nacque negli anni ’80 quando **Rita Levi Montalcini** scoprì il fattore di crescita dei neuroni, nerve growth factor (**Ngf**). Ricevette il Premio Nobel per la medicina a Stoccolma, insieme a un suo collaboratore, il biochimico statunitense Stanley Cohen. L’Ngf è una proteina solubile che stimola la crescita, il mantenimento e la sopravvivenza dei neuroni.
 

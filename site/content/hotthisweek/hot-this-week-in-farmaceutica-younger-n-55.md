@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_2416.JPG](https://silviavernotico.files.wordpress.com/2018/06/img_24161.jpg)
+![IMG_2416.JPG](/img/hot-this-week-in-farmaceutica-younger-n-55.md/img_24161.jpg)
 
 Un gruppo di ricercatori della _Cornell University_ ha sintetizzato una  **nanoparticella dodecaedria di silice sintetica, auto-assemblante con struttura a gabbia ("silicage"), di 10 nm di diametro che potrebbero fungere da trasportatore di farmaci o come agenti diagnostici**.
 

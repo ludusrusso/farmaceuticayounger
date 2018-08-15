@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![CFEAC1DA-A59E-42C9-8B48-8308D113919D.png](https://silviavernotico.files.wordpress.com/2018/03/cfeac1da-a59e-42c9-8b48-8308d113919d.png?w=802)
+![CFEAC1DA-A59E-42C9-8B48-8308D113919D.png](/img/hot-this-week-in-pharmaceutical-chemistry-n-40.md/cfeac1da-a59e-42c9-8b48-8308d113919d.png?w=802)
 
 Il 22 Febbraio 2018 il CHMP, il Comitato per i medicinali per uso umano dell’European Medicines Agency (EMA) ha dato il suo parere positivo al primo farmaco per il trattamento del diabete neonatale, Amglidia (glibenclamide). La molecola attiva del farmaco Amglidia, la glibenclamide è una sulfonilurea che agisce stimolando il rilascio di insulina dalle cellule beta pancreatiche inibendo i canali del potassio ATP-dipendenti.
 

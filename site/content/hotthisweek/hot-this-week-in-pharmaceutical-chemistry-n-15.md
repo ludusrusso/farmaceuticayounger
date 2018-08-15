@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_2958.JPG](https://silviavernotico.files.wordpress.com/2017/09/img_2958.jpg)
+![IMG_2958.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-15.md/img_2958.jpg)
 
 L'osteoporosi è una malattia metabolica che provoca la progressiva perdita di massa ossea; come risultato, l'architettura scheletrica è compromessa e le ossa divengono fragili e più soggette a fratture. Rappresenta un problema di salute globale che interessa una su tre donne e uno su cinque uomini in tutto il mondo.
 

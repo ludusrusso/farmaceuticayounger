@@ -5,7 +5,7 @@ draft: false
 tags: [brain, farmaceuticayounger, glia, hotthisweek, medicina, mielina, science, sclerosi multipla, università]
 ---
 
-![45F2889B-266F-46D1-A0DB-24E71A4FCAD4.PNG](https://silviavernotico.files.wordpress.com/2018/02/45f2889b-266f-46d1-a0db-24e71a4fcad4.png?w=406)
+![45F2889B-266F-46D1-A0DB-24E71A4FCAD4.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-39.md/45f2889b-266f-46d1-a0db-24e71a4fcad4.png?w=406)
 
 Un gruppo di ricercatori del Centro Cardiologico Monzino, dell'Istituto Scientifico San Raffaele e dell'Università di Ulm in Germania coordinati dall’Università Statale di Milano hanno dimostrato per la prima volta che le cellule progenitori esprimenti il recettore GPR17 possono generare in vivo cellule mature mielinizzanti, solo in particolari condizioni. Se infatti, nel tessuto cerebrale sono presenti molecole proinfiammatorie in grande quantità, il processo di maturazione di queste cellule è completamente inibito. Lo studio dal titolo ["Differential local tissue permissiveness influences the final fate of GPR17‐expressing oligodendrocyte precursors in two distinct models of demyelination"](http://onlinelibrary.wiley.com/doi/10.1002/glia.23305/full) è stato pubblicato sulla rivista Glia.
 

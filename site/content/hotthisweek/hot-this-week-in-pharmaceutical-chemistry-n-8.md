@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-#hotthisweekinphchemistry ![IMG_2542 2.JPG](https://silviavernotico.files.wordpress.com/2017/07/img_2542-2.jpg)
+#hotthisweekinphchemistry ![IMG_2542 2.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-8.md/img_2542-2.jpg)
 
 Un recente studio, **_"TFH-derived dopamine accelerates productive synapses in germinal centres"_**, pubblicato su Nature e condotto dalla una ricercatrice italiana, la Dottoressa **Ilenia Papa**, dell'ANU,_ Australian National University,_ e suoi colleghi ha confermato per la prima volta che le cellule immunitarie umane rilasciano neurotrasmettitori tra cui la **dopamina**, svolgendo un ruolo cruciale nell'attivazione della risposta immunitaria.
 

@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![thumbnail_IMG_2112.jpg](https://silviavernotico.files.wordpress.com/2018/05/thumbnail_img_2112.jpg?w=290)
+![thumbnail_IMG_2112.jpg](/img/hot-this-week-in-farmaceutica-younger-n-51.md/thumbnail_img_2112.jpg?w=290)
 
 Il **Rhinovirus** è la causa dei comuni raffreddori e può portare a riacutizzazioni della malattia in pazienti che soffrono di asma, fibrosi cistica, broncopneumopatia cronica ostruttiva e altre malattie respiratorie. Attualmente non sono disponibili trattamenti specifici approvati per i virus, ma un nuovo studio pubblicato su [Nature Chemistry](http://www.nature.com/articles/s41557-018-0039-2.epdf?referrer_access_token=z9RS8LS1GUYU5YxcbWsP5tRgN0jAjWel9jnR3ZoTv0O1JluMLilDhiT946CzcOe8O2q8wQDQsDutO4h48wtJ5vQuVg1UzqdJIfe0wVuQPaoP74-C1D2-ILNCi0m6DxMWkg2zQhqAadAbn0sEleC6WmXFZIjWiR9z9UnLHTJkPJ5bNtPzUypblDZfvoJVZswcDK3nGVMtTnnWepd-ZBuG9XnJR3tgbqH-a66C0faASEUhVZ3sGswufxhwILcGrmdCNHFsLCH95QIBLNz-UDmAMg%3D%3D&tracking_referrer=www.wired.it) condotto dai ricercatori dell'_Imperial College di Londra_ ha ora identificato una piccola molecola, l'**IMP-1088**, capace di bloccare la riproduzione del rhinovirus inibendo un enzima umano chiamato **N-myristoyltransferasi** (NMT).
 

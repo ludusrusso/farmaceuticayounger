@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-#hotthisweekphchemistry ![IMG_2368.JPG](https://silviavernotico.files.wordpress.com/2017/07/img_2368.jpg?w=400)
+#hotthisweekphchemistry ![IMG_2368.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-4.md/img_2368.jpg?w=400)
 
 **La serotonina** o 5-idrossitriptamina (5-HT) è un neurotrasmettitore monoamminico che ha un'ampia distribuzione nel cervello. Fu scoperto da Erspamer ed Asero, due ricercatori italiani, negli anni '50. La 5-HT è sintetizzato in due fasi: in primo luogo, il triptofano viene convertito in 5-idrossitriptofano (5-HTP) dall'enzima TPH (triptofano idrossilasi); in secondo luogo, il prodotto intermedio, il 5-HTP, viene convertito in 5-HT mediante la decarboxilasi acida aromatica (AADC). La 5-HT è degradata principalmente dalla proteina Monoammina ossidasi A (MAOA) mitocondriale, che porta alla formazione del metabolita, acido 5-idrossiindoleacetico (5-HIAA). La serotonina è anche importante in quanto substrato per la sintesi della melatonina. LA 5-HT viene rilasciato dai terminali assonali dei neuroni serotoninergici e agisce su 14 sottotipi distinti di recettori classificati in 7 diverse famiglie: 5-HT1 (1A, 1B, 1D, 1E, 1F), 5-HT2 (2A, 2B, E 2C), 5-HT3, 5-HT4, 5-HT5 (5A, 5B), 5-HT6 e 5-HT7. Tra tutti questi recettori, solo il recettore 5-HT3 è un canale ionico pentamerico ligando-specifico. Tutti gli altri recettori 5-HT sono ricettori associati a proteine ​​G.
 

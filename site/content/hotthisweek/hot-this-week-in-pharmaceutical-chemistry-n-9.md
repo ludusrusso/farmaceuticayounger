@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-#hotthisweekinphchemistry ![IMG_2616.JPG](https://silviavernotico.files.wordpress.com/2017/07/img_2616.jpg)
+#hotthisweekinphchemistry ![IMG_2616.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-9.md/img_2616.jpg)
 
 Un gruppo di ricercatori dell' _Albert Einstein College of Medicine_ di New York, guidati da **Dongsheng Cai**, hanno pubblicato su Nature un articolo dal titolo "_Hypothalamic stem cells control ageing speed partly through exosomal miRNAs"_. La sorprendente scoperta ha messo in luce che le cellule staminali neurali sembrano contribuire ad un effetto anti-invecchiamento.
 

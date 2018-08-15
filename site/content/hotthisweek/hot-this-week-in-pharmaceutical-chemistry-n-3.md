@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_2345.JPG](https://silviavernotico.files.wordpress.com/2017/07/img_2345.jpg) [#hotthisweekphchemistry](https://www.facebook.com/hashtag/hotthisweekphchemistry?source=feed_text&story_id=1364315293622760)
+![IMG_2345.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-3.md/img_2345.jpg) [#hotthisweekphchemistry](https://www.facebook.com/hashtag/hotthisweekphchemistry?source=feed_text&story_id=1364315293622760)
 
 I microbi presenti nei terreni agricoli ospitano abbondanti geni, peptidi e enzimi, mai identificati prima in patogeni umani, in grado di fornire resistenza agli antibiotici. Questo è quello che emerge da uno studio pubblicato il 16 giugno 2017 su "_Applied and Environmental Microbiology"_.
 

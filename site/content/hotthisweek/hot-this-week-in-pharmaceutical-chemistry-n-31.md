@@ -5,7 +5,7 @@ draft: false
 tags: [cnr, farmaceuticayounger, farmaci, hotthisweek, pnas, rotassano, science, unibo]
 ---
 
-![4DC8C264-2A4C-4442-97FA-D61E710DCB06.PNG](https://silviavernotico.files.wordpress.com/2017/12/4dc8c264-2a4c-4442-97fa-d61e710dcb06.png?w=347)
+![4DC8C264-2A4C-4442-97FA-D61E710DCB06.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-31.md/4dc8c264-2a4c-4442-97fa-d61e710dcb06.png?w=347)
 
 **Ermes**, come il messaggero delle divinità greche, questo è il nome dato dai ricercatori dell’**Università di Bologna** e del **CNR**, al nuovo sistema che è riuscito per la prima volta a mettere in comunicazione parti lontane di una molecola. Lo studio dal titolo ["Remote electrochemical modulation of pKa in a rotaxane by co-conformational allostery"](http://www.pnas.org/content/early/2017/12/15/1712783115) è stato pubblicato sulla prestigiosa rivista **PNAS** (Proceedings of the National Academy of Sciences)
 

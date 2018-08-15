@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_1838.JPG](https://silviavernotico.files.wordpress.com/2018/04/img_1838.jpg)
+![IMG_1838.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-47.md/img_1838.jpg)
 
 È stata osservata dai **ricercatori del Garvan Institute for Medical Research di Sydney la struttura inedita del DNA**, denominata "**i-motif**", che appare come un nodo intrecciato di quattro filamenti. La ricerca, intitolata "[I-motif DNA structures are formed in the nuclei of human cells](https://www.nature.com/articles/s41557-018-0046-3)", è stata pubblicata su _Nature Chemistry _a 65 anni dalla scoperta della struttura a doppia elica.
 

@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_2546.JPG](https://silviavernotico.files.wordpress.com/2018/07/img_2546.jpg)
+![IMG_2546.JPG](/img/hot-this-week-in-farmaceutica-younger-n-57.md/img_2546.jpg)
 
 I ricercatori della **_Ferring Pharmaceuticals_ hanno sviluppato una formulazione termostabile della carbetocina** (stabile in condizioni climatiche ICH IV, 30 ° C e 75% RH, per almeno 3 anni e a temperature estreme, come 60 ° C, per periodi di tempo più brevi), **un analogo dell'ossitocina in grado di resistere a temperature superiori a quelle del suo analogo**. La nuova formulazione altamente stabile faciliterebbe la distribuzione nei paesi dove è difficile mantenere la distribuzione della catena del freddo e potrebbe essere utilizzato nella prevenzione del sanguinamento eccessivo in seguito ad un parto naturale.
 

@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_2326.JPG](https://silviavernotico.files.wordpress.com/2018/06/img_2326.jpg)
+![IMG_2326.JPG](/img/hot-this-week-in-farmaceutica-younger-n-53.md/img_2326.jpg)
 
 La **capsaicina**, il composto che dà al peperoncino la sua caratteristica piccantezza, nonostante sia una vecchia molecola, è ancora un argomento caldo nella comunità scientifica, e lo sviluppo di nuovi capsaicinoidi è tutt'oggi un p**romettente approccio farmacologico nella gestione dei disturbi della pelle legati all'infiammazione e al prurito. **Ma la capsaicina e alcuni dei suoi derivati ​​possono avere effetti collaterali preoccupanti, quali la forte sensazione di calore, correlata alla sua tipica piccantezza.
 

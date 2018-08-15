@@ -5,7 +5,7 @@ draft: false
 tags: [embrace, empatica, epilessia, farmaceuticayounger, hotthisweek, medicina, science]
 ---
 
-![585DB60B-E5C1-4E3E-93FD-BDEE9C2F9780.PNG](https://silviavernotico.files.wordpress.com/2018/02/585db60b-e5c1-4e3e-93fd-bdee9c2f9780.png?w=361)
+![585DB60B-E5C1-4E3E-93FD-BDEE9C2F9780.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-37.md/585db60b-e5c1-4e3e-93fd-bdee9c2f9780.png?w=361)
 
 La Food and Drug Administration ha dato il suo parere positivo per **Embrace**, il braccialetto “intelligente” pensato per i soggetti che soffrono di **epilessia**, prodotto da **Empatica**, una società italiana con sede in America, spin-off del MIT Media Lab.
 

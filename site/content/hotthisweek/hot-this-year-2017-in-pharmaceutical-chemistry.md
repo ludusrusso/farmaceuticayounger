@@ -3,13 +3,14 @@ title: 'HOT THIS YEAR 2017 In Pharmaceutical Chemistry'
 date: Sun, 31 Dec 2017 12:11:23 +0000
 draft: false
 tags: [chimicafarmaceutica, farmaceuticayounger, hotthisweek, radio, ricerca, scienza, università]
+image: /img/hot-this-year-2017-in-pharmaceutical-chemistry.md/img_4174.jpg
 ---
 
 E' stato, quello che si appresta a salutarci, il 2017 un anno ricco di scoperte emozionanti sul piano della Farmaceutica mondiale che hanno visto nel più dei casi la partecipazione dei nostri ricercatori italiani. Ripercorriamo insieme quelle che sono state le innovazioni portate nel campo.
 
 **Clicca sul link per scaricare la " [HOT THIS YEAR 2017](https://silviavernotico.files.wordpress.com/2017/12/hot-this-year-20171.pdf "HOT THIS YEAR 2017") ", la carrellata delle più importanti scoperte del panorama farmaceutico in formato pdf.**
 
-![IMG_4174.JPG](https://silviavernotico.files.wordpress.com/2017/12/img_4174.jpg)
+![IMG_4174.JPG](/img/hot-this-year-2017-in-pharmaceutical-chemistry.md/img_4174.jpg)
 
 Tra le scoperte più importanti certamente vi è quella che vede protagonista uno dei neurotrasmettitori più conosciuti, **[la dopamina](https://silviavernotico.wordpress.com/2017/07/23/hot-this-week-in-pharmaceutical-chemistry-n-8/)**, _che secondo uno studio pubblicato su Nature e condotto da ricercatori italiani dell’ANU (Australian National University) svolgerebbe un ruolo cruciale nell’attivazione della risposta immunitaria._ Continuando sul filone della ricerca italiana, uno studio che arriva da Torino, più precisamente dal team di _ricercatori di «Novaicos», una spin-off nata dall’Università del Piemonte Orientale (UPO) e dall’Ateneo di Torino, che hanno brevettato una nuova molecola, [ICOS-Fc](https://silviavernotico.wordpress.com/2017/08/13/hot-this-week-in-pharmaceutical-chemistry-n-12/), utile nel trattamento dell’osteoporosi, nel controllo delle lesioni ossee secondarie a tumori solidi o a mieloma multiplo._ Da nord a sud, scendiamo alle pendici del Vesuvio, dove **u**_n gruppo di ricercatori del Dipartimento di Farmacia dell’Università Federico II di Napoli hanno scoperto che l’assunzione per via orale di una formulazione a base del complesso procianidinico della Mela Annurca Igp ([AppleMetS hair](https://silviavernotico.wordpress.com/2017/09/09/hot-this-week-in-pharmaceutical-chemistry-n-16/)), originaria della regione Campania, è in grado di garantire effetti benefici sulla crescita ed il trofismo dei capelli, nella lotta contro la calvizie._ Risalendo di non molto la nostra Penisola facciamo tappa a Firenze dove un team di _scienziati italiani del Dipartimento di Scienze Dermatologiche dell’Università degli Studi di Firenze ha scoperto che il [propranololo](https://silviavernotico.wordpress.com/2017/10/08/hot-this-week-in-pharmaceutical-chemistry-n-20/), un farmaco ‘low cost’, un betabloccante comunemente usato da anni come antipertensivo potrebbe rallentare la crescita di un aggressivo tumore della pelle, il melanoma._
 

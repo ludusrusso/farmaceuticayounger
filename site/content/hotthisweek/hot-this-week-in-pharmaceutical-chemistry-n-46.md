@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_1810.JPG](https://silviavernotico.files.wordpress.com/2018/04/img_1810.jpg)
+![IMG_1810.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-46.md/img_1810.jpg)
 
 Il **tè verde** è una bevanda popolare dotata di benefici per la salute, tra i più importanti vi è la sua azione antiossidante. Recenti studi hanno messo in evidenza problemi epatici associati al consumo di prodotti a base di tè verde. Il tè verde è ricco di catechine, che sono antiossidanti; il più abbondante è il gallato di epigallocatechina (**epigallocatechina-3-gallato, EGCG**).
 

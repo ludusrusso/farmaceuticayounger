@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_2990 2.JPG](https://silviavernotico.files.wordpress.com/2017/09/img_2990-2.jpg)
+![IMG_2990 2.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-17.md/img_2990-2.jpg)
 
 Uno studio condotto dai ricercatori della Weill Cornell Medicine di New York, ha messo in luce come **le** **cellule nervose nell’intestino svolgono un ruolo cruciale nell'attivazione della risposta immunitaria nei confronti di una infezione**. Lo studio dal titolo _"The neuropeptide neuromedin U stimulates innate lymphoid cells and type 2 inflammation"_ è stato pubblicato il 6 settembre su _Nature_, e mostra come il sistema immunitario e il sistema nervoso si siano co-evoluti per rispondere a minacce infettive formando l'asse neurone-immunitario.
 

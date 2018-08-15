@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-#hotthisweekinphchemistry![IMG_2574.JPG](https://silviavernotico.files.wordpress.com/2017/07/img_2574.jpg)
+#hotthisweekinphchemistry![IMG_2574.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-7.md/img_2574.jpg)
 
 La sindrome della morte in culla, o sindrome di morte infantile improvvisa, in inglese _Sudden Infant Death Syndrome_ (SIDS), colpisce i bambini tra un mese e un anno di età. La sindrome di morte infantile improvvisa rappresenta la causa principale della mortalità postneonatale infantile, con un tasso complessivo di 0,40 morti SIDS per 1.000 nascite. La sua causa rimane tutt'oggi senza alcuna spiegazione, anche dopo l'indagine post-mortem.
 

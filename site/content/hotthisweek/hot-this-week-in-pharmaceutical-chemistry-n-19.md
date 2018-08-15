@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_3118.JPG](https://silviavernotico.files.wordpress.com/2017/10/img_3118.jpg)
+![IMG_3118.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-19.md/img_3118.jpg)
 
 Lo **Xantumolo (XN)** è un fitocomposto presente in discrete percentuali nel **luppolo**, l’ingrediente base della birra, dotato di proprietà anti-angiogeniche: è in grado cioè di contrastare la formazione di nuovi vasi sanguigni da parte del tumore e, in tal modo, gli impedisce l’approvvigionamento di nutrienti. L’azione anti-angiogenesi che rappresenta una delle più diffuse strategie terapeutiche anti-tumorali spesso viene affiancata alla chemioterapia.
 

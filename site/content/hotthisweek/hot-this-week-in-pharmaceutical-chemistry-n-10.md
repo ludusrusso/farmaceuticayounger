@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-#hotthisweekinphchemistry ![IMG_2618.JPG](https://silviavernotico.files.wordpress.com/2017/07/img_2618.jpg)
+#hotthisweekinphchemistry ![IMG_2618.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-10.md/img_2618.jpg)
 
 Un composto naturale presente in frutta e verdura, dalle fragole ai cetrioli, sembra fermare il processo di perdita della memoria legata alla**malattia di Alzheimer e altre malattie neurodegenerative.** Questo è quanto emerge da una nuovo studio pubblicato sul "_The Journals of Gerontology Series A"_ e condotto da **Pamela Maher** e dai ricercatori del _Salk Institute for Biological Studies_, California.
 

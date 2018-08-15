@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-#hotthisweekinphchemistry ![IMG_2683.JPG](https://silviavernotico.files.wordpress.com/2017/08/img_26831.jpg?w=494)
+#hotthisweekinphchemistry ![IMG_2683.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-11.md/img_26831.jpg?w=494)
 
 Alcuni studiosi dell’_Università Autonoma di Barcellona_, mentre stavano testando una nuova categoria di farmaci antitumorali hanno notato un sorprendente e del tutto non indesiderato effetto collaterale di questa nuova categoria. Con estrema sorpresa da parte dei ricercatori, dopo aver assunto questo nuovo farmaco, **i pazienti oncologici hanno recuperato la naturale pigmentazione dei capelli ormai ingrigiti dall’età**. In particolare, 14 persone con cancro al polmone delle 52 che hanno partecipato allo studio hanno potuto riscontrare un miglioramento notevole di questo aspetto, oltre che delle loro condizioni di salute.
 

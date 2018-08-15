@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_2373.JPG](https://silviavernotico.files.wordpress.com/2018/06/img_2373.jpg)
+![IMG_2373.JPG](/img/hot-this-week-in-farmaceutica-younger-n-54.md/img_2373.jpg)
 
 Un **team di ricercatori del Brigham and Women's Hospital di Boston** ha messo a punto una **formulazione orale a base di un complesso di alluminio ottasolfato di saccarosio** in grado di creare un rivestimento momentaneo sulle pareti dell’intestino tenue, il tratto dove avviene l’assorbimento di quasi tutte le sostanze nutritive **come potenziale sostituto del bypass gastrico**.
 

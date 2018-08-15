@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_2067.JPG](https://silviavernotico.files.wordpress.com/2018/05/img_2067.jpg?w=474)
+![IMG_2067.JPG](/img/hot-this-week-in-farmaceutica-younger-n-50.md/img_2067.jpg?w=474)
 
 **Novartis** ha annunciato che la Food and Drug Administration (FDA) ha approvato **Aimovig** (erenumab), un **nuovo farmaco costituito da un anticorpo monoclonale iniettabile per il trattamento preventivo dell'emicrania negli adulti.** Aimovig è il primo e unico trattamento approvato dalla FDA specificamente sviluppato per prevenire l'emicrania bloccando il recettore del peptide correlato al gene della calcitonina (**CGRP-R**), che si ritiene svolga un ruolo critico nell'emicrania. Aimovig 70 mg è auto-somministrato una volta al mese tramite il dispositivo di **Amgen**, l'autoiniettore _SureClick®_.
 

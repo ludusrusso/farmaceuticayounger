@@ -5,7 +5,7 @@ draft: false
 tags: [cuore, cupido, Farmaceutica, farmaceuticayounger, hotthisweek, nanofarmaci, science]
 ---
 
-![926F9455-5A16-49C7-A662-119338D6C193.PNG](https://silviavernotico.files.wordpress.com/2018/01/926f9455-5a16-49c7-a662-119338d6c193.png?w=312)
+![926F9455-5A16-49C7-A662-119338D6C193.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-34.md/926f9455-5a16-49c7-a662-119338d6c193.png?w=312)
 
 Un team di ricercatori italiani dell’**Istituto di ricerca genetica e biomedica (Irgb)** del Consiglio nazionale delle ricerche di Milano in collaborazione con i colleghi dell’I**stituto di scienza e tecnologia dei materiali ceramici (Istec) del Cnr** di Faenza ha sviluppato un inalante a base di nanoparticelle per il trattamento di persone affette da malattie cardiache. La ricerca vuole mimare il comportamento delle particelle inquinanti quando attaccano il sistema cardiocircolatorio ed è condotta nell’ambito del progetto europeo **‘Cupido’**, è pubblicata su _Science Translational Medicine_.
 

@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-[#hotthisweekphchemistry](https://www.facebook.com/hashtag/hotthisweekphchemistry?source=feed_text&story_id=1364315293622760) ![IMG_2319](https://silviavernotico.files.wordpress.com/2017/06/img_2319.jpg)
+[#hotthisweekphchemistry](https://www.facebook.com/hashtag/hotthisweekphchemistry?source=feed_text&story_id=1364315293622760) ![IMG_2319](/img/hot-this-week-in-pharmaceutical-chemistry-n-1.md/img_2319.jpg)
 
 I rapporti sociali sono vitali per gli esseri umani. La dimensione delle reti sociali che l'uomo è in grado di creare supera in modo significativo la rete che può essere mantenuta o creata da qualsiasi altro primate.
 

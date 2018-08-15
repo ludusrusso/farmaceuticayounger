@@ -5,7 +5,7 @@ draft: false
 tags: [clinicaltrial, Farmaceutica, farmaceuticayounger, federicoII, genetica, hotthisweek, mucopolisaccaridosi, napoli, science]
 ---
 
-![IMG_3464 2.JPG](https://silviavernotico.files.wordpress.com/2017/11/img_3464-2.jpg?w=338)
+![IMG_3464 2.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-26.md/img_3464-2.jpg?w=338)
 
 Per la prima volta al mondo è stata sperimentata al dipartimento di Pediatria del **Policlinico “Federico II” di Napoli** la terapia genica per **la mucopolisaccaridosi di tipo 6**, grazie ad una équipe medica diretta dal Dottor Alberto Auricchio con la collaborazione di Telethon.
 

@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![](https://silviavernotico.files.wordpress.com/2018/07/img_2744.jpg)Un team di ricercatori dell’_Università della Pensilvania_ ha messo a punto dei nanocarriers (**NCs**) che si ancorano ai globuli rossi (**RBCs**, red blood cells), in modo da sfruttare un loro passaggio nel circolo sanguigno per arrivare così all'organo bersaglio. I ricercatori li hanno soprannominati _red blood cell -hitchhiking_ (**RH**), ovvero "globuli rossi-autostop".
+![](/img/hot-this-week-in-farmaceutica-younger-n-60.md/img_2744.jpg)Un team di ricercatori dell’_Università della Pensilvania_ ha messo a punto dei nanocarriers (**NCs**) che si ancorano ai globuli rossi (**RBCs**, red blood cells), in modo da sfruttare un loro passaggio nel circolo sanguigno per arrivare così all'organo bersaglio. I ricercatori li hanno soprannominati _red blood cell -hitchhiking_ (**RH**), ovvero "globuli rossi-autostop".
 
 Per fare ciò i ricercatori hanno isolato i globuli rossi di topi mediante prelievo venoso e li hanno incubati con nanoparticelle, in modo da essere adsorbite sulla loro superficie. Successivamente il complesso così formato da globuli rossi con i nanocarriers adesi (**NC–RBC**) è stato iniettato nei topi attraverso cateteri arteriosi. Se così iniettati, i nanocarriers si accumulano nel primo organo che incontrano a valle del sito di iniezione. I ricercatori pensano che i capillari stretti possano causare il distacco dei nanocarries dalla superficie dei globuli rossi e il loro trasferimento alle cellule dell’organo che si trova in prossimità dei capillari. Spostando il catetere su diverse arterie, i ricercatori possono bersagliare selettivamente così diversi organi.
 

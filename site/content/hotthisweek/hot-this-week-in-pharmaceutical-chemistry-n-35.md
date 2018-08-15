@@ -5,7 +5,7 @@ draft: false
 tags: [acsnano, Farmaceutica, farmaceuticayounger, hotthisweek, iit, science]
 ---
 
-![70EC865E-9DBF-4FEF-94A0-72DC261186B1 2.PNG](https://silviavernotico.files.wordpress.com/2018/01/70ec865e-9dbf-4fef-94a0-72dc261186b1-2.png?w=340)
+![70EC865E-9DBF-4FEF-94A0-72DC261186B1 2.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-35.md/70ec865e-9dbf-4fef-94a0-72dc261186b1-2.png?w=340)
 
 I ricercatori dell'**Istituto Italiano di Tecnologia (Iit)** di Genova, grazie a un finanziamento del Consiglio Europeo della Ricerca (Erc) hanno messo a punto nanoparticelle progettate per viaggiare nel corpo umano, riconoscere le cellule di diverse forme di tumore e ucciderle, somministrando loro un farmaco. Descritte sulla rivista _ACS Nano_, le nanoparticelle sono state realizzate nell'ambito del progetto europeo Potent che ha come obiettivo utilizzare le nanoparticelle per la diagnosi precoce e la terapia del più aggressivo tumore del cervello, il glioblastoma multiforme.
 

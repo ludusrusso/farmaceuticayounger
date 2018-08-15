@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![2DE1F838-98E4-4FD3-8743-BA005785CE42](https://silviavernotico.files.wordpress.com/2018/03/2de1f838-98e4-4fd3-8743-ba005785ce42.png)
+![2DE1F838-98E4-4FD3-8743-BA005785CE42](/img/hot-this-week-in-pharmaceutical-chemistry-n-41.md/2de1f838-98e4-4fd3-8743-ba005785ce42.png)
 
 Un nuovo progetto intitolato ["Direct cell reprogramming therapy in myocardial regeneration through an engineered multifunctional platform integrating biochemical instructive cues"](http://www.researchers.polito.it/success_stories/progetti_erc_european_research_council/rigenerazione_del_miocardio_infartuato) è partito da ricercatrici del Politecnico di Torino e si è aggiudicato 2 milioni di euro per BIORECAR, un progetto europeo che mira a rigenerare le cellule del cuore dopo un infarto, ripristinando quindi nei tessuti cardiaci fibrotici la normale funzione contrattile, attraverso la riprogrammazione cellulare stimolata dall’iniezione di biomateriali in grado di rilasciare specifici fattori.
 

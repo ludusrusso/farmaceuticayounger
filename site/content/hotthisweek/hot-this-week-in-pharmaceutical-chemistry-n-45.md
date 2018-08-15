@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![409D95F2-A186-4F67-9EAA-F14D4F60F26C.PNG](https://silviavernotico.files.wordpress.com/2018/04/409d95f2-a186-4f67-9eaa-f14d4f60f26c.png?w=355)
+![409D95F2-A186-4F67-9EAA-F14D4F60F26C.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-45.md/409d95f2-a186-4f67-9eaa-f14d4f60f26c.png?w=355)
 
 **Un nuovo tipo di coniugato di sideromicina agisce come un cavallo di Troia molecolare: si insinua nei batteri gram-negativi**, dove gli stessi enzimi del batterio fanno in modo che vengano rilasciati gli antibiotici distruggendo dall’interno il batterio.
 

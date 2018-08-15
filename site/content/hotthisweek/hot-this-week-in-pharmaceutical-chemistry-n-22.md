@@ -5,7 +5,7 @@ draft: false
 tags: [car-t, farmaceuticayounger, gilead, hotthisweek, kitepharma, kymriah, linfoma, yescarta]
 ---
 
-![IMG_3262.JPG](https://silviavernotico.files.wordpress.com/2017/10/img_3262.jpg?w=332)
+![IMG_3262.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-22.md/img_3262.jpg?w=332)
 
 **Yescarta** (Axicabtagene Ciloleucel) è il secondo farmaco approvato dall'FDA che utilizza la promettente terapia genica con **CAR-T** cellule, dopo [Kymriah](https://silviavernotico.wordpress.com/2017/09/20/la-rivoluzione-delle-cellule-car-t-nellimmuno-oncologia/) (trattamento approvato il 20 Agosto 2017 per la cura della leucemia linfoblastica acuta resistente ai farmaci tradizionali, una neoplasia diffusa soprattutto tra i bambini) e il primo per la cura di soggetti adulti colpiti dal linfoma diffuso a grandi cellule B.
 

@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_3163.JPG](https://silviavernotico.files.wordpress.com/2017/10/img_3163.jpg?w=344)
+![IMG_3163.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-20.md/img_3163.jpg?w=344)
 
 Un team di scienziati italiani guidati dal Dott. Vincenzo De Giorgi del Dipartimento di Scienze Dermatologiche dell'Università degli Studi di Firenze ha scoperto che il propranololo, farmaco ‘low cost’, un betabloccante comunemente usato da anni come antipertensivo potrebbe rallentare la crescita di un aggressivo tumore della pelle, il melanoma.
 

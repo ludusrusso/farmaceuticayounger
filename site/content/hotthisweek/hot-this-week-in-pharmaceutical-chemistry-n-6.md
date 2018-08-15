@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-#hotthisweekinphchemistry[![](https://silviavernotico.files.wordpress.com/2017/07/img_2510.jpg)](https://silviavernotico.files.wordpress.com/2017/07/img_2510.jpg) Lo zafferano potrebbe avere un importante ruolo nella lotta ai tumori. Lo rivela uno studio coordinato da **Filippo Minutolo,** Professore associato di Chimica Farmaceutica  della Facoltà di Farmacia dell’Università di Pisa, che ha identificato il meccanismo con cui un metabolita attivo presente nello zafferano, la **crocetina**, riesce a ridurre l'aggressività delle cellule tumorali attraverso l'azione su un enzima-chiave nella glicolisi tumorale, la _lattato deidrogenasi_ (LDH), l'enzima il cui compito principale è quello di metabolizzare il glucosio per renderlo energia fruibile.
+#hotthisweekinphchemistry[![](/img/hot-this-week-in-pharmaceutical-chemistry-n-6.md/img_2510.jpg)](https://silviavernotico.files.wordpress.com/2017/07/img_2510.jpg) Lo zafferano potrebbe avere un importante ruolo nella lotta ai tumori. Lo rivela uno studio coordinato da **Filippo Minutolo,** Professore associato di Chimica Farmaceutica  della Facoltà di Farmacia dell’Università di Pisa, che ha identificato il meccanismo con cui un metabolita attivo presente nello zafferano, la **crocetina**, riesce a ridurre l'aggressività delle cellule tumorali attraverso l'azione su un enzima-chiave nella glicolisi tumorale, la _lattato deidrogenasi_ (LDH), l'enzima il cui compito principale è quello di metabolizzare il glucosio per renderlo energia fruibile.
 
 Il lavoro è stato pubblicato sul _Journal of Agricultural and Food Chemistry della American Chemical Society_.
 

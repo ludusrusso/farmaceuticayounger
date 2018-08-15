@@ -2,7 +2,7 @@
 {{ partial "profile" . }}
 
 <div class="post-preview-list">
-    {{ range  .Paginator.Pages.ByPublishDate }}
+    {{ range .Paginator.Pages.ByDate.Reverse }}
         {{ partial "post-preview" . }}
     {{ end }}
 </div>

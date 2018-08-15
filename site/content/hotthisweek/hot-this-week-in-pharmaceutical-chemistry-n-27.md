@@ -5,7 +5,7 @@ draft: false
 tags: [amsterdam, EMA, farmaceuticayounger, hotthisweek, milano, olanda]
 ---
 
-![969BEC55-B853-4E83-9910-9A4482B3EB12 2.PNG](https://silviavernotico.files.wordpress.com/2017/11/969bec55-b853-4e83-9910-9a4482b3eb12-2.png?w=340)
+![969BEC55-B853-4E83-9910-9A4482B3EB12 2.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-27.md/969bec55-b853-4e83-9910-9a4482b3eb12-2.png?w=340)
 
 Amsterdam sarà la nuova casa dell'Ema dopo aver vinto al sorteggio finale con Milano. Milano ha vinto i primi due turni di votazioni, rispettivamente con 25 e 12 voti, ed ha pareggiato il terzo con la capitale olandese (13 voti ciascuna). Fondamentale è stata l’astensione della Slovacchia. Gli oltre **800 dipendenti** dell’Agenzia europea dei medicinali possono da oggi attivarsi per cercar casa in Olanda, e il paese dei tulipani godrà del **ricco indotto economico** portato dalle attività di Ema, stimato in 1,7 miliardi di euro l’anno.
 

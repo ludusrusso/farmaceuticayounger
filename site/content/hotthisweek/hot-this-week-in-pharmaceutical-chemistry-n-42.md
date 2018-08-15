@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![20E4C2B7-A9CC-4E97-896D-DFEDA45BAFF7 2.PNG](https://silviavernotico.files.wordpress.com/2018/03/20e4c2b7-a9cc-4e97-896d-dfeda45baff7-2.png?w=338)
+![20E4C2B7-A9CC-4E97-896D-DFEDA45BAFF7 2.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-42.md/20e4c2b7-a9cc-4e97-896d-dfeda45baff7-2.png?w=338)
 
 Le cellule ossee dell’_Università Bari_ verranno mandate nello spazio dove saranno trattate con la molecola **Irisina** che, stando agli studi del gruppo coordinato da Maria Grano, ordinario di istologia presso la scuola di Medicina dell'Ateneo barese, sarebbe **potenzialmente capace di prevenire e curare l’osteoporosi e l’atrofia muscolare.**
 

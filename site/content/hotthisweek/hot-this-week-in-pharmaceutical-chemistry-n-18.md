@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![](https://silviavernotico.files.wordpress.com/2017/09/copypasteimage-1.jpg)
+![](/img/hot-this-week-in-pharmaceutical-chemistry-n-18.md/copypasteimage-1.jpg)
 
 Un recente articolo pubblicato su _Nature Communication_ che porta il titolo di _“Micromotor-enabled active drug delivery for in vivo treatment of stomach infection”_ condotto da ricercatori della _UC San Diego Jacobs School of Engineering in California_, descrive l’utilizzo di un nuovo metodo per il trattamento di infezione da **Helicobacter pylori** dello stomaco.
 

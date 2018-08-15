@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek, humanitas, mantovani, milano, natural killer, nature, ricerca, tumori]
 ---
 
-![IMG_3290.JPG](https://silviavernotico.files.wordpress.com/2017/10/img_3290.jpg)
+![IMG_3290.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-23.md/img_3290.jpg)
 
 Uno nuovo studio italiano, pubblicato sulla rivista **Nature** con il titolo _"IL-1R8 is a checkpoint in NK cells regulating anti-tumour and anti-viral activity"_ diretto e coordinato dai ricercatori dell'Humanitas di Rozzano, svela il ruolo anticancro di **IL-1R8, il nuovo freno dell’immunità coinvolto nello sviluppo tumorale.** L'IL-1R8 fu scoperto nel 1998 come gene dallo stesso team di ricerca italiana che oggi ne ha identificato il ruolo anticancro, di cui è stato dimostrata oggi la sua azione di mediatore della resistenza contro tumori e metastasi, in particolare al fegato e al polmone, bloccandone lo sviluppo.
 

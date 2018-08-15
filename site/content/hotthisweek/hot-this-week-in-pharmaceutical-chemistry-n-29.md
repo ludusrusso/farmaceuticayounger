@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![154AEBE6-D615-474F-A961-50DE1410B805.PNG](https://silviavernotico.files.wordpress.com/2017/12/154aebe6-d615-474f-a961-50de1410b805.png?w=350)
+![154AEBE6-D615-474F-A961-50DE1410B805.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-29.md/154aebe6-d615-474f-a961-50de1410b805.png?w=350)
 
 Gli scienziati californiani del **_The Scripps Research Institute_ (TSRI)** nel loro lavoro pubblicato sulla rivista _Nature Chemical Biology_ dal titolo ["](https://www.nature.com/articles/nchembio.2517?WT.feed_name=subjects_neuroscience)[Metabolomics-based discovery of a metabolite that enhances oligodendrocyte maturation" ](https://www.nature.com/articles/nchembio.2517?WT.feed_name=subjects_neuroscience)hanno evidenziato come la **taurina**, una molecola prodotta naturalmente dalle cellule umane, aiuti a stimolare la rimielinizzazione, un processo cruciale per riparare le cellule nervose danneggiate nella patologia della **sclerosi multipla** (SM). La sclerosi multipla è una malattia autoimmune che si sviluppa quando il corpo inizia ad attaccare le guaine mieliniche protettive sulle cellule nervose. Senza guaine mieliniche sane, le cellule nervose non possono comunicare correttamente e i pazienti presentano sintomi quali intorpidimento, difficoltà a camminare, disturbi della parola e perdita della vista.
 

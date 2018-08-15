@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![](https://silviavernotico.files.wordpress.com/2018/07/img_2595.jpg)
+![](/img/hot-this-week-in-farmaceutica-younger-n-58.md/img_2595.jpg)
 
 Un nuovo studio condotto dai ricercatori dell'istituto no-profit _TropIQ Health Sciences_ e del _California Institute for Research_ rivela che due farmaci veterinari, **fluralaner** (Bravecto) e **afoxolaner** (NexGard), normalmente utilizzati per proteggere i cani da pulci e zecche potrebbero trovare un **nuovo impiego come farmaci orali per uso umano per uccidere le zanzare responsabili della diffusione di malattie infettive quali Zika e Malaria.**
 

@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-#hotthisweekinphchemistry ![Adobe Spark.jpg](https://silviavernotico.files.wordpress.com/2017/08/adobe-spark.jpg?w=509)
+#hotthisweekinphchemistry ![Adobe Spark.jpg](/img/hot-this-week-in-pharmaceutical-chemistry-n-13.md/adobe-spark.jpg?w=509)
 
 La **psoriasi** è una malattia infiammatoria cronica della pelle, caratterizzata dalla comparsa di papule e placche. La psoriasi viene riscontrata nel 2-3% della popolazione globale. Le cause alla base della patologia non sono ancora del tutto chiare, ma si ritiene che la componente genetica ed immunologica abbiano un ruolo fondamentale. Attualmente sono due le ipotesi principali inerenti al processo che si verifica nello sviluppo della malattia. La prima ipotesi considera la psoriasi come un disturbo di eccessiva crescita e riproduzione dei cheratinociti, le cellule della pelle. La seconda ipotesi prevede il coinvolgimento dei linfociti T, cellule fondamentali nella immunità cellulo-mediata, che si attivano e migrano verso il derma, innescando il rilascio di citochine (in particolare il fattore di necrosi tumorale-alfa TNF-α) che a loro volta causano infiammazione e riproduzione rapida di cellule della pelle. I trattamenti sistemici e topici disponibili attualmente per la psoriasi, sono limitati ad alleviare i sintomi e spesso causano effetti collaterali.
 

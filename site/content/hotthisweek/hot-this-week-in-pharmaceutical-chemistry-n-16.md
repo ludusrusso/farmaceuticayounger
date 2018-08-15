@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![IMG_2986.JPG](https://silviavernotico.files.wordpress.com/2017/09/img_2986.jpg)
+![IMG_2986.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-16.md/img_2986.jpg)
 
 Valutando il contenuto polifenolico di differenti culture di mele, un gruppo di ricercatori del **Dipartimento di Farmacia dell'Università Federico II di Napoli** diretti dal suo Direttore _Ettore Novellino_, hanno scoperto che la varietà Annurca Igp, originaria della regione Campania, è caratterizzata dalla più elevata concentrazione di procianidine oligomeriche e, nello specifico, di **procianidina B2**, con effetti protettivi sulla caduta dei capelli, grazie alla sua azione sul microcircolo.
 

@@ -3,9 +3,10 @@ title: 'HOT THIS WEEK IN FARMACEUTICA YOUNGER N.61'
 date: Sun, 05 Aug 2018 08:05:36 +0000
 draft: false
 tags: [hotthisweek]
+image: /img/hot-this-week-in-farmaceutica-younger-n-61.md/img_2861.jpg
 ---
 
-![](https://silviavernotico.files.wordpress.com/2018/08/img_2861.jpg)
+![](/img/hot-this-week-in-farmaceutica-younger-n-61.md/img_2861.jpg)
 
 Uno studio realizzato dall’**Istituto di Ricerche Farmacologiche Mario Negri IRCCS** di Milano, pubblicato sulla prestigiosa rivista scientifica _Brain_, ha dimostrato che **il trauma cranico induce la formazione di una forma anomala della proteina tau che si propaga nel cervello causando perdita di memoria e danni ai neuroni**.
 

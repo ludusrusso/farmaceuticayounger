@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-[#hotthisweekphchemistry](https://www.facebook.com/hashtag/hotthisweekphchemistry?source=feed_text&story_id=1364315293622760) ![IMG_2317](https://silviavernotico.files.wordpress.com/2017/06/img_2317.jpg)
+[#hotthisweekphchemistry](https://www.facebook.com/hashtag/hotthisweekphchemistry?source=feed_text&story_id=1364315293622760) ![IMG_2317](/img/hot-this-week-in-pharmaceutical-chemistry-n-2.md/img_2317.jpg)
 
 Le Malattie Neurodegenerative, come la malattia di Alzheimer e il Parkinson, sono patologie croniche degenerative del Sistema Nervoso Centrale. Sono caratterizzate da una progressiva perdita di neuroni specifici che conducono di conseguenza ad un calo delle funzioni cerebrali. Nonostante le patologie cliniche facenti parte delle malattie neurodegenerative abbiano aspetti clinici diversi, esistono alcuni segni distintivi comuni, come la disfunzionalità sinaptica, lo stress ossidativo e l'infiammazione.
 

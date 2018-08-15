@@ -5,7 +5,7 @@ draft: false
 tags: [antibiotici, bristol, farmaceuticayounger, hotthisweek, nature, science]
 ---
 
-![B1B9884A-DC6F-4410-A82D-9FAB9CF41734.PNG](https://silviavernotico.files.wordpress.com/2017/12/b1b9884a-dc6f-4410-a82d-9fab9cf41734.png?w=329)
+![B1B9884A-DC6F-4410-A82D-9FAB9CF41734.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-30.md/b1b9884a-dc6f-4410-a82d-9fab9cf41734.png?w=329)
 
 I ricercatori dell'Università di Bristol, grazie alla Biologia sintetica (disciplina a metà strada tra l’ingegneria e la biologia molecolare che mira a ridisegnare i circuiti metabolici e genetici degli organismi viventi) hanno modificato il DNA di un fungo creando la base per la produzione di antibiotici ad attività più potente. I risultati della ricerca sono stati pubblicati su Nature Communications e portano il titolo di ["Heterologous expression reveals the biosynthesis of the antibiotic pleuromutilin and generates bioactive semi-synthetic derivatives".](https://www.nature.com/articles/s41467-017-01659-1)
 

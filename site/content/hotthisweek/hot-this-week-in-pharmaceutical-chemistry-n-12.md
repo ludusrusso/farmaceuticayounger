@@ -7,7 +7,7 @@ tags: [hotthisweek]
 
 #hotthisweekinphchemistry
 
-![IMG_2726.JPG](https://silviavernotico.files.wordpress.com/2017/08/img_2726.jpg?w=607)
+![IMG_2726.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-12.md/img_2726.jpg?w=607)
 
 Il team di «**Novaicos**», una società spin-off nata dall’_Università del Piemonte Orientale_ (UPO) e dall’_Ateneo di Torino_, ha vinto il primo premio del progetto Uncredit Start Lab, volto a selezionare tra le Aziende di recente costituzione a livello nazionale quelle con le maggiori caratteristiche di innovazione, originalità e ricadute pratiche, nel comparto Life Science, aggiudicandosi 10 mila euro e la possibilità di avere un tutor dell’istituto di credito per crescere e trovare investitori.
 

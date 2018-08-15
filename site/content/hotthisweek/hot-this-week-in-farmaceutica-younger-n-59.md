@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-![](https://silviavernotico.files.wordpress.com/2018/07/img_2696.jpg)Il 13 luglio scorso, la **Food and Drug Administration ha approvato il primo farmaco specifico per il trattamento del vaiolo**, **TPOXX** (_Tecovirimat_).
+![](/img/hot-this-week-in-farmaceutica-younger-n-59.md/img_2696.jpg)Il 13 luglio scorso, la **Food and Drug Administration ha approvato il primo farmaco specifico per il trattamento del vaiolo**, **TPOXX** (_Tecovirimat_).
 
 Il vaiolo è una malattia infettiva causata da due varianti del virus variola, la Variola maior e la Variola minor. Il virus variola si diffonde principalmente per contatto diretto tra le persone. I sintomi iniziano in genere da 10 a 14 giorni dopo l'infezione e includevano febbre, mal di testa e mal di schiena. Un'eruzione inizialmente costituita da piccoli protuberanze rosa si trasformava presto in pustole piene di pus per poi terminare il suo stadio con croste e cicatrici diffuse. Le complicanze del vaiolo possono includere febbre, dolori muscolari, cefalea e cecità.
 

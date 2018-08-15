@@ -5,7 +5,7 @@ draft: false
 tags: [angiogenesi, Farmaceutica, farmaceuticayounger, hotthisweek, prostata, science, scienza, tumori]
 ---
 
-![IMG_3326.JPG](https://silviavernotico.files.wordpress.com/2017/11/img_3326.jpg?w=282)
+![IMG_3326.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-24.md/img_3326.jpg?w=282)
 
 Studiando i modelli murini affetti da cancro alla prostata, i ricercatori dell'**Albert Einstein College of Medicine** nel loro studio pubblicato su **Science** che porta il titolo di _"Adrenergic nerves activate an angio-metabolic switch in prostate cancer" _hanno scoperto che **il segnale beta-adrenergico endoteliale trasmesso dalle fibre nervose adrenergiche nello stroma della prostata è fondamentale per l'attivazione di un "interruttore angiogenico" che alimenta la crescita tumorale in maniera esponenziale. **
 

@@ -5,7 +5,7 @@ draft: false
 tags: [chimicafarmaceutica, columbiauniversity, Farmaceutica, farmaceuticayounger, glioblastoma, hotthisweek, nature, science]
 ---
 
-![6BB17AC8-B164-4E0A-BBF2-F03E5DDC1A5F.PNG](https://silviavernotico.files.wordpress.com/2018/01/6bb17ac8-b164-4e0a-bbf2-f03e5ddc1a5f.png?w=349)
+![6BB17AC8-B164-4E0A-BBF2-F03E5DDC1A5F.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-32.md/6bb17ac8-b164-4e0a-bbf2-f03e5ddc1a5f.png?w=349)
 
 Una nuova scoperta pubblicata sulla rivista [Nature](https://www.nature.com/articles/nature25171) condotto da un gruppo di ricercatori italiani della _Columbia University di New York_ guidati da **Antonio Iavarone** ed **Anna Lasorella** sul fronte della ricerca contro il cancro ha permesso di individuare **il meccanismo innescato dalla fusione di due geni, FGFR3 e TACC3, che causa alcuni tumori umani tra cui il glioblastoma**, il più aggressivo e letale dei tumori al cervello.
 

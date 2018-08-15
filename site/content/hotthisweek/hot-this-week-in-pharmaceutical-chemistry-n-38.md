@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek, malacidine, nature, science]
 ---
 
-![B4BED488-B749-43F5-BB22-D39BCDB7B26B.PNG](https://silviavernotico.files.wordpress.com/2018/02/b4bed488-b749-43f5-bb22-d39bcdb7b26b.png?w=360)
+![B4BED488-B749-43F5-BB22-D39BCDB7B26B.PNG](/img/hot-this-week-in-pharmaceutical-chemistry-n-38.md/b4bed488-b749-43f5-bb22-d39bcdb7b26b.png?w=360)
 
 I ricercatori della Rockefeller University di New York hanno individuato una nuova classe di antibiotici, **le malacidine**. I test condotti dai ricercatori hanno dimostrato che i composti sono in grado di contrastare diverse infezioni causate da batteri resistenti agli attuali antibiotici, inclusi gli Staphylococcus aureus resistenti alla meticillina (Mrsa).
 

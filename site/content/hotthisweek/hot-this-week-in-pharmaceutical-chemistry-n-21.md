@@ -5,7 +5,7 @@ draft: false
 tags: [Farmaceutica, farmaceuticayounger, hotthisweek, nocebo, placebo]
 ---
 
-![IMG_3231.JPG](https://silviavernotico.files.wordpress.com/2017/10/img_3231.jpg)
+![IMG_3231.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-21.md/img_3231.jpg)
 
 Anche il placebo ha il suo rovescio della medaglia, l’**effetto nocebo**. L'effetto nocebo è la percezione di soffrire effetti collaterali quando si assumono sostanze inattive, ma ritenute nocive. Ed è tanto maggiore quanto più alto è il prezzo dei trattamenti. Questo è quanto scoperto da un gruppo di ricercatori dello **University Medical Center Hamburg-Eppendorf, della University of Colorado, Boulder** i quali hanno studiato gli effetti collaterali o indesiderati sperimentati in seguito alla somministrazione di un farmaco inerte ma ritenuto nocivo.
 

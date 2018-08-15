@@ -5,7 +5,7 @@ draft: false
 tags: [hotthisweek]
 ---
 
-#hotthisweekinphchemistry ![IMG_2906.JPG](https://silviavernotico.files.wordpress.com/2017/08/img_2906.jpg?w=371)
+#hotthisweekinphchemistry ![IMG_2906.JPG](/img/hot-this-week-in-pharmaceutical-chemistry-n-14.md/img_2906.jpg?w=371)
 
 Studi recenti hanno dimostrato che la **dipendenza alimentare da grassi** condivide un meccanismo comune alla dipendenza da alcool, nicotina e narcotici, in quanto oltre alla regolazione ipotalamica e ormonale dell'appetito si attiva a livello cerebrale un sistema di ricompensa che coinvolge i recettori della **dopamina**. È stato evidenziato che una dieta ad alta percentuale di grassi (**HFD**) attenua la via di segnale che coinvolge i recettori della dopamina D2 (D2R) del corpo striato, un regolatore centrale del sistema di ricompensa del cervello, con conseguente aumento della sensazione di piacere.
 
