@@ -5,5 +5,10 @@ defaultContentLanguage = "it"
 enableRobotsTXT = true
 canonifyURLs = true
 
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[author]
+    name = "Farmaceutica Younger"
+
 [permalinks]
   post = "/:year/:month/:title/"
