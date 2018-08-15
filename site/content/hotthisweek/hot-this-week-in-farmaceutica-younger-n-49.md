@@ -6,7 +6,7 @@ image: /img/hot-this-week-in-farmaceutica-younger-n-49.md/img_1935.jpg
 tags: [hotthisweek]
 ---
 
-![](/img/hot-this-week-in-farmaceutica-younger-n-49.md/img_1935.jpg)
+![](/static/img/hot-this-week-in-farmaceutica-younger-n-49.md/img_1935.jpg)
 
 Quando i chimici hanno bisogno di **separare una molecola chirale da una miscela di enantiomeri**, per esempio, quando sintetizzano potenziali molecole per un farmaco, spesso usano la cromatografia liquida ad alte prestazioni (HPLC). **Un nuovo studio pubblicato su _Nature_** suggerisce un'alternativa a questo approccio che **sfrutta i campi magnetici.**
 

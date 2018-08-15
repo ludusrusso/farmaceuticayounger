@@ -6,7 +6,7 @@ image: /img/hot-this-week-in-farmaceutica-younger-n-56.md/img_2458.jpg?w=478
 tags: [hotthisweek]
 ---
 
-![IMG_2458.JPG](/img/hot-this-week-in-farmaceutica-younger-n-56.md/img_2458.jpg?w=478)
+![IMG_2458.JPG](/static/img/hot-this-week-in-farmaceutica-younger-n-56.md/img_2458.jpg?w=478)
 
 I biochimici dell'_Albert Einstein College of Medicine_ e della _Pennsylvania State University_ hanno scoperto che **gli organismi** \- tra cui pesci, uccelli e umani - **esprimono un enzima che produce una piccola molecola che inibisce la replicazione di diversi virus**, incluso il virus Zika. **La molecola potrebbe fornire un'impalcatura per nuovi farmaci contro le malattie virali.**
 

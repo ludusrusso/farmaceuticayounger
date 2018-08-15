@@ -7,7 +7,7 @@ image: /img/hot-this-week-in-farmaceutica-younger-n-5.md/img_2219-2.jpg
 category: htw
 ---
 
-![IMG_2219 2.JPG](/img/hot-this-week-in-farmaceutica-younger-n-5.md/img_2219-2.jpg)
+![IMG_2219 2.JPG](/static/img/hot-this-week-in-farmaceutica-younger-n-05.md/img_2219-2.jpg)
 
 I disturbi gastrointestinali sono difficili da diagnosticare senza l’utilizzo di metodi invasivi. Il dispositivo ingeribile sperimentato da un team multidisciplinare di ricercatori del Massachusetts Institute of Technology (MIT), fa uso di batteri bioluminescenti per scoprire una emorragia interna.
 
