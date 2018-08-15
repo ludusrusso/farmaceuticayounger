@@ -26,3 +26,24 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Descrizione", name: "description", widget: "text", required: false}
       - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
       - {label: "Contenuto", name: "body", widget: "markdown"}
+  - name: "pharmacronimi" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Pharma Acronimi" # Used in the UI, ie.: "New Post"
+    folder: "site/content/pharmacronimi" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Titolo", name: "title", widget: "string"}
+      - {label: "Data Pubblicazione", name: "date", widget: "datetime"}
+      - {label: "Descrizione", name: "description", widget: "text", required: false}
+      - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
+      - {label: "Contenuto", name: "body", widget: "markdown"}
+
+  - name: "pharmaquotes" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Pharma Quotes" # Used in the UI, ie.: "New Post"
+    folder: "site/content/pharmaquotes" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Titolo", name: "title", widget: "string"}
+      - {label: "Data Pubblicazione", name: "date", widget: "datetime"}
+      - {label: "Descrizione", name: "description", widget: "text", required: false}
+      - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
+      - {label: "Contenuto", name: "body", widget: "markdown"}
