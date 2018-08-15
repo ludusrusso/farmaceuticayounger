@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.22'
-date: Sun, 22 Oct 2017 16:12:53 +0000
+date: 2017-10-22T16:12:53+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-22.md/img_3262.jpg?w=332
 tags: [car-t, farmaceuticayounger, gilead, hotthisweek, kitepharma, kymriah, linfoma, yescarta]
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN FARMACEUTICA YOUNGER N.59'
-date: Sun, 22 Jul 2018 07:30:26 +0000
+date: 2018-07-22T07:30:26+00:00
 draft: false
+image: /img/hot-this-week-in-farmaceutica-younger-n-59.md/img_2696.jpg
 tags: [hotthisweek]
 ---
 

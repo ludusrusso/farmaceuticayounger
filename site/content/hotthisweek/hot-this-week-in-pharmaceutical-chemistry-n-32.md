@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.32'
-date: Sun, 07 Jan 2018 09:00:28 +0000
+date: 2018-01-07T09:00:28+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-32.md/6bb17ac8-b164-4e0a-bbf2-f03e5ddc1a5f.png?w=349
 tags: [chimicafarmaceutica, columbiauniversity, Farmaceutica, farmaceuticayounger, glioblastoma, hotthisweek, nature, science]
 ---
 

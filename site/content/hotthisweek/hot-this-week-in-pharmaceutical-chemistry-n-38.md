@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.38'
-date: Sun, 18 Feb 2018 09:00:33 +0000
+date: 2018-02-18T09:00:33+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-38.md/b4bed488-b749-43f5-bb22-d39bcdb7b26b.png?w=360
 tags: [hotthisweek, malacidine, nature, science]
 ---
 

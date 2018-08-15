@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.31'
-date: Mon, 25 Dec 2017 12:30:41 +0000
+date: 2017-12-25T12:30:41+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-31.md/4dc8c264-2a4c-4442-97fa-d61e710dcb06.png?w=347
 tags: [cnr, farmaceuticayounger, farmaci, hotthisweek, pnas, rotassano, science, unibo]
 ---
 

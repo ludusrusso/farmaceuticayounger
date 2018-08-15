@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.28'
-date: Sun, 03 Dec 2017 17:15:38 +0000
+date: 2017-12-03T17:15:38+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-28.md/img_38061.jpg
 tags: [Farmaceutica, farmaceuticayounger, hotthisweek, irccs, science, torino, tumori, università]
 ---
 

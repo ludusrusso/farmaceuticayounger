@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.30'
-date: Sun, 17 Dec 2017 09:00:39 +0000
+date: 2017-12-17T09:00:39+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-30.md/b1b9884a-dc6f-4410-a82d-9fab9cf41734.png?w=329
 tags: [antibiotici, bristol, farmaceuticayounger, hotthisweek, nature, science]
 ---
 

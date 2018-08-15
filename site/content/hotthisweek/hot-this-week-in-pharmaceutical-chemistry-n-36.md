@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.36'
-date: Sun, 04 Feb 2018 09:00:50 +0000
+date: 2018-02-04T09:00:50+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-36.md/img_04621.jpg
 tags: [chimicafarmaceutica, dompè, farmaceuticayounger, hotthisweek, medicina, montalcini, ngf, science]
 ---
 

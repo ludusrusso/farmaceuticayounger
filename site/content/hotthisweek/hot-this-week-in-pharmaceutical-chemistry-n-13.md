@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.13'
-date: Fri, 18 Aug 2017 21:41:25 +0000
+date: 2017-08-18T21:41:25+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-13.md/adobe-spark.jpg?w=509
 tags: [hotthisweek]
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.39'
-date: Sun, 25 Feb 2018 09:00:22 +0000
+date: 2018-02-25T09:00:22+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-39.md/45f2889b-266f-46d1-a0db-24e71a4fcad4.png?w=406
 tags: [brain, farmaceuticayounger, glia, hotthisweek, medicina, mielina, science, sclerosi multipla, università]
 ---
 

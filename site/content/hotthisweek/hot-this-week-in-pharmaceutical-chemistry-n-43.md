@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.43'
-date: Sun, 25 Mar 2018 08:43:48 +0000
+date: 2018-03-25T08:43:48+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-43.md/380f3879-1505-4050-9d4c-c99dec931ae3.png
 tags: [hotthisweek]
 ---
 

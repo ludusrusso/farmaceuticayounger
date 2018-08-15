@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.24'
-date: Sun, 05 Nov 2017 20:07:51 +0000
+date: 2017-11-05T20:07:51+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-24.md/img_3326.jpg?w=282
 tags: [angiogenesi, Farmaceutica, farmaceuticayounger, hotthisweek, prostata, science, scienza, tumori]
 ---
 

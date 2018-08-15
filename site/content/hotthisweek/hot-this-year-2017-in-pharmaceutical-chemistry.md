@@ -1,6 +1,6 @@
 ---
 title: 'HOT THIS YEAR 2017 In Pharmaceutical Chemistry'
-date: Sun, 31 Dec 2017 12:11:23 +0000
+date: 2017-12-31T12:11:23+00:00
 draft: false
 tags: [chimicafarmaceutica, farmaceuticayounger, hotthisweek, radio, ricerca, scienza, università]
 image: /img/hot-this-year-2017-in-pharmaceutical-chemistry.md/img_4174.jpg

@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.21'
-date: Sun, 15 Oct 2017 19:20:21 +0000
+date: 2017-10-15T19:20:21+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-21.md/img_3231.jpg
 tags: [Farmaceutica, farmaceuticayounger, hotthisweek, nocebo, placebo]
 ---
 

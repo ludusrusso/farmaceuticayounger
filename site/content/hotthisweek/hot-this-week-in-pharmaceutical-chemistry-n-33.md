@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.33'
-date: Sun, 14 Jan 2018 09:00:36 +0000
+date: 2018-01-14T09:00:36+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-33.md/ffe6563d-f4fc-448a-8ff3-8a46637f1a97.png?w=343
 tags: [alzheimer, brain, cambridge, farmaceuticayounger, hotthisweek, medicina, science]
 ---
 

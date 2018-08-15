@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.45'
-date: Sun, 08 Apr 2018 08:00:09 +0000
+date: 2018-04-08T08:00:09+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-45.md/409d95f2-a186-4f67-9eaa-f14d4f60f26c.png?w=355
 tags: [hotthisweek]
 ---
 

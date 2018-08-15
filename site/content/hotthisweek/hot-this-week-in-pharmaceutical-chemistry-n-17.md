@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.17'
-date: Wed, 20 Sep 2017 16:09:50 +0000
+date: 2017-09-20T16:09:50+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-17.md/img_2990-2.jpg
 tags: [hotthisweek]
 ---
 

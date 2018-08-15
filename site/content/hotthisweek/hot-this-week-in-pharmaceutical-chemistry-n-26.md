@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.26'
-date: Sun, 19 Nov 2017 09:00:53 +0000
+date: 2017-11-19T09:00:53+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-26.md/img_3464-2.jpg?w=338
 tags: [clinicaltrial, Farmaceutica, farmaceuticayounger, federicoII, genetica, hotthisweek, mucopolisaccaridosi, napoli, science]
 ---
 

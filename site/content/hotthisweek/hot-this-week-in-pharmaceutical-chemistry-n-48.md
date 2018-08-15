@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.48'
-date: Sun, 06 May 2018 07:35:00 +0000
+date: 2018-05-06T07:35:00+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-48.md/img_18741.jpg
 tags: [hotthisweek]
 ---
 

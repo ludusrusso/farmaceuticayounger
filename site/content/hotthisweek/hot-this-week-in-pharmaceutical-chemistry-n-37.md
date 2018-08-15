@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.37'
-date: Sun, 11 Feb 2018 09:00:43 +0000
+date: 2018-02-11T09:00:43+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-37.md/585db60b-e5c1-4e3e-93fd-bdee9c2f9780.png?w=361
 tags: [embrace, empatica, epilessia, farmaceuticayounger, hotthisweek, medicina, science]
 ---
 

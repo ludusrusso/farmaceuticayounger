@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.35'
-date: Sun, 28 Jan 2018 09:00:31 +0000
+date: 2018-01-28T09:00:31+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-35.md/70ec865e-9dbf-4fef-94a0-72dc261186b1-2.png?w=340
 tags: [acsnano, Farmaceutica, farmaceuticayounger, hotthisweek, iit, science]
 ---
 

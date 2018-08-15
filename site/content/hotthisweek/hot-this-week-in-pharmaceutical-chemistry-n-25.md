@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.25'
-date: Sun, 12 Nov 2017 08:28:15 +0000
+date: 2017-11-12T08:28:15+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-25.md/img_3374.jpg?w=379
 tags: [farmaceuticayounger, gel, hotthisweek, JohnsHopkinsUniversity, losartan, ras, sartani, science, valsartan]
 ---
 

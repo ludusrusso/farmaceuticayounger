@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.27'
-date: Sun, 26 Nov 2017 09:00:54 +0000
+date: 2017-11-26T09:00:54+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-27.md/969bec55-b853-4e83-9910-9a4482b3eb12-2.png?w=340
 tags: [amsterdam, EMA, farmaceuticayounger, hotthisweek, milano, olanda]
 ---
 

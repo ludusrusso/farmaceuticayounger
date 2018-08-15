@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.23'
-date: Sun, 29 Oct 2017 08:27:11 +0000
+date: 2017-10-29T08:27:11+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-23.md/img_3290.jpg
 tags: [hotthisweek, humanitas, mantovani, milano, natural killer, nature, ricerca, tumori]
 ---
 

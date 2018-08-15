@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.41'
-date: Sun, 11 Mar 2018 16:26:33 +0000
+date: 2018-03-11T16:26:33+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-41.md/2de1f838-98e4-4fd3-8743-ba005785ce42.png
 tags: [hotthisweek]
 ---
 

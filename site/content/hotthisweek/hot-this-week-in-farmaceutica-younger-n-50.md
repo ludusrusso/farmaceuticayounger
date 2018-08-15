@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN FARMACEUTICA YOUNGER N.50'
-date: Sun, 20 May 2018 07:37:26 +0000
+date: 2018-05-20T07:37:26+00:00
 draft: false
+image: /img/hot-this-week-in-farmaceutica-younger-n-50.md/img_2067.jpg?w=474
 tags: [hotthisweek]
 ---
 

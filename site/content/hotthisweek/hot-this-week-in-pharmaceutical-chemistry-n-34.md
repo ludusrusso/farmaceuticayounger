@@ -1,7 +1,8 @@
 ---
 title: 'HOT THIS WEEK IN PHARMACEUTICAL CHEMISTRY N.34'
-date: Sun, 21 Jan 2018 09:00:41 +0000
+date: 2018-01-21T09:00:41+00:00
 draft: false
+image: /img/hot-this-week-in-pharmaceutical-chemistry-n-34.md/926f9455-5a16-49c7-a662-119338d6c193.png?w=312
 tags: [cuore, cupido, Farmaceutica, farmaceuticayounger, hotthisweek, nanofarmaci, science]
 ---
 
