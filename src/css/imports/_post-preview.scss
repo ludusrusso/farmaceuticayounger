@@ -1,12 +1,17 @@
 .post-preview-list {
     display: grid;
     grid-template-columns: repeat( auto-fit, minmax(200px, 1fr) );
-    grid-gap: 30px;
+    grid-gap: 40px;
 }
 
 .post-preview {
-    border: 1px solid #eee;
+    &:hover {
+        box-shadow: 0 0 30px 5px #ccc;
+
+    }
     border-radius: 10px;
+    box-shadow: 0 0 30px 5px #eee;
+
     text-decoration: none;
     color: black;
     p {
@@ -17,6 +22,7 @@
         padding: 10px;
         margin: 0;
         font-size: 16pt;
+        font-weight: normal;
     }
     img {
         border-radius: 10px;
