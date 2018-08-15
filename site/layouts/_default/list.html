@@ -1,13 +1,12 @@
 {{ define "main" }}
+{{ partial "profile" . }}
 
-<div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 4).Pages.ByPublishDate }}
-          <div class="w-50-ns ph1-ns flex">
-            {{ .Render "li"}}
-          </div>
-      {{ end }}
-  </ul>
+<div class="post-preview-list">
+    {{ range  .Paginator.Pages.ByPublishDate }}
+        {{ partial "post-preview" . }}
+    {{ end }}
 </div>
 
-{{end}}
+{{ template "_internal/pagination.html" . }}
+
+{{ end }}

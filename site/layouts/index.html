@@ -1,10 +1,14 @@
 {{ define "main" }}
 {{ partial "profile" . }}
 
+{{ $paginator := .Paginate (where .Pages "Section" "post") }}
+
 <div class="post-preview-list">
-    {{ range where .Pages "Section" "post"  }}
-    {{ partial "post-preview" . }}
+    {{ range $paginator.Pages }}
+        {{ partial "post-preview" . }}
     {{ end }}
 </div>
+
+{{ template "_internal/pagination.html" . }}
 
 {{ end }}
