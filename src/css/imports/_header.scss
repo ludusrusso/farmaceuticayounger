@@ -1,28 +1,53 @@
+$header-bg: $primary-dark;
+$header-color: white;
+
 header {
-    background-color: #eee;  
+    background-color: $header-bg;  
     
     .nav {
         display: flex;
         flex-direction: column;
         min-height: 60px;
-        border-bottom: 1px solid #ccc;
         grid-template-areas: "title collpased" "collapse";
 
-        .title {
-            height: 60px;
+        .main {
+            height: 80px;
             align-items: center;
             margin: auto 0;
             display: flex !important;
             justify-content: space-between;
-            a {
-                font-size: 16pt;
-                font-weight: bold !important;
-            }
-
-            img {
+            .title {
+                display: flex;
+                align-items: center !important;
                 height: 100%;
+                a {
+                    color: $header-color;
+                    font-size: 16pt;
+                    p {
+                        height: auto;
+                        padding: 5px 0;
+                        margin: 0;
+                    }
+                    p.main {
+                        font-weight: bold !important;
+                    }
+                    p.second {
+                        font-weight: normal !important;
+                    }
+                }
+
+                .logo {
+                    height: 100%;
+                    padding: 10px;
+                    box-sizing: border-box;
+
+                    img {
+                        height: 100% !important;
+                    }    
+                }
+    
+    
             }
-        
         }
 
         #collapse {
@@ -47,7 +72,7 @@ header {
     a {
         padding: 0 10px;
         text-decoration: none;
-        color: black;
+        color: $header-color;
     }
 
     i {
@@ -71,7 +96,7 @@ header {
         .nav {
             flex-direction: row;
             justify-content: space-between;
-            .title {
+            .main {
                 .collapsed {
                     display: none;
                 }
