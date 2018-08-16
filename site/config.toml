@@ -4,6 +4,7 @@ title = "Farmacetica Younger"
 defaultContentLanguage = "it"
 enableRobotsTXT = true
 canonifyURLs = true
+paginate = 12
 
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 

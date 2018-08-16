@@ -5,6 +5,7 @@
     display: flex;
     flex-wrap: wrap;
     padding: 0;
+    font-size: 9pt;
 
     .twitter {
         background-color: $color-twitter;
@@ -26,14 +27,14 @@
         background: $color-googleplus;
     }
 
-    .mail {
+    .email {
         background: #7975D5;
     }
 
     li {
         margin-right: 5px;
         margin-top: 20px;
-        padding: 10px;
+        padding: 5px;
         list-style: none;
         border-radius: 5px;
         a {
@@ -41,8 +42,11 @@
             display: flex;
             text-decoration: none;
             align-items: center;
+            i {
+                font-size: 12pt;
+            }
             * {
-                padding: 0 10px;
+                padding: 0 5px;
                 margin: 0;
             }
         }

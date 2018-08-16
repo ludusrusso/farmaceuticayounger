@@ -15,5 +15,8 @@ body {
     max-width: 800px;
     margin: auto;
     padding: 0 5px;
-}
 
+    &.wrap {
+        max-width: 2000px;
+    }
+}

@@ -8,3 +8,12 @@ if (window.netlifyIdentity) {
     }
   });
 }
+
+window.toggleNav = function() {
+  let collapsed = document.getElementById("collapase");
+  if (collapsed.style.display != "flex") {
+    collapsed.style.display = "flex"
+  } else {
+    collapsed.style.display = "none"
+  }
+}
