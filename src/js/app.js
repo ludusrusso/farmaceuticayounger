@@ -10,10 +10,6 @@ if (window.netlifyIdentity) {
 }
 
 window.toggleNav = function() {
-  let collapsed = document.getElementById("collapase");
-  if (collapsed.style.display != "flex") {
-    collapsed.style.display = "flex"
-  } else {
-    collapsed.style.display = "none"
-  }
+  let collapsed = document.getElementById("collapse");
+  collapsed.classList.toggle("hidden-on-mobile")
 }

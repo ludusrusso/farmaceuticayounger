@@ -4,7 +4,6 @@ date: 2018-06-03T09:00:26+00:00
 draft: false
 tags: [hotthisweek]
 image: /img/hot-this-week-in-farmaceutica-younger-n-5.md/img_2219-2.jpg
-category: htw
 ---
 
 ![IMG_2219 2.JPG](/static/img/hot-this-week-in-farmaceutica-younger-n-05.md/img_2219-2.jpg)
