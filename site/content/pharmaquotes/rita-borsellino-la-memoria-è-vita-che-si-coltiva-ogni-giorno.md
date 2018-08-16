@@ -1,6 +1,6 @@
 ---
 title: RITA BORSELLINO - "La memoria è vita che si coltiva ogni giorno"
-date: '2018-08-17T09:45:40+02:00'
+date: '2018-08-18T09:45:40+02:00'
 description: >-
   #QuoteOfTheWeek in #FarmaceuticaYounger
 
