@@ -1,7 +1,12 @@
 ---
 title: RITA BORSELLINO - "La memoria è vita che si coltiva ogni giorno"
 date: '2018-08-18T09:40:40+02:00'
-description: >-
+description: >
+  Rita Borsellino, sorella del magistrato Paolo Borsellino, farmacista,
+  vicepresidente dell'associazione Libera fondata da don Luigi Ciotti,
+  europarlamentare del Partito democratico dal 2009 al 2014, ha dedicato la sua
+  vita alla lotta contro la mafia dopo la strage di via D'Amelio. 
+socialDesc: >-
   #QuoteOfTheWeek in #FarmaceuticaYounger
 
 
