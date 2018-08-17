@@ -1,8 +1,12 @@
 ---
-title: 'HOT THIS WEEK IN FARMACEUTICA YOUNGER N.61'
-date: 2018-08-05T08:05:36+00:00
-draft: false
-tags: [hotthisweek]
+title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.61
+date: 2018-08-05T08:05:36.000Z
+description: >-
+  Uno studio realizzato dall’Istituto Mario Negri di Milano, pubblicato sulla
+  prestigiosa rivista scientifica Brain, ha dimostrato che il trauma cranico
+  induce la formazione di una forma anomala della proteina tau che si propaga
+  nel cervello causando perdita di memoria e danni ai neuroni.
+socialDesc: "#HotThisWeek in #FarmaceuticaYounger N.61\n\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\n\nUno studio realizzato dall’Istituto Mario Negri di Milano, pubblicato sulla prestigiosa rivista scientifica Brain, ha dimostrato che il trauma cranico induce la formazione di una forma anomala della proteina tau che si propaga nel cervello causando perdita di memoria e danni ai neuroni.\n\n\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\U0001F4A5\nPer approfondimenti clicca sul link in basso \U0001F447\U0001F3FBe visita la mia pagina web! Iscriviti subito e verrai aggiornato ogni qualvolta pubblicherò un articolo! Potrai sempre essere aggiornato sulle mie rubriche settimanali, la #QuoteOfTheWeek ogni #sabato e la #HotThisWeek con le notizie più #Hot sul panorama del farmaceutico mondiale, ogni #domenica!!\n\n#StayTuned su #FarmaceuticaYounger\n\U0001F447\U0001F3FB\U0001F4A5\U0001F447\U0001F3FB\U0001F4A5\U0001F447\U0001F3FB\U0001F4A5\U0001F447\U0001F3FB\U0001F4A5\U0001F447\U0001F3FB\U0001F4A5\U0001F447\U0001F3FB\U0001F4A5\U0001F447\U0001F3FB\U0001F4A5\U0001F447\U0001F3FB\U0001F4A5\n"
 image: /img/hot-this-week-in-farmaceutica-younger-n-61.md/img_2861.jpg
 ---
 
