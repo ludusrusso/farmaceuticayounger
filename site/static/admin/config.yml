@@ -14,6 +14,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Titolo", name: "title", widget: "string"}
       - {label: "Data Pubblicazione", name: "date", widget: "datetime"}
       - {label: "Descrizione", name: "description", widget: "text", required: false}
+      - {label: "Descrizione Social", name: "socialDesc", widget: "text", required: false}
       - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
       - {label: "Contenuto", name: "body", widget: "markdown"}
   - name: "hotthisweek" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -24,6 +25,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Titolo", name: "title", widget: "string"}
       - {label: "Data Pubblicazione", name: "date", widget: "datetime"}
       - {label: "Descrizione", name: "description", widget: "text", required: false}
+      - {label: "Descrizione Social", name: "socialDesc", widget: "text", required: false}
       - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
       - {label: "Contenuto", name: "body", widget: "markdown"}
   - name: "pharmacronimi" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -34,6 +36,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Titolo", name: "title", widget: "string"}
       - {label: "Data Pubblicazione", name: "date", widget: "datetime"}
       - {label: "Descrizione", name: "description", widget: "text", required: false}
+      - {label: "Descrizione Social", name: "socialDesc", widget: "text", required: false}
       - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
       - {label: "Contenuto", name: "body", widget: "markdown"}
 
@@ -45,5 +48,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Titolo", name: "title", widget: "string"}
       - {label: "Data Pubblicazione", name: "date", widget: "datetime"}
       - {label: "Descrizione", name: "description", widget: "text", required: false}
+      - {label: "Descrizione Social", name: "socialDesc", widget: "text", required: false}
       - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
       - {label: "Contenuto", name: "body", widget: "markdown"}
