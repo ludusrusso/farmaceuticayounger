@@ -1,4 +1,12 @@
 footer {
     background-color: #eee;
     margin-top: 40px;
+    p.social {
+        a {
+            padding: 10px;
+            font-size: 18pt;
+            color: black;
+            text-decoration: none;
+        }
+    }
 }
