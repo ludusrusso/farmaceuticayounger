@@ -17,7 +17,7 @@
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       {{ if .Params.image }}
-        <image> {{ .Params.image }}</image>
+        <image> {{ .Params.image | absURL }} </image>
       {{ end }}
       {{ if .Params.socialDesc }}
         <social> {{ .Params.socialDesc }}</social>

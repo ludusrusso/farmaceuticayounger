@@ -22,7 +22,7 @@ if (process.env.DEBUG) {
   defaultArgs.unshift("--debug")
 }
 
-gulp.task("hugo", (cb) => buildSite(cb, ["--baseURL=/"]));
+gulp.task("hugo", (cb) => buildSite(cb, ["--baseURL=/", "--buildDrafts", "--buildFuture"]));
 gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
 gulp.task("build", ["css", "js", "cms-assets", "hugo"], (cb) => buildSite(cb, [], "production"));
 gulp.task("build-preview", ["css", "js", "cms-assets", "hugo-preview"],  (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"], "production"));
