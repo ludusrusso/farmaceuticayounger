@@ -1,5 +1,6 @@
 ---
-title: 'BEN FERINGA - "Quando estraggo una molecola in Cina o in Argentina, è la stessa molecola: la gente capisce immediatamente senza conoscere lo spagnolo o il cinese. Questo è il bello. Il nostro obiettivo non è il potere o i confini del paese, ma quello di portare avanti la conoscenza umana"'
+title: BEN FERINGA - Quando estraggo una molecola in Cina o in Argentina
+description: "Quando estraggo una molecola in Cina o in Argentina, è la stessa molecola: la gente capisce immediatamente senza conoscere lo spagnolo o il cinese. Questo è il bello. Il nostro obiettivo non è il potere o i confini del paese, ma quello di portare avanti la conoscenza umana"
 date: 2018-05-05T08:00:00+00:00
 draft: false
 image: /img/ben-feringa-quando-estraggo-una-molecola-in-cina-o-in-argentina-e-la-stessa-molecola-la-gente-capisce-immediatamente-senza-conoscere-lo-spagnolo-o-il-cinese-questo-e-il-bello-il-nostro-obietti.md/img_1856-21.jpg

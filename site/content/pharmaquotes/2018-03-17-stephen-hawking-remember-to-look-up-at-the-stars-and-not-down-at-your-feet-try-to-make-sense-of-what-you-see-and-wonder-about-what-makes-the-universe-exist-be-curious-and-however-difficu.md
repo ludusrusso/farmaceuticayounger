@@ -1,5 +1,6 @@
 ---
-title: 'STEPHEN HAWKING - “Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious. And however difficult life may seem, there is always something you can do and succeed at.  It matters that you don''t just give up.”'
+title: STEPHEN HAWKING - Remember to look up at the stars and not down at your feet.
+description: Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious. And however difficult life may seem, there is always something you can do and succeed at.  It matters that you don't just give up.
 date: 2018-03-17T09:09:08+00:00
 draft: false
 image: /img/stephen-hawking-remember-to-look-up-at-the-stars-and-not-down-at-your-feet-try-to-make-sense-of-what-you-see-and-wonder-about-what-makes-the-universe-exist-be-curious-and-however-difficu.md/img_0983.jpg

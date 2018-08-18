@@ -1,5 +1,6 @@
 ---
-title: 'RITA LEVI MONTALCINI – "Nella ricerca scientifica né il grado di intelligenza né la capacità di eseguire e portare a termine il compito intrapreso sono fattori essenziali per la riuscita e per la soddisfazione personale. Nell''uno e nell''altro contano maggiormente la totale dedizione e il chiudere gli occhi davanti alle difficoltà"'
+title: RITA LEVI MONTALCINI – Nella ricerca scientifica
+description: Nella ricerca scientifica né il grado di intelligenza né la capacità di eseguire e portare a termine il compito intrapreso sono fattori essenziali per la riuscita e per la soddisfazione personale. Nell''uno e nell''altro contano maggiormente la totale dedizione e il chiudere gli occhi davanti alle difficoltà
 date: 2017-10-15T12:49:24+00:00
 draft: false
 image: /img/rita-levi-montalcini-nella-ricerca-scientifica-ne-il-grado-di-intelligenza-ne-la-capacita-di-eseguire-e-portare-a-termine-il-compito-intrapreso-sono-fattori-essenziali-per-la-riuscita-e-per.md/img_3214-2.jpg

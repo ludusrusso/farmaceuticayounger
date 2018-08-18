@@ -12,4 +12,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
     name = "Farmaceutica Younger"
 
 [permalinks]
-  post = "/:year/:month/:title/"
+  pharmacronimi = "/:section/:title/"
+  hotthisweek = "/:section/:title/"
+  pharmaquotes = "/:section/:title/"

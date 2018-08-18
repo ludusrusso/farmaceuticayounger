@@ -1,5 +1,6 @@
 ---
-title: 'GERTRUDE B. ELION - "Non abbiate paura del duro lavoro. Non lasciate che gli altri vi scoraggino o vi dicano che non potete farlo. Ai miei tempi mi dissero che le donne non avrebbero dovuto interessarsi della chimica. Io non vidi nessun motivo per dar loro retta"'
+title: GERTRUDE B. ELION - Non abbiate paura del duro lavoro.
+descirption: "Non lasciate che gli altri vi scoraggino o vi dicano che non potete farlo. Ai miei tempi mi dissero che le donne non avrebbero dovuto interessarsi della chimica. Io non vidi nessun motivo per dar loro retta"
 date: 2018-04-28T08:00:32+00:00
 draft: false
 image: /img/gertrude-b-elion-non-abbiate-paura-del-duro-lavoro-non-lasciate-che-gli-altri-vi-scoraggino-o-vi-dicano-che-non-potete-farlo-ai-miei-tempi-mi-dissero-che-le-donne-non-avrebbero-dovuto-interessa.md/img_1826.jpg
