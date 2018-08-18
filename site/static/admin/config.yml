@@ -8,6 +8,7 @@ publish_mode: editorial_workflow
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     folder: "site/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -19,6 +20,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Contenuto", name: "body", widget: "markdown"}
   - name: "hotthisweek" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Hot This Week" # Used in the UI, ie.: "New Post"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     folder: "site/content/hotthisweek" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -30,6 +32,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Contenuto", name: "body", widget: "markdown"}
   - name: "pharmacronimi" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Pharma Acronimi" # Used in the UI, ie.: "New Post"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     folder: "site/content/pharmacronimi" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -42,6 +45,7 @@ collections: # A list of collections the CMS should be able to edit
 
   - name: "pharmaquotes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Pharma Quotes" # Used in the UI, ie.: "New Post"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     folder: "site/content/pharmaquotes" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
