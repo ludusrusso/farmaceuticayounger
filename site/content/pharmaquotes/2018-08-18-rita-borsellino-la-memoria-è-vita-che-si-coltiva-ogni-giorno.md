@@ -1,5 +1,5 @@
 ---
-title: RITA BORSELLINO - "La memoria è vita che si coltiva ogni giorno"
+title: RITA BORSELLINO "La memoria è vita che si coltiva ogni giorno"
 date: 2018-08-18T09:40:40+02:00
 description: >
   Rita Borsellino, sorella del magistrato Paolo Borsellino, farmacista,
