@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.63
-date: '2018-08-19T09:45:00+02:00'
+date: '2018-08-19T09:30:00+02:00'
 description: >-
   Nuovo meccanismo d'azione della Talidomide: degradazione di SALL4, un membro
   della famiglia Spalt-like (SALL), un fattore di trascrizione coinvolto nello
