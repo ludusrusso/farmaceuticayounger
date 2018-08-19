@@ -5,6 +5,15 @@ description: >-
   Nuovo meccanismo d'azione della Talidomide: degradazione di SALL4, un membro
   della famiglia Spalt-like (SALL), un fattore di trascrizione coinvolto nello
   sviluppo degli arti.
+socialDesc: >-
+  #HotThisWeek in #FarmaceuticaYounger N.63
+
+
+  Uno studio condotto dai ricercatori del Dana-Farber Cancer Institute ha
+  scoperto che la talidomide potrebbe indurre teratogenicità degradando una
+  proteina chiave nel suo meccanismo antitumorale, SALL4, un membro della
+  famiglia Spalt-like (SALL), un fattore di trascrizione coinvolto nello
+  sviluppo degli arti. 
 image: /img/img_3131.jpg
 ---
 ![Nuovo meccanismo d'azione della Talidomide: degradazione di SALL4](/img/img_3131.jpg)
