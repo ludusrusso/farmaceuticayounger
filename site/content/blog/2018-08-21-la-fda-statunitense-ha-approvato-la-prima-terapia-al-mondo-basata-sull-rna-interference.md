@@ -34,4 +34,4 @@ Dopo vennt'anni di ricerche la Alnylam Pharmaceuticals è riuscita a superare qu
 
 L'approvazione della FDA è basata sui positivi risultati del trial di **Fase III APOLLO**, il più ampio studio controllato mai condotto sull'amiloidosi hATTR, i cui risultati sono stati pubblicati sul [_New England Journal of Medicine_](https://www.nejm.org/doi/full/10.1056/NEJMoa1716153).
 
-![](/img/138314_productshot_large_6.25.18.jpg)
+![null](/img/138314_productshot_large_6.25.18.jpg)
