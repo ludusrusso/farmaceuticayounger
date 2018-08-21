@@ -30,7 +30,7 @@ L'amiloidosi hATTR, è una malattia rara, ereditaria, potenzialmente letale caus
 
 L'RNAi è un processo scoperto per la prima volta nel 1998 dai biologi molecolari statunitensi Andrew Fire e Craig Mello, che si aggiudicarono il premio Nobel per la Medicina nel 2006. Il concetto alla base delle terapie RNAi è abbastanza semplice: silenziare l'espressione genica della proteina causa della malattia, intercettando il relativo RNA messaggero. Sfruttare il potenziale terapeutico di RNAi non era cosa semplice. Le difficoltà erano molte come il trasporto delle piccole e vulnerabili molecole di RNA interferente sintetico (siRNA) nel sito di azione, proteggendole al contempo dalla distruzione da parte degli enzimi nucleasi.
 
-Dopo vennt'anni di ricerche la Alnylam Pharmaceuticals è riuscita a superare questi ostacoli racchiudendo il suo siRNA sintetico in una nanoparticella a base di lipidi che lo trasporta nel suo sito d’azione, il fegato. Le cifre spese da Alnylam nella ricerca del farmaco si aggirano intorno ai 2 miliardi di dollari.
+Dopo vennt'anni di ricerche la Alnylam Pharmaceuticals è riuscita a superare questi ostacoli racchiudendo il suo siRNA sintetico in una nanoparticella a base di lipidi che lo trasporta nel suo sito d’azione, il fegato. Le cifre spese da Alnylam nella ricerca del farmaco si aggirano intorno ai 2 bilioni di dollari.
 
 L'approvazione della FDA è basata sui positivi risultati del trial di **Fase III APOLLO**, il più ampio studio controllato mai condotto sull'amiloidosi hATTR, i cui risultati sono stati pubblicati sul [_New England Journal of Medicine_](https://www.nejm.org/doi/full/10.1056/NEJMoa1716153).
 
