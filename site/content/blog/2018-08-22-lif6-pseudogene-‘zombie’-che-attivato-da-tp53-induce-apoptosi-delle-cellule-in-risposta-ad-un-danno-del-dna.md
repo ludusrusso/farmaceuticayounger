@@ -35,4 +35,4 @@ Lynch e i ricercatori hanno potuto osservare l'azione di LIF6 studiando cellule 
 
 Il prossimo step dei ricercatori sarà quello di capire le basi genetiche di questa resistenza alle neoplasie nella speranza di trovare il modo di sviluppare farmaci che imitino i comportamenti del LIF6 caratteristici dell'elefante.
 
-![](/img/fx1_lrg.jpg)
+![null](/img/fx1_lrg.jpg)
