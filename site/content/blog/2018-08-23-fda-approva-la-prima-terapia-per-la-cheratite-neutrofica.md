@@ -37,4 +37,4 @@ A Oxervate è stata assegnata la designazione Priority Review data dalla FDA a q
 
 La FDA ha concesso l'approvazione di Oxervate a Dompé farmaceutici. Cenegermin è il frutto di decenni di ricerca made in Italy, a partire dagli studi del Premio Nobel Rita Levi Montalcini che scoprì il nerve growth factor (NGF), continuati con la collaborazione tra la Dompè e centri di ricerca internazionali che hanno contribuito allo sviluppo del farmaco nelle sue varie fasi.
 
-![](/img/016191843.jpg)
+![null](/img/016191843.jpg)
