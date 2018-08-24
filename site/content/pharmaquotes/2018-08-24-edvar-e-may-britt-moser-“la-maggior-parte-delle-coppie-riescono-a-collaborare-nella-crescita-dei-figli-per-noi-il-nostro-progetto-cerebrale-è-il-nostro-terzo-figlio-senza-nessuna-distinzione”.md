@@ -3,7 +3,7 @@ title: >-
   EDVAR E MAY-BRITT MOSER - “La maggior parte delle coppie riescono a
   collaborare nella crescita dei figli: per noi il nostro progetto cerebrale è
   il nostro terzo figlio, senza nessuna distinzione”
-date: '2018-08-24T21:02:02+02:00'
+date: '2018-08-25T21:30:00+02:00'
 description: >-
   I coniugi Moser, Edvard Moser e la moglie May-Britt, neuropsicologi e
   psicologi norvegesi sono stati i primi norvegesi a vincere il Premio Nobel per
