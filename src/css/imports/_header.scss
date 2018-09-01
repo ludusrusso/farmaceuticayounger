@@ -3,7 +3,7 @@ $header-color: white;
 
 header {
     background-color: $header-bg;  
-    
+
     .nav {
         display: flex;
         flex-direction: column;
@@ -76,7 +76,7 @@ header {
     }
 
     i {
-        font-size: 13pt;
+        font-size: 16pt;
     }
 
     .collapsed {
@@ -112,5 +112,12 @@ header {
                 }
             }
         }
+    }
+}
+
+.nav-social {
+    padding: 10px;
+    a {
+        font-size: 16pt;
     }
 }
