@@ -39,7 +39,7 @@ socialDesc: >-
   una pura perdita di tempo, per lui e per chi dovesse insegnargli”.  
 image: /img/img_3230.jpg
 ---
-![](/img/img_3230.jpg)
+![null](/img/img_3230.jpg)
 
 **John Gurdon**, biologo e scienziato britannico, pioniere nella ricerca sulle cellule staminali, Professore di Biologia cellulare all’università di Cambridge, direttore dell’istituto che porta il suo nome, il _Gurdon Institute_ di Cambridge, è stato insignito del Premio Nobel per la Medicina nel 2012 insieme al medico giapponese Shinya Yamanaka per i loro lavori sulle cellule staminali pluripotenti indotte.
 
@@ -47,10 +47,4 @@ Fu il primo a clonare un vertebrato, l'anfibio Xenopo liscio, isolando il nucleo
 
 Nonostante i suoi riconoscimenti il suo percorso di studi non fu affatto facile e non furono certo dolci le parole pronunciate dal suo professore di Biologia nel corso dei suoi studi nel prestigioso Eton College: 
 
-```
-“Credo che Gurdon abbia in mente di diventare uno scienziato. Ad oggi, mostrare queste ambizioni è parecchio ridicolo. Se non è in grado di imparare le basi della biologia, non avrà nessuna possibilità di diventare uno specialista. Sarebbe una pura perdita di tempo, per lui e per chi dovesse insegnargli”.  
-```
-
-```
- 
-```
+> Credo che Gurdon abbia in mente di diventare uno scienziato. Ad oggi, mostrare queste ambizioni è parecchio ridicolo. Se non è in grado di imparare le basi della biologia, non avrà nessuna possibilità di diventare uno specialista. Sarebbe una pura perdita di tempo, per lui e per chi dovesse insegnargli
