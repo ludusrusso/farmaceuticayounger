@@ -28,6 +28,4 @@ I coniugi Moser, Edvard e la moglie May-Britt, neuropsicologi e psicologi norveg
 
 Il nostro sistema di localizzazione e navigazione è composto da diversi tipi di cellule specializzate che continuamente calcolano la posizione attuale, la distanza che si è percorso, la direzione nella quale ci si sta muovendo e la velocità. L'insieme di queste cellule, le “cellule a griglia”, formano una mappa dinamica dello spazio che non soltanto opera nel presente ma viene immagazzinata e conservata nella memoria per il futuro.
 
-```
-"Most couples manage to cooperate on child raising - for us, our brain project is our third child, so nothing different, really." - Edvard Moser
-```
+> Most couples manage to cooperate on child raising - for us, our brain project is our third child, so nothing different, really.
