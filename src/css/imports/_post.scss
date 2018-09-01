@@ -25,5 +25,35 @@ article.post {
             font-size: 13pt;
         }
 
+        blockquote {
+            background: #eee;
+            border-radius: 5px;
+            padding: 0;
+            margin: 0;
+            font-style: italic;
+            position: relative;
+            padding: 25px;
+            &:before {
+                display: block;
+                padding-left: 10px;
+                content: "\201C";
+                font-size: 80px;
+                position: absolute;
+                color: #7a7a7a;
+                padding: 0;
+            }
+            &:after {
+                display: block;
+                padding-left: 10px;
+                content: "\201D";
+                font-size: 80px;
+                position: absolute;
+                color: #7a7a7a;
+                right: 20px;
+                padding: 0;
+            }
+
+        }
+
     }
 }
