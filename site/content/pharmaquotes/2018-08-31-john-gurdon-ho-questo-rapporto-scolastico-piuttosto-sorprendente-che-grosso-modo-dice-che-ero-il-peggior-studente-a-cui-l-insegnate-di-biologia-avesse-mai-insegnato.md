@@ -3,7 +3,7 @@ title: >-
   JOHN GURDON - "Ho questo rapporto scolastico, piuttosto sorprendente, che
   grosso modo dice che ero il peggior studente a cui l'insegnate di biologia
   avesse mai insegnato"
-date: '2018-09-01T09:46:00+02:00'
+date: '2018-09-01T10:58:00+02:00'
 description: >-
   John Gurdon, biologo e scienziato britannico, pioniere nella ricerca sulle
   cellule staminali, Professore di Biologia cellulare all’università di
