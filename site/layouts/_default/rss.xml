@@ -18,6 +18,7 @@
       <link>{{ .Permalink }}</link>
       {{ if .Params.image }}
         <image> {{ .Params.image | absURL }} </image>
+        <media:content url="{{ .Params.image | absURL }}" medium="image" />
       {{ end }}
       {{ if .Params.socialDesc }}
         <social> {{ .Params.socialDesc }}</social>
