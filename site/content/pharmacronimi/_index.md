@@ -1,3 +1,3 @@
 ---
-title: "Pharma Acronimi"	title: GMP = Good Manufacturing Practice
+title: "Pharma Acronimi"
 ---
