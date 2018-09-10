@@ -1,6 +1,6 @@
 ---
 title: GMP = Good Manufacturing Practice
-date: '2018-09-10T09:32:45+02:00'
+date: '2018-09-10T08:32:45+02:00'
 description: >-
   Le Good Manufacturing Practice (GMP), ovvero le Norme di Buona Fabbricazione
   dei Medicinali sono un insieme di regole che descrivono i metodi, le
