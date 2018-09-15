@@ -1,6 +1,6 @@
 ---
 title: ARVID CARLSSON - "Thinking is movement confined to the brain"
-date: '2018-09-15T08:25:30+02:00'
+date: '2018-09-15T09:40:00+02:00'
 description: >-
   Arvid Carlsson, medico e farmacologo svedese, Professore di Farmacologia
   presso le Università di Lund e di Göteborg, vincitore del Premio Nobel per la
