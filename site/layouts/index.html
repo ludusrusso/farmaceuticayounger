@@ -1,10 +1,12 @@
 {{ define "main" }}
 {{ partial "profile" . }}
 
-<div class="post-preview-list">
+<div class="post-preview-list" id="list-container">
+</div>
+
+<div id="post-list-hidden">
 {{ range first 12 (where .Data.Pages "Section" "in" (slice "blog" "hotthisweek" "pharmacronimi" "pharmaquotes")) }}
     {{ partial "post-preview" . }}
 {{ end }}
 </div>
-
 {{ end }}

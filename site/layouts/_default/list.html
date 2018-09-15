@@ -1,11 +1,15 @@
 {{ define "main" }}
 {{ partial "profile" . }}
 
-<div class="post-preview-list">
+<div class="post-preview-list" id="list-container">
+</div>
+
+<div id="post-list-hidden">
     {{ range .Paginator.Pages.ByDate.Reverse }}
         {{ partial "post-preview" . }}
     {{ end }}
 </div>
+
 
 {{ template "_internal/pagination.html" . }}
 
