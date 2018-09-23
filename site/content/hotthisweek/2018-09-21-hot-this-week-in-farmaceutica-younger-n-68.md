@@ -38,7 +38,7 @@ image: /img/img_3475.jpg
 ---
 ![null](/img/img_3475.jpg)
 
-Un team di ricercatori tedeschi del _Monasterium Laboratory, Skin and Hair Research Solutions_ di Monaco hanno scoperto un recettore nei follicoli piliferi (**OR2AT4**) che si attiva in risposta a una molecola sintetica, **Sandalore®**, innescando una cascata cellulare che regola la crescita dei capelli.
+Un team di ricercatori tedeschi del _Monasterium Laboratory, Skin and Hair Research Solutions_ di Monaco hanno scoperto un recettore nei follicoli piliferi (**OR2AT4**) che si attiva in risposta a una molecola sintetica, **Sandalore®**, innescando una cascata cellulare che regola la crescita dei capelli. Lo studio è stato pubblicato su [_Nature Communications_](https://www.nature.com/articles/s41467-018-05973-0).
 
 Originariamente identificati nel naso, i recettori olfattivi (OR), espressi in tutto il corpo, catturano le molecole odoranti, innescando dei meccanismi cellulare che regolano le funzioni fisiologiche delle cellule. Studi precedenti condotti da ricercatori dell'Università di Miami, in Florida su uno specifico recettore olfattivo, OR2AT4, che si trova sulle cellule della pelle, hanno osservato un aumento della proliferazione dei cheratinociti dopo il legame di Sandalore®, una molecola sintetica utilizzata in molti profumi e prodotti, al recettore OR2AT4.
 
