@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.70
-date: '2018-10-05T11:37:34+02:00'
+date: '2018-10-07T09:45:34+02:00'
 description: >-
   La FDA statunitense ha approvato NUZYRA ™ (omadaciclina) per il trattamento
   negli adulti della polmonite batterica acquisita in comunità (CABP) e per le
