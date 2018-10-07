@@ -45,7 +45,10 @@ socialDesc: >-
   appuntamenti con la #HotThisWeek, la rubrica con le notizie più #Hot sul
   panorama internazionale del Farmaceutico. Ogni #domenica, solo su
   #FarmaceuticaYounger!!!
+image: /img/img_3588.jpg
 ---
+![](/img/img_3588.jpg)
+
 La FDA statunitense ha approvato **NUZYRA ™ (omadaciclina) **per il trattamento negli adulti della polmonite batterica acquisita in comunità (**CABP**) e per le infezioni acute della pelle e della struttura cutanea (**ABSSSI**). L'omadaciclina è un nuovo antibiotico ad ampio spettro appartenente alla sottoclasse delle amminometilcicline, analogi della tetraciclina. Viene somministrato per via endovenosa e orale una volta al giorno ed è dotato di un'attività ad ampio spettro su Gram-positivi, incluso Staphylococcus aureus meticillino-resistente (MRSA), Streptococcus pneumoniae, Enterococco resistente alla vancomicina, e Gram-negativi, alcuni anaerobi e batteri atipici come Legionella e Chlamydia. Il meccanismo d'azione dell'omadaciclina è simile a quello di altre tetracicline ovvero inibizione della sintesi proteica batterica.
 
 Il farmaco approvato dalla FDA è di _Paratek Pharmaceuticals_, una società biofarmaceutica focalizzata sullo sviluppo e la commercializzazione di terapie basate sulla chimica delle tetracicline. La società prevede di rendere disponibile NUZYRA ™ sul mercato degli Stati Uniti nel primo trimestre del 2019.
