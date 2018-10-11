@@ -44,4 +44,4 @@ I rischi associati all'iniezione di silicone insieme all'impianto di OZURDEX non
 
 Come misura precauzionale, i lotti di OZURDEX identificati come difettosi sono stati ritirati dal mercato europeo.
 
-![](/img/ozurdex.jpg)
+![null](/img/ozurdex.jpg)
