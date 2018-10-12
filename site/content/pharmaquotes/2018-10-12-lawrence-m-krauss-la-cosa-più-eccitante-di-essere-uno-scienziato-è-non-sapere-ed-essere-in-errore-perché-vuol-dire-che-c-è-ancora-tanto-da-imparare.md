@@ -2,7 +2,7 @@
 title: >-
   LAWRENCE M. KRAUSS - "La cosa più eccitante di essere uno scienziato è non
   sapere ed essere in errore. Perché vuol dire che c'è ancora tanto da imparare"
-date: '2018-10-12T09:24:38+02:00'
+date: '2018-10-13T09:40:00+02:00'
 description: >
   Lawrence Maxwell Krauss, fisico, astronomo e saggista statunitense, Professore
   di fisica e di astronomia alla Arizona State University, è autore di numerosi
