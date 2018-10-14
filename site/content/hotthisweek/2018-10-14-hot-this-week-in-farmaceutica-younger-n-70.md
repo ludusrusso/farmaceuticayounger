@@ -1,5 +1,5 @@
 ---
-title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.70
+title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.71
 date: '2018-10-14T09:27:08+02:00'
 description: >-
   In Italia è stata approvata la prima tripla associazione, somministrata in un
