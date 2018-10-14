@@ -43,9 +43,9 @@ socialDesc: >-
   farmaceutico, ogni domenica solo su #FarmaceuticaYounger...
 image: /img/img_3697.jpg
 ---
-![](/img/img_3697.jpg)
+![null](/img/img_3697.jpg)
 
-In Italia è stata approvata la prima tripla associazione, somministrata in un unico inalatore, indicata per il trattamento della **broncopneumopatia cronica ostruttiva** (BPCO). Il farmaco firmato _Chiesi Farmaceutici _è costituito da beclometasone dipropionato, corticosteroide antinfiammatorio per inalazione (ICS), formoterolo, broncodilatatore beta2-agonista ad azione rapida e a lunga durata (LABA) e glicopirronio, antagonista muscarinico a lunga durata (LAMA).
+In Italia è stata approvata la prima tripla associazione, somministrata in un unico inalatore, indicata per il trattamento della **broncopneumopatia cronica ostruttiva** (BPCO). Il farmaco firmato [_Chiesi Farmaceutici_](https://www.chiesi.com/nuovo-studio-pubblicato-su-the-lancet-mostra-la-superiorita-della-tripla-associazione-fissa-extrafine-di-chiesi-per-la-bpco/)_ _è costituito da beclometasone dipropionato, corticosteroide antinfiammatorio per inalazione (ICS), formoterolo, broncodilatatore beta2-agonista ad azione rapida e a lunga durata (LABA) e glicopirronio, antagonista muscarinico a lunga durata (LAMA).
 
 La tripla associazione fissa **ICS/LABA/LAMA** mette insieme in un unico spray tre principi attivi: uno steroide inalatorio (ICS) e due broncodilatatori (LABA/LAMA). Lo steroide inalatorio interviene sul processo infiammatorio che aumenta il rischio di infezioni e di riacutizzazioni, responsabili della progressione della malattia e del peggioramento della qualità di vita. I broncodilatatori, invece, agiscono sull’ostruzione delle piccole vie aeree, cui è legata la dispnea che è uno dei sintomi principali della BPCO.
 
