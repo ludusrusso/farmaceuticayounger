@@ -2,7 +2,7 @@
 title: >-
   LISA RANDALL - "La Scienza è una combinazione di teoria ed esperimento e i due
   insieme sono il modo in cui si genera il progresso"
-date: '2018-10-18T14:30:10+02:00'
+date: '2018-10-20T09:40:00+02:00'
 description: >
   Lisa Randall, fisica statunitense, specializzata in fisica delle particelle e
   cosmologia, membro della American Academy of Arts and Sciences e della
