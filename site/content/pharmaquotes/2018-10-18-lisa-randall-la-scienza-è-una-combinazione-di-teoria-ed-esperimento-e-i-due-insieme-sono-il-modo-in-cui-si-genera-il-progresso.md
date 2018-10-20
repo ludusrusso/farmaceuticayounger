@@ -1,7 +1,7 @@
 ---
 title: >-
   LISA RANDALL - "La Scienza è una combinazione di teoria ed esperimento e i due
-  insieme sono il modo in cui si genera il progresso"
+  insieme portano al progresso"
 date: '2018-10-20T09:40:00+02:00'
 description: >
   Lisa Randall, fisica statunitense, specializzata in fisica delle particelle e
@@ -32,9 +32,9 @@ socialDesc: >+
   frizzanti degli scienziati internazionali. Ogni #sabato, solo qui su
   #FarmaceuticaYounger...
 
-image: /img/img_3744.jpg
+image: /img/img_3749.jpg
 ---
-![](/img/img_3744.jpg)
+![](/img/img_3749.jpg)
 
 **Lisa Randall**, fisica statunitense, specializzata in fisica delle particelle e cosmologia, membro della American Academy of Arts and Sciences e della American Physical Society, è stata la prima donna a essere titolare di una cattedra al dipartimento di fisica della Princeton University e a quello di fisica teorica del Massachusetts Institute of Technology e della Harvard University.
 
