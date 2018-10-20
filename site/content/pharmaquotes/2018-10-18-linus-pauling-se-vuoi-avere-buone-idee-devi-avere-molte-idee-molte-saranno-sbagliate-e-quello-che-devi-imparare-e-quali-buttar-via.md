@@ -1,7 +1,7 @@
 ---
 title: >-
-  LINUS PAULING - "Se vuoi avere buone idee devi avere molte idee. Molte saranno
-  sbagliate e quello che devi imparare e quali buttar via"
+  LINUS PAULING - "Se vuoi avere buone idee devi averne molte. Molte saranno
+  sbagliate ma quello che devi imparare è capire quali scartare"
 date: '2018-10-27T09:40:00+02:00'
 description: >-
   Linus Carl Pauling, chimico, cristallografo e attivista statunitense, tra i
