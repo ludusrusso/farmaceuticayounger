@@ -36,9 +36,9 @@ socialDesc: >
   degli scienziati internazionali...
 
   Stay Tuned with #FarmaceuticaYounger!
-image: /img/img_3737.jpg
+image: /img/img_3748.jpg
 ---
-![](/img/img_3737.jpg)
+![](/img/img_3748.jpg)
 
 **Linus Carl Pauling**, chimico, cristallografo e attivista statunitense, tra i più celebri scienziati del XX secolo ed è stato uno dei pochi vincitori di due premi Nobel, per la Chimica nel 1954 e per la Pace nel 1962. Pauling è stato l'unico tra i doppi vincitori del Nobel a non averlo condiviso con altre personalità.
 
