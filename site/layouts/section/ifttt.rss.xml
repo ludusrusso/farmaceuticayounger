@@ -12,7 +12,7 @@
     {{ with .OutputFormats.Get "RSS" }}
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
-    {{ range .Pages }}
+    {{ range .Site.Pages }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
@@ -21,12 +21,13 @@
         <media:content xmlns:media="http://search.yahoo.com/mrss/" url="{{ .Params.image | absURL }}" medium="image" />
       {{ end }}
       {{ if .Params.socialDesc }}
-        <social> {{ .Params.socialDesc }}</social>
+        <description>{{ .Params.socialDesc }}</description>
+      {{ else }} 
+        <description>{{ .Summary | html }}</description>
       {{ end }}
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Summary | html }}</description>
     </item>
     {{ end }}
   </channel>
