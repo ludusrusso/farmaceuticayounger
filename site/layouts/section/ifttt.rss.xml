@@ -21,9 +21,9 @@
         <media:content xmlns:media="http://search.yahoo.com/mrss/" url="{{ .Params.image | absURL }}" medium="image" />
       {{ end }}
       {{ if .Params.socialDesc }}
-        <description>{{ .Params.socialDesc }}</description>
+        <content type="html" xml:base="{{ .Permalink }}">{{ .Params.socialDesc }}</content>
       {{ else }} 
-        <description>{{ .Summary | html }}</description>
+        <content>{{ .Summary | html }}</content>
       {{ end }}
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
