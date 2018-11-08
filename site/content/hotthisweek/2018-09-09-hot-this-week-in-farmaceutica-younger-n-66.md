@@ -38,7 +38,7 @@ socialDesc: >+
 
 image: ''
 ---
-![](/img/image1.jpeg)
+![null]()
 
 Sanofi ha ottenuto dalla Commissione europea l’ok per l’autorizzazione all’immissione in commercio di **caplacizumab** (ALX-0081), prima terapia specifica per il trattamento della **aTTP** (porpora trombotica trombocitopenica acquisita).
 
