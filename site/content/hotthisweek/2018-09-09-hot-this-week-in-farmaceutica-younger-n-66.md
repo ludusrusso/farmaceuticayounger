@@ -36,7 +36,7 @@ socialDesc: >+
   farmaceutico internazionale, i #FarmaAcronimi direttamente dal mondo
   dell'industria farmaceutica, e tanto altro ancora...
 
-image: /img/image1.jpeg
+image: ''
 ---
 ![](/img/image1.jpeg)
 
