@@ -64,7 +64,7 @@ Aree di stoccaggio
 
 Aree adibite al Laboratorio di controllo qualità
 
-3.26 Di norma i laboratori utilizzati per il controllo qualità dovranno esseres eparati dalle zone adibite alla produzione. Specialmente per quei laboratori utilizzati per il controllo di sostanze biologiche e microbiologiche nonchè radioisotopi; tali laboratori dovranno essere separati l'uno dall'altro.
+3.26 Di norma i laboratori utilizzati per il controllo qualità dovranno essere separati dalle zone adibite alla produzione. Specialmente per quei laboratori utilizzati per il controllo di sostanze biologiche e microbiologiche nonchè radioisotopi; tali laboratori dovranno essere separati l'uno dall'altro.
 
 3.27 I laboratori di controllo dovranno essere progettati in modo da essere idonei alle operazioni che in essi verranno effettuate. Lo spazion dovrà risultare sufficiente ad evitare frammischiamenti il rischio di contaminazione crociata; dovranno essere disponibili spazi adeguati per conservare i campioni e i relativi documenti.
 
