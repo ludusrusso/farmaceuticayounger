@@ -27,3 +27,25 @@ Aspetti generali
 3.8 Gli spazi adibiti alla lavorazione e allo stoccaggio durante la produzione dovranno essere tali da consentire la disposizione ordinata e logica di attrezzature e materiali così da minimizzare il rischio di frammischiamento tra medicinali diversi o tra i loro componenti, escludere la contaminazione crociata e minimizzare il rischio che uno delle fasi del processo di fabbricazione o di controllo venga omesso o mal eseguito.
 
 3.9 Nei luoghi in cui le materie prime e i materiali di confezionamento primario siano esposti all'ambiente, le superfici interne (pareti, pavimenti e soffitti) dovranno essere lisce, esenti da crepe e giunture sconnesse e tali da non produrre polvere e da poter essere pulite e all'occorrenza disinfettate in modo agevole ed efficace.
+
+3.10 Le tubazioni, gli impianti di illuminazione, i punti di ventilazione e gli altri servizi dovranno essere progettati e disposti in modo da evitare che vengano a crearsi rientranze difficili da pulire. Per quanto possibile dovrebbero risultare accessibili, per la manutenzione, dall'esterno delle aree adibite alla fabbricazione.
+
+3.11 Le tubazioni di scarico dovranno essere di dimensioni adeguate e disporre di pozzetti sifonati. Ove possibile andranno evitate le canalette aperte; qualora la loro presenza si riveli necessaria dovranno essere poco profonde per facilitarne la pulizia e la disinfezione.
+
+3.12 Le aree adibite alla produzione dovranno essere ventilate in modo efficace, disporre di apparecchiature per il controllo del condizionamento dell'aria (controllo della temperatura, all'occorrenza dell'umidità e la filtrazione) adeguate tanto ai prodotti ivi trattati e alle relative operazioni quanto all'ambiente esterno.
+
+3.13 La pesata delle materie prime dovrà, di norma, aver luogo in un locale di pesatura separato appositamente progettato.
+
+3.14 Nei casi in cui vi sia produzione di polvere (ad es. durante le operazioni di campionamento, pesatura, miscelazione e lavorazione nonchè durante il confezionamento di prodotti secchi) si dovranno prendere specifiche precauzioni per impedire la contaminazione crociata ed agevolare la pulizia.
+
+3.15 I locali per il confezionamento dei medicinali dovranno essere adeguatamente progettati e disposti in modo da evitare frammischiamenti e/o contaminazione crociata.
+
+3.16 Le aree adibite alla produzione dovranno essere ben illuminate, in particolar modo laddove si svolgono controlli visivi sulla linea di produzione.
+
+3.17 I controlli nel corso del processo potranno aver luogo nell'area adibita alla produzione purchè essi non comportino nessun rischio per la produzione stessa.
+
+Aree di stoccaggio
+
+3.18 Le aree di stoccaggio dovranno avere una capacità sufficiente a consentire di depositarvi in modo ordinato le varie tipologie di materiali e di prodotti: materie prime e materiali di confezionamento, prodotti semilavorati, sfusi e finiti, prodotti in quarantena, approvati, respinti, resi o richiamati.
+
+3.19 Le aree di stoccaggio dovranno essere progettate o adattate in modo da garantire buone condizioni di conservazione; dovranno in particolare risultare pulite e asciutte e venire altresì mantenute
