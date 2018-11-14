@@ -49,9 +49,9 @@ socialDesc: >
 
   Lorbrena è attualmente approvato in Giappone per il trattamento di questo
   particolare tipo di carcinoma polmonare non a piccole cellule.
-image: /img/image1.jpeg
+image: /img/adobe-spark-post.png
 ---
-![null](/img/image1.jpeg)
+![null](/img/adobe-spark-post.png)
 
 La Food and Drug Administration (FDA) statunitense ha concesso l'approvazione accelerata di **Lorbrena** (_lorlatinib_), un inibitore di terza generazione di tirosina chinasi (TKI) per pazienti con carcinoma polmonare non a piccole cellule (**NSCLC**, _Non-small-cell lung carcinoma_) portatori di riarrangiamenti di ALK (ALK-positivi, o ALK+), che hanno avuto una ricaduta della malattia dopo trattamento con inibitori ALK. ALK è un recettore tirosin-chinasico transmembrana umano codificato dal gene ALK il cui riarrangiamento porta ad un'alterazione genica causa di questo tipo di tumore che colpisce i polmoni. 
 
