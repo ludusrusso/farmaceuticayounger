@@ -40,9 +40,9 @@ socialDesc: >
   citazioni più frizzanti degli scienziali di fama mondiale e la #HotThisWeek,
   ogni domenica, con le notizie più #Hot sul panorama internazionale del
   Farmaceutico...
-image: /img/lauwerence.jpeg
+image: /img/img_silvia.jpg
 ---
-![null](/img/lauwerence.jpeg)
+![null](/img/img_silvia.jpg)
 
 **Lawrence Maxwell Krauss**, fisico, astronomo e saggista statunitense, Professore di fisica e di astronomia alla Arizona State University, è autore di numerosi best-seller tra cui _“A Universe from Nothing”_, un universo dal nulla, che ha ribaltato le prospettive teologico- scientifiche dell’interrogativo più antico al mondo: l’universo viene da Dio o dal nulla?
 
