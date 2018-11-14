@@ -36,9 +36,9 @@ socialDesc: >+
   farmaceutico internazionale, i #FarmaAcronimi direttamente dal mondo
   dell'industria farmaceutica, e tanto altro ancora...
 
-image: /img/adobe-spark-post.png
+image: /img/img_4376.jpg
 ---
-![null](/img/adobe-spark-post.png)
+![null](/img/img_4376.jpg)
 
 Sanofi ha ottenuto dalla Commissione europea l’ok per l’autorizzazione all’immissione in commercio di **caplacizumab** (ALX-0081), prima terapia specifica per il trattamento della **aTTP** (porpora trombotica trombocitopenica acquisita).
 
