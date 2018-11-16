@@ -1,12 +1,17 @@
 ---
-title: 'ALEXANDER FLEMING - "Le menti non preparate non riescono a vedere quando l''opportunità ti tende la mano"'
-date: 2018-06-02T08:00:40+00:00
-draft: false
-image: /img/alexander-fleming-le-menti-non-preparate-non-riescono-a-vedere-quando-lopportunita-ti-tende-la-mano.md/img_2198.jpg
-tags: [PharmaQuotes]
+title: ALEXANDER FLEMING - "A volte si trova ciò che non si sta cercando"
+date: 2018-06-02T08:00:40.000Z
+description: >-
+  Alexander Fleming, medico, biologo e farmacologo scozzese, è conosciuto in
+  tutto il mondo per la scoperta della Penicillina per cui ricevette il premio
+  Nobel per la medicina nel 1945 insieme a Ernst Chain e Howard Florey.
+socialDesc: >-
+  Alexander Fleming, medico, biologo e farmacologo scozzese, è conosciuto in
+  tutto il mondo per la scoperta della Penicillina per cui ricevette il premio
+  Nobel per la medicina nel 1945 insieme a Ernst Chain e Howard Florey.
+image: /img/fleming.jpg
 ---
-
-![IMG_2198.JPG](/img/alexander-fleming-le-menti-non-preparate-non-riescono-a-vedere-quando-lopportunita-ti-tende-la-mano.md/img_2198.jpg)
+![IMG_2198.JPG](/img/fleming.jpg)
 
 **Alexander Fleming**, medico, biologo e farmacologo scozzese, è conosciuto in tutto il mondo per la scoperta della **Penicillina** per cui ricevette il **premio Nobel per la medicina nel 1945** insieme a Ernst Chain e Howard Florey.
 
