@@ -1,5 +1,5 @@
 ---
-title: ELIZABETH BLACKBURN - "La Scienza è un atteggiamento creativo dell'umanità..."
+title: ELIZABETH BLACKBURN - "La Scienza è un atteggiamento creativo dell'umanità"
 date: '2018-12-01T09:33:00+01:00'
 description: >-
   Elizabeth Helen Blackburn, biologa australiana naturalizzata statunitense è
