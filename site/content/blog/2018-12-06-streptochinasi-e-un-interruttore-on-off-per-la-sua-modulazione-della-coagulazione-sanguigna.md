@@ -1,6 +1,6 @@
 ---
 title: >-
-  Streptochinasi e DNA interruttore per la modulazione della coagulazione
+  Streptochinasi e un DNA interruttore per la modulazione della coagulazione
   sanguigna
 date: '2018-12-06T09:49:06+01:00'
 description: >-
@@ -29,10 +29,10 @@ Nelle ore successive ad un infarto, una dose endovena di streptochinasi proteica
 
 La streptochinasi agisce indirettamente per sciogliere il coagulo, legandosi al plasminogeno e convertendolo nella sua forma attiva, la plasmina, che scompone le proteine del coagulo. I ricercatori hanno usato un filamento di DNA che lega un inibitore in grado di riconoscere il DNA della streptochinasi e fungere da interruttore per impedirgli di attivare il plasminogeno.
 
-Più nel dettaglio, il team ha collegato un breve filamento di DNA (_Tether DNA_) alla streptochinasi al quale, un suo filamento complementare di DNA con ancorata un inibitore, una volta riconosciuto, si sarebbe appaiato. Quando la streptochinasi così modificata si lega al plasminogeno, l'inibitore impedisce a quest'ultimo di convertirsi in plasmina. Successivamente per riattivare la streptochinasi i ricercatori hanno introdotto un filamento di DNA trigger, complementare al complesso del filamento di DNA inibitore. Il filamento di DNA inibitore si stacca, riattivando il complesso del plasminogeno. Posizionare l'inibitore su un filamento di DNA complementare invece di legarlo direttamente alla streptochinasi rende il sistema più modulare e più facile da sintetizzare.
+Più nel dettaglio, il team ha collegato un breve filamento di DNA (_Tether DNA_) alla streptochinasi al quale, un suo filamento complementare di DNA con ancorato un inibitore, una volta riconosciuto, si sarebbe appaiato. Quando la streptochinasi così modificata si lega al plasminogeno, l'inibitore impedisce a quest'ultimo di convertirsi in plasmina. Successivamente per riattivare la streptochinasi i ricercatori hanno introdotto un filamento di DNA trigger, complementare al complesso del filamento di DNA inibitore. Il filamento di DNA inibitore si stacca, riattivando il complesso del plasminogeno. Posizionare l'inibitore su un filamento di DNA complementare invece di legarlo direttamente alla streptochinasi rende il sistema più modulare e più facile da sintetizzare.
 
 Il team ha testato questo sistema su coaguli di sangue in vitro, notando che l'enzima riattivato ha sciolto l'87% dei coaguli freschi in un'ora, mentre la forma inattiva era in grado di scioglierne meno del 5% nello stesso tempo. Aggiungendo sequenze specifiche al DNA tether e al filamento complementare utilizzato per riattivare l'enzima, i ricercatori potrebbero programmare la streptochinasi in modo che agisca solo in determinati punti o in determinati momenti.
 
 Negli studi futuri si dovrà testare la stabilità del filamento di DNA in vivo.
 
-> "È emozionante vedere come questo nuovo studio utilizzi la programmabilità del DNA e la sua capacità di essere reattivo agli input per colpire un enzima con finalità terapeutiche. E' interessante osservare come piccole molecole legate al DNA possano essere in futuro utilizzate per una varietà di applicazioni nella medicina di precisione" Janarthanan Jayawickramarajah, Tulane University.
+> È emozionante vedere come questo nuovo studio utilizzi la programmabilità del DNA e la sua capacità di essere reattivo agli input per colpire un enzima con finalità terapeutiche. E' interessante osservare come piccole molecole legate al DNA possano essere in futuro utilizzate per una varietà di applicazioni nella medicina di precisione. Janarthanan Jayawickramarajah, Tulane University.
