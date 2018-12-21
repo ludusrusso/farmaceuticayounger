@@ -3,6 +3,24 @@ title: >-
   PIERO ANGELA - "Il peggior nemico della cultura è la noia, la mancanza di
   chiarezza, o l'assenza di creatività"
 date: 2017-11-25T09:00:59.000Z
+description: >-
+  Piero Angela, scrittore, giornalista, divulgatore scientifico, primo
+  conduttore del TG2, è noto al grande pubblico soprattutto per la realizzazione
+  nel 1981 della rubrica scientifica "Quark". Andato in onda per la prima volta
+  più di 35 anni fa, Quark è la prima trasmissione televisiva di divulgazione
+  scientifica rivolta al pubblico generale, che sfrutta in modo nuovo e
+  originale le risorse della comunicazione televisiva: i documentari della BBC e
+  di David Attenborough, i cartoni animati di Bruno Bozzetto la cui immediatezza
+  risulta efficacissima per spiegare i concetti più difficili.
+socialDesc: >-
+  Piero Angela, scrittore, giornalista, divulgatore scientifico, primo
+  conduttore del TG2, è noto al grande pubblico soprattutto per la realizzazione
+  nel 1981 della rubrica scientifica "Quark". Andato in onda per la prima volta
+  più di 35 anni fa, Quark è la prima trasmissione televisiva di divulgazione
+  scientifica rivolta al pubblico generale, che sfrutta in modo nuovo e
+  originale le risorse della comunicazione televisiva: i documentari della BBC e
+  di David Attenborough, i cartoni animati di Bruno Bozzetto la cui immediatezza
+  risulta efficacissima per spiegare i concetti più difficili.
 image: /img/adobe-spark-post125.png
 ---
 ![IMG_3576 2.JPG](/img/adobe-spark-post125.png)
