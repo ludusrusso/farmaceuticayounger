@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.81
-date: '2018-12-20T16:40:26+01:00'
+date: '2018-12-23T10:00:00+01:00'
 description: >
   La Food and Drug Administration (FDA) statunitense ha approvato LYNPARZA
   (Olaparib), frutto della collaborazione tra AstraZeneca e Merck, come terapia
