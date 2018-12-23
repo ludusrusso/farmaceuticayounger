@@ -1,0 +1,16 @@
+.newsletter {
+    padding: 20px;
+    background: #eee;
+
+    display: flex;
+    flex-direction: column;
+
+    a {
+        padding: 20px;
+        text-decoration: none;
+        color: white;
+        text-align: center;
+        background: #a93c44;
+        border-radius: 9999px;
+    }
+}
