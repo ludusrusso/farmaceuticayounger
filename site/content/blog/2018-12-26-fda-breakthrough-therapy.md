@@ -1,6 +1,6 @@
 ---
 title: La FDA statunitense e la Breakthrough Therapy
-date: '2018-12-26T10:33:54+01:00'
+date: '2018-12-26T11:33:00+01:00'
 description: >-
   Secondo il dizionario, la parola “breakthrough” significa letteralmente “un
   improvviso e importante sviluppo o scoperta”. Tuttavia questa traduzione non
