@@ -1,6 +1,7 @@
 ---
 title: Figure Professionali nelle Aziende Farmaceutiche
 date: '2018-12-17T17:25:02+01:00'
+image: /img/figurep.jpeg
 ---
 Qualche tempo fa mi sono chiesta quali fossero gli argomenti che voi che mi seguite costantemente volevate che venissero approfonditi, così ho proposto un sondaggio. Con mia sorpresa la tematica, a vostro avviso, più carente da un punto di vista di informazioni sul web era quella che io stesso davo per scontato, le figure professionali di base che operano nell'industria farmaceutica. Davo per scontato perchè pensavo, visti vari gruppi facebook, che fosse un argomento già ampiamente trattato. Ma a quanto pare, con mia meraviglia, non lo è affatto o meglio non lo è abbastanza. Per questo ho deciso di sviscerare l'argomento proponendovi un quadro delle figure professionali base che si ritrovano in ogni azienda farmaceutica e che potrà permettere a chi magari è appena uscito dall'Università e si sta affacciando al mondo del lavoro di schiarirsi un pò le idee su questo settore tanto affascinante quanto complesso e delicato come il prodotto che si fabbrica dentro.
 
@@ -10,7 +11,7 @@ Prima di considerare i ruoli specifici presenti in un'azienda farmaceutica, vedi
 
 **Magazzino **- Accorpato o meno alla produzione da un punto di vista dell'organigramma, è il luogo dove vengono stoccate le materie prime in arrivo che serviranno per la produzione del farmaco e i lotti rilasciati del farmaco stesso, destinati a raggiungere gli scaffali delle farmacie.
 
-**Validazione **-** **accorpato o meno all'Assicurazione Qualità questo settore si occupa di "validare" ovvero valutare mediante un'accurata documentazione che tutte le apparecchiature e i processi produttivi conducano a un risultato coerente e riproducibile. 
+**Validazione **-\*\* \*\*accorpato o meno all'Assicurazione Qualità questo settore si occupa di "validare" ovvero valutare mediante un'accurata documentazione che tutte le apparecchiature e i processi produttivi conducano a un risultato coerente e riproducibile. 
 
 **Assicurazione Qualità (Quality Assurance)** - dipartimento garante che il farmaco prodotto sia sicuro, efficace e di qualità.
 
@@ -26,9 +27,12 @@ Altre aree che tipicamente fanno parte di un organigramma base di un'azienda far
 
 Dopo aver descritto brevemente le aree principali di un'azienda farmaceutica andiamo più nel dettaglio a scoprire quali sono le figure professionali in possesso di un background scientifico più richieste all'interno dei varie aree aziendali.
 
+![](/img/figurep.jpeg)
+
 **QUALITY ASSURANCE: **
 
-**Documentation Specialist (o Document Controller o Documentation Coordinator)**
+**Documentation Specialist (o Document Controller
+ o Documentation Coordinator)**
 
 * E' responsabile della scrittura, distribuzione e archiviazione della documentazione di un'azienda.
 * Assicura che la documentazione GMP in vigore e/o obsoleta sia opportunamente archiviata.
@@ -111,7 +115,7 @@ Laurea in CTF, Farmacia, Biologia, Biotecnologie, o  Facoltà similari.
 Le principali attività che svolge quotidianamente sono:
 
 * Preparazione della documentazione necessaria per l’ottenimento, il mantenimento e il rinnovo delle autorizzazioni all’immissione in commercio di medicinali rilasciate in Italia con procedura nazionale ed europea, attraverso la stesura dei Dossier di registrazione.
-*  Svolge lavoro di mediazione ed interfaccia fra l'azienda per la quale lavora e gli organismi ministeriali che esaminano la documentazione per l'autorizzazione all'immissione in commercio del medicinale.
+* Svolge lavoro di mediazione ed interfaccia fra l'azienda per la quale lavora e gli organismi ministeriali che esaminano la documentazione per l'autorizzazione all'immissione in commercio del medicinale.
 
 Per questo tipo di professione si richiede di solito una
  Laurea in CTF, Farmacia, Giurisprudenza (meno frequentemente) Biologia, Biotecnologie, o  Facoltà similari.
@@ -137,5 +141,7 @@ Si occupa della ricerca di materie prime per la ricerca e sviluppo di nuovi prod
 
 Per questo tipo di professione si richiede di solito una
 Laurea in Chimica Industriale, Chimica dei materiali o Facoltà similari.
+
+NOTA BENE: questo elenco appena presentato di posizioni professionali non è esaustivo soprattutto in un ambiente così in evoluzione ed eterogeneo come quello dell'industria farmaceutica! Vuole essere solo uno spunto per potersi indirizzare meglio nei possibili rami professionali da prendere se si vuole intraprendere questa avventura lavorativa in una azienda farmaceutica.
 
 https://www.getreskilled.com/what-type-of-job-would-i-be-suitable-for/
