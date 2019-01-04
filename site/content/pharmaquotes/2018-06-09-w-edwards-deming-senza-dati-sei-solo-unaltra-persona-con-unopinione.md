@@ -21,6 +21,8 @@ Il Ciclo di Deming o (_Ciclo PDCA_) è un metodo usato nel controllo e miglioram
 
 Non può esistere la pianificazione senza prima conoscere e la conoscenza deve necessariamente basarsi su dati veritieri e concreti su cui poter fondare qualsiasi progetto al quale si vuole lavorare. Senza dati a supporto si prendono decisioni basandosi su istinto ed esperienza. Quella di Deming non è una pura e mera pianificazione ma il punto di partenza per la costituzione del concetto e di un sistema di Qualità che fanno la differenza in un'azienda soprattutto se si parla di un'azienda che fa della Qualità le fondamenta, l'industria farmaceutica. Riuscì a trasmettere il concetto che una maggiore qualità non significa costi superiori ma bensì costi inferiori.
 
-> > Qualità è soddisfare le necessità del cliente e superare le sue stesse aspettative continuando a migliorarsi.
-> >
-> > Non limitatevi a costruire un prodotto e a cercare di venderlo. Progettatelo e riprogettatelo e dopo cercate di portare il processo sotto controllo aumentandone, nel contempo, la Qualità.
+> Qualità è soddisfare le necessità del cliente e superare le sue stesse aspettative continuando a migliorarsi.
+
+
+
+> Non limitatevi a costruire un prodotto e a cercare di venderlo. Progettatelo e riprogettatelo e dopo cercate di portare il processo sotto controllo aumentandone, nel contempo, la Qualità.
