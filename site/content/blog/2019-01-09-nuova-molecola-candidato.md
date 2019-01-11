@@ -3,6 +3,22 @@ title: >-
   Nuova molecola candidato per eliminare i vermi nematodi responsabili di
   malattie tropicali
 date: '2019-01-09T21:05:52+01:00'
+description: >-
+  I vermi nematodi parassiti responsabili di malattie come l‘oncocercosi e
+  l'elefantiasi attualmente infettano oltre 150 milioni di persone nelle regioni
+  tropicali di tutto il mondo. I trattamenti convenzionali attualmente
+  disponibili possono richiedere mesi o addirittura anni per uccidere i
+  parassiti. Un consorzio accademico-industriale ha messo a punto un potenziale
+  farmaco candidato per gli studi preclinici che potrebbe fermare i parassiti
+  dopo un trattamento di soli sette giorni.
+socialDesc: >-
+  I vermi nematodi parassiti responsabili di malattie come l‘oncocercosi e
+  l'elefantiasi attualmente infettano oltre 150 milioni di persone nelle regioni
+  tropicali di tutto il mondo. I trattamenti convenzionali attualmente
+  disponibili possono richiedere mesi o addirittura anni per uccidere i
+  parassiti. Un consorzio accademico-industriale ha messo a punto un potenziale
+  farmaco candidato per gli studi preclinici che potrebbe fermare i parassiti
+  dopo un trattamento di soli sette giorni.
 image: /img/7b78a11b-b439-48c1-bcee-d36018c02abd.jpeg
 ---
 I vermi nematodi parassiti responsabili di malattie come l‘oncocercosi e l'elefantiasi attualmente infettano oltre 150 milioni di persone nelle regioni tropicali di tutto il mondo. I trattamenti convenzionali attualmente disponibili possono richiedere mesi o addirittura anni per uccidere i parassiti. Un consorzio accademico-industriale ha messo a punto un potenziale farmaco candidato per gli studi preclinici che potrebbe fermare i parassiti dopo un trattamento di soli sette giorni.
