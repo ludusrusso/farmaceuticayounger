@@ -1,12 +1,23 @@
 ---
-title: 'RICHARD FEYNMAN - "Scienza è credere nell’ignoranza degli esperti"'
-date: 2018-02-03T09:00:41+00:00
-draft: false
-image: /img/richard-feynman-scienza-e-credere-nellignoranza-degli-esperti.md/img_0453-2.jpg
-tags: [farmaceuticayounger, FEYNMAN, fisica, PharmaQuotes, science]
+title: RICHARD FEYNMAN - "Scienza è credere nell’ignoranza degli esperti"
+date: 2018-02-03T09:00:41.000Z
+description: >-
+  Richard Feynman è stato uno dei fisici teorici più notevoli e dotati di
+  qualsiasi generazione. Il suo contributo scientifico è stato enorme
+  soprattutto per l'elaborazione della teoria elettrodinamica quantistica, una
+  teoria quantistica del campo elettromagnetico che coniuga la relatività
+  ristretta alla meccanica quantistica per migliorare la comprensione
+  dell'Universo per cui ricevette il Premio Nobel per la Fisica nel 1965.
+socialDesc: >-
+  Richard Feynman è stato uno dei fisici teorici più notevoli e dotati di
+  qualsiasi generazione. Il suo contributo scientifico è stato enorme
+  soprattutto per l'elaborazione della teoria elettrodinamica quantistica, una
+  teoria quantistica del campo elettromagnetico che coniuga la relatività
+  ristretta alla meccanica quantistica per migliorare la comprensione
+  dell'Universo per cui ricevette il Premio Nobel per la Fisica nel 1965.
+image: /img/8a5770ec-e8dd-43e7-9477-3716037d08c5.jpeg
 ---
-
-![IMG_0453 2.JPG](/img/richard-feynman-scienza-e-credere-nellignoranza-degli-esperti.md/img_0453-2.jpg)
+![IMG_0453 2.JPG](/img/8a5770ec-e8dd-43e7-9477-3716037d08c5.jpeg)
 
 **Richard Feynman** è stato uno dei fisici teorici più notevoli e dotati di qualsiasi generazione. Il suo contributo scientifico è stato enorme soprattutto per l'elaborazione della **teoria elettrodinamica quantistica**, una teoria quantistica del campo elettromagnetico che coniuga la relatività ristretta alla meccanica quantistica per migliorare la comprensione dell'Universo per cui ricevette il **Premio Nobel per la Fisica nel 1965.**
 
