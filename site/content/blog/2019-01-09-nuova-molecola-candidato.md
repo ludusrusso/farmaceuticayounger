@@ -5,7 +5,7 @@ image: /img/7b78a11b-b439-48c1-bcee-d36018c02abd.jpeg
 ---
 ![null](/img/7b78a11b-b439-48c1-bcee-d36018c02abd.jpeg)
 
-I vermi nematodi parassiti responsabili di malattie come l‘oncocercosi e l'elefantiasi attualmente infettano oltre 150 milioni di persone nelle regioni tropicali di tutto il mondo. I trattamenti convenzionali attualmente disponibili possono richiedere mesi o addirittura anni per uccidere i parassiti. Un consorzio accademico-industriale ha ora svelato un potenziale farmaco candidato per gli studi preclinici che potrebbe fermare i parassiti dopo un trattamento di soli sette giorni.
+I vermi nematodi parassiti resonsabili di malattie come l‘oncocercosi e l'elefantiasi attualmente infettano oltre 150 milioni di persone nelle regioni tropicali di tutto il mondo. I trattamenti convenzionali attualmente disponibili possono richiedere mesi o addirittura anni per uccidere i parassiti. Un consorzio accademico-industriale ha ora svelato un potenziale farmaco candidato per gli studi preclinici che potrebbe fermare i parassiti dopo un trattamento di soli sette giorni.
 
 L'oncocercosi, detta anche cecità fluviale, è una malattia infettiva causata dall'infestazione da parte di un nematode filariforme, l’Onchocerca volvulus. Secondo l'OMS tale malattia ha reso cieche oltre tre milioni di persone nel mondo, ed è considerata la seconda causa di cecità tra le patologie di natura infettiva. La filariosi linfatica (elefantiasi) può causare deformità agli arti in pazienti come quest'uomo in India.
 
