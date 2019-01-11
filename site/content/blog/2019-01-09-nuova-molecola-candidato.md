@@ -1,5 +1,7 @@
 ---
-title: Nuova molecola candidato
+title: >-
+  Nuova molecola candidato per eliminare i vermi nematodi responsabili di
+  malattie tropicali
 date: '2019-01-09T21:05:52+01:00'
 image: /img/7b78a11b-b439-48c1-bcee-d36018c02abd.jpeg
 ---
