@@ -1,6 +1,22 @@
 ---
-title: Chiesi conclude un accordo con TiumBio per lo sviluppo di inibitori del TGF-β
+title: >-
+  Chiesi conclude un accordo con TiumBio per lo sviluppo di un inibitore del
+  TGF-β
 date: '2019-01-14T12:44:43+01:00'
+description: >-
+  Il Gruppo Parmense Chiesi ha annunciato di aver stretto un esclusivo accordo
+  di licenza con TiumBio, una società biofarmaceutica con sede in Corea del Sud
+  specializzata nella ricerca di farmaci innovativi per il trattamento di
+  malattie rare. Più nel dettaglio, secondo l'accordo, Chiesi potrà condurre lo
+  sviluppo di piccole molecole proprietà di TiumBio che mirano alla modulazione
+  della via di segnalazione del fattore di crescita, TGF-β. 
+socialDesc: >-
+  Il Gruppo Parmense Chiesi ha annunciato di aver stretto un esclusivo accordo
+  di licenza con TiumBio, una società biofarmaceutica con sede in Corea del Sud
+  specializzata nella ricerca di farmaci innovativi per il trattamento di
+  malattie rare. Più nel dettaglio, secondo l'accordo, Chiesi potrà condurre lo
+  sviluppo di piccole molecole proprietà di TiumBio che mirano alla modulazione
+  della via di segnalazione del fattore di crescita, TGF-β.
 ---
 Il Gruppo Parmense [**Chiesi**](https://www.chiesi.com/en/chiesi-enters-in-an-exclusive-global-license-agreement-with-tiumbio-to-develop-innovative-molecules-for-respiratory-diseases/)** **ha annunciato di aver stretto un esclusivo accordo di licenza con **TiumBio**, una società biofarmaceutica con sede in Corea del Sud specializzata nella ricerca di farmaci innovativi per il trattamento di malattie rare. Più nel dettaglio, secondo l'accordo, **Chiesi** potrà condurre lo sviluppo di piccole molecole proprietà di TiumBio che mirano alla modulazione della via di segnalazione del fattore di crescita, TGF-β. 
 
