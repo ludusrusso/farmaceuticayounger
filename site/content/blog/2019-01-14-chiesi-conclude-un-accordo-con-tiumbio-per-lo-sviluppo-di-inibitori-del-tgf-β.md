@@ -1,0 +1,17 @@
+---
+title: Chiesi conclude un accordo con TiumBio per lo sviluppo di inibitori del TGF-β
+date: '2019-01-14T12:44:43+01:00'
+---
+Il Gruppo Parmense Chiesi ha annunciato di aver stretto un esclusivo accordo di licenza globale con TiumBio, una clinica privata biotech con sede in Corea del Sud specializzata nella ricerca di innovazioni farmaci per il trattamento di malattie rare. Il Gruppo Chiesi acquisisce i diritti per sviluppare piccole molecole proprietarie di TiumBio che mirano alla trasformazione della via di segnalazione del fattore di crescita beta (TGF-β). L'inibitore del TGF-beta è un obiettivo promettente che può svolgere un ruolo in diversi processi patologici mediante l'inattivazione delle cellule che causano fibrosi o cicatrici. La molecola sarà sviluppata per il trattamento di malattie respiratorie con esigenze mediche insoddisfatte come la Fibrosi Polmonare Idiopatica (IPF).
+
+Secondo i termini dell'accordo, il Gruppo Chiesi condurrà e finanzierà tutte le ulteriori attività di sviluppo, regolamentazione e commercializzazione nell'area respiratoria, mentre TiumBio manterrà i diritti di sviluppo e commercializzazione in altre aree terapeutiche. TiumBio ha diritto a ricevere pagamenti anticipati, di sviluppo, normativi e commerciali fino a $ 74 milioni più royalties a cifra singola.
+
+"Questo accordo di licenza rappresenta un perfetto connubio con la pipeline di Chiesi" afferma Ugo Di Francesco, CEO, Gruppo Chiesi "ed è in linea con il nostro obiettivo strategico di rafforzare la nostra posizione nelle malattie respiratorie con elevate esigenze mediche insoddisfatte".
+
+"Riteniamo che i nostri composti inibitori del TGF-beta abbiano il potenziale per aiutare i pazienti che soffrono di significative esigenze mediche insoddisfatte e opzioni terapeutiche limitate", ha commentato Hun-Taek Kim, CEO di TiumBio. "Siamo molto entusiasti di questa partnership con Chiesi, un'azienda con una lunga tradizione e competenza nel campo delle malattie respiratorie. Unire gli sforzi con Chiesi nell'ambito di un obiettivo comune porterà avanti lo sviluppo di terapie innovative per i pazienti che vivono con IPF ".
+
+Questo accordo espande il programma completo di ricerca e sviluppo di Chiesi nelle malattie respiratorie con elevate esigenze mediche insoddisfatte
+
+Con sede a Parma, in Italia, Chiesi Farmaceutici è un gruppo sanitario internazionale orientato alla ricerca, con oltre 80 anni di esperienza nell'industria farmaceutica. Chiesi ricerca, sviluppa e commercializza farmaci innovativi nelle terapie respiratorie, nella medicina specialistica e nelle malattie rare. La sua organizzazione di ricerca e sviluppo ha sede a Parma (Italia) e si è integrata con altri 6 gruppi chiave di ricerca e sviluppo in Francia, Stati Uniti, Regno Unito, Svezia e Danimarca per promuovere i programmi pre-clinici, clinici e di registrazione di Chiesi. Chiesi impiega o 5.300 persone. Per ulteriori informazioni, visitare www.chiesi.com
+
+TiumBio è una società biofarmaceutica con sede in Corea del Sud dedicata alla scoperta e allo sviluppo di piccole molecole innovative e farmaci biologici. L'azienda sta sviluppando candidati per farmaci clinici e preclinici nelle aree di immuno-oncologia, fibrosi, endometriosi / fibromi uterini e emofilia. Fondato e guidato da scienziati, TiumBio si impegna a fornire benefici terapeutici ai pazienti che soffrono di malattie difficili da trattare con elevati bisogni insoddisfatti.
