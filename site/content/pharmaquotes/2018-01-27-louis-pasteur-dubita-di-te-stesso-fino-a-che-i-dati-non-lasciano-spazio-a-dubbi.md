@@ -1,12 +1,11 @@
 ---
-title: 'LOUIS PASTEUR - "Dubita sempre di te stesso fino a che i dati non lasciano spazio a dubbi"'
-date: 2018-01-27T09:00:06+00:00
-draft: false
-image: /img/louis-pasteur-dubita-di-te-stesso-fino-a-che-i-dati-non-lasciano-spazio-a-dubbi.md/img_0252.jpg
-tags: [farmaceuticayounger, medicina, pasteur, PharmaQuotes, science]
+title: >-
+  LOUIS PASTEUR - "Dubita sempre di te stesso fino a che i dati non lasciano
+  spazio a dubbi"
+date: 2018-01-27T09:00:06.000Z
+image: /img/6d0a3f1d-cb24-4cf4-8775-3e81c1dd93a5.jpeg
 ---
-
-![IMG_0252.JPG](/img/louis-pasteur-dubita-di-te-stesso-fino-a-che-i-dati-non-lasciano-spazio-a-dubbi.md/img_0252.jpg)
+![IMG_0252.JPG](/img/6d0a3f1d-cb24-4cf4-8775-3e81c1dd93a5.jpeg)
 
 Chimico e biologo francese, **Louis Pasteur** è considerato il **padre della microbiologia**. A lui si devono sia la scoperta della **fermentazione** sia l'introduzione delle vaccinazioni e dei metodi di sterilizzazione, la **pastorizzazione**.
 
