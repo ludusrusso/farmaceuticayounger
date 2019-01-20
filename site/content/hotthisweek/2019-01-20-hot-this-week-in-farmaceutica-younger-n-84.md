@@ -19,9 +19,9 @@ socialDesc: >-
   (trastuzumab-dkst) sviluppato da Mylan, nel dicembre 2017. Il farmaco è stato
   approvato dall'Agenzia europea per i medicinali nel novembre 2017, diventando
   così il primo trastuzumab biosimilare ad essere approvato nell'Unione Europea.
-image: /img/8eb47c6a-5646-4450-bba1-865c3f0aa0f8.jpeg
+image: /img/5a6fcf96-f0c1-43d1-83d9-a60b4a5c2abf.jpeg
 ---
-![](/img/8eb47c6a-5646-4450-bba1-865c3f0aa0f8.jpeg)
+![null](/img/5a6fcf96-f0c1-43d1-83d9-a60b4a5c2abf.jpeg)
 
 La FDA statunitense ha approvato [Ontruzant (trastuzumab-dttb)](https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761100s000lbl.pdf?utm_campaign=FDA%20approves%20Ontruzant%20%28trastuzumab-dttb%29%2C%203rd%20biosimilar%20to%20Herceptin%20%28trastuzumab%29&utm_medium=email&utm_source=Eloqua), biosimilare di Herceptin per il trattamento del carcinoma mammario e dell’adenocarcinoma gastrico o gastroesofageo caratterizzati da sovraespressione di HER2. Ontruzant è il terzo biosimilare di trastuzumab approvato dalla FDA, dopo Herzuma (trastuzumab-pkrb) sviluppato da Celltrion, nel dicembre 2018 e Ogivri (trastuzumab-dkst) sviluppato da Mylan, nel dicembre 2017. Il farmaco è stato approvato dall'Agenzia europea per i medicinali nel novembre 2017, diventando così il primo trastuzumab biosimilare ad essere approvato nell'Unione Europea.
 
