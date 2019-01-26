@@ -2,7 +2,7 @@
 title: >-
   ROBERTO CINGOLANI - "Ho paura della stupidità umana, non dell'intelligenza
   artificiale"
-date: '2019-01-26T09:30:00+01:00'
+date: '2019-01-26T08:30:00+01:00'
 description: >-
   Roberto Cingolani, fisico italiano, autore o coautore di circa 1.100 articoli
   su riviste internazionali, è attualmente il direttore scientifico
