@@ -2,6 +2,8 @@
 title: >-
   LIF6, pseudogene ‘zombie’ che attivato da TP53 induce apoptosi delle cellule
   in risposta ad un danno del DNA
+tags:
+  - farmanews
 date: '2018-08-22T18:45:24+02:00'
 description: >-
   Un team di ricercatori dell’Università di Chicago guidati dal genetista Lynch
