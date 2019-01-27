@@ -2,6 +2,8 @@
 title: >-
   YUPELRI, primo e unico broncodilatatore spray daily-use approvato dalla FDA
   per la BPCO
+tags:
+  - farmanews
 date: '2018-11-13T14:55:54+01:00'
 description: >
   La Food and Drug Administration (FDA) degli Stati Uniti ha approvato YUPELRI

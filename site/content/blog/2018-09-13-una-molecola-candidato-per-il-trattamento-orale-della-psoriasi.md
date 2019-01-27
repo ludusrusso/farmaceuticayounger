@@ -1,5 +1,7 @@
 ---
 title: Una molecola candidato firmata Pfizer per il trattamento orale della psoriasi
+tags:
+  - farmanews
 date: '2018-09-13T20:51:49+02:00'
 description: >-
   Un gruppo di scienziati del colosso farmaceutico Pfizer ha individuato una

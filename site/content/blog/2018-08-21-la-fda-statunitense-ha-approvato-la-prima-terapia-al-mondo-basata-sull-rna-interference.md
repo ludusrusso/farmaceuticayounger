@@ -2,6 +2,8 @@
 title: >-
   La FDA statunitense ha approvato la prima terapia al mondo basata sull'RNA
   interference
+tags:
+  - farmanews
 date: '2018-08-21T20:22:45+02:00'
 description: >-
   La Food and Drug Administration (FDA) statunitense ha approvato Onpattro™
