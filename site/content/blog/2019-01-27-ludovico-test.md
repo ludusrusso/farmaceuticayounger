@@ -2,7 +2,7 @@
 title: Ludovico Test
 tags:
   - news
-  - ''
+  - prova
 date: '2019-01-27T12:21:45+01:00'
 description: Prova
 socialDesc: adasd

@@ -13,11 +13,13 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Titolo", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true}
       - {label: "Data Pubblicazione", name: "date", widget: "datetime"}
       - {label: "Descrizione", name: "description", widget: "text", required: false}
       - {label: "Descrizione Social", name: "socialDesc", widget: "text", required: false}
       - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
       - {label: "Contenuto", name: "body", widget: "markdown"}
+
   - name: "hotthisweek" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Hot This Week" # Used in the UI, ie.: "New Post"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
