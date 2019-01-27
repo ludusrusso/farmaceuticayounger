@@ -2,6 +2,8 @@
 title: >-
   Bose Hearing Aid, il primo apparecchio acustico approvato dalla FDA
   statunitense autogestibile tramite app
+tags:
+  - farmanews
 date: '2018-10-09T16:08:09+02:00'
 description: >-
   La Food and Drug Administration degli Stati Uniti ha autorizzato la
