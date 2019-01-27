@@ -1,5 +1,7 @@
 ---
 title: FDA approva la prima terapia per la cheratite neutrofica
+tags:
+  - farmanews
 date: '2018-08-23T21:32:40+02:00'
 description: >-
   La Food and Drug Administration Americana ha approvato il primo farmaco sotto
