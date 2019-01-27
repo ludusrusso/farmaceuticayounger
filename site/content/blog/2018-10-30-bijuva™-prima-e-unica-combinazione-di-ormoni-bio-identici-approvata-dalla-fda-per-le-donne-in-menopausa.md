@@ -2,6 +2,8 @@
 title: >-
   BIJUVA™, prima e unica combinazione di ormoni bio-identici approvata dalla FDA
   per le donne in menopausa
+tags:
+  - farmanews
 date: '2018-10-30T17:08:33+01:00'
 description: >
   La Food and Drug Administration (FDA) degli Stati Uniti ha approvato BIJUVA™
