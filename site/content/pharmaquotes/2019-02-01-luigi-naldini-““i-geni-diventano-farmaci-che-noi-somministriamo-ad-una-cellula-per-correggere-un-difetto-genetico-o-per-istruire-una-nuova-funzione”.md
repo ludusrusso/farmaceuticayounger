@@ -1,6 +1,6 @@
 ---
 title: >-
-  LUIGI NALDINI - ““I geni diventano farmaci che noi somministriamo ad una
+  LUIGI NALDINI - “I geni diventano farmaci che noi somministriamo ad una
   cellula per correggere un difetto genetico o per istruire una nuova funzione”
 date: '2019-02-01T20:26:35+01:00'
 description: >-
