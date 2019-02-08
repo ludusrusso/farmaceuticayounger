@@ -12,7 +12,7 @@ socialDesc: >-
   James P. Allison e Tasuku Honjo hanno ricevuto il Premio Nobel per la Medicina
   nel 2018 “for their discovery of cancer therapy by inhibition of negative
   immune regulation”. Le loro ricerche hanno portato alla luce i meccanismi con
-  i quali le cellule del sistema immunitario attaccano quelle tumorali. 
+  i quali le cellule del sistema immunitario attaccano quelle tumorali.
 image: /img/c47675a1-8a2a-4620-8ffd-95bcb7a0ac8c.jpeg
 ---
 ![](/img/c47675a1-8a2a-4620-8ffd-95bcb7a0ac8c.jpeg)
