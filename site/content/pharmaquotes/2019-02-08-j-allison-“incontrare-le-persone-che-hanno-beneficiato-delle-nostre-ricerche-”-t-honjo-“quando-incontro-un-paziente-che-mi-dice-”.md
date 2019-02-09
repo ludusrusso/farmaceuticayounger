@@ -1,7 +1,7 @@
 ---
 title: >-
   J.ALLISON - “Incontrare le persone che hanno beneficiato delle nostre
-  ricerche...” T.HONJO - “Quando incontro un paziente che mi dice...”
+  ricerche” T.HONJO - “Quando incontro un paziente che mi dice”
 date: '2019-02-08T19:45:08+01:00'
 description: >-
   James P. Allison e Tasuku Honjo hanno ricevuto il Premio Nobel per la Medicina
