@@ -15,7 +15,7 @@ socialDesc: >-
   acquisita (aTTP – acquired thrombocitic thrombocytopenic purpura).
 image: /img/0e8ca526-5f9e-42ec-a9f2-a0332cde06ce.jpeg
 ---
-![](/img/0e8ca526-5f9e-42ec-a9f2-a0332cde06ce.jpeg)
+![null](/img/0e8ca526-5f9e-42ec-a9f2-a0332cde06ce.jpeg)
 
 La Food and Drug Administration degli Stati Uniti ha approvato [Cablivi (caplacizumab-yhdp)](http://www.news.sanofi.us/2019-02-06-FDA-approves-Cablivi-R-caplacizumab-yhdp-the-first-Nanobody-R-based-medicine-for-adults-with-acquired-thrombotic-thrombocytopenic-purpura-aTTP), la prima terapia specificatamente indicata, in combinazione con lo scambio plasmatico e la terapia immunosoppressiva, per il trattamento di pazienti adulti con porpora trombotica trombocitopenica acquisita (aTTP – acquired thrombocitic thrombocytopenic purpura).
 
@@ -25,7 +25,7 @@ Caplacizumab è un nano anticorpo bivalente umanizzato ottenuto dall’Escherich
 
 L'approvazione di Cablivi negli Stati Uniti si basa sui risultati dello studio clinico HERCULES di fase III, multicentrico, randomizzato, in doppio cieco, controllato con placebo. Questo studio ha valutato l'efficacia di Cablivi in ​​combinazione con lo scambio plasmatico e la terapia immunosoppressiva rispetto al placebo, allo scambio plasmatico e alla terapia immunosoppressiva in 145 adulti che hanno avuto un episodio di aTTP. I risultati dello studio hanno dimostrato che la conta piastrinica è migliorata più rapidamente nei pazienti trattati con Cablivi, rispetto al placebo. I risultati di questo studio sono stati pubblicati nel New England Journal of Medicine nel gennaio 2019.
 
-In Europa, Cablivi ha ricevuto l’ok dell’Agenzia europea per i medicinali (EMA) nel Settembre 2018.
+In Europa, [Cablivi](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.66/) ha ricevuto l’ok dell’Agenzia europea per i medicinali (EMA) nel Settembre 2018.
 
 La FDA ha concesso a Cablivi la designazione di _Priority Review_, riservato ai farmaci che rappresentano miglioramenti significativi in termini di sicurezza o efficacia nel trattamento di gravi patologie, e di _farmaco orfano_, che fornisce incentivi per aiutare e incoraggiare lo sviluppo di farmaci per le malattie rare.
 
