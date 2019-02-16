@@ -2,7 +2,8 @@
 title: IMP - Investigational Medicinal Product
 tags:
   - Studi clinici
-  - ''
+  - clinical trial
+  - IMPs
 date: '2019-02-16T16:12:12+01:00'
 image: /img/3145655e-2104-40ee-a2df-b01420454c19.jpeg
 ---
