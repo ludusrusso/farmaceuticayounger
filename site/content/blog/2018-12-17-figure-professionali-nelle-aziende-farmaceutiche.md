@@ -38,6 +38,8 @@ socialDesc: >-
   all’interno.
 image: /img/figurep.jpeg
 ---
+![](/img/figurep.jpeg)
+
 Qualche tempo fa mi sono chiesta quali fossero gli argomenti che voi che mi seguite costantemente volevate che venissero approfonditi, così ho proposto un sondaggio. Con mia sorpresa la tematica, a vostro avviso, più carente da un punto di vista di informazioni sul web era quella che io stesso davo per scontato, le figure professionali di base che operano nell'industria farmaceutica. Davo per scontato perchè pensavo, visti vari gruppi facebook, che fosse un argomento già ampiamente trattato. Ma a quanto pare, con mia meraviglia, non lo è affatto o meglio non lo è abbastanza. Per questo ho deciso di sviscerare l'argomento proponendovi un quadro delle figure professionali base che si ritrovano in ogni azienda farmaceutica e che potrà permettere a chi magari è appena uscito dall'Università o si sta affacciando al mondo del lavoro di schiarirsi un pò le idee su questo settore tanto affascinante quanto complesso e delicato come il prodotto che vi si fabbrica all’interno.
 
 Prima di considerare i ruoli specifici presenti in un'azienda farmaceutica, vediamo prima come è strutturata e quali sono le principali aree che si trovano tipicamente all'interno di un'azienda farmaceutica:
@@ -61,8 +63,6 @@ Prima di considerare i ruoli specifici presenti in un'azienda farmaceutica, vedi
 Altre aree che tipicamente fanno parte di un organigramma base di un'azienda farmaceutica sono la Supply Chain, Logistica, Marketing, Risorse umane, Finanza, ecc. sulle quali non mi soffermo a parlarne poichè molto spesso in questi settori trovano impiego profili professionali con background non scientifico.
 
 Dopo aver descritto brevemente le aree principali di un'azienda farmaceutica andiamo più nel dettaglio a scoprire quali sono le figure professionali in possesso di un background scientifico più richieste all'interno delle varie aree aziendali.
-
-![null](/img/figurep.jpeg)
 
 **QUALITY ASSURANCE: **
 
