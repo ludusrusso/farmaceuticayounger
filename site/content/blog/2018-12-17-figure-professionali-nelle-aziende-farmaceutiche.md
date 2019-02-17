@@ -1,5 +1,5 @@
 ---
-title: Le Figure Professionali nelle Aziende Farmaceutiche
+title: Le Figure Professionali in un’Azienda Farmaceutica
 tags:
   - Drugs
   - farmaco
