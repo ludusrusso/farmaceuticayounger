@@ -5,7 +5,7 @@ tags:
   - farmaco
   - quality assurance
   - quality control
-date: '2018-12-17T17:25:02+01:00'
+date: '2019-12-17T17:25:00+01:00'
 description: >-
   Qualche tempo fa mi sono chiesta quali fossero gli argomenti che voi che mi
   seguite costantemente volevate che venissero approfonditi, così ho proposto un
