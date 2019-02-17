@@ -63,13 +63,13 @@ _Trial clinico in aperto:_ studio clinico in cui sia lo sperimentatore che il pa
 
 _Trial clinico in singolo cieco:_ studio clinico in cui solo lo sperimentatore conosce il tipo di farmaco che verrà somministrato al paziente.
 
-Trial clinico in doppio cieco: studio clinico in cui sia lo sperimentatore che il paziente non conoscono il tipo di farmaco somministrato.
+_Trial clinico in doppio cieco:_ studio clinico in cui sia lo sperimentatore che il paziente non conoscono il tipo di farmaco somministrato.
 
 _Trial clinico in triplo cieco:_ studio clinico in cui lo sperimentatore, il valutatore (se è diverso dallo sperimentatore) e il paziente non conoscono il tipo di farmaco somministrato.
 
 _Studio clinico di fase I:_ studio effettuato per la prima volta su volontari sani volto a valutare il profilo farmacologico dell’IMP.
 
-Studio clinico di fase II: studio effettuato sul paziente volto a valutare l’attività biologica dell’IMP.
+_Studio clinico di fase II:_ studio effettuato sul paziente volto a valutare l’attività biologica dell’IMP.
 
 _Studio clinico di fase III:_ detto anche studio confirmatorio, serve a confermare quanto osservato nello studio clinico di fase II.
 
@@ -79,4 +79,4 @@ _Product Specification File:_ file di riferimento contenente tutte le informazio
 
 _Two-step release:_ ci sono due responsabilità inerti al rilascio dei lotti di produzione dell’IMP, quella della QP di accertare che il prodotto sia fatto in accordo alle GMP, che rispetti le specifiche del prodotto, del PSM e quella dello sponsor che segue lo studio clinico.
 
-CTA (Clinical Trial Application): Per gli stati europei membri è entrato parzialmente in vigore il Regolamento N.536/2014 del Parlamento Europeo e del Consiglio del 16 Aprile 2014 sulla sperimentazione clinica di medicinali per uso umano, che abroga la Direttiva 2001/20/CE (prevedeva che l’autorizzazione per il mio studio clinico doveva essere richiesta per ogni paese in cui la si voleva ottenere sottoponendo due richieste, una al comitato etico e una all’autorità competente) che prevede una autorizzazione centralizzata per tutti gli stati membri. Al momento questo iter è volontario.
+_CTA (Clinical Trial Application):_ Per gli stati europei membri è entrato parzialmente in vigore il Regolamento N.536/2014 del Parlamento Europeo e del Consiglio del 16 Aprile 2014 sulla sperimentazione clinica di medicinali per uso umano, che abroga la Direttiva 2001/20/CE (prevedeva che l’autorizzazione per il mio studio clinico doveva essere richiesta per ogni paese in cui la si voleva ottenere sottoponendo due richieste, una al comitato etico e una all’autorità competente) che prevede una autorizzazione centralizzata per tutti gli stati membri. Al momento questo iter è volontario.
