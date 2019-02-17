@@ -15,9 +15,9 @@ socialDesc: >-
   metodica che consente di misurare contemporaneamente sia la concentrazione di
   anticorpi monoclonali (il farmaco) nel sangue, sia l’immunogenicità. I
   risultati dello studio sono stati pubblicati sulla rivista Scientific Reports.
-image: /img/faa06728-863d-426c-8f63-bf81d0466236.jpeg
+image: /img/44c23b16-6e61-4084-9b13-7d9f8dee855a.jpeg
 ---
-![null](/img/faa06728-863d-426c-8f63-bf81d0466236.jpeg)
+![null](/img/44c23b16-6e61-4084-9b13-7d9f8dee855a.jpeg)
 
 I ricercatori dell’Istituto di Ricerche Farmacologiche Mario Negri IRCCS, in collaborazione con l’Istituto Clinico Humanitas di Rozzano (MI) e l’Azienda Ospedaliero-Universitaria Careggi di Firenze, hanno sviluppato una nuova metodica che consente di misurare contemporaneamente sia la concentrazione di anticorpi monoclonali (il farmaco) nel sangue, sia l’immunogenicità, ovvero la produzione da parte del sistema immunitario di anticorpi contro il farmaco stesso. I risultati dello studio dal titolo [“A Surface Plasmon Resonance-based assay to measure serum concentrations of therapeutic antibodies and anti-drug antibodies”](https://www.nature.com/articles/s41598-018-37950-4) sono stati pubblicati sulla rivista Scientific Reports.
 
