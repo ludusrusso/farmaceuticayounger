@@ -38,7 +38,7 @@ socialDesc: >-
   all’interno.
 image: /img/figurep.jpeg
 ---
-![](/img/figurep.jpeg)
+![null](/img/figurep.jpeg)
 
 Qualche tempo fa mi sono chiesta quali fossero gli argomenti che voi che mi seguite costantemente volevate che venissero approfonditi, così ho proposto un sondaggio. Con mia sorpresa la tematica, a vostro avviso, più carente da un punto di vista di informazioni sul web era quella che io stesso davo per scontato, le figure professionali di base che operano nell'industria farmaceutica. Davo per scontato perchè pensavo, visti vari gruppi facebook, che fosse un argomento già ampiamente trattato. Ma a quanto pare, con mia meraviglia, non lo è affatto o meglio non lo è abbastanza. Per questo ho deciso di sviscerare l'argomento proponendovi un quadro delle figure professionali base che si ritrovano in ogni azienda farmaceutica e che potrà permettere a chi magari è appena uscito dall'Università o si sta affacciando al mondo del lavoro di schiarirsi un pò le idee su questo settore tanto affascinante quanto complesso e delicato come il prodotto che vi si fabbrica all’interno.
 
@@ -46,17 +46,17 @@ Prima di considerare i ruoli specifici presenti in un'azienda farmaceutica, vedi
 
 **Produzione** - è il cuore dell'azienda farmaceutica, dove avviene la produzione del farmaco. 
 
-**Magazzino **- accorpato o meno alla produzione da un punto di vista dell'organigramma, è il luogo dove vengono stoccate le materie prime in arrivo che serviranno per la produzione del farmaco e i lotti rilasciati del farmaco stesso, destinati a raggiungere gli scaffali delle farmacie.
+**Magazzino** - accorpato o meno alla produzione da un punto di vista dell'organigramma, è il luogo dove vengono stoccate le materie prime in arrivo che serviranno per la produzione del farmaco e i lotti rilasciati del farmaco stesso, destinati a raggiungere gli scaffali delle farmacie.
 
 **Assicurazione Qualità (Quality Assurance)** - dipartimento garante che il farmaco sia prodotto secondo degli standard di qualità dettate dalle cGMP, ovvero le Norme di Buona Fabbricazione.
 
-**Validazione **- accorpato o meno all'Assicurazione Qualità, si occupa di "validare" ovvero valutare anche mediante un'accurata documentazione che tutte le apparecchiature e i processi produttivi conducano a un risultato coerente e riproducibile del prodotto farmaceutico.
+**Validazione** - accorpato o meno all'Assicurazione Qualità, si occupa di "validare" ovvero valutare anche mediante un'accurata documentazione che tutte le apparecchiature e i processi produttivi conducano a un risultato coerente e riproducibile del prodotto farmaceutico.
 
-**Controllo Qualità (Quality Control) - **diviso in chimico e microbiologico, è il dipartimento che si occupa di effettuare test e controlli sulle materie prime in ingresso e durante tutto il processo di produzione per assicurare che gli standard stabiliti del prodotto siano mantenuti. 
+**Controllo Qualità (Quality Control)** - diviso in chimico e microbiologico, è il dipartimento che si occupa di effettuare test e controlli sulle materie prime in ingresso e durante tutto il processo di produzione per assicurare che gli standard stabiliti del prodotto siano mantenuti. 
 
 **Affari regolatori (Regulatory Affairs)** - dipartimento che si occupa della preparazione di tutta la documentazione normativa da sottoporre alle autorità regolatorie (AIFA, FDA, ecc.) necessaria ai fini dell'ottenimento e del mantenimento dell'autorizzazione all'immissione in commercio dei farmaci prodotti. 
 
-**Ricerca e sviluppo (Research and Development) **- dipartimento che lavora per identificare nuove molecole che potrebbero essere utilizzate nei farmaci, sui farmaci attuali e sui processi produttivi correlati per migliorarli. 
+**Ricerca e sviluppo (Research and Development)** - dipartimento che lavora per identificare nuove molecole che potrebbero essere utilizzate nei farmaci, sui farmaci attuali e sui processi produttivi correlati per migliorarli. 
 
 **Farmacovigilanza** - dipartimento che vigila su tutte le tipologie di prodotto ad uso umano una volta che queste sono immesse sul mercato.
 
@@ -64,7 +64,7 @@ Altre aree che tipicamente fanno parte di un organigramma base di un'azienda far
 
 Dopo aver descritto brevemente le aree principali di un'azienda farmaceutica andiamo più nel dettaglio a scoprire quali sono le figure professionali in possesso di un background scientifico più richieste all'interno delle varie aree aziendali.
 
-**QUALITY ASSURANCE: **
+**QUALITY ASSURANCE:**
 
 **Documentation Specialist (o Document Controller
  o Documentation Coordinator)**
@@ -170,7 +170,7 @@ Laurea in Biologia, Biotecnologie, CTF, Farmacia o  Facoltà similari.
 
 **RESEARCH & DEVELOPMENT (R&D)**
 
-**R&D Specialist **
+**R&D Specialist**
 
 Le principali attività che svolge quotidianamente sono:
 
