@@ -2,7 +2,7 @@
 title: >-
   MANFRED EIGEN - “Non è il campo della ricerca che conta, ma l’eccellenza dei
   singoli individui”
-date: '2019-02-14T09:06:41+01:00'
+date: '2019-02-16T09:06:41+01:00'
 description: >-
   Manfred Eigen, chimico tedesco, Direttore dell'Istituto Max Planck di
   biochimica fisica, vincitore del Premio Nobel per la Chimica nel 1967 "per lo
