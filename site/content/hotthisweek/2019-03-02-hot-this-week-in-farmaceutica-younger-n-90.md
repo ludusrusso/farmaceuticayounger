@@ -19,9 +19,9 @@ socialDesc: >-
   proprietaria denominata LICA (Ligand Conjugated Antisense). 
 image: /img/e2f8584d-a221-462b-bfd3-42e6584a89c6.jpeg
 ---
-![](/img/e2f8584d-a221-462b-bfd3-42e6584a89c6.jpeg)
+![null](/img/e2f8584d-a221-462b-bfd3-42e6584a89c6.jpeg)
 
-Novartis ha annunciato che otterrà in licenza la terapia sperimentale antisenso TQJ230 della biotech Akcea Therapeutics, secondo quanto previsto dall’accordo stipulato tra le due compagnie nel 2017 per la riduzione del rischio di malattie cardiovascolari in persone con livelli elevati ereditari di lipoproteina (a). TQJ230 è stato progettato da Ionis Pharmaceuticals, di cui Akcea è una sussidiaria, utilizzando la sua tecnologia antisenso proprietaria denominata LICA (Ligand Conjugated Antisense). 
+Novartis ha annunciato che otterrà in licenza la terapia sperimentale antisenso [TQJ230](https://www.novartis.com/news/media-releases/novartis-pursue-transformational-therapy-reduce-risk-cardiovascular-disease-people-living-elevated-levels-inherited-lipoproteina) della biotech Akcea Therapeutics, secondo quanto previsto dall’accordo stipulato tra le due compagnie nel 2017 per la riduzione del rischio di malattie cardiovascolari in persone con livelli elevati ereditari di lipoproteina (a). TQJ230 è stato progettato da Ionis Pharmaceuticals, di cui Akcea è una sussidiaria, utilizzando la sua tecnologia antisenso proprietaria denominata LICA (Ligand Conjugated Antisense). 
 
 Elevati livelli della lipoproteina sono riconosciuti come una causa genetica indipendente di malattia cardiovascolare, presente in circa il 20-30% della popolazione. Dato che i livelli di Lp(a) sono determinati alla nascita, le modifiche dello stile di vita come la dieta e l'esercizio fisico non hanno alcun impatto sui suoi livelli. Non ci sono attualmente opzioni di trattamento per questi pazienti. 
 
