@@ -4,9 +4,9 @@ title: >-
   mostrano una apparente periodicità di proprietà
 date: '2019-03-09T09:41:00+01:00'
 ---
-**Dmitrij Ivanovič Mendeleev**, chimico russo, è noto per la scoperta della periodicità delle proprietà degli elementi chimici, e la loro sistemazione nella famosa tavola periodica degli elementi chimici che porta il suo nome.
+**Dmitrij Ivanovič Mendeleev**, chimico e scienziato russo dai molteplici interessi culturali, è noto per la scoperta della periodicità delle proprietà degli elementi chimici, e la loro sistemazione nella famosa tavola periodica degli elementi che porta il suo nome.
 
-150 anni fa, precisamente il 6 marzo del 1869 il chimico russo Mendeleev presentò per la prima volta al mondo la prima versione della sua tavola periodica. Diede così origine a una classificazione dei 63 elementi allora conosciuti, dall’idrogeno all’uranio, che con il tempo portò all’attuale tavola periodica costituita da 118 elementi chimici.
+150 anni fa, precisamente il 6 marzo del 1869, Mendeleev presentò per la prima volta al mondo la prima versione della sua tavola periodica. Diede così origine a una classificazione dei 63 elementi allora conosciuti, dall’idrogeno all’uranio, che con il tempo si ampliò fino a comprendere gli attuali 118 elementi chimici.
 
 La Tavola periodica degli elementi chimici è uno dei risultati più significativi della scienza, che cattura l'essenza non solo della chimica, ma anche della fisica e della biologia. Per questo motivo l'UNESCO ha deciso che il 2019 sarà l’_International Year of the Periodic Table of Chemical Elements (IYPT2019)_. Un intero anno di festeggiamenti che l'UNESCO ha deciso di dedicare proprio alla tavola periodica, programmando una serie di eventi in tutto il mondo per celebrare lo strumento fondamentale per apprendere e studiare tutte le discipline scientifiche.
 
