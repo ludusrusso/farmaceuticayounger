@@ -1,6 +1,6 @@
 ---
 title: >-
-  DMITRI MENDELEEV - Gli elementi, se disposti in base al loro peso atomico,
+  DMITRIJ MENDELEEV - Gli elementi, se disposti in base al loro peso atomico,
   mostrano una apparente periodicità di proprietà
 date: '2019-03-07T11:41:16+01:00'
 ---
