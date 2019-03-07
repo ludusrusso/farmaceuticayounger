@@ -2,7 +2,7 @@
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.91
 date: '2019-03-06T14:43:17+01:00'
 ---
-La Food and Drug Administration statunitense ha approvato Spravato (esketamine), uno spray nasale usato in combinazione con un antidepressivo orale, per il trattamento negli adulti della depressione resistente al trattamento. 
+La Food and Drug Administration statunitense ha approvato [Spravato ](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm632761.htm)(esketamine), uno spray nasale usato in combinazione con un antidepressivo orale, per il trattamento negli adulti della depressione resistente al trattamento. 
 
 L'esketamina è l'enantiomero S della ketamina. La ketamina è una miscela di due enantiomeri. Questa è la prima approvazione da parte dell'agenzia statunitense di esketamina per qualsiasi uso. La ketamina è stata approvata dalla FDA (Ketalar) nel 1970.
 
