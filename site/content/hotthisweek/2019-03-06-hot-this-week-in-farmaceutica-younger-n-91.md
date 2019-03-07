@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.91
-date: '2019-03-06T14:43:17+01:00'
+date: '2019-03-10T09:43:00+01:00'
 ---
 La Food and Drug Administration statunitense ha approvato [Spravato ](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm632761.htm)(esketamina), uno spray nasale usato in combinazione con un antidepressivo orale, per il trattamento negli adulti della depressione resistente al trattamento (TRD). Questa è la prima approvazione da parte dell'agenzia statunitense per questo disturbo depressivo da oltre 50 anni e anche l'unico con un meccanismo di azione differente da quelli attualmente presenti in commercio per il trattamento della TRD.
 
