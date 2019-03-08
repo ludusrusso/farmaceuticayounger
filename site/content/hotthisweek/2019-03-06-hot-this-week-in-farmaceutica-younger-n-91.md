@@ -1,7 +1,26 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.91
 date: '2019-03-10T09:43:00+01:00'
+description: >-
+  La Food and Drug Administration statunitense ha approvato Spravato
+  (esketamina), uno spray nasale usato in combinazione con un antidepressivo
+  orale, per il trattamento negli adulti della depressione resistente al
+  trattamento (TRD). Questa è la prima approvazione da parte dell'agenzia
+  statunitense per questo disturbo depressivo da oltre 30 anni e anche l'unica
+  con un meccanismo di azione differente da quelli attualmente presenti in
+  commercio per il trattamento dei disturbi depressivi.
+socialDesc: >-
+  La Food and Drug Administration statunitense ha approvato Spravato
+  (esketamina), uno spray nasale usato in combinazione con un antidepressivo
+  orale, per il trattamento negli adulti della depressione resistente al
+  trattamento (TRD). Questa è la prima approvazione da parte dell'agenzia
+  statunitense per questo disturbo depressivo da oltre 30 anni e anche l'unica
+  con un meccanismo di azione differente da quelli attualmente presenti in
+  commercio per il trattamento dei disturbi depressivi.
+image: /img/img_508777.jpg
 ---
+![](/img/img_508777.jpg)
+
 La Food and Drug Administration statunitense ha approvato [Spravato ](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm632761.htm)(esketamina), uno spray nasale usato in combinazione con un antidepressivo orale, per il trattamento negli adulti della depressione resistente al trattamento (TRD). Questa è la prima approvazione da parte dell'agenzia statunitense per questo disturbo depressivo da oltre 30 anni e anche l'unica con un meccanismo di azione differente da quelli attualmente presenti in commercio per il trattamento dei disturbi depressivi.
 
 L'esketamina rientra in una nuova classe di antidepressivi ed è un antagonista del recettore NMDA (N-metil-D-aspartato), che regola le concentrazioni del neurotrasmettitore glutammato nel cervello, intervenendo nel ripristino delle connessioni sinaptiche nelle cellule cerebrali in soggetti con disturbo depressivo maggiore. L'esketamina è l'enantiomero S della ketamina, dotata di una maggiore affinità per il recettore NMDA rispetto all’R-enantiomero.
