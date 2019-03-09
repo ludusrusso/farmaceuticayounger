@@ -2,7 +2,7 @@
 title: >-
   DMITRIJ MENDELEEV - Gli elementi, se disposti in base al loro peso atomico,
   mostrano una apparente periodicità di proprietà
-date: '2019-03-09T09:41:00+01:00'
+date: '2019-03-09T09:00:00+01:00'
 description: >-
   Dmitrij Ivanovič Mendeleev, chimico e scienziato russo dai molteplici
   interessi culturali, è noto per la scoperta della periodicità delle proprietà
