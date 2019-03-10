@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.91
-date: '2019-03-10T09:43:00+01:00'
+date: '2019-03-10T08:43:00+01:00'
 description: >-
   La Food and Drug Administration statunitense ha approvato Spravato
   (esketamina), uno spray nasale usato in combinazione con un antidepressivo
