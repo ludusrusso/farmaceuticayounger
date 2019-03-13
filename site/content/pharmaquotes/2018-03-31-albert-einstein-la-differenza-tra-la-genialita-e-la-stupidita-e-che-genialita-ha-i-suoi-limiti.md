@@ -1,9 +1,10 @@
 ---
-title: 'ALBERT EINSTEIN - "La differenza tra la genialità e la stupidità è che genialità ha i suoi limiti"'
-date: 2018-03-31T15:35:14+00:00
-draft: false
-image: /img/albert-einstein-la-differenza-tra-la-genialita-e-la-stupidita-e-che-genialita-ha-i-suoi-limiti.md/img_1386.jpg
-tags: [PharmaQuotes]
+title: >-
+  ALBERT EINSTEIN - "La differenza tra la genialità e la stupidità è che la
+  genialità ha i suoi limiti"
+date: 2018-03-31T15:35:14.000Z
+image: >-
+  /img/albert-einstein-la-differenza-tra-la-genialita-e-la-stupidita-e-che-genialita-ha-i-suoi-limiti.md/img_1386.jpg
 ---
 
 ![IMG_1386.JPG](/img/albert-einstein-la-differenza-tra-la-genialita-e-la-stupidita-e-che-genialita-ha-i-suoi-limiti.md/img_1386.jpg)
