@@ -1,12 +1,19 @@
 ---
-title: 'ALBERT EINSTEIN - "C''è una forza motrice più forte del vapore, dell''elettricità e dell''energia: la volontà"'
-date: 2017-11-18T09:00:27+00:00
-draft: false
-image: /img/albert-einstein-ce-una-forza-motrice-piu-forte-del-vapore-dellelettricita-e-dellenergia-la-volonta.md/img_3386.jpg
-tags: [einstein, fisica, PharmaQuotes, science, scienza]
+title: >-
+  ALBERT EINSTEIN - "C'è una forza motrice più forte del vapore,
+  dell'elettricità e dell'energia: la volontà"
+date: 2017-11-18T09:00:27.000Z
+description: >-
+  Albert Einstein è considerato il genio dei geni, una grande figura storica e
+  scientifica senza eguali, forte umanista e pacifista, ma non sempre nel corso
+  della sua vita fu così.
+socialDesc: >-
+  Albert Einstein è considerato il genio dei geni, una grande figura storica e
+  scientifica senza eguali, forte umanista e pacifista, ma non sempre nel corso
+  della sua vita fu così.
+image: /img/einstein.jpeg
 ---
-
-![IMG_3386.JPG](/img/albert-einstein-ce-una-forza-motrice-piu-forte-del-vapore-dellelettricita-e-dellenergia-la-volonta.md/img_3386.jpg)
+![IMG_3386.JPG](/img/einstein.jpeg)
 
 **Albert Einstein** è considerato il genio dei geni, una grande figura storica e scientifica senza eguali, forte umanista e pacifista, ma non sempre nel corso della sua vita fu così.
 
@@ -16,4 +23,4 @@ Ciononostante Einstein vinse il Premio Nobel per la fisica cambiando radicalment
 
 Qual è e quale è stato il segreto dell'immortalità delle sue scoperte rivoluzionarie? In una intervista dichiarò:
 
-_"C'è una forza motrice più forte del vapore, dell'elettricità e dell'energia atomica: la volontà."_
+> _C'è una forza motrice più forte del vapore, dell'elettricità e dell'energia atomica: la volontà._
