@@ -17,7 +17,7 @@ socialDesc: >-
   la frequenza respiratoria del paziente nei casi più gravi di avvelenamento.
 image: /img/b0d9e1a7-8a36-4d15-b58f-d7fdf1f0b39d.jpeg
 ---
-![](/img/b0d9e1a7-8a36-4d15-b58f-d7fdf1f0b39d.jpeg)
+![null](/img/b0d9e1a7-8a36-4d15-b58f-d7fdf1f0b39d.jpeg)
 
 La Food and Drug Administration degli Stati Uniti ha autorizzato la commercializzazione di un nuovo dispositivo, [ClearMate](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm633533.htm?utm_campaign=031419_PR_FDA%20allows%20marketing%20of%20new%20device%20to%20help%20treat%20carbon%20monoxide%20poisoning&utm_medium=email&utm_source=Eloqua), destinato ad essere utilizzato in pronto soccorso per aiutare a curare i pazienti affetti da avvelenamento da monossido di carbonio. Il dispositivo utilizza un nuovo metodo per rimuovere rapidamente il monossido di carbonio dal corpo aumentando la frequenza respiratoria del paziente nei casi più gravi di avvelenamento.
 
@@ -31,4 +31,4 @@ L'autorizzazione di ClearMate da parte della FDA si è basata sui dati di più s
 
 La FDA ha rilasciato l'autorizzazione all'immissione in commercio di ClearMate a Thornhill Research, Inc.
 
-![]()
+![null]()
