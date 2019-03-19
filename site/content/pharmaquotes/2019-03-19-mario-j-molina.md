@@ -1,6 +1,6 @@
 ---
 title: 'MARIO J. MOLINA - '
-date: '2019-03-19T11:55:27+01:00'
+date: '2019-03-22T08:55:00+01:00'
 description: >-
   Mario J. Molina, chimico messicano naturalizzato statunitense, vincitore del
   premio Nobel per la chimica nel 1995, insieme a P. Crutzen e F.S. Rowland per
