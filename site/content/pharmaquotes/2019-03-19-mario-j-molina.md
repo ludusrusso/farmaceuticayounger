@@ -1,5 +1,8 @@
 ---
-title: 'MARIO J. MOLINA - '
+title: >-
+  MARIO J. MOLINA - Possiamo dire: "Lasciamo che i nostri nipoti se ne
+  preoccupino". Ma è più difficile cambiare dopo. Investiamo nell'educazione dei
+  figli, anche se non ci ripaga per decenni. Perché non sul pianeta? "
 date: '2019-03-22T08:55:00+01:00'
 description: >-
   Mario J. Molina, chimico messicano naturalizzato statunitense, vincitore del
