@@ -1,5 +1,5 @@
 ---
-title: CARL SAGAN - "Science is a way of thinking..."
+title: CARL SAGAN - "Science is a way of thinking"
 date: 2018-07-14T07:50:34.000Z
 description: >-
   Carl Sagan, astronomo, divulgatore scientifico, autore di fantascienza
