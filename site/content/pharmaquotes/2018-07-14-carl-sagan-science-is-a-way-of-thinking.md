@@ -1,12 +1,17 @@
 ---
-title: 'CARL SAGAN - "Science is a way of thinking..."'
-date: 2018-07-14T07:50:34+00:00
-draft: false
-image: /img/carl-sagan-science-is-a-way-of-thinking.md/img_2587.jpg
-tags: [PharmaQuotes]
+title: CARL SAGAN - "Science is a way of thinking..."
+date: 2018-07-14T07:50:34.000Z
+description: >-
+  Carl Sagan, astronomo, divulgatore scientifico, autore di fantascienza
+  statunitense,  Professore di Astrofisica alla Cornell University di New York,
+  consulente della NASA, è stato uno dei più famosi astronomi del XX secolo.
+socialDesc: >-
+  Carl Sagan, astronomo, divulgatore scientifico, autore di fantascienza
+  statunitense,  Professore di Astrofisica alla Cornell University di New York,
+  consulente della NASA, è stato uno dei più famosi astronomi del XX secolo.
+image: /img/0a8c36ff-8d73-4b08-b67c-7116def1095a.jpeg
 ---
-
-**![](/img/carl-sagan-science-is-a-way-of-thinking.md/img_2587.jpg)**
+![](/img/0a8c36ff-8d73-4b08-b67c-7116def1095a.jpeg)
 
 **Carl Sagan**, astronomo, divulgatore scientifico, autore di fantascienza statunitense,  Professore di Astrofisica alla _Cornell University_ di New York, consulente della NASA, è stato **uno dei più famosi astronomi del XX secolo**.
 
