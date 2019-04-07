@@ -1,22 +1,32 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.95
 date: '2019-04-07T08:21:52+09:00'
-image: /img/f598e3ee-f20f-4034-b1b4-3351b0023ae3.png
+description: >-
+  La Food and Drug Administration degli Stati Uniti ha approvato Mavenclad
+  (cladribina) per il trattamento di forme recidivanti di sclerosi multipla (SM)
+  negli adulti. L’uso di Mavenclad rappresenta un'opzione terapeutica aggiuntiva
+  per i pazienti che hanno avuto una risposta inadeguata o che non sono stati in
+  grado di tollerare un farmaco alternativo indicato per il trattamento della
+  SM.
+socialDesc: >-
+  La Food and Drug Administration degli Stati Uniti ha approvato Mavenclad
+  (cladribina) per il trattamento di forme recidivanti di sclerosi multipla (SM)
+  negli adulti. L’uso di Mavenclad rappresenta un'opzione terapeutica aggiuntiva
+  per i pazienti che hanno avuto una risposta inadeguata o che non sono stati in
+  grado di tollerare un farmaco alternativo indicato per il trattamento della
+  SM.
+image: /img/7270552b-c6f9-41dd-b100-98e9c155c75c.png
 ---
-![null](/img/f598e3ee-f20f-4034-b1b4-3351b0023ae3.png)
+![null](/img/7270552b-c6f9-41dd-b100-98e9c155c75c.png)
 
-La Food and Drug Administration degli Stati Uniti ha approvato Mavenclad (cladribina) per il trattamento di forme recidivanti di sclerosi multipla (SM) negli adulti. A causa del suo profilo di sicurezza, l'uso di Mavenclad è rappresenta un'opzione terapeutica aggiuntiva per i pazienti che hanno avuto una risposta inadeguata o che non sono stati in grado di tollerare un farmaco alternativo indicato per il trattamento della SM.
+La Food and Drug Administration degli Stati Uniti ha approvato [Mavenclad (cladribina)](https://www.merckgroup.com/en/news/mavenclad.html) per il trattamento di forme recidivanti di sclerosi multipla (SM) negli adulti. L’uso di Mavenclad rappresenta un'opzione terapeutica aggiuntiva per i pazienti che hanno avuto una risposta inadeguata o che non sono stati in grado di tollerare un farmaco alternativo indicato per il trattamento della SM.
 
 La SM è una malattia cronica, infiammatoria e autoimmune del sistema nervoso centrale che interrompe le comunicazioni tra il cervello e le altre parti del corpo. Si tratta di una malattia invalidante in cui il sistema immunitario attacca in modo anomalo la guaina mielinica, lo strato isolante e di supporto che circonda le cellule nervose e causa così un aumento dell'infiammazione e, di conseguenza, un danno. La SM è una delle cause più comuni di disabilità neurologica nei giovani adulti e si verifica più frequentemente nelle donne che negli uomini. Vi sono diverse forme di sclerosi multipla e la progressione e la comparsa di recidive possono non essere prevedibili. Le forme più diffuse sono quella a ricadute e remissioni e quella primariamente progressiva, rispettivamente nell’85 e nel 15 per cento dei casi.
 
 L'efficacia di Mavenclad è stata dimostrata in uno studio clinico condoto su 1.326 pazienti con forme recidivanti di sclerosi multipla che presentavano almeno una recidiva nei precedenti 12 mesi. Mavenclad ha ridotto significativamente il numero di recidive sperimentate da questi pazienti rispetto al placebo. Mavenclad ha anche ridotto la progressione della disabilità rispetto al placebo.
 
-La patogenesi della SM è costituita da una serie complessa di eventi, nella quale cellule immunitarie di diverso tipo, incluse le cellule T e B autoreattive, svolgono un ruolo fondamentale. Il meccanismo attraverso il quale la cladribina esercita i suoi effetti terapeutici nella SM non è chiarito del tutto, ma si ritiene che l’effetto principale sui linfociti B e T interrompa a cascata di eventi immunitari alla base della malattia.
+La patogenesi della SM è costituita da una serie complessa di eventi, nella quale cellule immunitarie di diverso tipo, incluse le cellule T e B autoreattive, svolgono un ruolo fondamentale. Il meccanismo con il quale la cladribina esercita i suoi effetti terapeutici nella SM non è chiarito del tutto, ma si ritiene che l’effetto principale sui linfociti B e T sia l’interrunzione a cascata di eventi immunitari alla base della malattia.
 
-Mavenclad deve essere dispensato da una Guida ai farmaci per il paziente che descrive importanti informazioni sugli usi e sui rischi del farmaco. Mavenclad ha un Boxed Warning per un aumentato rischio di malignità e danno al feto. Mavenclad non deve essere usato in pazienti con attuale neoplasia. Nei pazienti con neoplasie pregresse o con aumentato rischio di malignità, gli operatori sanitari dovrebbero valutare i benefici e i rischi dell'uso di Mavenclad su base individuale. Gli operatori sanitari dovrebbero seguire le linee guida standard per lo screening del cancro nei pazienti trattati con Mavenclad. Il farmaco non deve essere usato nelle donne in gravidanza e in donne e uomini con potenziale riproduttivo che non prevedono di utilizzare un metodo contraccettivo efficace durante il trattamento e per sei mesi dopo il corso della terapia a causa del potenziale rischio di danno fetale. Mavenclad deve essere sospeso se la paziente rimane incinta.
+Mavenclad viene dispensato con una Boxed Warning che ne descrive gli usi e i rischi del farmaco, in quanto al suo utilizzo è associato un aumentato rischio di malignità e danno al feto nelle donne in gravidanza. Le reazioni avverse più comuni riportate dai pazienti trattati con Mavenclad negli studi clinici comprendono infezioni del tratto respiratorio superiore, cefalea e diminuzione della conta dei linfociti.
 
-Altre avvertenze includono il rischio di diminuzione della conta dei linfociti (globuli bianchi); la conta dei linfociti deve essere monitorata prima, durante e dopo il trattamento. Mavenclad può aumentare il rischio di infezioni; gli operatori sanitari dovrebbero sottoporre a screening i pazienti per infezioni e il trattamento con Mavenclad deve essere ritardato se necessario. Mavenclad può causare tossicità ematologica e soppressione del midollo osseo, pertanto gli operatori sanitari dovrebbero misurare il conteggio totale del sangue di un paziente prima, durante e dopo la terapia. Il farmaco è stato associato a malattia del trapianto contro l'ospite in seguito a trasfusioni di sangue con sangue non irradiato. Mavenclad può causare lesioni al fegato e il trattamento deve essere interrotto o sospeso, a seconda dei casi, se si sospetta una lesione epatica clinicamente significativa.
-
-Le reazioni avverse più comuni riportate dai pazienti trattati con Mavenclad negli studi clinici comprendono infezioni del tratto respiratorio superiore, cefalea e diminuzione della conta dei linfociti.
-
-La FDA ha concesso l'approvazione di Mavenclad a EMD Serono, Inc.
+La FDA ha concesso l'approvazione di Mavenclad a Merck Serono, Inc. In Europa Mavenclad ha ricevuto l’approvazione nell’Agosto del 2017.
