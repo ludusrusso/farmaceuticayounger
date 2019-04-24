@@ -1,7 +1,7 @@
 ---
 title: 'FDA APPROVAL: Skyrizi'
 tags:
-  - FarmaNews
+  - farmanews
 date: '2019-04-24T16:48:41+02:00'
 description: >
   AbbVie ha annunciato che la Food and Drug Administration (FDA) statunitense ha
