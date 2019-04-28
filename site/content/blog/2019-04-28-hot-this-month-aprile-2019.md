@@ -1,7 +1,7 @@
 ---
 title: HOT THIS MONTH (APRILE 2019)
 tags:
-  - farmanews
+  - hotthismonth
 date: '2019-04-28T17:27:32+02:00'
 description: >-
   Il comitato per i medicinali per l'uomo di EMA (CHMP, Committee for Medicinal
