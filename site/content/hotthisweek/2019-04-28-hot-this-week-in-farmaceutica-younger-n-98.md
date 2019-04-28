@@ -17,9 +17,9 @@ socialDesc: >-
   del corpo. Questa è la prima volta che la FDA ha approvato un trattamento per
   pazienti pediatrici con SLE. Benlysta è approvato per l'uso nei pazienti
   adulti dal 2011 negli Stati Uniti e dall’EMA nel Settembre 2017.
-image: /img/b309af75-841d-4f4f-948b-9bf6518076a7.png
+image: /img/a8031bcd-017d-40ce-8b0e-ed7350a8007d.png
 ---
-![](/img/b309af75-841d-4f4f-948b-9bf6518076a7.png)
+![null](/img/a8031bcd-017d-40ce-8b0e-ed7350a8007d.png)
 
 La US Food and Drug Administration ha approvato [Benlysta (belimumab)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-pediatric-patients-lupus), infusione endovenosa per il trattamento nei pazienti pediatrici del lupus eritematoso sistemico (SLE, o semplicemente lupus), una grave malattia cronica di natura immunitaria che causa infiammazione e danni a vari tessuti e organi del corpo. Questa è la prima volta che la FDA approva un trattamento per pazienti pediatrici con SLE. Benlysta è approvato per l'uso nei pazienti adulti dal 2011 negli Stati Uniti e dall’EMA dal Settembre 2017.
 
