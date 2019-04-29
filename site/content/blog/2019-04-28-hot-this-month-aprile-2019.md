@@ -39,6 +39,6 @@ Il CHMP ha raccomandato la concessione alle autorizzazioni all'immissione in com
 
 Parere positivo del Comitato per **Xromi** (idrossiurea), una [medicinale ibrido](https://www.ema.europa.eu/en/glossary/hybrid-medicine) per la prevenzione delle complicanze vaso occlusive di anemia falciforme nei pazienti con più di 2 anni di età. Le applicazioni ibride fanno affidamento su parte dei risultati di test pre-clinici e studi clinici.
 
-**Temybric Ellipta **(fluticasone furoato/umeclidinium/vilanterol) ha ricevuto parere positivo dal CHMP mediante l’[Informed consent application ](https://www.ema.europa.eu/en/glossary/informed-consent-application)per il trattamento di mantenimento in pazienti adulti affetti da malattia polmonare ostruttiva cronica da moderata a grave.
+**Temybric Ellipta**(fluticasone furoato/umeclidinium/vilanterol) ha ricevuto parere positivo dal CHMP mediante l’[Informed consent application ](https://www.ema.europa.eu/en/glossary/informed-consent-application)per il trattamento di mantenimento in pazienti adulti affetti da malattia polmonare ostruttiva cronica da moderata a grave.
 
 Il CHMP infine ha completato la sua valutazione dei risultati dello studio ANNOUNCE e ha concluso che _Lartruvo_ (olaratumab) con doxorubicina non prolunga la vita dei pazienti con cancro dei tessuti molli più della sola doxorubicina. Pertanto, il comitato ha raccomandato la revoca dell'autorizzazione all'immissione in commercio del medicinale.
