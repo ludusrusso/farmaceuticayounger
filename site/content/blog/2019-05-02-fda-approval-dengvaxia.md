@@ -17,9 +17,9 @@ socialDesc: >-
   compresa tra 9 e 16 anni con diagnosi confermata da esami di laboratorio e che
   vivono in aree endemiche. La dengue è diffusa principalmente nei territori
   statunitensi di Samoa, Guam, Portorico e Isole Vergini americane.
-image: /img/943288b0-3890-461d-aaa0-98088e7bc97d.png
+image: /img/95e76605-b6e2-4f09-8ffa-6f40b1ed70f6.png
 ---
-![](/img/943288b0-3890-461d-aaa0-98088e7bc97d.png)
+![null](/img/95e76605-b6e2-4f09-8ffa-6f40b1ed70f6.png)
 
 La Food and Drug Administration statunitense ha annunciato l'approvazione di [Dengvaxia](https://www.fda.gov/news-events/press-announcements/first-fda-approved-vaccine-prevention-dengue-disease-endemic-regions), il primo vaccino approvato per la prevenzione delle malattie causate da tutti i sierotipi di dengue (1, 2, 3 e 4) nelle persone di età compresa tra 9 e 16 anni con diagnosi confermata da esami di laboratorio e che vivono in aree endemiche. La dengue è diffusa principalmente nei territori statunitensi di Samoa, Guam, Portorico e Isole Vergini americane.
 
