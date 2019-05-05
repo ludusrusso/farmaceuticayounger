@@ -13,9 +13,9 @@ socialDesc: >-
   del virus dell’epatite C(HCV) nei bambini di età compresa tra i 12 e i 17
   anni. Mavyret è stato precedentemente approvato per il trattamento dell’HCV
   negli adulti nel 2017 negli Stati Uniti e in Europa.
-image: /img/3faba3b1-86ca-4afb-a1f3-495ef94e5fae.png
+image: /img/8e58d84d-8eaa-4b05-984a-9102b46020a6.png
 ---
-![](/img/3faba3b1-86ca-4afb-a1f3-495ef94e5fae.png)
+![null](/img/8e58d84d-8eaa-4b05-984a-9102b46020a6.png)
 
 La Food and Drug Administration degli Stati Uniti ha approvato [Mavyret (glecaprevir e pibrentasvir)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-all-genotypes-hepatitis-c-pediatric-patients), il primo trattamento per tutti e sei i genotipi del virus dell’epatite C(HCV) nei bambini di età compresa tra i 12 e i 17 anni. Mavyret è stato precedentemente approvato per il trattamento dell’HCV negli adulti nel 2017 negli Stati Uniti e in Europa.
 
