@@ -9,7 +9,10 @@ socialDesc: >-
   L’IMP, ovvero l’Investigational Medicinal Product è una forma farmaceutica di
   una sostanza attiva o di un placebo utilizzato come farmaco testato o di
   riferimento in uno studio clinico.
+image: /img/f58fef6e-5df6-4ea4-85b9-6f7301123ffe.png
 ---
+![](/img/f58fef6e-5df6-4ea4-85b9-6f7301123ffe.png)
+
 L’IMP, ovvero l’Investigational Medicinal Product è una forma farmaceutica di una sostanza attiva o di un placebo utilizzato come farmaco testato o di riferimento in uno studio clinico. Può essere anche un prodotto già presenti in commercio:
 
 \- quando viene utilizzato o assemblato in un modo differente da quello già autorizzato;
