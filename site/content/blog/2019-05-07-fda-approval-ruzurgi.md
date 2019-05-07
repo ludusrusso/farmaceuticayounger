@@ -2,7 +2,7 @@
 title: 'FDA APPROVAL: Ruzurgi '
 tags:
   - farmanews
-date: '2019-05-07T09:08:32+02:00'
+date: '2019-05-06T09:08:32+02:00'
 description: >
   La Food and Drug Administration degli Stati Uniti ha approvato Ruzurgi
   (amifampridina) per il trattamento della sindrome miastenica di Lambert-Eaton
@@ -17,7 +17,10 @@ socialDesc: >
   approvazione della FDA di un trattamento specifico per pazienti pediatrici con
   la LEMS. L'unico altro trattamento per la LEMS è approvato solo per l'uso
   negli adulti.
+image: /img/f7f7000c-6a24-4b08-a4f4-78d552981a09.png
 ---
+![](/img/f7f7000c-6a24-4b08-a4f4-78d552981a09.png)
+
 La Food and Drug Administration degli Stati Uniti ha approvato [Ruzurgi (amifampridina)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-children-lambert-eaton-myasthenic-syndrome-rare-autoimmune-disorder) per il trattamento della sindrome miastenica di Lambert-Eaton (LEMS) in pazienti di età compresa tra 6 e meno di 17 anni. Questa è **la prima approvazione della FDA per il trattamento specifico di pazienti pediatrici affetti da LEMS**. L'unico altro trattamento per la LEMS è approvato solo per l'uso negli adulti.
 
 La LEMS è una rara malattia autoimmune che colpisce la connessione tra i nervi e i muscoli e causa debolezza nei pazienti affetti. Nelle persone con LEMS, il sistema immunitario attacca la giunzione neuromuscolare (la connessione tra nervi e muscoli) e interrompe la capacità delle cellule nervose di inviare segnali alle cellule muscolari. La LEMS può essere associata ad altre malattie autoimmuni, ma più comunemente si manifesta in pazienti con cancro come il cancro del polmone a piccole cellule, dove il suo esordio precede o coincide con la diagnosi di cancro. La LEMS può verificarsi a qualsiasi età. La sua prevalenza nei pazienti pediatrici non è nota, ma la sua prevalenza complessiva è stimata in tre su milione di individui in tutto il mondo.
