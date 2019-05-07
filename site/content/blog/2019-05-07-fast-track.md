@@ -4,7 +4,7 @@ tags:
   - Farmaceutica
 date: '2019-05-07T10:10:24+02:00'
 ---
-La designazione di Fast Track è una revisione accelerata di un farmaco per facilitare lo sviluppo e accelerare la revisione dei farmaci per il trattamento di patologie gravi e per soddisfare un bisogno medico insoddisfatto. Lo scopo è quello di accelerare l'approvazione di importanti nuovi farmaci per patologie gravi.
+La designazione di Fast Track è una revisione accelerata di un farmaco per il trattamento di patologie gravi e con un bisogno medico insoddisfatto. Lo scopo è quello di accelerare l'iter di approvazione di nuovi farmaci per patologie gravi.
 
 La determinazione di una condizione grave si basa sul fatto che il farmaco avrà un impatto su fattori quali la sopravvivenza, il benessere quotidiano, o la probabilità che la condizione, se non trattata, progredisca da una condizione meno grave a una più grave. L'AIDS, l'Alzheimer, l'insufficienza cardiaca, l'epilessia, la depressione, il diabete e il cancro sono esempi di condizioni gravi. 
 
