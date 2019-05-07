@@ -8,7 +8,7 @@ La designazione di Fast Track è una revisione accelerata di un farmaco per il t
 
 La determinazione di una condizione grave si basa sul fatto che il farmaco avrà un impatto su fattori quali la sopravvivenza, il benessere quotidiano, o la probabilità che la condizione, se non trattata, progredisca da una condizione meno grave a una più grave. L'AIDS, l'Alzheimer, l'insufficienza cardiaca, l'epilessia, la depressione, il diabete e il cancro sono esempi di condizioni gravi. 
 
-La designazione di Fast Track deve essere richiesta dalla compagnia farmaceutica in qualsiasi momento durante il processo di sviluppo del farmaco. La FDA esaminerà la richiesta e prenderà una decisione entro sessanta giorni
+La designazione di Fast Track deve essere richiesta dall'azienda farmaceutica in qualsiasi momento durante il processo di sviluppo del farmaco. La FDA esaminerà la richiesta e prenderà una decisione entro sessanta giorni
 
 Se ci sono già terapie disponibili sul mercato per quel tipo di patologia, un farmaco per ottenere la Fast Track deve mostrare qualche vantaggio rispetto alla terapia disponibile, come ad esempio:
 
