@@ -2,7 +2,7 @@
 title: 'FDA APPROVAL: Vyndaqel e Vyndamax'
 tags:
   - farmanews
-date: '2019-05-07T09:32:23+02:00'
+date: '2019-05-03T09:32:23+02:00'
 description: >-
   La Food and Drug Administration degli Stati Uniti ha approvato Vyndaqel
   (tafamidis meglumine) e Vyndamax (tafamidis) per il trattamento della
@@ -15,7 +15,10 @@ socialDesc: >-
   cardiomiopatia causata da amiloidosi mediata da transtiretina (ATTR-CM) negli
   adulti. Questi rappresentano i primi trattamenti approvati dalla FDA per
   l'ATTR-CM.
+image: /img/d1ca2178-0ffe-42f6-b158-fc45620ddac1.png
 ---
+![](/img/d1ca2178-0ffe-42f6-b158-fc45620ddac1.png)
+
 La Food and Drug Administration degli Stati Uniti ha approvato [Vyndaqel (tafamidis meglumine) e Vyndamax (tafamidis)](https://www.fda.gov/news-events/press-announcements/fda-approves-new-treatments-heart-disease-caused-serious-rare-disease-transthyretin-mediated) per il trattamento della cardiomiopatia causata da amiloidosi mediata da transtiretina (ATTR-CM) negli adulti. Questi rappresentano i primi trattamenti approvati dalla FDA per l'ATTR-CM. 
 
 L'ATTR-CM è una malattia rara, debilitante e spesso fatale causata dall'accumulo di depositi anormali di proteine ​​note come amiloide negli organi e nei tessuti del corpo. Questi depositi proteici si verificano più frequentemente nel cuore e nel sistema nervoso periferico. Il coinvolgimento del cuore può causare mancanza di respiro, affaticamento, insufficienza cardiaca, perdita di conoscenza, ritmi cardiaci anormali e morte. Il coinvolgimento del sistema nervoso periferico può causare perdita di sensibilità, dolore o immobilità a livello di braccia, gambe, mani e piedi. I depositi di amiloide possono interessare anche i reni, gli occhi, il tratto gastrointestinale e il sistema nervoso centrale.
