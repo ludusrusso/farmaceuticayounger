@@ -15,10 +15,13 @@ socialDesc: >-
   fondato su basi scientifiche e sulla gestione del rischio finalizzata alla
   qualità del prodotto”.  Le linee guida che contengono i principi del QbD sono
   le ICH Q8, Q9 e Q10.
+image: /img/ba5aed47-60b7-4e28-9616-84c4fc493cfc.png
 ---
+![](/img/ba5aed47-60b7-4e28-9616-84c4fc493cfc.png)
+
 > It is important to recognize that quality cannot be tested into products; i.e., quality should be built in by design. 
 
-Il concetto di Quality by Design (QbD) è definito dalla [ICH Q8](https://www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Quality/Q8_R1/Step4/Q8_R2_Guideline.pdf) come_ “un approccio sistematico allo sviluppo, che inizia con obbiettivi predefiniti ed enfatizza la conoscenza del prodotto e del processo, nonché del suo controllo, fondato su basi scientifiche e sulla gestione del rischio finalizzata alla qualità del prodotto”._  Le linee guida che contengono i principi del QbD sono le ICH Q8, Q9 e Q10.
+Il concetto di Quality by Design (QbD) è definito dalla ICH Q8 come_ “un approccio sistematico allo sviluppo, che inizia con obbiettivi predefiniti ed enfatizza la conoscenza del prodotto e del processo, nonché del suo controllo, fondato su basi scientifiche e sulla gestione del rischio finalizzata alla qualità del prodotto”._  Le linee guida che contengono i principi del QbD sono le ICH Q8, Q9 e Q10.
 
 Le caratteristiche fondamentali del QbD sono:
 
