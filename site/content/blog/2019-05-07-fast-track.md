@@ -17,7 +17,7 @@ image: /img/a025d00b-d5b5-448f-85c2-035dc4bb3ecc.png
 ---
 ![null](/img/a025d00b-d5b5-448f-85c2-035dc4bb3ecc.png)
 
-La designazione data dalla FDA statunitense ad un potenziale nuovo farmaco di **Fast Track** consiste in una revisione accelerata di un farmaco per il trattamento di patologie gravi e con un bisogno medico insoddisfatto. Lo scopo principale è quello di accelerare l'iter di approvazione di nuovi farmaci per patologie gravi.
+La designazione data dalla FDA statunitense ad un potenziale nuovo farmaco di [**Fast Track**](https://www.fda.gov/patients/fast-track-breakthrough-therapy-accelerated-approval-priority-review/fast-track) consiste in una revisione accelerata del farmaco per il trattamento di patologie gravi e con un bisogno medico insoddisfatto. Lo scopo principale è quello di accelerare l'iter di approvazione di nuovi farmaci per patologie gravi.
 
 La determinazione di una condizione grave si basa sul fatto che il farmaco avrà un impatto su fattori quali la _sopravvivenza_, il _benessere quotidiano_, o la probabilità che la condizione, se non trattata, progredisca da una _condizione meno grave a una più grave_. L'AIDS, l'Alzheimer, l'insufficienza cardiaca, l'epilessia, la depressione, il diabete e il cancro sono esempi di condizioni gravi. 
 
