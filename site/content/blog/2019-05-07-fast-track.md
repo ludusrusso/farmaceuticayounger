@@ -21,20 +21,20 @@ La designazione data dalla FDA statunitense ad un potenziale nuovo farmaco di **
 
 La determinazione di una condizione grave si basa sul fatto che il farmaco avrà un impatto su fattori quali la _sopravvivenza_, il _benessere quotidiano_, o la probabilità che la condizione, se non trattata, progredisca da una _condizione meno grave a una più grave_. L'AIDS, l'Alzheimer, l'insufficienza cardiaca, l'epilessia, la depressione, il diabete e il cancro sono esempi di condizioni gravi. 
 
-La designazione di Fast Track deve essere richiesta dall'azienda farmaceutica in qualsiasi momento durante il processo di sviluppo del farmaco. La FDA esaminerà la richiesta e prenderà una decisione entro sessanta giorni
+La designazione di Fast Track può essere richiesta dall'azienda farmaceutica in qualsiasi momento durante il processo di sviluppo del farmaco. La FDA esaminerà la richiesta e prenderà una decisione entro sessanta giorni.
 
 Se ci sono già terapie disponibili sul mercato per quel tipo di patologia, un farmaco per ottenere la Fast Track deve mostrare qualche vantaggio rispetto alla terapia disponibile, come ad esempio:
 
-\- Mostrare un'efficacia superiore, un effetto su risultati gravi o un miglioramento degli effetti sui risultati gravi
+\- mostrare un'efficacia superiore, un effetto su risultati gravi o un miglioramento degli effetti sui risultati gravi,
 
-\- Evitare i gravi effetti collaterali di una terapia disponibile
+\- evitare i gravi effetti collaterali della terapia attualmente disponibile,
 
-\- Migliorare la diagnosi di una condizione grave in cui la diagnosi precoce si traduce in un miglioramento del risultato
+\- migliorare la diagnosi di una condizione grave,
 
-\- Ridurre la tossicità significativa clinica di una terapia disponibile che è comune e causa l'interruzione del trattamento
+\- ridurre la tossicità clinica della terapia attualmente disponibile che ne causa l'interruzione del trattamento,
 
-\- Capacità di affrontare i bisogni di salute pubblica emergenti o previsti
+\- capacità di affrontare i bisogni di salute pubblica emergenti o previsti.
 
-Un farmaco che riceve la designazione Fast Track ha dei notevoli vantaggi tra cui una comunicazione scritta più frequente da parte della FDA, la _Rolling Review_, il che significa che una società farmaceutica può presentare sezioni complete della sua domanda di licenza biologica (BLA) o New Drug Application (NDA) per la revisione da parte della FDA, piuttosto che attendere fino a quando ogni sezione della NDA sia completata. 
+Un farmaco che riceve la designazione Fast Track ha dei notevoli vantaggi tra cui una comunicazione scritta più frequente tra la FDA e l'azienda farmaceutica, la _Rolling Review_, che consiste nel fatto che l'azienda farmaceutica può presentare sezioni complete della sua domanda di licenza biologica (BLA) o New Drug Application (NDA) per la revisione da parte della FDA, piuttosto che attendere fino a quando ogni sezione della NDA sia completata.
 
-Una volta che un farmaco riceve la designazione Fast Track, viene aumentata la frequenza delle comunicazione tra la FDA e l'azienda farmaceutica durante l'intero processo di sviluppo e revisione dei farmaci per assicurare che le domande e i problemi siano risolti rapidamente, per portare all'approvazione del farmaco e di conseguenza all'accesso da parte dei pazienti il più presto possibile.
+Una volta che un farmaco riceve la designazione Fast Track, si intensifica la frequenza di comunicazione tra la FDA e l'azienda farmaceutica durante l'intero processo di sviluppo e revisione dei farmaci per assicurare che le domande e i problemi siano risolti rapidamente, per portare all'approvazione del farmaco e di conseguenza all'accesso da parte dei pazienti nel più breve tempo possibile.
