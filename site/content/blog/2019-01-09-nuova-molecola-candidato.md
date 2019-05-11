@@ -3,7 +3,6 @@ title: >-
   Nuova molecola candidato per combattere i vermi nematodi responsabili di
   malattie tropicali 
 tags:
-  - farmanews
   - articoli
 date: '2019-01-09T21:05:52+01:00'
 description: >-
