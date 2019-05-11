@@ -2,6 +2,7 @@
 title: Highlights Farmaci Orfani 2018
 tags:
   - Farmaciorfani
+  - articoli
 date: '2019-01-29T07:40:30+01:00'
 description: >-
   È da poco disponibile sul portale AIFA il report sui farmaci orfani pubblicato

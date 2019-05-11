@@ -2,6 +2,7 @@
 title: Fast Track
 tags:
   - Farmaceutica
+  - articoli
 date: '2019-05-07T10:10:24+02:00'
 description: >-
   La designazione di Fast Track è una revisione accelerata di un farmaco per il

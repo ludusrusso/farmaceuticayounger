@@ -1,6 +1,8 @@
 ---
 title: 'L''FDA STATUNITENSE CHIUDE IL 2018 CON 59 NUOVE APPROVAZIONI '
 date: '2019-01-16T15:35:29+01:00'
+tags:
+ - articoli
 description: >-
   Anno impegnativo, quello appena trascorso, per la Food and Drug Administration
   statunitense. Le approvazioni di farmaci raggiungono il massimo storico, con

@@ -4,6 +4,7 @@ tags:
   - Studi clinici
   - clinical trial
   - IMPs
+  - articoli
 date: '2019-02-16T16:12:12+01:00'
 description: >-
   L’IMP, ovvero l’Investigational Medicinal Product è una forma farmaceutica di
