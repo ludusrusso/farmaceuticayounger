@@ -2,7 +2,6 @@
 title: AIFA - Ritiro lotti di OZURDEX (Desametasone) per particella siliconica
 tags:
   - articoli
-  - farmanews
 date: '2018-10-11T16:22:49+02:00'
 description: >-
   L’Agenzia Italiana del Farmaco (AIFA), ha la comunicato, in una nota
