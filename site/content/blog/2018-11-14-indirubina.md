@@ -4,7 +4,6 @@ title: >-
   sintomi dell'epilessia
 tags:
   - articoli
-  - farmanews
 date: '2018-11-14T17:00:59+01:00'
 description: >-
   Per le persone con epilessia, la gestione delle convulsioni è di fondamentale
