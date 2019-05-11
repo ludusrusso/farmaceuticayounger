@@ -3,6 +3,7 @@ title: >-
   Indirubina e GSK-3: molecola e potenziale target per il trattamento dei
   sintomi dell'epilessia
 tags:
+  - articoli
   - farmanews
 date: '2018-11-14T17:00:59+01:00'
 description: >-

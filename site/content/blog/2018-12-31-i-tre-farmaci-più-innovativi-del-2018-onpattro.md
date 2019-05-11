@@ -1,6 +1,8 @@
 ---
 title: 'I tre farmaci più innovativi del 2018: Onpattro'
 date: '2018-12-31T15:09:48+01:00'
+tags:
+  - articoli
 description: >-
   Onpattro (patisiran), è la prima terapia al mondo basata sul silenziamento
   genico dell’RNAi (RNA interference). Onpattro è un farmaco sviluppato da

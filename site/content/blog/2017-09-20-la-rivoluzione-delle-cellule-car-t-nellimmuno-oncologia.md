@@ -3,7 +3,7 @@ title: 'La rivoluzione delle cellule CAR-T nell''Immuno-Oncologia'
 date: 2017-09-20T15:08:21+00:00
 draft: false
 image: /img/la-rivoluzione-delle-cellule-car-t-nellimmuno-oncologia.md/0031kymriah2.jpg
-tags: [Farmaceutica]
+tags: [Farmaceutica, articoli]
 ---
 
 Tre sono le Big Pharma che sul panorama mondiale stanno sfidando il tempo nella corsa all'oro della innovativa frontiera del trattamento genetico immuno-oncologico: **Gilead**, **Celgene** e **Novartis**. Ad ottenere il primato per ora è stata Novartis ma si attendono nel settore delle grosse novità. Infatti, entro il prossimo 29 novembre, l’Fda dovrebbe anche prendere una decisione su un altro trattamento a base di CAR-T cell sviluppato da _Kite Pharma_, società che è appena stata acquisita da Gilead Sciences. Questo farmaco, conosciuto come **KTE-C19** o assicabtagene ciloleucel (axi-cel), è stato studiato per il trattamento del linfoma non-Hodgkin aggressivo a cellule B (DLBCL). Nei dati di Kite rilasciati nel mese di febbraio, l'azienda ha visto che su 101 pazienti, il 36% aveva una risposta completa al trattamento dopo sei mesi. Si tratta di un tipo di cancro per il quale anche Novartis cercherà di ottenere l'approvazione. Un po’ più indietro nello sviluppo ci sono le CAR T cell della biotech _Juno Therapeutics_, società della quale una quota importante è posseduta da Celgene.

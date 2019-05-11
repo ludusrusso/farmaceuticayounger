@@ -3,7 +3,7 @@ title: 'Le Donne delle Big Pharma dei giorni nostri'
 date: 2017-08-12T16:26:26+00:00
 draft: false
 image: https://silviavernotico.files.wordpress.com/2017/07/women-in-pharma-header.png?w=653
-tags: [Farmaceutica]
+tags: [Farmaceutica, articoli]
 ---
 
 ![Women in Pharma.header.png](/img/le-donne-delle-big-pharma-dei-giorni-nostri.md/women-in-pharma-header.png?w=653)

@@ -1,6 +1,8 @@
 ---
 title: 'I tre farmaci più innovativi del 2018: Aimovig'
 date: '2018-12-30T18:16:01+01:00'
+tags:
+  - articoli
 description: >-
   Aimovig (erenumab) è il primo farmaco approvato dalla FDA statunitense,
   specificamente sviluppato per prevenire l'emicrania negli adulti, bloccando il

@@ -1,6 +1,8 @@
 ---
 title: 'I tre farmaci più innovativi del 2018: Emicizumab'
 date: '2018-12-31T17:13:30+01:00'
+tags:
+  - articoli
 description: >-
   Emicizumab é un anticorpo monoclonale bispecifico concepito per mimare
   l’azione del fattore VIII legando a ponte i fattori IXa e X, proteine

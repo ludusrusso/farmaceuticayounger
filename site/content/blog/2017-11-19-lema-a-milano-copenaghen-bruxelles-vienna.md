@@ -3,7 +3,7 @@ title: 'L''Ema a...Milano? Copenaghen? Bruxelles? Vienna?'
 date: 2017-11-19T20:48:23+00:00
 draft: false
 image: /img/lema-a-milano-copenaghen-bruxelles-vienna.md/schermata-1.png
-tags: [agenziaeuropeadeimedicinali, EMA, Farmaceutica, farmaceuticayounger, milano]
+tags: [agenziaeuropeadeimedicinali, EMA, Farmaceutica, farmaceuticayounger, milano, articoli]
 ---
 
 Il 20 novembre 2017 a Bruxelles sarà ufficializzata la decisione sulla città che ospiterà la sede dell’**EMA** dal momento che l’ente regolatorio è costretto a lasciare Londra a seguito della Brexit.

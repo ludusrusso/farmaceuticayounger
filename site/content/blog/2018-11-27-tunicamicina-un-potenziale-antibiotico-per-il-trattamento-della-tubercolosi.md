@@ -3,6 +3,7 @@ title: >-
   Tunicamicina, un potenziale antibiotico modificato per il trattamento della
   tubercolosi
 tags:
+  - articoli
   - farmanews
 date: '2018-11-27T16:02:33+01:00'
 description: >-

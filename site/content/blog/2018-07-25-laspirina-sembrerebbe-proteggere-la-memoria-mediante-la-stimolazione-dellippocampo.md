@@ -2,7 +2,9 @@
 title: 'L''aspirina protegge la memoria mediante la stimolazione dell''ippocampo'
 date: 2018-07-25T05:30:15+00:00
 draft: false
-tags: [Farmaceutica]
+tags: 
+    - Farmaceutica
+    - articoli
 image: /img/laspirina-sembrerebbe-proteggere-la-memoria-mediante-la-stimolazione-dellippocampo.md/img_2735.jpg
 ---
 

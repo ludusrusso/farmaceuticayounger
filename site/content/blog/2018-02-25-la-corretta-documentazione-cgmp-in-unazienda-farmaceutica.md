@@ -3,6 +3,8 @@ title: La corretta DOCUMENTAZIONE cGMP in un'azienda farmaceutica
 date: 2018-02-25T17:29:30+00:00
 description: Prova Prova
 image: 'https://silviavernotico.files.wordpress.com/2018/02/gmp-documentazione.png'
+tags:
+ - articoli
 ---
 _![GMP-documentazione.png](/img/la-corretta-documentazione-cgmp-in-unazienda-farmaceutica.md/gmp-documentazione.png)"If it isn’t written down, it’s just a rumor"_
 

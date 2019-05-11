@@ -3,7 +3,7 @@ title: 'La TOP 10 dei farmaci più venduti nel 2016'
 date: 2017-07-01T15:45:01+00:00
 draft: false
 image: /img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/top-drugs-by-sales-in-2016-who-sold-the-blockbuster-drugs-test-1492513807.jpg
-tags: [Farmaceutica]
+tags: [Farmaceutica, articoli]
 ---
 
 ![Top-drugs-by-sales-in-2016-Who-sold-the-blockbuster-drugs-test-1492513807.jpg](/img/la-top-10-dei-farmaci-piu-venduti-nel-2016.md/top-drugs-by-sales-in-2016-who-sold-the-blockbuster-drugs-test-1492513807.jpg)

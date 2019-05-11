@@ -3,6 +3,8 @@ title: >-
   Streptochinasi e un DNA interruttore per la modulazione della coagulazione
   sanguigna
 date: '2018-12-06T09:49:06+01:00'
+tags:
+  - articoli
 description: >-
   Nelle ore successive a un infarto, una dose endovena di streptochinasi
   proteica batterica può rompere i coaguli di sangue e ripristinare la

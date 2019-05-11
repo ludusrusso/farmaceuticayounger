@@ -1,6 +1,8 @@
 ---
 title: 'Muore Alfred Bader: filantropo e pioniere dell’industria chimica'
 date: '2019-01-07T07:51:12+01:00'
+tags:
+  - articoli
 description: >-
   Con queste modeste parole, scolpite nel tempo, ricordiamo Alfred Bader,
   deceduto lo scorso 23 Dicembre 2018, icona nel mondo della chimica, della

@@ -3,7 +3,9 @@ title: 'Il nuovo Cocktail sperimentale a base di Fentanyl, Midazolam e Cisatracu
 date: 2018-07-15T19:11:40+00:00
 draft: false
 image: https://silviavernotico.files.wordpress.com/2018/07/1fd03caf-b1b3-4147-9f54-00ac5970f048.png?w=401
-tags: [Farmaceutica]
+tags:
+    -  Farmaceutica
+    -  articoli
 ---
 
 Mercoledì’ 11 Luglio _Scott Dozier_, un pluriomicida americano, stava per essere giustiziato con un’inezione letale a base di un cocktail sperimentale di farmaci nello Stato del Nevada. L’esecuzione è stata interrotta a seguito di un ricorso giudiziario da parte dell’azienda produttrice di uno dei tre farmaci che sarebbero dovuti essere usati per l'esecuzione. E’ stata la prima volta che un produttore di farmaci è stato in grado di interrompere un'esecuzione, almeno temporaneamente.

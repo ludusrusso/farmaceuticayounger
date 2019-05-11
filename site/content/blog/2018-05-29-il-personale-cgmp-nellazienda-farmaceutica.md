@@ -3,7 +3,9 @@ title: 'Il Personale cGMP nell''Azienda Farmaceutica'
 date: 2018-05-29T21:10:38+00:00
 draft: false
 image: /img/il-personale-cgmp-nellazienda-farmaceutica.md/personale-gmp.png
-tags: [Farmaceutica]
+tags:
+ - Farmaceutica
+ - articoli
 ---
 
 La costituzione ed il mantenimento di un sistema di Qualità soddisfacente durante la produzione di medicinali, dipende dalle persone che lavorano in questo contesto. Per questo motivo le cGMP dedicano un intero capitolo sull'importanza di un personale qualificato, addestrato e opportunamente formato, in numero sufficiente per poter svolgere tutte le mansioni che ricadono sotto la responsabilità aziendale. Le responsabilità nonché le mansioni di ogni singola persona che opera in una azienda farmaceutica devono essere chiaramente definite per iscritto e portate a conoscenza delle singole persone. Tutto il personale deve essere trainato sui concetti base delle cGMP e approfonditi per gli aspetti che lo riguardano e ricevere una formazione tanto iniziale quanto continua commisurata alla propria mansione relativa di concetti base di igiene e microbiologia.

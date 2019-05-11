@@ -4,6 +4,7 @@ title: >-
   delivery in organi bersaglio
 tags:
   - farmanews
+  - articoli
 date: 2018-07-23T15:30:37.000Z
 image: >-
   /img/globuli-rossi-come-tassisti-molecolari-di-nanoparticelle-per-la-drug-delivery-in-organi-bersaglio.md/cattura.jpg
