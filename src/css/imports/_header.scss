@@ -2,122 +2,123 @@ $header-bg: $primary-dark;
 $header-color: white;
 
 header {
-    background-color: $header-bg;  
+  background-color: $header-bg;
 
-    .nav {
+  .nav {
+    display: flex;
+    flex-direction: column;
+    min-height: 60px;
+    grid-template-areas: 'title collpased' 'collapse';
+
+    .main {
+      height: 80px;
+      align-items: center;
+      margin: auto 0;
+      display: flex !important;
+      justify-content: space-between;
+      .title {
         display: flex;
-        flex-direction: column;
-        min-height: 60px;
-        grid-template-areas: "title collpased" "collapse";
-
-        .main {
-            height: 80px;
-            align-items: center;
-            margin: auto 0;
-            display: flex !important;
-            justify-content: space-between;
-            .title {
-                display: flex;
-                align-items: center !important;
-                height: 100%;
-                a {
-                    color: $header-color;
-                    font-size: 16pt;
-                    p {
-                        height: auto;
-                        padding: 5px 0;
-                        margin: 0;
-                    }
-                    p.main {
-                        font-weight: bold !important;
-                    }
-                    p.second {
-                        font-weight: normal !important;
-                    }
-                }
-
-                .logo {
-                    height: 100%;
-                    padding: 10px;
-                    box-sizing: border-box;
-
-                    img {
-                        height: 100% !important;
-                    }    
-                }
-    
-    
-            }
-        }
-
-        #collapse {
-            a {
-                min-height: 40px;
-            }
-        }
+        align-items: center !important;
+        height: 100%;
         a {
-            font-weight: normal;
+          color: $header-color;
+          font-size: 16pt;
+          p {
+            height: auto;
+            padding: 5px 0;
+            margin: 0;
+          }
+          p.main {
+            font-weight: bold !important;
+          }
+          p.second {
+            font-weight: normal !important;
+          }
         }
+
+        .logo {
+          height: 100%;
+          padding: 10px;
+          box-sizing: border-box;
+
+          img {
+            height: 100% !important;
+          }
+        }
+      }
     }
 
-    .secondary-nav {
-        height: 40px;
-
-    }
-
-    .flex-fill {
-        flex-grow: 1;
-    }
-
-    a {
-        padding: 0 10px;
-        text-decoration: none;
-        color: $header-color;
-    }
-
-    i {
-        font-size: 16pt;
-    }
-
-    .collapsed {
-        display: block;
-    }
     #collapse {
-        display: flex;
-        flex-direction: column;
+      a {
+        min-height: 40px;
+      }
     }
-
-
-    .hidden-on-mobile {
-        display: none !important;
+    a {
+      font-weight: normal;
     }
+  }
 
-    @media screen and (min-width: 800px) {
-        .nav {
-            flex-direction: row;
-            justify-content: space-between;
-            .main {
-                .collapsed {
-                    display: none;
-                }
-            }
-            .hidden-on-mobile {
-                display: flex !important;
-            }
-            #collapse {
-                flex-direction: row;
-                margin: auto 0;
-                a {
-                    min-height: 0px !important;
-                }
-            }
+  .secondary-nav {
+    height: 40px;
+  }
+
+  .flex-fill {
+    flex-grow: 1;
+  }
+
+  a {
+    padding: 0 10px;
+    text-decoration: none;
+    color: $header-color;
+    &:hover {
+      font-weight: 900 !important;
+    }
+  }
+
+  i {
+    font-size: 16pt;
+  }
+
+  .collapsed {
+    display: block;
+  }
+  #collapse {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hidden-on-mobile {
+    display: none !important;
+  }
+
+  @media screen and (min-width: 800px) {
+    .nav {
+      flex-direction: column;
+      justify-content: space-between;
+      .main {
+        .collapsed {
+          display: none;
         }
+      }
+      .hidden-on-mobile {
+        display: flex !important;
+      }
+      #collapse {
+        padding: 20px 0;
+        flex-direction: row;
+        justify-content: space-around;
+        margin: auto 0;
+        a {
+          min-height: 0px !important;
+        }
+      }
     }
+  }
 }
 
 .nav-social {
-    padding: 10px;
-    a {
-        font-size: 16pt;
-    }
+  padding: 10px;
+  a {
+    font-size: 16pt;
+  }
 }

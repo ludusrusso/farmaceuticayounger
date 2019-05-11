@@ -1,8 +1,11 @@
 {{ define "main" }}
 {{ partial "profile" . }}
 
-{{ range .Site.Pages }}
- {{ . }}
+{{ .Content }}
+
+{{ range.Site.Pages }}
+
+{{ . }}
 {{ end }}
 
 {{ end }}
