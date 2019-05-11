@@ -3,7 +3,6 @@ title: >-
   Chiesi conclude un accordo con TiumBio per lo sviluppo di un inibitore del
   TGF-β
 tags:
-  - farmanews
   - articoli
 date: '2019-01-14T12:44:43+01:00'
 description: >-
