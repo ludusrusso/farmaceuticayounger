@@ -26,6 +26,4 @@ Per contribuire ulteriormente a garantire l'accesso, la FDA dà la priorità all
 
 > As an agency, we have never been more confident in the safety, effectiveness and quality of FDA-approved generic drugs than we are today. 
 
-
-
-Fonte: https://www.fda.gov/news-events/fda-voices-perspectives-fda-experts/safety-efficacy-and-quality-remain-top-priorities-we-continue-our-work-expand-access-cost-saving
+_Fonte:_ https://www.fda.gov/news-events/fda-voices-perspectives-fda-experts/safety-efficacy-and-quality-remain-top-priorities-we-continue-our-work-expand-access-cost-saving
