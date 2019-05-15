@@ -17,7 +17,7 @@ image: /img/67e52ac8-7f9f-4c8f-8139-ee26f14f72d1.png
 ---
 ![null](/img/67e52ac8-7f9f-4c8f-8139-ee26f14f72d1.png)
 
-**I farmaci generici approvati dalla FDA statunitense rappresentano ad oggi il 90 percento delle prescrizioni**dispensate negli Stati Uniti e, durante l'ultimo decennio, **la concorrenza dei generici ha fatto risparmiare al sistema sanitario circa 1,67 trilioni di dollari**. 
+I farmaci generici approvati dalla FDA statunitense rappresentano ad oggi il 90 percento delle prescrizioni dispensate negli Stati Uniti e, durante l'ultimo decennio, **la concorrenza dei generici ha fatto risparmiare al sistema sanitario circa 1,67 trilioni di dollari**. 
 
 Il successo del programma di approvazione dei farmaci generici della FDA è dovuto alla capacità dell'agenzia statunitense di determinare in modo efficiente la sicurezza e l'efficacia dei farmaci generici in esame per l'approvazione e in tempi rapidi. 
 
