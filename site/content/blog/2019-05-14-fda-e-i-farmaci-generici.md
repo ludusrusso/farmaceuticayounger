@@ -1,5 +1,5 @@
 ---
-title: La FDA e l'importanza dei Farmaci Generici
+title: I Farmaci Generici negli USA
 tags:
   - articoli
 date: '2019-05-14T14:24:54+02:00'
@@ -25,7 +25,7 @@ Inoltre dopo che un farmaco è stato approvato ed è sul mercato, i pazienti e g
 
 La disponibilità sul mercato di un farmaco generico fabbricato da uno o pochissimi produttori può avere un impatto diretto sulla salute pubblica quando si verifica una carenza in base a un problema con uno o più di questi produttori. Abbiamo appreso dai disastri naturali e da altri eventi imprevisti che la diversificazione degli impianti di produzione è una componente chiave sulla sicurezza a lungo termine delle scorte di quello stesso farmaco. Farmaci prodotti in più località distribuite in tutto il mondo aiutano a mantenere alta la fornitura di farmaci negli Stati Uniti e a ridurre l'impatto delle carenze quando queste si verificano.
 
-La FDA dà la priorità alla revisione alle domande di farmaci generici per i quali non esistono brevetti bloccanti o esclusività. L'obiettivo è promuovere la concorrenza in modo che ci siano almeno quattro domande approvate per ciascun prodotto (incluso il farmaco di marca). I dati della FDA mostrano che i prezzi dei farmaci diminuiscono significativamente una volta che ci sono almeno tre versioni generiche dello stesso farmaco originator sul mercato. 
+La FDA dà la priorità alla revisione di domande di farmaci generici per i quali non esistono diritti di esclusività. L'obiettivo è promuovere la concorrenza in modo che ci siano almeno quattro domande approvate per ciascun prodotto (incluso il farmaco di marca). I dati della FDA mostrano che i prezzi dei farmaci diminuiscono significativamente una volta che ci sono almeno tre versioni generiche dello stesso farmaco originator sul mercato. 
 
 > As an agency, we have never been more confident in the safety, effectiveness and quality of FDA-approved generic drugs than we are today. 
 
