@@ -3,6 +3,16 @@ title: I Farmaci Generici negli USA
 tags:
   - articoli
 date: '2019-05-14T14:24:54+02:00'
+description: >-
+  I farmaci generici approvati dalla FDA statunitense rappresentano ad oggi il
+  90 percento delle prescrizioni dispensate negli Stati Uniti e, durante
+  l'ultimo decennio, la concorrenza dei generici ha fatto risparmiare al sistema
+  sanitario circa 1,67 trilioni di dollari. 
+socialDesc: >-
+  I farmaci generici approvati dalla FDA statunitense rappresentano ad oggi il
+  90 percento delle prescrizioni dispensate negli Stati Uniti e, durante
+  l'ultimo decennio, la concorrenza dei generici ha fatto risparmiare al sistema
+  sanitario circa 1,67 trilioni di dollari. 
 image: /img/67e52ac8-7f9f-4c8f-8139-ee26f14f72d1.png
 ---
 ![null](/img/67e52ac8-7f9f-4c8f-8139-ee26f14f72d1.png)
