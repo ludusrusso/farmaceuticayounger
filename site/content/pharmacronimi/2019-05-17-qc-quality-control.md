@@ -1,6 +1,12 @@
 ---
 title: QC = Quality Control
 date: '2019-05-18T09:24:00+02:00'
+description: >-
+  Il Controllo Qualità (QC, Quality Control) è quel reparto di un'officina
+  farmaceutica coinvolto nelle attività di campionamento ed analisi.
+socialDesc: >-
+  Il Controllo Qualità (QC, Quality Control) è quel reparto di un'officina
+  farmaceutica coinvolto nelle attività di campionamento ed analisi.
 image: /img/811c619b-f3a4-45d7-802c-ae46a49db74f.png
 ---
 Il Controllo Qualità (QC, Quality Control) è quel reparto di un'officina farmaceutica coinvolto nelle attività di campionamento ed analisi.
