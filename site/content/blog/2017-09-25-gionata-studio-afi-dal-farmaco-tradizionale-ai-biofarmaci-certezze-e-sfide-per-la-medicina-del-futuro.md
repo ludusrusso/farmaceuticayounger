@@ -3,7 +3,7 @@ title: 'Giornata Studio AFI: "Dal farmaco tradizionale ai biofarmaci: certezze e
 date: 2017-09-25T20:00:09+00:00
 draft: false
 image: /img/gionata-studio-afi-dal-farmaco-tradizionale-ai-biofarmaci-certezze-e-sfide-per-la-medicina-del-futuro.md/img_3096.jpg
-tags: [Farmaceutica]
+tags: [Farmaceutica, articoli]
 ---
 
 ![IMG_3096.jpg](/img/gionata-studio-afi-dal-farmaco-tradizionale-ai-biofarmaci-certezze-e-sfide-per-la-medicina-del-futuro.md/img_3096.jpg)
