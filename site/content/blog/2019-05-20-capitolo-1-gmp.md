@@ -62,7 +62,9 @@ Le Norme di Buona Fabbricazione applicate ai medicinali
 
 (vii) i documenti di fabbricazione, compresi quelli di distribuzione, che consentono di tracciare la cronistoria completa di un dato lotto devono essere archiviati in forma comprensibile e accessibile; 
 
-distribuzione (all'ingrosso) dei prodotti deve minimizzare i rischi che potrebbero comprometterne la qualità; e esistere un sistema che consenta di ritirare qualunque lotto di prodotto dalla distribuzione o dalla vendita; 
+(viii) distribuzione (all'ingrosso) dei prodotti deve minimizzare i rischi che potrebbero comprometterne la qualità; 
+
+(ix) deve esistere un sistema che consenta di ritirare qualunque lotto di prodotto dalla distribuzione o dalla vendita; 
 
 (x) i reclami relativi ai prodotti commercializzati devono essere Riesaminati; si devono ricercare le cause dei difetti di qualità e si prendano misure adeguate riguardanti i prodotti difettosi nonché azioni correttive per evitare il ripetersi di tali inconvenienti. 
 
@@ -76,7 +78,9 @@ Controllo Qualità
 
 (iii) i metodi di prova siano convalidati; 
 
-(iv) si provveda a redigere, manualmente e/o con appositi strumenti, documenti che possano dimostrare che tutti i campionamenti, le ispezioni e le procedure di controllo prescritte sono stati effettivamente svolti. Qualunque deviazione deve essere registrata integralmente ed indagata; il prodotto finito contenga principi attivi conformi alla composizione qualitativa e quantitativa riportata nell'autorizzazione alla commercializzazione, sia della purezza prescritta e sia contenuto nel recipiente apposito e correttamente etichettato; 
+(iv) si provveda a redigere, manualmente e/o con appositi strumenti, documenti che possano dimostrare che tutti i campionamenti, le ispezioni e le procedure di controllo prescritte sono stati effettivamente svolti. Qualunque deviazione deve essere registrata integralmente ed indagata; 
+
+(v) il prodotto finito contenga principi attivi conformi alla composizione qualitativa e quantitativa riportata nell'autorizzazione alla commercializzazione, sia della purezza prescritta e sia contenuto nel recipiente apposito e correttamente etichettato; 
 
 (vi) siano redatti dei rapporti che documentino i risultati delle ispezioni e la rispondenza formale con le specifiche dei risultati delle analisi effettuate sui materiali e sui prodotti semilavorati, sfusi e finiti. La verifica del prodotto comprende un riesame ed una valutazione della relativa documentazione di produzione nonché delle deviazioni dalle procedure specifiche; 
 
@@ -90,7 +94,13 @@ Riesame della Qualità del Prodotto
 
 (i) un riesame delle materie prime e dei materiali di confezionamento utilizzati per la produzione dei prodotti, soprattutto quelli provenienti da nuovi fornitori. 
 
-(ii) un riesame dei controlli di processo critici e dei risultati delle analisi sul prodotto finito. un riesame di tutti i lotti che non hanno soddisfatto le specifiche stabilite e le relative indagini. un riesame di tutte le deviazioni significative e di non conformità, delle indagini ad esse collegate e dell'efficacia delle azioni correttive e preventive attuate in conseguenza. un riesame di tutti i cambi effettuati al processo o ai metodi analitici. 
+(ii) un riesame dei controlli di processo critici e dei risultati delle analisi sul prodotto finito. 
+
+(iii) un riesame di tutti i lotti che non hanno soddisfatto le specifiche stabilite e le relative indagini.
+
+(iv) un riesame di tutte le deviazioni significative e di non conformità, delle indagini ad esse collegate e dell'efficacia delle azioni correttive e preventive attuate in conseguenza. 
+
+(v) un riesame di tutti i cambi effettuati al processo o ai metodi analitici. 
 
 (vi) un riesame delle variazioni alle Autorizzazioni all'Immissione in Commercio sottoposte/concesse/respinte, incluse quelle relative ai dossier per paesi terzi (solo esportazione). 
 
@@ -104,11 +114,11 @@ Riesame della Qualità del Prodotto
 
 (xi) lo stato di qualifica delle apparecchiature e utenze rilevanti, es. HVAC, acqua, gas compressi, etc. 
 
-(xii) un riesame di ogni accordo contrattuale come definito nel Capitolo 7 per garantire che questi siano aggiornati. Il produttore e il titolare dell'autorizzazione alla distribuzione, quando distinti, dovranno valutare i risultati di tale riesame e dovrà essere fatta una valutazione di come e quanto si debba effettuare un'azione correttiva o preventiva o una riconvalida. Le ragioni per tali azioni correttive dovranno essere documentate. Le azioni correttive o preventive approvate dovranno essere completate in modo efficace e nei tempi stabiliti. Dovranno esistere delle procedure per la gestione e la revisione di tali azioni e l'efficacia di tali procedure dovrà essere verificata durante le autoispezioni. Quando scientificamente giustificato, la riesame della qualità può essere effettuata raggruppando per tipologia di prodotto, es. forme solide , forme liquide, prodotti sterili, ecc .. 
+(xii) un riesame di ogni accordo contrattuale come definito nel Capitolo 7 per garantire che questi siano aggiornati. 
 
+Il produttore e il titolare dell'autorizzazione alla distribuzione, quando distinti, dovranno valutare i risultati di tale riesame e dovrà essere fatta una valutazione di come e quanto si debba effettuare un'azione correttiva o preventiva o una riconvalida. Le ragioni per tali azioni correttive dovranno essere documentate. Le azioni correttive o preventive approvate dovranno essere completate in modo efficace e nei tempi stabiliti. Dovranno esistere delle procedure per la gestione e la revisione di tali azioni e l'efficacia di tali procedure dovrà essere verificata durante le autoispezioni. Quando scientificamente giustificato, la riesame della qualità può essere effettuata raggruppando per tipologia di prodotto, es. forme solide , forme liquide, prodotti sterili, ecc .. 
 
-
- re dell'Autorizzazione all'Immissione in Commercio produttore, è necessario che vi sia un "Accordo f c.. J 1-=") varie parti che definisca le rispettive responsabilità ~•er id .itestJra di riesame della qualità del prodotto. La Persona Qualificata responsabile per la certificazione finale del lotto insieme al titolare dell'Autorizzazione all'Immissione in Commercio dovrà assicurare che la verifica sia stata effettuata in modo puntuale e sia accurata. 
+Qualora il titolare dell'Autorizzazione all'Immissione in Commercio produttore, è necessario che vi sia un "Accordo Tecnico" tra le varie parti che definisca le rispettive responsabilità per la stesura di riesame della qualità del prodotto. La Persona Qualificata responsabile per la certificazione finale del lotto insieme al titolare dell'Autorizzazione all'Immissione in Commercio dovrà assicurare che la verifica sia stata effettuata in modo puntuale e sia accurata. 
 
 Gestione dei Rischi Qualità 
 
