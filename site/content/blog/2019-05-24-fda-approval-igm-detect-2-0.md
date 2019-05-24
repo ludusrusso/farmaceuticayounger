@@ -1,5 +1,5 @@
 ---
-title: FDA APPROVAL - ZIKV Detect 2.0 IgM Capture ELISA
+title: FDA APPROVAL - Zika virus test diagnostico
 tags:
   - farmanews
 date: '2019-05-23T14:12:06+02:00'
