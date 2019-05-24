@@ -10,12 +10,18 @@ Le principali mansioni svolte dal Quality Assurance sono le seguenti:
 
 \- _Batch record review,_ ovvero la revisione dei Batch record di ciascun lotto prodotto.
 
-\- _Gestione delle deviazioni_, delle CAPA e dei _Change Control_.
+\- Stesura dei [_PQR_](https://www.farmaceuticayounger.science/pharmacronimi/pqr--product-quality-review/), Product Quality Review, ovvero report redatti annualmente di tutti i lotti prodotti volta a controllare che le caratteristiche dei prodotti e i parametri critici del processo siano sotto controllo.
 
-\- _PQR_, Product Quality Review, ovvero un report redatto annualmente di tutti i lotti prodotti volta a controllare che le caratteristiche dei prodotti e i parametri critici del processo siano sotto controllo.
+\- _Training al personale_, in quanto tutto il personale di un officina Farmaceutica deve essere formato e qualificato a svolgere la propria mansione. L'assicurazione qualità a tale scopo svolge training specifici al fine di garantire che tutti i dipendenti agiscano in conformità alle GMP.
 
-\- Training al personale, in quanto tutto il personale di un officina Farmaceutica deve essere formato e qualificato a svolgere la propria mansione. L'assicurazione qualità a tale scopo svolge training specifici al fine di garantire che tutti i dipendenti agiscano in conformità alle GMP.
+\- Redige, emette e revisiona, le _Procedure operative standard_ ([SOP](https://www.farmaceuticayounger.science/pharmacronimi/sop--standard-operating-procedure/)) di sito.
 
-\- redige, emette e revisiona, le Procedure operative standard (SOP) che tutti i dipendenti sono tenuti a rispettare.
+\- _Gestione delle deviazioni_, delle [CAPA](https://www.farmaceuticayounger.science/pharmacronimi/capa--corrective-action/preventive-action/) e dei _Change Control_.
 
-\- garantisce che tutti i fornitori di materie prime, materiali di confezionamento, principi attivi ecc... Forniscano prodotti della qualità adeguata e abbiano un idoneo sistema di qualità. La qualifica dei fornitori generalmente avviene attraverso delle ispezioni condotte dallo stesso personale dell'assicurazione qualità e in base allo storico delle analisi effettuate sul materiale ricevuto.
+\- Gestione dei _reclami_ sul prodotto provenienti dal mercato.
+
+\- Gestione delle _convalide_ di processo/ prodotto.
+
+\- Gestione della _qualifica dei fornitori _di materie prime, eccipienti, materiali di confezionamento, che avviene attraverso audit al fine di assicurare che forniscano prodotti della qualità adeguata e abbiano un idoneo sistema di qualità. 
+
+\- Partecipazione attiva agli _Audit_ che l’officina farmaceutica subisce periodicamente da parte di enti regolatori (AIFA, FDA, enti di certificazione ISO).
