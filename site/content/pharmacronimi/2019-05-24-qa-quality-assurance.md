@@ -10,8 +10,11 @@ socialDesc: >-
   Per Quality Assurance (QA) o Assicurazione Qualità si intende quel reparto di
   un'Officina Farmaceutica che ha come obiettivo quello di mettere in atto tutte
   le precauzioni necessarie per ”assicurare” che i medicinali abbiano la qualità
-  richiesta per l'uso a cui sono destinati.
+  richiesta per l'uso a cui sono destinati. 
+image: /img/9bcb026c-64cc-4944-bd31-fee3c61a5edb.png
 ---
+![](/img/9bcb026c-64cc-4944-bd31-fee3c61a5edb.png)
+
 Per Quality Assurance (QA) o Assicurazione Qualità si intende quel reparto di un'Officina Farmaceutica che ha come obiettivo quello di mettere in atto tutte le precauzioni necessarie per ”assicurare” che i medicinali abbiano la qualità richiesta per l'uso a cui sono destinati. 
 
 Parte essenziale del lavoro del QA è la verifica della conformità di prodotti e processi alle norme elaborate dai vari enti regolatori internazionali, dalle norme di buona fabbricazione GMP, a quelle di buona distribuzione GDP fino alle linee guida di istituzioni come AIFA, EMA FDA, ICH etc.
