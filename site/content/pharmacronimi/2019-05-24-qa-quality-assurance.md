@@ -11,7 +11,7 @@ socialDesc: >-
   un'Officina Farmaceutica che ha come obiettivo quello di mettere in atto tutte
   le precauzioni necessarie per ”assicurare” che i medicinali abbiano la qualità
   richiesta per l'uso a cui sono destinati. 
-image: /img/9bcb026c-64cc-4944-bd31-fee3c61a5edb.png
+image: /img/7d34910a-dae9-45a8-91e6-0ed19beae4e3.png
 ---
 ![](/img/9bcb026c-64cc-4944-bd31-fee3c61a5edb.png)
 
