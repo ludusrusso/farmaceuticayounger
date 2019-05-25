@@ -29,13 +29,13 @@ Le principali mansioni svolte dal Quality Assurance sono le seguenti:
 
 \- Redige, emette e revisiona, le _Procedure operative standard_ ([SOP](https://www.farmaceuticayounger.science/pharmacronimi/sop--standard-operating-procedure/)) di sito.
 
-\- Gestione delle_ deviazioni_, delle [CAPA](https://www.farmaceuticayounger.science/pharmacronimi/capa--corrective-action/preventive-action/) e dei _Change Control_.
+\- Gestione delle _deviazioni_, delle [CAPA](https://www.farmaceuticayounger.science/pharmacronimi/capa--corrective-action/preventive-action/) e dei _Change Control_.
 
 \- Gestione dei _reclami_ sul prodotto provenienti dal mercato.
 
 \- Gestione delle _convalide_ di processo/ prodotto.
 
-\- Gestione della _qualifica dei fornitori _di materie prime, eccipienti, materiali di confezionamento, che avviene attraverso audit al fine di assicurare che forniscano prodotti della qualità adeguata e abbiano un idoneo sistema di qualità. 
+\- Gestione della _qualifica dei fornitori_ di materie prime, eccipienti, materiali di confezionamento, che avviene attraverso audit al fine di assicurare che forniscano prodotti della qualità adeguata e abbiano un idoneo sistema di qualità. 
 
 \- Gestione degli _Audit interni_ a tutti i reparti critici di un’officina farmaceutica al fine di assicurare il rispetto dei requisiti delle GMP.
 
