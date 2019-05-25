@@ -13,7 +13,7 @@ socialDesc: >-
   richiesta per l'uso a cui sono destinati. 
 image: /img/7d34910a-dae9-45a8-91e6-0ed19beae4e3.png
 ---
-![](/img/9bcb026c-64cc-4944-bd31-fee3c61a5edb.png)
+![](/img/7d34910a-dae9-45a8-91e6-0ed19beae4e3.png)
 
 Per Quality Assurance (QA) o Assicurazione Qualità si intende quel reparto di un'Officina Farmaceutica che ha come obiettivo quello di mettere in atto tutte le precauzioni necessarie per ”assicurare” che i medicinali abbiano la qualità richiesta per l'uso a cui sono destinati. 
 
@@ -40,3 +40,5 @@ Le principali mansioni svolte dal Quality Assurance sono le seguenti:
 \- Gestione degli _Audit interni_ a tutti i reparti critici di un’officina farmaceutica al fine di assicurare il rispetto dei requisiti delle GMP.
 
 \- Partecipazione attiva agli _Audit_ che l’officina farmaceutica subisce periodicamente da parte di enti regolatori (AIFA, FDA, enti di certificazione ISO).
+
+A cura di Luigi Barone
