@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.102
-date: '2019-05-25T09:38:00+02:00'
+date: '2019-05-25T08:38:00+02:00'
 description: >-
   La Food and Drug Administration statunitense ha approvato Zolgensma
   (onasemnogene abeparvovec-xioi), la prima terapia genica per il trattamento di
