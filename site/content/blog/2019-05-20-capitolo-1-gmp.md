@@ -3,7 +3,10 @@ title: Capitolo 1 - GMP
 tags:
   - articoli
 date: '2019-05-20T16:23:36+02:00'
+image: /img/34a6f0c9-c750-41f7-a117-6efd7aa46aac.png
 ---
+![](/img/34a6f0c9-c750-41f7-a117-6efd7aa46aac.png)
+
 # Capitolo 1 - Gestione della Qualità 
 
 ## Principi 
