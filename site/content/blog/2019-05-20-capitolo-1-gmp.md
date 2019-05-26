@@ -1,5 +1,5 @@
 ---
-title: Capitolo 1 - GMP
+title: GMP - Capitolo 1
 tags:
   - articoli
 date: '2019-05-20T16:23:36+02:00'
