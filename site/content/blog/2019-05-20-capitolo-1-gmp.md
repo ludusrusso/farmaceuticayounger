@@ -29,7 +29,7 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (ii) la conoscenza del prodotto e del processo sia garantita lungo tutte le fasi del ciclo di vita del medicinale; 
 
-(iii) i medicinali vengano progettati e sviluppati secondo modalità che tengano conto delle Good Manufacturing Practice e delle Good Laboratory Practice
+(iii) i medicinali vengano progettati e sviluppati secondo modalità che tengano conto delle Good Manufacturing Practice e delle Good Laboratory Practice;
 
 (iii) siano chiaramente specificate le responsabilità dei responsabili; 
 
