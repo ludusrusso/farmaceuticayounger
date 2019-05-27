@@ -35,9 +35,17 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (v) siano chiaramente specificate le responsabilità manageriali; 
 
-(iv) si prendano accordi relativi alla fabbricazione, alla fornitura e all'impiego delle materie prime e dei materiali di confezionamento più appropriati la selezione e il monitoraggio dei fornitori e per verificare che ogni consegna provenga dalla catena di approvvigionamento approvata;
+(vi) si prendano accordi relativi alla fabbricazione, alla fornitura e all'impiego delle materie prime e dei materiali di confezionamento più appropriati, la selezione e il monitoraggio dei fornitori e la verifica che ogni materiale provenga dalla catena di approvvigionamento approvata;
 
-(v) vengano eseguiti tutti i necessari controlli sui prodotti semilavorati, i controlli durante il processo produttivo e le convalide; 
+(vii) sono in atto misure necessarie a garantire la gestione delle attività in outsoursing;
+
+(viii) sia messo in atto e mantenuto un sistema di controllo sviluppando e utilizzando sistemi efficaci di monitoraggio e controllo per le prestazioni del processo e la qualità del prodotto;
+
+(ix) i risultati del monitoraggio dei prodotti e dei processi siano presi in considerazione in fase di rilascio del batch record, nell'indagine delle deviazioni, e, nell'ottica di prendere azioni preventive per evitare potenziali deviazioni che si possano ripetere in futuro.
+
+(x) vengano effettuati tutti i controlli necessari sui prodotti intermedi e qualsiasi altro controllo in precess e convalida;
+
+(vii) vengano eseguiti tutti i necessari controlli sui prodotti semilavorati, i controlli durante il processo produttivo e le convalide; 
 
 (vi) il prodotto finito sia lavorato e controllato correttamente, conformemente alle procedure definite; 
 
