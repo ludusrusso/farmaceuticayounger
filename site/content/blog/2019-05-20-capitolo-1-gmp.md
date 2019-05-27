@@ -31,9 +31,11 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (iii) i medicinali vengano progettati e sviluppati secondo modalità che tengano conto delle Good Manufacturing Practice e delle Good Laboratory Practice;
 
-(iii) siano chiaramente specificate le responsabilità dei responsabili; 
+(iv) Le operazioni di produzione e di controllo sono chiaramente specificate e tengano conto delle Good Manufacturing Practice;
 
-(iv) si prendano accordi relativi alla fabbricazione, alla fornitura ed all'impiego delle materie prime e dei materiali di confezionamento più appropriati; 
+(v) siano chiaramente specificate le responsabilità manageriali; 
+
+(iv) si prendano accordi relativi alla fabbricazione, alla fornitura e all'impiego delle materie prime e dei materiali di confezionamento più appropriati la selezione e il monitoraggio dei fornitori e per verificare che ogni consegna provenga dalla catena di approvvigionamento approvata;
 
 (v) vengano eseguiti tutti i necessari controlli sui prodotti semilavorati, i controlli durante il processo produttivo e le convalide; 
 
