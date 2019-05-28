@@ -24,4 +24,4 @@ Ha dedicato la sua vita alle ricerche sulle particelle subatomiche. I meriti di 
 
 Una curiosità è l'origine del nome quark in quanto stando a quanto riferito dallo stesso Gell-Mann, il nome gli era stata suggerito da una frase senza senso contenuta nel romanzo Finnegans Wake di James Joyce, che egli stava leggendo al tempo della scoperta.
 
-> Se un bambino cresce con l’idea di diventare uno scienziato, scopre di essere pagato tutto il giorno per giocare al gioco più eccitante mai ideato dall’umanità.
+> If I have seen further than others, it is because I am surrounded by dwarfs.
