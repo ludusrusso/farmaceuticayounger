@@ -4,7 +4,7 @@ date: '2019-05-28T16:51:55+02:00'
 ---
 Murray Gell-Mann, fisico statunitense, Professore di fisica all'Università di Chicago e successivamente al California Institute of Technology, è stato insignito del premio Nobel per la fisica nel 1969 per “il suo contributo e le scoperte riguardanti la classificazione delle particelle elementari e le loro interazioni”.
 
-Ragazzo prodigio, Murray si è laureato in fisica alla Yale University a soli 19 anni, e ha conseguito successivamente il dottorato presso il MIT (Massachusetts Institute of Technology) all'età di 21 anni, si è spento a Santa Fe il 24 maggio 2019 all’età di quasi 90 anni. 
+Ragazzo prodigio, Murray si è laureato in fisica alla Yale University a soli 19 anni, e ha conseguito successivamente il dottorato presso il MIT (Massachusetts Institute of Technology) all'età di 21 anni, si è spento a Santa Fe il 24 maggio 2019 all’età di 89 anni. 
 
 Ha dedicato la sua vita alle ricerche sulle particelle subatomiche, creando la teoria dei quark. I meriti di Gell-Mann riguardano in particolare la classificazione delle particelle subatomiche: il fisico ha fornito una sorta di “tavola periodica” di queste particelle, dividendo protoni, neutroni, mesoni e barioni in gruppi con proprietà simili. Inoltre, ha descritto le loro interazioni e insieme al fisico George Zweig ha previsto l’esistenza dei quark. Una curiosità è l'origine del nome quark in quanto stando a quanto riferito dallo stesso Gell-Mann, il nome gli era stata suggerito da una frase senza senso contenuta nel romanzo Finnegans Wake di James Joyce, che egli stava leggendo al tempo della scoperta.
 
