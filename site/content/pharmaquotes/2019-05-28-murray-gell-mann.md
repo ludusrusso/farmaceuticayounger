@@ -1,6 +1,20 @@
 ---
-title: MURRAY GELL-MANN
+title: >-
+  MURRAY GELL-MANN - "Se ho visto più lontano degli altri, è perché sono
+  circondato da nani"
 date: '2019-05-28T16:51:55+02:00'
+description: >-
+  Murray Gell-Mann, fisico statunitense, Professore di fisica all'Università di
+  Chicago e successivamente al California Institute of Technology, è stato
+  insignito del premio Nobel per la fisica nel 1969 per “il suo contributo e le
+  scoperte riguardanti la classificazione delle particelle elementari e le loro
+  interazioni”.
+socialDesc: >-
+  Murray Gell-Mann, fisico statunitense, Professore di fisica all'Università di
+  Chicago e successivamente al California Institute of Technology, è stato
+  insignito del premio Nobel per la fisica nel 1969 per “il suo contributo e le
+  scoperte riguardanti la classificazione delle particelle elementari e le loro
+  interazioni”.
 ---
 **Murray Gell-Mann**, fisico statunitense, Professore di fisica all'Università di Chicago e successivamente al California Institute of Technology, è stato insignito del premio Nobel per la fisica nel 1969 per _“il suo contributo e le scoperte riguardanti la classificazione delle particelle elementari e le loro interazioni”_.
 
