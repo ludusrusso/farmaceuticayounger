@@ -2,7 +2,7 @@
 title: MURRAY GELL-MANN
 date: '2019-05-28T16:51:55+02:00'
 ---
-Murray Gell-Mann, fisico statunitense, è stato insignito del premio Nobel per la fisica nel 1969 per “il suo contributo e le scoperte riguardanti la classificazione delle particelle elementari e le loro interazioni”.
+Murray Gell-Mann, fisico statunitense, Professore di fisica all'Università di Chicago e successivamente al California Institute of Technology, è stato insignito del premio Nobel per la fisica nel 1969 per “il suo contributo e le scoperte riguardanti la classificazione delle particelle elementari e le loro interazioni”.
 
 Ragazzo prodigio, Murray si è laureato in fisica alla Yale University a soli 19 anni, e ha conseguito successivamente il dottorato presso il MIT (Massachusetts Institute of Technology) all'età di 21 anni, si è spento a Santa Fe il 24 maggio 2019 all’età di quasi 90 anni. 
 
