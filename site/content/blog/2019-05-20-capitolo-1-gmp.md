@@ -7,7 +7,7 @@ image: /img/34a6f0c9-c750-41f7-a117-6efd7aa46aac.png
 ---
 ![null](/img/34a6f0c9-c750-41f7-a117-6efd7aa46aac.png)
 
-# Capitolo 1 - Pharmaceutical Quality System
+# Capitolo 1 - Sistema di Qualità Farmaceutica
 
 ## Principi
 
@@ -15,9 +15,9 @@ Il titolare di un'autorizzazione alla fabbricazione deve produrre medicinali in 
 
 I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualità e del Quality Risk Management sono correlati tra loro. Essi vengono descritti in questa sede allo scopo di porne in risalto le relazioni e l'importanza fondamentale ai fini della produzione e del controllo dei prodotti medicinali. 
 
-## Garanzia di Qualità
+## Sistema di Qualità Farmaceutica
 
-1.1 La Garanzia di qualità costituisce un concetto di ampia portata che investe tutti gli aspetti che singolarmente o collettivamente possono influenzare la qualità di un prodotto. Essa rappresenta la totalità delle misure prese allo scopo di garantire che i prodotti medicinali abbiano la qualità richiesta per l'impiego cui sono destinati. Nell'ambito della Garanzia di Qualità rientrano quindi le Good Manufacturing Practice.
+1.1 La Gestione della Qualità costituisce un concetto di ampia portata che investe tutti gli aspetti che singolarmente o collettivamente possono influenzare la qualità di un prodotto. Essa rappresenta la totalità delle misure prese allo scopo di garantire che i prodotti medicinali abbiano la qualità richiesta per l'impiego cui sono destinati. Nell'ambito della Gestione della Qualità rientrano quindi le Good Manufacturing Practice.
 
 1.2 Le GMP si applicano alle fasi del ciclo di vita dalla produzione dell'IMP (Investigational Medicinal Product), al Technology Transfert (trasferimento tecnologico), all'immissione in commercio del prodotto fino al suo ritiro dal commercio. Tuttavia, il sistema di qualità farmaceutico può estendersi alle fasi del ciclo di vita dello sviluppo farmaceutico come descritto nelle ICH Q10, che while facoltativo, dovrebbe facilitare l'innovazione e il miglioramento continuo e rafforzare il
  collegamento tra lo sviluppo farmaceutico e le attività produttive. Le ICH Q10 sono contenute nella Parte III della Guida e possono essere utilizzate per integrare il contenuto di questo capitolo.
@@ -126,7 +126,7 @@ azioni preventive per evitare potenziali deviazioni che si possano ripetere in f
 
 (viii) venga conservato un numero di campioni di riferimento delle materie prime e dei prodotti sufficienti a consentire di esaminare il prodotto in un momento successivo qualora ciò si riveli necessario; il prodotto dovrà essere conservato nella sua confezione finale a meno che questa non abbia dimensioni eccezionali. 
 
-## Riesame della Qualità del Prodotto
+## Product Quality Review (Riesame della Qualità del Prodotto)
 
 1.10 E' necessario effettuare regolarmente un riesame della qualità con scadenza periodica o a rotazione di tutti i medicinali di cui si ha licenza, compresi i prodotti per la sola esportazione, con lo scopo di verificare la validità del processo esistente e l'adeguatezza delle specifiche in atto sia per le materie prime sia per i prodotti finiti al fine di evidenziare ogni eventuale tendenza e per identificare i possibili miglioramenti di prodotto e di processo. Tale riesame dovrebbe essere effettuata e documentata con cadenza annuale, tenendo in considerazione i precedenti riesami e dovrebbe includere almeno: 
 
@@ -158,9 +158,9 @@ azioni preventive per evitare potenziali deviazioni che si possano ripetere in f
 
 Qualora il titolare dell'Autorizzazione all'Immissione in Commercio non è il produttore, è necessario che vi sia un "Accordo Tecnico" tra le varie parti che definisca le rispettive responsabilità per la stesura di riesame della qualità del prodotto. 
 
-## Gestione dei Rischi Qualità
+## Gestione dei Rischi di Qualità (Quality Risk Management)
 
-1.12 La Gestione dei Rischi della Qualità (Quality Risk Management) è un processo sistematico per la valutazione, il controllo, la comunicazione e la revisione dei rischi legati alla qualità del medicinale. Tale processo può essere applicato in modo sia proattivo sia retrospettivo. 
+1.12 Il Quality Risk Management è un processo sistematico per la valutazione, il controllo, la comunicazione e la revisione dei rischi legati alla qualità del medicinale. Tale processo può essere applicato in modo sia proattivo sia retrospettivo. 
 
 1.13 Il sistema di gestione dei rischi dovrà assicurare che: 
 
