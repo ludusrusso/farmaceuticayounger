@@ -19,9 +19,11 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 1.1 La Garanzia di qualità costituisce un concetto di ampia portata che investe tutti gli aspetti che singolarmente o collettivamente possono influenzare la qualità di un prodotto. Essa rappresenta la totalità delle misure prese allo scopo di garantire che i prodotti medicinali abbiano la qualità richiesta per l'impiego cui sono destinati. Nell'ambito della Garanzia di Qualità rientrano quindi le Good Manufacturing Practice.
 
-1.2 Le GMP si applicano alle fasi del ciclo di vita dalla produzione dell'IMP (Investigational Medicinal Product), al Technology Transfert (trasferimento tecnologico), all'immissione in commercio del prodotto fino al suo ritiro dal commercio. Tuttavia, il sistema di qualità farmaceutico può estendersi alle fasi del ciclo di vita dello sviluppo farmaceutico come descritto nelle ICH Q10, che while facoltativo, dovrebbe facilitare l'innovazione e il miglioramento continuo e rafforzare il collegamento tra lo sviluppo farmaceutico e le attività produttive. Le ICH Q10 sono contenute nella Parte III della Guida e possono essere utilizzate per integrare il contenuto di questa capitolo.
+1.2 Le GMP si applicano alle fasi del ciclo di vita dalla produzione dell'IMP (Investigational Medicinal Product), al Technology Transfert (trasferimento tecnologico), all'immissione in commercio del prodotto fino al suo ritiro dal commercio. Tuttavia, il sistema di qualità farmaceutico può estendersi alle fasi del ciclo di vita dello sviluppo farmaceutico come descritto nelle ICH Q10, che while facoltativo, dovrebbe facilitare l'innovazione e il miglioramento continuo e rafforzare il
+ collegamento tra lo sviluppo farmaceutico e le attività produttive. Le ICH Q10 sono contenute nella Parte III della Guida e possono essere utilizzate per integrare il contenuto di questo capitolo.
 
-1.3 Dovrebbero essere prese in considerazione le dimensioni e la complessità delle attività dell'azienda nello sviluppo di un nuovo sistema di qualità farmaceutica o nella modifica di uno esistente. la messa a punto del sistema di qualità dovrebbe includere i principi del Risk Management  compreso l'uso di strumenti adeguati. Mentre alcuni aspetti del sistema possono essere a livello aziendale e altri specifici del sito, l'efficacia del sistema è normalmente dimostrata a livello del sito.
+1.3 Dovrebbero essere prese in considerazione le dimensioni e la complessità delle attività dell'azienda nello sviluppo di un nuovo sistema di qualità farmaceutica o nella modifica
+di uno esistente. la messa a punto del sistema di qualità dovrebbe includere i principi del Risk Management  compreso l'uso di strumenti adeguati. Mentre alcuni aspetti del sistema possono essere a livello aziendale e altri specifici del sito, l'efficacia del sistema è normalmente dimostrata a livello del sito.
 
 1.4 Per risultare adeguato alla fabbricazione dei medicinali il sistema di Garanzia di Qualità dovrà assicurare che: 
 
@@ -35,13 +37,16 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (v) siano chiaramente specificate le responsabilità manageriali; 
 
-(vi) si prendano accordi relativi alla fabbricazione, alla fornitura e all'impiego delle materie prime e dei materiali di confezionamento più appropriati, la selezione e il monitoraggio dei fornitori e la verifica che ogni materiale provenga dalla catena di approvvigionamento approvata;
+(vi) si prendano accordi relativi alla fabbricazione, alla fornitura e all'impiego delle materie prime e dei materiali di confezionamento più appropriati, la selezione e il monitoraggio dei fornitori e la verifica che ogni materiale provenga dalla catena di approvvigionamento approvata;
 
 (vii) sono in atto misure necessarie a garantire la gestione delle attività in outsoursing;
 
-(viii) sia messo in atto e mantenuto un sistema di controllo sviluppando e utilizzando sistemi efficaci di monitoraggio e controllo per le prestazioni del processo e la qualità del prodotto;
+(viii) sia messo in atto e mantenuto un sistema di controllo sviluppando e utilizzando
+ sistemi efficaci di monitoraggio e controllo per le prestazioni del processo e la qualità del prodotto;
 
-(ix) i risultati del monitoraggio dei prodotti e dei processi siano presi in considerazione in fase di rilascio del batch record, nell'indagine delle deviazioni, e, nell'ottica di prendere azioni preventive per evitare potenziali deviazioni che si possano ripetere in futuro.
+(ix) i risultati del monitoraggio dei prodotti e dei processi siano presi in considerazione in
+ fase di rilascio del batch record, nell'indagine delle deviazioni, e, nell'ottica di prendere
+ azioni preventive per evitare potenziali deviazioni che si possano ripetere in futuro.
 
 (x) vengano effettuati tutti i controlli necessari sui prodotti intermedi e qualsiasi altro controllo in precess e convalida;
 
