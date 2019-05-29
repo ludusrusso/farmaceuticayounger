@@ -44,19 +44,19 @@ di uno esistente. la messa a punto del sistema di qualità dovrebbe includere i 
 (viii) sia messo in atto e mantenuto un sistema di controllo sviluppando e utilizzando
  sistemi efficaci di monitoraggio e controllo per le prestazioni del processo e la qualità del prodotto;
 
-(ix) i risultati del monitoraggio dei prodotti e dei processi siano presi in considerazione in
- fase di rilascio del batch record, nell'indagine delle deviazioni, e, nell'ottica di prendere
- azioni preventive per evitare potenziali deviazioni che si possano ripetere in futuro.
+(ix) siano presi in considerazione i risultati del monitoraggio dei prodotti e dei processi in
+fase di rilascio del batch record, nell'indagine delle deviazioni, e, nell'ottica di prendere
+azioni preventive per evitare potenziali deviazioni che si possano ripetere in futuro;
 
 (x) vengano effettuati tutti i controlli necessari sui prodotti intermedi e qualsiasi altro controllo in precess e convalida;
 
-(xi) Il miglioramento continuo è facilitato attraverso l'implementazione di miglioramenti della qualità adeguati al livello attuale di processo e prodotto conoscenza.
+(xi) Il miglioramento continuo è facilitato attraverso l'implementazione di miglioramenti della qualità adeguati al livello attuale di conoscenza del processo e del prodotto;
 
-(xii) Sono in atto accordi per la valutazione prospettica dei piani modifiche e la loro approvazione prima dell'implementazione tenendo conto notifica e approvazione regolamentare ove richiesto;
+(xii) Sono in atto accordi per la valutazione prospettica dei change pianificati e la loro approvazione prima dell'implementazione tenendo conto della notifica e approvazione regolatoria ove richiesto;
 
-(xiii) Dopo l'implementazione di qualsiasi cambiamento, viene effettuata una valutazione confermare che gli obiettivi di qualità sono stati raggiunti e che non è stato necessario impatto deleterio sulla qualità del prodotto;
+(xiii) Dopo l'implementazione di qualsiasi cambiamento, viene effettuata una valutazione per confermare che gli obiettivi di qualità sono stati raggiunti e che non c'era nessun impatto deleterio non intenzionale sulla qualità del prodotto;
 
-(xiv) Durante il. deve essere applicato un livello appropriato di analisi delle cause alla radice ricerca di deviazioni, sospetti difetti del prodotto e altri problemi. Questo può essere determinato utilizzando i principi di gestione del rischio di qualità. Nei casi dove non è possibile determinare la vera causa / i radice / i del problema, si dovrebbe prendere in considerazione l'identificazione delle cause / delle cause più probabili e l'indirizzamento quelli. Laddove l'errore umano sia sospettato o identificato come causa, ciò dovrebbe essere giustificato avendo cura di garantire che non siano stati trascurati, se presenti, errori procedurali, procedurali o basati sul sistema. Dovrebbero essere identificate azioni correttive appropriate e / o azioni preventive (CAPA) e preso in risposta alle indagini. L'efficacia di tali azioni dovrebbe essere monitorata e valutata, in linea con i principi di Quality Risk Management.
+(xiv) Dovrebbe essere applicato un livello appropriato di analisi delle cause (root causa analysis) durante l'investigazione delle deviazioni, sospetti difetti del prodotto e altri problemi. Questo può essere determinato utilizzando i principi di gestione del rischio di qualità. Nei casi dove non è possibile determinare la vera causa del problema, si dovrebbe prendere in considerazione le cause più probabili e focalizzarsi su quelle. Laddove l'errore umano sia sospettato o identificato come causa, ciò dovrebbe essere giustificato avendo cura di garantire che non siano stati trascurati, se presenti, errori procedurali, procedurali o basati sul sistema. Dovrebbero essere identificate azioni correttive appropriate e / o azioni preventive (CAPA) e preso in risposta alle indagini. L'efficacia di tali azioni dovrebbe essere monitorata e valutata, in linea con i principi di Quality Risk Management.
 
 (xv) I prodotti medicinali non sono venduti o forniti prima che una persona qualificata abbia certificato che ogni lotto di produzione è stato prodotto e controllato in
 
