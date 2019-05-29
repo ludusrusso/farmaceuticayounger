@@ -50,15 +50,27 @@ di uno esistente. la messa a punto del sistema di qualità dovrebbe includere i 
 
 (x) vengano effettuati tutti i controlli necessari sui prodotti intermedi e qualsiasi altro controllo in precess e convalida;
 
-(vii) vengano eseguiti tutti i necessari controlli sui prodotti semilavorati, i controlli durante il processo produttivo e le convalide; 
+(xi) Il miglioramento continuo è facilitato attraverso l'implementazione di miglioramenti della qualità adeguati al livello attuale di processo e prodotto conoscenza.
 
-(vi) il prodotto finito sia lavorato e controllato correttamente, conformemente alle procedure definite; 
+(xii) Sono in atto accordi per la valutazione prospettica dei piani modifiche e la loro approvazione prima dell'implementazione tenendo conto notifica e approvazione regolamentare ove richiesto;
 
-(vii) i medicinali non vengano venduti o forniti a terzi prima che una Persona Qualificata abbia certificato che ogni lotto è stato prodotto e controllato conformemente a quanto prescritto dall'Autorizzazione all'Immissione in Commercio e da qualunque altro Regolamento attinente alla produzione, al controllo e all'approvazione dei medicinali; 
+(xiii) Dopo l'implementazione di qualsiasi cambiamento, viene effettuata una valutazione confermare che gli obiettivi di qualità sono stati raggiunti e che non è stato necessario impatto deleterio sulla qualità del prodotto;
 
-(viii) esistano disposizioni atte a garantire (nei limiti del possibile) che i medicinali siano immagazzinati, distribuiti e successivamente maneggiati in modo da mantenerne inalterata la qualità per tutto il loro periodo di validità; 
+(xiv) Durante il. deve essere applicato un livello appropriato di analisi delle cause alla radice ricerca di deviazioni, sospetti difetti del prodotto e altri problemi. Questo può essere determinato utilizzando i principi di gestione del rischio di qualità. Nei casi dove non è possibile determinare la vera causa / i radice / i del problema, si dovrebbe prendere in considerazione l'identificazione delle cause / delle cause più probabili e l'indirizzamento quelli. Laddove l'errore umano sia sospettato o identificato come causa, ciò dovrebbe essere giustificato avendo cura di garantire che non siano stati trascurati, se presenti, errori procedurali, procedurali o basati sul sistema. Dovrebbero essere identificate azioni correttive appropriate e / o azioni preventive (CAPA) e preso in risposta alle indagini. L'efficacia di tali azioni dovrebbe essere monitorata e valutata, in linea con i principi di Quality Risk Management.
 
-(ix) esista una procedura d'ispezione interna e/o verifica della qualità che consenta di valutare regolarmente l'efficacia e l'applicabilità del sistema di Garanzia di Qualità. 
+(xv) I prodotti medicinali non sono venduti o forniti prima che una persona qualificata abbia certificato che ogni lotto di produzione è stato prodotto e controllato in
+
+conformità con i requisiti dell'autorizzazione all'immissione in commercio e qualsiasi altra normativa relativa alla produzione, al controllo e al rilascio di medicinali;
+
+(xvi) Esistono accordi soddisfacenti per garantire, per quanto possibile, che i medicinali siano immagazzinati, distribuiti e successivamente trattati in modo che la qualità venga mantenuta per tutta la loro durata di conservazione;
+
+(xvii) Esiste un processo per l'autoispezione e / o controllo di qualità, che valuta regolarmente l'efficacia e l'applicabilità del Sistema di qualità farmaceutica.
+
+1.5 L'alta direzione ha la responsabilità ultima di garantire un efficace sistema di qualità farmaceutica, risorse adeguate e ruoli, responsabilità, e le autorità sono definite, comunicate e implementate in tutta l'organizzazione. Leadership del senior management e partecipazione attiva nel sistema di qualità farmaceutico è essenziale. Questa leadership dovrebbe garantire il supporto e l'impegno del personale a tutti i livelli e siti all'interno dell'organizzazione al Sistema di qualità farmaceutica.
+
+1.6 Ci dovrebbe essere una revisione periodica della gestione, con il coinvolgimento del senior management, del funzionamento del Sistema di Qualità farmaceutico per identificare le opportunità di miglioramento continuo dei prodotti, dei processi e del sistema stesso.
+
+1.7 Il sistema di qualità farmaceutico dovrebbe essere definito e documentato. Un manuale di qualità o documentazione equivalente dovrebbe essere stabilito e dovrebbe contenere una descrizione del sistema di gestione della qualità, comprese le responsabilità di gestione.
 
 ## Le Norme di Buona Fabbricazione applicate ai medicinali
 
@@ -98,7 +110,7 @@ di uno esistente. la messa a punto del sistema di qualità dovrebbe includere i 
 
 ## Controllo Qualità
 
-1.3 Il Controllo Qualità è quella parte delle Norme di Buona Fabbricazione che concerne il campionamento, la definizione delle specifiche e l'esecuzione delle prove nonché l' organizzazione, documentazione ed processo di rilascio atte a garantire che si effettuino realmente le analisi necessarie e che un materiale non sia approvato per l'impiego né un prodotto per la vendita o la fornitura sino a che la loro qualità non sia stata giudicata soddisfacente. Il Controllo Qualità presuppone che: 
+1.9 Il Controllo Qualità è quella parte delle Norme di Buona Fabbricazione che concerne il campionamento, la definizione delle specifiche e l'esecuzione delle prove nonché l' organizzazione, documentazione ed processo di rilascio atte a garantire che si effettuino realmente le analisi necessarie e che un materiale non sia approvato per l'impiego né un prodotto per la vendita o la fornitura sino a che la loro qualità non sia stata giudicata soddisfacente. Il Controllo Qualità presuppone che: 
 
 (i) si disponga di strutture adeguate, di personale addestrato e di procedure approvate per campionare, ispezionare e sottoporre ad analisi le materie prime, i materiali di confezionamento, gli intermedi, i prodotti sfusi e i finiti; lo stesso dicasi, all'occorrenza, per il controllo delle condizioni ambientali secondo le prescrizioni delle NBF; 
 
@@ -118,7 +130,7 @@ di uno esistente. la messa a punto del sistema di qualità dovrebbe includere i 
 
 ## Riesame della Qualità del Prodotto
 
-1.4. E' necessario effettuare regolarmente un riesame della qualità con scadenza periodica o a rotazione di tutti i medicinali di cui si ha licenza, compresi i prodotti per la sola esportazione, con lo scopo di verificare la validità del processo esistente e l'adeguatezza delle specifiche in atto sia per le materie prime sia per i prodotti finiti al fine di evidenziare ogni eventuale tendenza e per identificare i possibili miglioramenti di prodotto e di processo. Tale riesame dovrebbe essere effettuata e documentata con cadenza annuale, tenendo in considerazione i precedenti riesami e dovrebbe includere almeno: 
+1.10 E' necessario effettuare regolarmente un riesame della qualità con scadenza periodica o a rotazione di tutti i medicinali di cui si ha licenza, compresi i prodotti per la sola esportazione, con lo scopo di verificare la validità del processo esistente e l'adeguatezza delle specifiche in atto sia per le materie prime sia per i prodotti finiti al fine di evidenziare ogni eventuale tendenza e per identificare i possibili miglioramenti di prodotto e di processo. Tale riesame dovrebbe essere effettuata e documentata con cadenza annuale, tenendo in considerazione i precedenti riesami e dovrebbe includere almeno: 
 
 (i) un riesame delle materie prime e dei materiali di confezionamento utilizzati per la produzione dei prodotti, soprattutto quelli provenienti da nuovi fornitori. 
 
@@ -144,18 +156,18 @@ di uno esistente. la messa a punto del sistema di qualità dovrebbe includere i 
 
 (xii) un riesame di ogni accordo contrattuale come definito nel Capitolo 7 per garantire che questi siano aggiornati. 
 
-Il produttore e il titolare dell'autorizzazione alla distribuzione, quando distinti, dovranno valutare i risultati di tale riesame e dovrà essere fatta una valutazione di come e quanto si debba effettuare un'azione correttiva o preventiva o una riconvalida. Le ragioni per tali azioni correttive dovranno essere documentate. Le azioni correttive o preventive approvate dovranno essere completate in modo efficace e nei tempi stabiliti. Dovranno esistere delle procedure per la gestione e la revisione di tali azioni e l'efficacia di tali procedure dovrà essere verificata durante le autoispezioni. Quando scientificamente giustificato, la riesame della qualità può essere effettuata raggruppando per tipologia di prodotto, es. forme solide , forme liquide, prodotti sterili, ecc .. 
+1.11 Il produttore e il titolare dell'autorizzazione alla distribuzione, quando distinti, dovranno valutare i risultati di tale riesame e dovrà essere fatta una valutazione di come e quanto si debba effettuare un'azione correttiva o preventiva o una riconvalida. Le ragioni per tali azioni correttive dovranno essere documentate. Le azioni correttive o preventive approvate dovranno essere completate in modo efficace e nei tempi stabiliti. Dovranno esistere delle procedure per la gestione e la revisione di tali azioni e l'efficacia di tali procedure dovrà essere verificata durante le autoispezioni. Quando scientificamente giustificato, la riesame della qualità può essere effettuata raggruppando per tipologia di prodotto, es. forme solide , forme liquide, prodotti sterili, ecc .. 
 
-Qualora il titolare dell'Autorizzazione all'Immissione in Commercio produttore, è necessario che vi sia un "Accordo Tecnico" tra le varie parti che definisca le rispettive responsabilità per la stesura di riesame della qualità del prodotto. La Persona Qualificata responsabile per la certificazione finale del lotto insieme al titolare dell'Autorizzazione all'Immissione in Commercio dovrà assicurare che la verifica sia stata effettuata in modo puntuale e sia accurata. 
+Qualora il titolare dell'Autorizzazione all'Immissione in Commercio non è il produttore, è necessario che vi sia un "Accordo Tecnico" tra le varie parti che definisca le rispettive responsabilità per la stesura di riesame della qualità del prodotto. 
 
 ## Gestione dei Rischi Qualità
 
-1.5 La Gestione dei Rischi della Qualità (Quality Risk Management) è un processo sistematico per la valutazione, il controllo, la comunicazione e la revisione dei rischi legati alla qualità del medicinale. Tale processo può essere applicato in modo sia proattivo sia retrospettivo. 
+1.12 La Gestione dei Rischi della Qualità (Quality Risk Management) è un processo sistematico per la valutazione, il controllo, la comunicazione e la revisione dei rischi legati alla qualità del medicinale. Tale processo può essere applicato in modo sia proattivo sia retrospettivo. 
 
-1.6 Il sistema di gestione dei rischi dovrà assicurare che: 
+1.13 Il sistema di gestione dei rischi dovrà assicurare che: 
 
-\-la valutazione del rischio per la qualità sia fondato su conoscenze scientifiche ed essenzialmente finalizzato alla tutela del paziente; 
+\- la valutazione del rischio per la qualità sia fondato su conoscenze scientifiche ed essenzialmente finalizzato alla tutela del paziente; 
 
-\-il livello di sforzo, formalità e documentazione del processo di Quality Risk Management sia commisurato con il livello di rischio; 
+\- il livello di sforzo, formalità e documentazione del processo di Quality Risk Management sia commisurato con il livello di rischio; 
 
-Esempi dei processi e delle applicazioni possono essere trovati, tra l'altro, nell'Annex 20.
+È possibile trovare esempi dei processi e delle applicazioni della gestione del rischio di qualità tra l'altro nell'ICH Q9, che è riprodotto nella Parte III della Guida.
