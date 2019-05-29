@@ -169,3 +169,5 @@ Qualora il titolare dell'Autorizzazione all'Immissione in Commercio non è il pr
 \- il livello di sforzo, formalità e documentazione del processo di Quality Risk Management sia commisurato con il livello di rischio; 
 
 È possibile trovare esempi dei processi e delle applicazioni della gestione del rischio di qualità tra l'altro nell'ICH Q9, che è riprodotto nella Parte III della Guida.
+
+https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-4/vol4-chap1_2013-01_en.pdf
