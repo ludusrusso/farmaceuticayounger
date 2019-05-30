@@ -1,6 +1,6 @@
 ---
 title: BR = Batch Record
-date: '2019-05-17T20:51:31+02:00'
+date: '2019-06-01T08:00:00+02:00'
 description: >-
   Il Batch Record (BR) è il documento che dettaglia la produzione di un lotto di
   farmaco e può essere in formato cartaceo o elettronico. 
