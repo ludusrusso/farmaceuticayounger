@@ -9,32 +9,38 @@ socialDesc: >-
   farmaco e può essere in formato cartaceo o elettronico. 
 image: /img/9e957a68-9551-45a3-8669-00386b7b83f2.png
 ---
-![](/img/9e957a68-9551-45a3-8669-00386b7b83f2.png)
+![null](/img/9e957a68-9551-45a3-8669-00386b7b83f2.png)
 
-Il Batch Record (BR) è il documento che dettaglia la produzione di un lotto di farmaco e può essere in formato cartaceo o elettronico. 
+Il Batch Record (BR) è un documento che dettaglia tutte le fasi di produzione di un lotto di farmaco/dispositivo medico e può esistere in formato cartacea o elettronica. 
 
 Il BR dovrebbe riportare almeno le seguenti informazioni:
 
-\- nome del prodotto e numero di lotto
+\- nome del prodotto e numero di lotto;
 
-\- lotto e quantità di ciascuna materia prima utilizzata 
+\- data di preparazione e di scadenza;
 
-\- data e ora dell’inizio, degli step intermedi e del termine della produzione
+\- quantità e numero di lotto delle materie prime e materiali di confezionamento utilizzati;
 
-\- sigla dell’operatore che effettua ogni step del processo e, se applicabile, il nome di ciascuna persona che verifica le operazioni
+\- firma, ora e data accanto ad ogni step di produzione eseguito;
 
-\- macchinari/strumenti utilizzati durante il processo 
+\- sigla dell’operatore che effettua ogni step del processo e, se applicabile, il nome di ciascuna persona che verifica le operazioni;
 
-\- i parametri critici misurati durante il processo
+\- macchinari/strumenti utilizzati durante il processo;
 
-\- un record dei controlli in-process e la sigla di chi li ha eseguiti con i risultati ottenuti
+\- i parametri critici misurati durante il processo;
 
-\- la resa ottenuta e quella aspettata
+\- i controlli in-process effettuati con i risultati ottenuti;
 
-\- note con i problemi riscontrati
+\- i campionamenti effettuati durante la produzione del prodotto per la consegna al QC che provvederà ad effettuare le analisi;
 
-\- ciascuna deviazione rilevata durante il processo produttivo
+\- la resa finale ottenuta e quella aspettata;
+
+\- numero di scarti di produzione;
+
+\- spazio note con eventuali problemi riscontrati, segnalazioni, deviazioni (evento non atteso che si verifica durante il processo produttivo) rilevate durante il processo produttivo;
+
+\- firme di rilascio del BR (almeno QC Manger, QA Manager e QP).
 
 Il Batch Record deve essere dettagliato in tutte le sue parti poiché deve contenere tutte le informazioni per indagare in caso di problemi sul lotto di farmaco e per questo deve essere conservato per un periodo opportuno.
 
-Il BR deve essere revisionato e approvato dall’Assicurazione Qualità, che ne verifica la conformità prima del rilascio del farmaco sul mercato.
+Lo scopo principale del BR è di dare informazioni chiare, dettagliate e comprensibili da tutti coloro che lo consulteranno nel tempo, dagli operatori che eseguono le operazioni scritte nel BR al QA che esegue la revisione, all'ispettore che in fase di audit lo verifica.
