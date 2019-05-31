@@ -1,7 +1,7 @@
 ---
 title: HOT THIS MONTH - Maggio 2019
 tags:
-  - farmanews
+  - hotthismonth
 date: '2019-05-31T14:54:47+02:00'
 description: >
   Il comitato per i medicinali per l'uomo di EMA (CHMP) ha raccomandato
