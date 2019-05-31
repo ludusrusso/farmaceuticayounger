@@ -17,7 +17,10 @@ socialDesc: >
 
   Il comitato ha concesso l'autorizzazione all'immissione in commercio di 4
   farmaci tra cui un farmaco orfano due generici.
+image: /img/ccd031a2-5c6d-4bcc-bf8e-c541a4e0befe.png
 ---
+![](/img/ccd031a2-5c6d-4bcc-bf8e-c541a4e0befe.png)
+
 Il comitato per i medicinali per uso umano di EMA (CHMP) ha raccomandato l'approvazione di quattro medicinali nella riunione del [Maggio 2019](https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-29-may-2019), tra cui un farmaco orfano e due farmaci generici.
 
 Il farmaco orfano autorizzato dal comitato è **Cufence** (triidrato di diidrocloruro), per il trattamento della malattia di Wilson, una malattia ereditaria rara che provoca l'accumulo di rame nel fegato, nel cervello e in altri organi vitali. 
