@@ -7,11 +7,11 @@ description: >-
 socialDesc: >-
   Il Batch Record (BR) è il documento che dettaglia la produzione di un lotto di
   farmaco e può essere in formato cartaceo o elettronico. 
-image: /img/9e957a68-9551-45a3-8669-00386b7b83f2.png
+image: /img/275c986a-e242-43f3-ba56-1fcc3d62c042.png
 ---
-![null](/img/9e957a68-9551-45a3-8669-00386b7b83f2.png)
+![null](/img/275c986a-e242-43f3-ba56-1fcc3d62c042.png)
 
-Il Batch Record (BR) è un documento che dettaglia tutte le fasi di produzione di un lotto di farmaco/dispositivo medico e può esistere in formato cartacea o elettronica. 
+Il Batch Record (BR) è un documento che dettaglia tutte le fasi di produzione di un lotto di farmaco/dispositivo medico e può esistere in formato cartaceo o elettronico. 
 
 Il BR dovrebbe riportare almeno le seguenti informazioni:
 
@@ -39,7 +39,7 @@ Il BR dovrebbe riportare almeno le seguenti informazioni:
 
 \- spazio note con eventuali problemi riscontrati, segnalazioni, deviazioni (evento non atteso che si verifica durante il processo produttivo) rilevate durante il processo produttivo;
 
-\- firme di rilascio del BR (almeno QC Manger, QA Manager e QP).
+\- firme di revisione del BR (ad esempio il [QA](https://www.farmaceuticayounger.science/pharmacronimi/qa--quality-assurance/)).
 
 Il Batch Record deve essere dettagliato in tutte le sue parti poiché deve contenere tutte le informazioni per indagare in caso di problemi sul lotto di farmaco e per questo deve essere conservato per un periodo opportuno.
 
