@@ -44,3 +44,5 @@ Il BR dovrebbe riportare almeno le seguenti informazioni:
 Il Batch Record deve essere dettagliato in tutte le sue parti poiché deve contenere tutte le informazioni per indagare in caso di problemi sul lotto di farmaco e per questo deve essere conservato per un periodo opportuno.
 
 Lo scopo principale del BR è di dare informazioni chiare, dettagliate e comprensibili da tutti coloro che lo consulteranno nel tempo, dagli operatori che eseguono le operazioni scritte nel BR al QA che esegue la revisione, all'ispettore che in fase di audit lo verifica.
+
+A cura di Serena Zamponi
