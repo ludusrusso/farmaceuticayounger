@@ -23,9 +23,9 @@ socialDesc: >
   extragenitale di queste infezioni attraverso la gola e il retto. Questi test
   sono stati precedentemente autorizzati solo per il test di campioni di urina,
   vaginali e endocervicali.
-image: /img/016191843.jpg
+image: /img/9C6F4C1D-F989-4FD8-AEA4-BCB937FA5A93.PNG
 ---
-![](/img/016191843.jpg)
+![](/img/9C6F4C1D-F989-4FD8-AEA4-BCB937FA5A93.PNG)
 
 La Food and Drug Administration statunitense ha autorizzato la commercializzazione di due test in grado di rilevare la presenza dei batteri **Chlamydia trachomatis** e **Neisseria gonorrhoeae**, che causano le infezioni sessualmente trasmesse, rispettivamente, la clamidia e la gonorrea, attraverso test diagnostici di campioni extragenitali, [Aptima Combo 2 Assay e Xpert CT/NG](https://www.fda.gov/news-events/press-announcements/fda-clears-first-diagnostic-tests-extragenital-testing-chlamydia-and-gonorrhea). Sono i primi dispositivi approvati dalla FDA per il test diagnostico extragenitale di queste infezioni attraverso la gola e il retto. Questi test sono stati precedentemente autorizzati solo per il test di campioni di urina, vaginali e endocervicali.
 
