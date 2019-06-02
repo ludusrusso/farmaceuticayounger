@@ -1,5 +1,5 @@
 ---
-title: FDA APPROVAL - Clamidia and Gonorrea test diagnostici
+title: FDA APPROVAL - Clamidia e Gonorrea test diagnostici
 tags:
   - farmanews
 date: '2019-05-23T15:01:06+02:00'
