@@ -15,15 +15,15 @@ socialDesc: >-
   dal 31 maggio al 4 giugno 2019. 
 image: /img/67b6d1b1-f5bf-4c8e-bf43-ed3820cd72a5.png
 ---
-![](/img/67b6d1b1-f5bf-4c8e-bf43-ed3820cd72a5.png)
+![null](/img/67b6d1b1-f5bf-4c8e-bf43-ed3820cd72a5.png)
 
 > La biologia e la genetica umana sono state le fondamenta dell’innovazione di Amgen negli ultimi quarant’anni. Sulla base del nostro approccio scientifico e della velocità alla quale ci stiamo muovendo, ritengo che Amgen avrà un profondo impatto sul trattamento futuro di alcuni tumori. Siamo impegnati a rendere disponibili rapidamente nuove terapie contro il cancro ai pazienti che ne hanno bisogno. - David M. Reese, MD, vice presidente esecutivo R&D di Amgen.
 
-[Amgen](https://www.amgen.com/media/news-releases/2019/05/amgen-showcases-oncology-pipeline-at-asco-2019/) presenterà i dati della sua promettente pipeline oncoematologica al 55° congresso annuale dell’American Society of Clinical Oncology (ASCO), il più grande evento del mondo nel campo dell’oncologia, dove saranno quasi 40 mila specialisti in questa disciplina si incontreranno nella città di Chicago dal 31 maggio al 4 giugno 2019. 
+[Amgen](https://www.amgen.com/media/news-releases/2019/05/amgen-showcases-oncology-pipeline-at-asco-2019/) presenterà i dati della sua promettente pipeline oncoematologica al 55° congresso annuale dell’American Society of Clinical Oncology (ASCO), il più grande evento del mondo nel campo dell’oncologia, dove quasi 40 mila specialisti in questa disciplina si incontreranno nella città di Chicago dal 31 maggio al 4 giugno 2019. 
 
 In occasione del congresso **Amgen presenterà sette molecole sperimentali per il trattamento di diverse tipologie di neoplasie ematologiche e di tumori solidi.**
 
-I dati di rilievo della pipeline oncoematologica dell’azienda includono i primi dati derivati da studi condotti sull’uomo (first-in-human) relativi alla molecola sperimentale **AMG 510**,**il primo inibitore di KRASG12C a raggiungere lo stadio clinico in pazienti affetti da tumori solidi con mutazione G12C del gene KRAS localmente avanzati o metastatici.**
+I dati di rilievo della pipeline oncoematologica dell’azienda includono i primi dati derivati da studi condotti sull’uomo (first-in-human) relativi alla molecola sperimentale **AMG 510**, **il primo inibitore di KRASG12C a raggiungere lo stadio clinico in pazienti affetti da tumori solidi con mutazione G12C del gene KRAS localmente avanzati o metastatici.**
 
 In oltre trent’anni di ricerche, le proteine RAS costituiscono la famiglia di geni maggiormente soggetti a mutazioni nei tumori umani. Nell’ambito di questa famiglia, la variante più diffusa è la KRAS, particolarmente comune nei tumori solidi. Una specifica mutazione, nota come KRASG12C, rappresenta circa il 12% di tutte le mutazioni KRAS in tutti i diversi tipi di tumore. Amgen sta esplorando il potenziale dell’inibizione di KRASG12C in un’ampia varietà di tipi di tumore.
 
