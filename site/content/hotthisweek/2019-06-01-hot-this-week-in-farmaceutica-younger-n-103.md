@@ -23,7 +23,7 @@ image: /img/67b6d1b1-f5bf-4c8e-bf43-ed3820cd72a5.png
 
 In occasione del congresso **Amgen presenterà sette molecole sperimentali per il trattamento di diverse tipologie di neoplasie ematologiche e di tumori solidi.**
 
-I dati di rilievo della pipeline oncoematologica dell’azienda includono i primi dati derivati da studi condotti sull’uomo (first-in-human) relativi alla molecola sperimentale **AMG 510**,** il primo inibitore di KRASG12C a raggiungere lo stadio clinico in pazienti affetti da tumori solidi con mutazione G12C del gene KRAS localmente avanzati o metastatici.**
+I dati di rilievo della pipeline oncoematologica dell’azienda includono i primi dati derivati da studi condotti sull’uomo (first-in-human) relativi alla molecola sperimentale **AMG 510**,**il primo inibitore di KRASG12C a raggiungere lo stadio clinico in pazienti affetti da tumori solidi con mutazione G12C del gene KRAS localmente avanzati o metastatici.**
 
 In oltre trent’anni di ricerche, le proteine RAS costituiscono la famiglia di geni maggiormente soggetti a mutazioni nei tumori umani. Nell’ambito di questa famiglia, la variante più diffusa è la KRAS, particolarmente comune nei tumori solidi. Una specifica mutazione, nota come KRASG12C, rappresenta circa il 12% di tutte le mutazioni KRAS in tutti i diversi tipi di tumore. Amgen sta esplorando il potenziale dell’inibizione di KRASG12C in un’ampia varietà di tipi di tumore.
 
