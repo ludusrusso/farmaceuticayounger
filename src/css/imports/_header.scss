@@ -49,6 +49,7 @@ header {
     }
 
     #collapse {
+      align-items: center;
       a {
         min-height: 40px;
       }
@@ -69,6 +70,7 @@ header {
   a {
     padding: 0 10px;
     text-decoration: none;
+    text-align: center;
     color: $header-color;
     &:hover {
       font-weight: 900 !important;
