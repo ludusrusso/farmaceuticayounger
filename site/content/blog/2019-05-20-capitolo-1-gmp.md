@@ -2,7 +2,7 @@
 title: GMP - Capitolo 1
 tags:
   - articoli
-date: '2019-05-20T16:23:36+02:00'
+date: '2019-06-03T16:23:36+02:00'
 image: /img/34a6f0c9-c750-41f7-a117-6efd7aa46aac.png
 ---
 ![null](/img/34a6f0c9-c750-41f7-a117-6efd7aa46aac.png)
@@ -91,23 +91,23 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (v) le procedure sono eseguite correttamente e gli operatori sono addestrati a farlo;
 
-(vi) nel corso della fabbricazione si devono compilare a mano e/o mediante appositi strumenti, documenti da cui risulti che tutte le fasi richieste dalle procedura definita e dalle istruzioni sono state effettivamente svolte e che il prodotto soddisfa le aspettative in termini tanto di quantità che di qualità; eventuali deviazioni significative devono essere registrate integralmente ed indagate; 
+(vi) nel corso della fabbricazione si devono compilare a mano e/o mediante appositi strumenti, documenti da cui risulti che tutte le fasi richieste dalle procedure definite e dalle istruzioni sono state effettivamente svolte e che il prodotto soddisfi le aspettative in termini tanto di quantità che di qualità; eventuali deviazioni significative devono essere registrate integralmente ed indagate; 
 
 (vii) i documenti di fabbricazione, compresi quelli di distribuzione, che consentono di tracciare la cronistoria completa di un dato lotto devono essere archiviati in forma comprensibile e accessibile; 
 
-(viii) distribuzione (all'ingrosso) dei prodotti deve minimizzare i rischi che potrebbero comprometterne la qualità; 
+(viii) la distribuzione dei prodotti deve minimizzare i rischi che potrebbero comprometterne la qualità; 
 
 (ix) deve esistere un sistema che consenta di ritirare qualunque lotto di prodotto dalla distribuzione o dalla vendita; 
 
-(x) i reclami relativi ai prodotti commercializzati devono essere Riesaminati; si devono ricercare le cause dei difetti di qualità e si prendano misure adeguate riguardanti i prodotti difettosi nonché azioni correttive per evitare il ripetersi di tali inconvenienti. 
+(x) i reclami relativi ai prodotti commercializzati devono essere riesaminati; si devono ricercare le cause dei difetti di qualità e si prendano misure adeguate riguardanti i prodotti difettosi nonché azioni correttive per evitare il ripetersi di tali inconvenienti. 
 
 ## Controllo Qualità
 
-1.9 Il Controllo Qualità è quella parte delle Norme di Buona Fabbricazione che concerne il campionamento, la definizione delle specifiche e l'esecuzione delle prove nonché l' organizzazione, documentazione ed processo di rilascio atte a garantire che si effettuino realmente le analisi necessarie e che un materiale non sia approvato per l'impiego né un prodotto per la vendita o la fornitura sino a che la loro qualità non sia stata giudicata soddisfacente. Il Controllo Qualità presuppone che: 
+1.9 Il Controllo Qualità è quella parte delle GMP che concerne il campionamento, la definizione delle specifiche e l'esecuzione delle prove nonché l'organizzazione, documentazione e il processo di rilascio atte a garantire che si effettuino realmente le analisi necessarie e che un materiale non sia approvato per l'impiego né un prodotto per la vendita o la fornitura sino a che la loro qualità non sia stata giudicata soddisfacente. Il Controllo Qualità presuppone che: 
 
-(i) si disponga di strutture adeguate, di personale addestrato e di procedure approvate per campionare, ispezionare e sottoporre ad analisi le materie prime, i materiali di confezionamento, gli intermedi, i prodotti sfusi e i finiti; lo stesso dicasi, all'occorrenza, per il controllo delle condizioni ambientali secondo le prescrizioni delle NBF; 
+(i) si disponga di strutture adeguate, di personale addestrato e di procedure approvate per campionare, ispezionare e sottoporre ad analisi le materie prime, i materiali di confezionamento, gli intermedi, i prodotti sfusi e i finiti; lo stesso dicasi, all'occorrenza, per il controllo delle condizioni ambientali secondo le prescrizioni delle GMP; 
 
-(ii) il personale prelievi con metodi approvati dal Controllo Qualità campioni di materie prime, di materiali di confezionamento e di prodotti semilavorati, sfusi e finiti; 
+(ii) il personale prelevi con metodi approvati dal Controllo Qualità campioni di materie prime, di materiali di confezionamento e di prodotti semilavorati, sfusi e finiti; 
 
 (iii) i metodi di prova siano convalidati; 
 
@@ -125,31 +125,31 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 1.10 E' necessario effettuare regolarmente un riesame della qualità con scadenza periodica o a rotazione di tutti i medicinali di cui si ha licenza, compresi i prodotti per la sola esportazione, con lo scopo di verificare la validità del processo esistente e l'adeguatezza delle specifiche in atto sia per le materie prime sia per i prodotti finiti al fine di evidenziare ogni eventuale tendenza e per identificare i possibili miglioramenti di prodotto e di processo. Tale riesame dovrebbe essere effettuata e documentata con cadenza annuale, tenendo in considerazione i precedenti riesami e dovrebbe includere almeno: 
 
-(i) un riesame delle materie prime e dei materiali di confezionamento utilizzati per la produzione dei prodotti, soprattutto quelli provenienti da nuovi fornitori. 
+(i) un riesame delle materie prime e dei materiali di confezionamento utilizzati per la produzione dei prodotti, soprattutto quelli provenienti da nuovi fornitori;
 
-(ii) un riesame dei controlli di processo critici e dei risultati delle analisi sul prodotto finito. 
+(ii) un riesame dei controlli di processo critici e dei risultati delle analisi sul prodotto finito;
 
-(iii) un riesame di tutti i lotti che non hanno soddisfatto le specifiche stabilite e le relative indagini.
+(iii) un riesame di tutti i lotti che non hanno soddisfatto le specifiche stabilite e le relative indagini;
 
-(iv) un riesame di tutte le deviazioni significative e di non conformità, delle indagini ad esse collegate e dell'efficacia delle azioni correttive e preventive attuate in conseguenza. 
+(iv) un riesame di tutte le deviazioni significative e di non conformità, delle indagini ad esse collegate e dell'efficacia delle azioni correttive e preventive attuate in conseguenza;
 
-(v) un riesame di tutti i cambi effettuati al processo o ai metodi analitici. 
+(v) un riesame di tutti i cambi effettuati al processo o ai metodi analitici;
 
-(vi) un riesame delle variazioni alle Autorizzazioni all'Immissione in Commercio sottoposte/concesse/respinte, incluse quelle relative ai dossier per paesi terzi (solo esportazione). 
+(vi) un riesame delle variazioni alle Autorizzazioni all'Immissione in Commercio sottoposte/concesse/respinte, incluse quelle relative ai dossier per paesi terzi (solo esportazion);
 
-(vii) un riesame dei risultati del programma di monitoraggio della stabilità e di qualsiasi andamento avverso. 
+(vii) un riesame dei risultati del programma di monitoraggio della stabilità e di qualsiasi andamento avverso;
 
-(viii) un riesame di resi, reclami e richiami di prodotto a causa di problemi legati alla qualità, e delle relative indagini svolte. 
+(viii) un riesame di resi, reclami e richiami di prodotto a causa di problemi legati alla qualità, e delle relative indagini svolte;
 
-(ix) un riesame dell'adeguatezza di ogni precedente-azione correttiva relativa al processo o all'apparecchiatura. 
+(ix) un riesame dell'adeguatezza di ogni precedente azione correttiva relativa al processo o all'apparecchiatura;
 
-(x) per le nuove Autorizzazioni all'Immissione in Commercio e per le modifiche alle autorizzazioni, una revisione degli impegni successivi alla commercializzazione {post marketing). 
+(x) per le nuove Autorizzazioni all'Immissione in Commercio e per le modifiche alle autorizzazioni, una revisione degli impegni successivi alla commercializzazione (post marketing);
 
-(xi) lo stato di qualifica delle apparecchiature e utenze rilevanti, es. HVAC, acqua, gas compressi, etc. 
+(xi) lo stato di qualifica delle apparecchiature e utenze rilevanti, es. HVAC, acqua, gas compressi, etc;
 
 (xii) un riesame di ogni accordo contrattuale come definito nel Capitolo 7 per garantire che questi siano aggiornati. 
 
-1.11 Il produttore e il titolare dell'autorizzazione alla distribuzione, quando distinti, dovranno valutare i risultati di tale riesame e dovrà essere fatta una valutazione di come e quanto si debba effettuare un'azione correttiva o preventiva o una riconvalida. Le ragioni per tali azioni correttive dovranno essere documentate. Le azioni correttive o preventive approvate dovranno essere completate in modo efficace e nei tempi stabiliti. Dovranno esistere delle procedure per la gestione e la revisione di tali azioni e l'efficacia di tali procedure dovrà essere verificata durante le autoispezioni. Quando scientificamente giustificato, la riesame della qualità può essere effettuata raggruppando per tipologia di prodotto, es. forme solide , forme liquide, prodotti sterili, ecc .. 
+1.11 Il produttore e il titolare dell'autorizzazione alla distribuzione, quando distinti, dovranno valutare i risultati di tale riesame e dovrà essere fatta una valutazione di come e quanto si debba effettuare un'azione correttiva o preventiva o una riconvalida. Le ragioni per tali azioni correttive dovranno essere documentate. Le azioni correttive o preventive approvate dovranno essere completate in modo efficace e nei tempi stabiliti. Dovranno esistere delle procedure per la gestione e la revisione di tali azioni e l'efficacia di tali procedure dovrà essere verificata durante le autoispezioni. Quando scientificamente giustificato, il riesame della qualità può essere effettuata raggruppando per tipologia di prodotto, es. forme solide, forme liquide, prodotti sterili, etc.
 
 Qualora il titolare dell'Autorizzazione all'Immissione in Commercio non è il produttore, è necessario che vi sia un "Accordo Tecnico" tra le varie parti che definisca le rispettive responsabilità per la stesura di riesame della qualità del prodotto. 
 
@@ -163,7 +163,6 @@ Qualora il titolare dell'Autorizzazione all'Immissione in Commercio non è il pr
 
 \- il livello di sforzo, formalità e documentazione del processo di Quality Risk Management sia commisurato con il livello di rischio; 
 
-È possibile trovare esempi dei processi e delle applicazioni della gestione del rischio di qualità
- tra l'altro nell'ICH Q9, che è riprodotto nella Parte III della Guida.
+È possibile trovare esempi dei processi e delle applicazioni della gestione del rischio di qualità tra l'altro nell'ICH Q9, che è riprodotto nella Parte III della Guida.
 
-https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-4/vol4-chap1_2013-01_en.pdf
+Fonte originale: https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-4/vol4-chap1_2013-01_en.pdf
