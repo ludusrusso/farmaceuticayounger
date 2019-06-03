@@ -1,7 +1,7 @@
 ---
 title: GMP - Capitolo 1
 tags:
-  - articoli
+  - cgmp
 date: '2019-06-03T16:23:36+02:00'
 image: /img/34a6f0c9-c750-41f7-a117-6efd7aa46aac.png
 ---
