@@ -3,17 +3,28 @@ title: FDA APPROVAL - Emgality
 tags:
   - farmanews
 date: '2019-06-05T17:41:21+02:00'
+description: >-
+  La Food and Drug Administration degli Stati Uniti ha approvato Emgality
+  (galcanezumab-gnlm), soluzione iniettabile per il trattamento della cefalea a
+  grappolo episodica negli adulti. Emgality è il ​​primo farmaco approvato dalla
+  FDA a ridurre la frequenza degli attacchi di cefalea a grappolo episodico
+  tramite autoiniezione.
+socialDesc: >-
+  La Food and Drug Administration degli Stati Uniti ha approvato Emgality
+  (galcanezumab-gnlm), soluzione iniettabile per il trattamento della cefalea a
+  grappolo episodica negli adulti. Emgality è il ​​primo farmaco approvato dalla
+  FDA a ridurre la frequenza degli attacchi di cefalea a grappolo episodico
+  tramite autoiniezione.
+image: /img/a5a8813e-0ff9-4df7-9901-5896e7466471.png
 ---
-La Food and Drug Administration degli Stati Uniti ha approvato [Emgality](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-episodic-cluster-headache-reduces-frequency-attacks) (galcanezumab-gnlm), soluzione iniettabile per il trattamento della cefalea a grappolo episodica negli adulti.
+![](/img/a5a8813e-0ff9-4df7-9901-5896e7466471.png)
 
-Emgality è il ​​primo farmaco approvato dalla FDA a ridurre la frequenza degli attacchi di cefalea a grappolo episodico.
+La Food and Drug Administration degli Stati Uniti ha approvato [Emgality](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-episodic-cluster-headache-reduces-frequency-attacks) (galcanezumab-gnlm), soluzione iniettabile per il trattamento della cefalea a grappolo episodica negli adulti. Emgality è il ​​**primo farmaco approvato dalla FDA a ridurre la frequenza degli attacchi di cefalea a grappolo episodico** tramite autoiniezione.
 
-Il mal di testa a grappolo è una forma di mal di testa che produce dolore estremo e tende a verificarsi in gruppi, spesso alla stessa ora (s) del giorno, per diverse settimane o mesi. I mal di testa sono accompagnati da sintomi che possono includere: occhi iniettati di sangue, lacrimazione eccessiva degli occhi, abbassamento delle palpebre, naso che cola e/o congestione nasale e sudorazione facciale. Gli attacchi di cefalea a grappolo possono colpire più volte al giorno, in genere durano dai 15 minuti alle tre ore.
+La cefalea a grappolo è una forma di mal di testa che alterna periodi di remissione a periodi di forti attacchi, solitamente concentrati in particolari momenti della giornata, e che presenta una sintomatologia molto nutrita: dagli occhi iniettati di sangue alla lacrimazione eccessiva, dall'abbassamento della palpebra alla congestione nasale e sudorazione facciale, sino a momenti di irrequietezza e agitazione. Gli episodi possono verificarsi anche più volte al giorno, con una durata che varia dai 15 minuti alle 3 ore.
 
-L'efficacia di Emgality per il trattamento della cefalea a grappolo episodica è stata dimostrata in uno studio clinico che ha confrontato il farmaco con il placebo in 106 pazienti. Il trial ha misurato il numero medio di cefalea a grappolo che si manifestavano in una settimana per tre settimane e ha confrontato le variazioni medie rispetto al basale nei gruppi Emgality e placebo. Durante il periodo di tre settimane, i pazienti che assumevano Emgality hanno presentato un minor numero di attacchi settimanali di cefalea a cluster di 8,7 rispetto al basale, rispetto a 5,2 in meno di attacchi per i pazienti trattati con placebo.
+L'efficacia di Emgality per il trattamento della cefalea a grappolo episodica è stata dimostrata in uno studio clinico che ha confrontato il farmaco con il placebo in 106 pazienti. Lo studio clinico ha misurato il numero medio di cefalea a grappolo che si manifestavano nell’arco di tre settimane e ha confrontato le variazioni rispetto al placebo. I pazienti a cui era stato somministrato Emgality hanno hanno riportato in media 8,7 episodi in meno rispetto all'inizio del trattamento, rispetto ai 5,2 testimoniati dal gruppo di controllo con placebo. 
 
-Esiste il rischio di reazioni di ipersensibilità con l'uso di Emgality. Se si verifica una reazione di ipersensibilità grave, il trattamento deve essere interrotto. Le reazioni di ipersensibilità possono verificarsi giorni dopo la somministrazione e possono essere prolungate. Gli effetti collaterali più comuni riportati dai partecipanti agli studi clinici sono state le reazioni al sito di iniezione.
+La FDA ha concesso a questa applicazione la designazione Priority Review e [Breakthrough Therapy](https://www.farmaceuticayounger.science/blog/2018/12/la-fda-statunitense-e-la-breakthrough-therapy/).
 
-L'emulsione è data dall'auto-iniezione del paziente. È stato approvato per la prima volta dalla FDA a settembre 2018 per il trattamento preventivo dell'emicrania negli adulti. La FDA ha concesso l'approvazione di Emgality a Eli Lilly.
-
-La FDA ha concesso a questa applicazione la designazione Priority Review e Breakthrough Therapy.
+La FDA ha concesso l'approvazione di Emgality a Eli Lilly.
