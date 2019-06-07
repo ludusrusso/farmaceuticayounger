@@ -2,7 +2,7 @@
 title: R&D = Research & Development
 date: '2019-06-07T10:14:58+02:00'
 ---
-L'R&D (Research & Development) o più comunemente Ricerca e Sviluppo è quel reparto di un’officina farmaceutica il cui obiettivo è quello di migliorare i prodotti del proprio portafoglio, di crearne di nuovi, o di migliorare i processi di produzione portando un'innovazione tecnologica nell'azienda.
+L'R&D (Research & Development) o più comunemente Ricerca e Sviluppo è quel reparto di un’officina farmaceutica il cui obiettivo è quello di migliorare i prodotti del proprio portafoglio, di crearne di nuovi, o di migliorarne i processi di produzione portando un'innovazione tecnologica nell'azienda.
 
 Da un lato quindi si focalizza su attività di supporto per la gestione dei prodotti già presenti nel portfolio aziendale e dall’altro ha lo scopo di concorrere all’innovazione attraverso lo sviluppo di nuovi prodotti farmaceutici in aree terapeutiche consolidate o in nuovi scenari terapeutici.  
 
