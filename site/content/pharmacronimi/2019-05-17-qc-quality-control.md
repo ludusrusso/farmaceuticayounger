@@ -9,6 +9,8 @@ socialDesc: >-
   farmaceutica coinvolto nelle attività di campionamento ed analisi.
 image: /img/811c619b-f3a4-45d7-802c-ae46a49db74f.png
 ---
+![](/img/811c619b-f3a4-45d7-802c-ae46a49db74f.png)
+
 Il Controllo Qualità (QC, Quality Control) è quel reparto di un'officina farmaceutica coinvolto nelle attività di campionamento ed analisi.
 
 In particolare nel caso di aziende produttrici di farmaci iniettabili, il controllo qualità è suddiviso in controllo di qualità chimico e controllo di qualità microbiologico.
