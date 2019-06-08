@@ -16,7 +16,7 @@ socialDesc: >-
   quali il trapianto di cellule staminali ematopoietiche è appropriato ma non è
   disponibile un donatore familiare con antigene leucocitario compatibile.
 ---
-La Commissione Europea ha concesso l’autorizzazione condizionale all’immissione in commercio per [ZYNTEGLO](http://investor.bluebirdbio.com/news-releases/news-release-details/bluebird-bio-announces-eu-conditional-marketing-authorization) (cellule CD34 + autologhe che codificano il gene βA-T87Q-globin) per pazienti di età pari o superiore a 12 anni con β-talassemia trasfusione-dipendente con genotipo non β0/β0, per i quali il trapianto di cellule staminali ematopoietiche è appropriato ma non è disponibile un donatore familiare con antigene leucocitario compatibile. 
+La Commissione Europea ha concesso l’autorizzazione condizionale all’immissione in commercio per [ZYNTEGLO](http://investor.bluebirdbio.com/news-releases/news-release-details/bluebird-bio-announces-eu-conditional-marketing-authorization) (cellule CD34+ autologhe che codificano il gene βA-T87Q globina) per pazienti di età pari o superiore a 12 anni con β-talassemia trasfusione-dipendente con genotipo non β0/β0, per i quali il trapianto di cellule staminali ematopoietiche è appropriato ma non è disponibile un donatore familiare con antigene leucocitario compatibile. 
 
 **ZYNTEGLO rappresenta** **la prima terapia genica approvata in Europa per la β-talassemia trasfusione-dipendente (TDT). **
 
