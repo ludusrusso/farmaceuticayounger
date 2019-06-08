@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.104
-date: '2019-06-09T21:07:01+02:00'
+date: '2019-06-09T09:00:00+02:00'
 description: >-
   La Commissione Europea ha concesso l’autorizzazione condizionale
   all’immissione in commercio per ZYNTEGLO (cellule CD34 + autologhe che
