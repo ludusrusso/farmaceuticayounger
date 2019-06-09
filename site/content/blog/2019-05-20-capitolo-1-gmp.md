@@ -1,5 +1,5 @@
 ---
-title: 'GMP - Capitolo 1, Sistema di Qualità Farmaceutico'
+title: GMP - Capitolo 1
 tags:
   - cgmp
 date: '2019-06-03T16:23:36+02:00'
