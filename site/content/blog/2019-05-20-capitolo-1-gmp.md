@@ -1,5 +1,5 @@
 ---
-title: GMP - Capitolo 1
+title: 'GMP - Capitolo 1, Sistema di Qualità Farmaceutico'
 tags:
   - cgmp
 date: '2019-06-03T16:23:36+02:00'
@@ -7,7 +7,7 @@ image: /img/34a6f0c9-c750-41f7-a117-6efd7aa46aac.png
 ---
 ![null](/img/34a6f0c9-c750-41f7-a117-6efd7aa46aac.png)
 
-# Capitolo 1 - Sistema di Qualità Farmaceutica
+# Capitolo 1 - Sistema di Qualità Farmaceutico
 
 ## Principi
 
@@ -29,7 +29,7 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (ii) la conoscenza del prodotto e del processo sia garantita lungo tutte le fasi del ciclo di vita del medicinale; 
 
-(iii) i medicinali vengano progettati e sviluppati secondo modalità che tengano conto delle Good Manufacturing Practice e delle Good Laboratory Practice;
+(iii) i medicinali vengano progettati e sviluppati secondo modalità che tengano conto delle Good Manufacturing Practice;
 
 (iv) le operazioni di produzione e di controllo sono chiaramente specificate e tengano conto delle Good Manufacturing Practice;
 
@@ -37,7 +37,7 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (vi) si prendano accordi relativi alla fabbricazione, alla fornitura e all'impiego delle materie prime e dei materiali di confezionamento più appropriati, la selezione e il monitoraggio dei fornitori e la verifica che ogni materiale provenga dalla catena di approvvigionamento approvata;
 
-(vii) sIano in atto misure necessarie a garantire la gestione delle attività in outsoursing;
+(vii) siano messe in atto misure necessarie a garantire la gestione delle attività affiidate a terzi;
 
 (viii) sia messo in atto e mantenuto un sistema di controllo sviluppando e utilizzando sistemi efficaci di monitoraggio e controllo per le prestazioni del processo e la qualità del prodotto;
 
@@ -51,15 +51,15 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (xiii) dopo l'implementazione di qualsiasi cambiamento, viene effettuata una valutazione per confermare che gli obiettivi di qualità sono stati raggiunti e che non c'era nessun impatto deleterio non intenzionale sulla qualità del prodotto;
 
-(xiv) dovrebbe essere applicato un livello appropriato di analisi delle cause (root cause analysis) durante l'investigazione delle deviazioni, sospetti difetti del prodotto e altri problemi. Questo può essere determinato utilizzando i principi del Quality Risk Management. Nei casi dove non è possibile determinare la vera causa del problema, si dovrebbe prendere in considerazione le cause più probabili e focalizzarsi su quelle. Laddove l'errore umano sia sospettato o identificato come causa, ciò dovrebbe essere giustificato avendo cura di garantire che non siano stati trascurati, se presenti, errori nel processo, procedurali o basati sul sistema. Dovrebbero essere identificate azioni correttive appropriate e/o azioni preventive (CAPA) e adottate in risposta alle indagini. L'efficacia di tali azioni dovrebbe essere monitorata e valutata, in linea con i principi del Quality Risk Management.
+(xiv) dovrebbe essere applicato un livello appropriato di analisi delle cause (root cause analysis) durante l'investigazione delle deviazioni, sospetti difetti del prodotto e altri problemi. Questo può essere determinato utilizzando i principi del Quality Risk Management. Nei casi dove non è possibile determinare la causa principale (root cause) del problema, si dovrebbero prendere in considerazione le cause più probabili e focalizzarsi su quelle. Laddove l'errore umano sia sospettato o identificato come causa, ciò dovrebbe essere giustificato avendo cura di garantire che non siano stati trascurati, se presenti, errori nel processo, procedurali o basati sul sistema. Dovrebbero essere identificate azioni correttive appropriate e/o azioni preventive (CAPA) e adottate in risposta alle indagini. L'efficacia di tali azioni dovrebbe essere monitorata e valutata, in linea con i principi del Quality Risk Management.
 
 (xv) i prodotti medicinali non sono venduti o forniti prima che una persona qualificata abbia certificato che ogni lotto di produzione è stato prodotto e controllato in conformità con i requisiti dell'autorizzazione all'immissione in commercio e qualsiasi altra normativa relativa alla produzione, al controllo e al rilascio di medicinali;
 
 (xvi) esistono accordi soddisfacenti per garantire, per quanto possibile, che i medicinali siano immagazzinati, distribuiti e successivamente trattati in modo che la qualità venga mantenuta per tutta la loro durata di conservazione (shelf life);
 
-(xvii) sia presente l'autoispezione e/o gli Audit di qualità, che valutano regolarmente l'efficacia e l'applicabilità del Sistema di Qualità farmaceutica.
+(xvii) esiste un processo per l'autoispezione e/o gli Audit di qualità, che valuti regolarmente l'efficacia e l'applicabilità del Sistema di Qualità farmaceutica.
 
-1.5 L'alta direzione (senior management) ha la responsabilità ultima di garantire che sia stato messo in atto un efficace sistema di qualità farmaceutica, risorse adeguate e che ruoli, responsabilità, e poteri siano definiti, comunicati e implementatI in tutta l'organizzazione. La leadership del senior management e la partecipazione attiva al sistema di qualità farmaceutico è essenziale. Questa leadership dovrebbe garantire il supporto e l'impegno del personale a tutti i livelli e siti all'interno dell'organizzazione dEl Sistema di Qualità farmaceutica.
+1.5 L'alta direzione (senior management) ha la responsabilità ultima di garantire che sia stato messo in atto un efficace sistema di qualità farmaceutica, con risorse adeguate e che ruoli, responsabilità, e poteri siano definiti, comunicati e implementati in tutta l'organizzazione. La leadership del senior management e la sua partecipazione attiva al sistema di qualità farmaceutico è essenziale. Questa leadership dovrebbe garantire il supporto e l'impegno del personale a tutti i livelli e siti all'interno dell'organizzazione del Sistema di Qualità farmaceutica.
 
 1.6 Ci dovrebbe essere una revisione periodica della gestione, con il coinvolgimento del senior management, del funzionamento del Sistema di Qualità Farmaceutico per identificare le opportunità di miglioramento continuo dei prodotti, dei processi e del sistema stesso.
 
@@ -67,23 +67,23 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 ## Le Norme di Buona Fabbricazione applicate ai medicinali
 
-1.8 Le Norme di Buona Fabbricazione o NBF o GMP costituiscono quella parte della Garanzia di Qualità la quale assicura che i prodotti siano costantemente fabbricati e controllati in modo da soddisfare gli standard di qualità appropriati all'uso cui sono destinati e le prescrizioni dell'autorizzazione alla commercializzazione. Le GMP riguardano tanto la Produzione quanto il Controllo Qualità. I requisitì GMP fondamentali sono: 
+1.8 Le Norme di Buona Fabbricazione o NBF o GMP costituiscono quella parte della Gestione di Qualità la quale assicura che i prodotti siano costantemente fabbricati e controllati in modo da soddisfare gli standard di qualità appropriati all'uso cui sono destinati e le prescrizioni dell'autorizzazione alla commercializzazione. Le GMP riguardano tanto la Produzione quanto il Controllo Qualità. I requisiti GMP fondamentali sono: 
 
-(i) tutti i processi di fabbricazione devono essere chiaramente definiti e sistematicamente riesaminati alla luce dell'esperienza e si deve poter dimostrare che questi siano in grado di fornire i medicinali fabbricati che presentino la qualità richiesta e risultino conformi alle specifiche ad essi applicabili;
+(i) tutti i processi di fabbricazione devono essere definiti in modo chiaro e sistematicamente riesaminati alla luce dell'esperienza e si deve poter dimostrare che questi siano capaci di produrre in modo consistente medicinali della qualità richiesta e conformi alle loro specifiche;
 
 (ii) le fasi critiche dei processi di fabbricazione e le modifiche significative del processo devono essere convalidate;
 
-(iii) si deve disporre di tutte le infrastrutture necessarie all'applicazione della GMP tra cui: 
+(iii) si deve disporre di tutte le funzioni necessarie all'applicazione della GMP tra cui: 
 
 \-personale con qualifiche e addestramento adeguati, 
 
-\-locali e spazio adeguati, 
+\-locali e spazi adeguati, 
 
 \-servizi ed attrezzature adeguati, 
 
 \-materiali, contenitori ed etichette corretti, 
 
-\-procedure ed istruzioni approvate, 
+\-procedure ed istruzioni approvate, in accordo al Sistema di Qualità Farmaceutico,
 
 \-strutture idonee per lo stoccaggio e il trasporto. 
 
@@ -91,15 +91,17 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (v) le procedure sono eseguite correttamente e gli operatori sono addestrati a farlo;
 
-(vi) nel corso della fabbricazione si devono compilare a mano e/o mediante appositi strumenti, documenti da cui risulti che tutte le fasi richieste dalle procedure definite e dalle istruzioni sono state effettivamente svolte e che il prodotto soddisfi le aspettative in termini tanto di quantità che di qualità; eventuali deviazioni significative devono essere registrate integralmente ed indagate; 
+(vi) nel corso della fabbricazione si devono compilare a mano e/o mediante appositi strumenti, documenti da cui risulti che tutte le fasi richieste dalle procedure definite e dalle istruzioni sono state effettivamente svolte e che il prodotto soddisfi le aspettative in termini tanto di quantità che di qualità; 
 
-(vii) i documenti di fabbricazione, compresi quelli di distribuzione, che consentono di tracciare la cronistoria completa di un dato lotto devono essere archiviati in forma comprensibile e accessibile; 
+(vii) eventuali deviazioni significative devono essere registrate integralmente ed indagate con l’obiettivo di determinarne la causa principale e di implementare appropriate azioni correttive e preventive (CAPA);
 
-(viii) la distribuzione dei prodotti deve minimizzare i rischi che potrebbero comprometterne la qualità; 
+(viii) i documenti di fabbricazione, compresi quelli di distribuzione, che consentono di tracciare la cronistoria completa di un dato lotto devono essere archiviati in forma comprensibile e accessibile; 
 
-(ix) deve esistere un sistema che consenta di ritirare qualunque lotto di prodotto dalla distribuzione o dalla vendita; 
+(ix) la distribuzione dei prodotti deve minimizzare i rischi che potrebbero comprometterne la qualità e tenere in considerazione le Good Distribution Practice;
 
-(x) i reclami relativi ai prodotti commercializzati devono essere riesaminati; si devono ricercare le cause dei difetti di qualità e si prendano misure adeguate riguardanti i prodotti difettosi nonché azioni correttive per evitare il ripetersi di tali inconvenienti. 
+(x) deve esistere un sistema che consenta di ritirare qualunque lotto di prodotto dalla distribuzione o dalla vendita; 
+
+(xi) i reclami relativi ai prodotti commercializzati devono essere riesaminati, si devono ricercare le cause dei difetti di qualità e si prendano misure adeguate riguardanti i prodotti difettosi nonché azioni correttive per evitare il ripetersi di tali inconvenienti. 
 
 ## Controllo Qualità
 
@@ -117,15 +119,15 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (vi) siano redatti dei rapporti che documentino i risultati delle ispezioni e la rispondenza formale con le specifiche dei risultati delle analisi effettuate sui materiali e sui prodotti semilavorati, sfusi e finiti. La verifica del prodotto comprende un riesame ed una valutazione della relativa documentazione di produzione nonché delle deviazioni dalle procedure specifiche; 
 
-(vii) nessun lotto di prodotto sia approvato per la vendita o la fornitura prima che una Persona Qualificata lo abbia certificato conforme a quanto prescritto dalle autorizzazioni specifiche; 
+(vii) nessun lotto di prodotto sia approvato per la vendita o la fornitura prima che una Persona Qualificata lo abbia certificato conforme a quanto prescritto dalle autorizzazioni attinenti come descritto nell’Annex 6. 
 
-(viii) venga conservato un numero di campioni di riferimento delle materie prime e dei prodotti sufficienti a consentire di esaminare il prodotto in un momento successivo qualora ciò si riveli necessario; il prodotto dovrà essere conservato nella sua confezione finale a meno che questa non abbia dimensioni eccezionali. 
+(viii) venga conservato un numero di campioni di riferimento delle materie prime e dei prodotti come descritto nell’Annex 19, sufficienti a consentire di esaminare il prodotto in un momento successivo qualora ciò si riveli necessario; il prodotto dovrà essere conservato nella sua confezione finale.
 
 ## Product Quality Review (Riesame della Qualità del Prodotto)
 
-1.10 E' necessario effettuare regolarmente un riesame della qualità con scadenza periodica o a rotazione di tutti i medicinali di cui si ha licenza, compresi i prodotti per la sola esportazione, con lo scopo di verificare la validità del processo esistente e l'adeguatezza delle specifiche in atto sia per le materie prime sia per i prodotti finiti al fine di evidenziare ogni eventuale tendenza e per identificare i possibili miglioramenti di prodotto e di processo. Tale riesame dovrebbe essere effettuata e documentata con cadenza annuale, tenendo in considerazione i precedenti riesami e dovrebbe includere almeno: 
+1.10 E' necessario effettuare regolarmente un riesame della qualità con scadenza periodica o a rotazione di tutti i medicinali di cui si ha licenza, compresi i prodotti per la sola esportazione, con lo scopo di verificare la validità del processo esistente e l'adeguatezza delle specifiche in atto sia per le materie prime sia per i prodotti finiti al fine di evidenziare ogni eventuale tendenza e per identificare i possibili miglioramenti di prodotto e di processo. Tale riesame dovrebbe essere effettuato e documentato con cadenza annuale, tenendo in considerazione i precedenti riesami e dovrebbe includere almeno: 
 
-(i) un riesame delle materie prime e dei materiali di confezionamento utilizzati per la produzione dei prodotti, soprattutto quelli provenienti da nuovi fornitori;
+(i) un riesame delle materie prime e dei materiali di confezionamento utilizzati per la produzione dei prodotti, soprattutto quelli provenienti da nuovi fornitori e in particolare la revisione della tracciabilità delle sostanze attive;
 
 (ii) un riesame dei controlli di processo critici e dei risultati delle analisi sul prodotto finito;
 
@@ -135,7 +137,7 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (v) un riesame di tutti i cambi effettuati al processo o ai metodi analitici;
 
-(vi) un riesame delle variazioni alle Autorizzazioni all'Immissione in Commercio sottoposte/concesse/respinte, incluse quelle relative ai dossier per paesi terzi (solo esportazion);
+(vi) un riesame delle variazioni sottoposte/concesse o respinte per l’Autorizzazione all'Immissione in Commercio, incluse quelle relative ai dossier per paesi terzi (solo esportazioni);
 
 (vii) un riesame dei risultati del programma di monitoraggio della stabilità e di qualsiasi andamento avverso;
 
@@ -149,9 +151,9 @@ I concetti fondamentali del Quality Management, delle GMP, del Controllo Qualit�
 
 (xii) un riesame di ogni accordo contrattuale come definito nel Capitolo 7 per garantire che questi siano aggiornati. 
 
-1.11 Il produttore e il titolare dell'autorizzazione alla distribuzione, quando distinti, dovranno valutare i risultati di tale riesame e dovrà essere fatta una valutazione di come e quanto si debba effettuare un'azione correttiva o preventiva o una riconvalida. Le ragioni per tali azioni correttive dovranno essere documentate. Le azioni correttive o preventive approvate dovranno essere completate in modo efficace e nei tempi stabiliti. Dovranno esistere delle procedure per la gestione e la revisione di tali azioni e l'efficacia di tali procedure dovrà essere verificata durante le autoispezioni. Quando scientificamente giustificato, il riesame della qualità può essere effettuata raggruppando per tipologia di prodotto, es. forme solide, forme liquide, prodotti sterili, etc.
+1.11 Il produttore e il titolare dell'autorizzazione alla distribuzione, quando distinti, dovranno valutare i risultati di tale riesame e decidere se effettuare una qualsiasi azione correttiva o preventiva o una riconvalida in accordo al Sistema di Qualità Farmaceutico. Le ragioni per tali azioni correttive dovranno essere documentate. Le azioni correttive o preventive approvate dovranno essere completate in modo efficace e nei tempi stabiliti. Dovranno esistere delle procedure per la gestione e la revisione di tali azioni e l'efficacia di tali procedure dovrà essere verificata durante le autoispezioni. Se scientificamente giustifiCato, il riesame della qualità potrà essere effettuato raggruppando i prodotti per tipologia, es. forme solide, forme liquide, prodotti sterili, etc.
 
-Qualora il titolare dell'Autorizzazione all'Immissione in Commercio non è il produttore, è necessario che vi sia un "Accordo Tecnico" tra le varie parti che definisca le rispettive responsabilità per la stesura di riesame della qualità del prodotto. 
+Qualora il titolare dell'Autorizzazione all'Immissione in Commercio non è il produttore, è necessario che vi sia un "Accordo Tecnico" tra le varie parti che definisca le rispettive responsabilità per la stesura del riesame della qualità del prodotto. 
 
 ## Gestione dei Rischi di Qualità (Quality Risk Management)
 
@@ -159,9 +161,9 @@ Qualora il titolare dell'Autorizzazione all'Immissione in Commercio non è il pr
 
 1.13 Il sistema di gestione dei rischi dovrà assicurare che: 
 
-\- la valutazione del rischio per la qualità sia fondato su conoscenze scientifiche ed essenzialmente finalizzato alla tutela del paziente; 
+i) la valutazione del rischio per la qualità sia fondato su conoscenze scientifiche ed essenzialmente finalizzato alla tutela del paziente; 
 
-\- il livello di sforzo, formalità e documentazione del processo di Quality Risk Management sia commisurato con il livello di rischio; 
+ii) il livello di sforzo, formalità e documentazione del processo di Quality Risk Management sia commisurato con il livello di rischio; 
 
 È possibile trovare esempi dei processi e delle applicazioni della gestione del rischio di qualità tra l'altro nell'ICH Q9, che è riprodotto nella Parte III della Guida.
 
