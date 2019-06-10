@@ -24,7 +24,7 @@ La corretta fabbricazione di medicinali dipende dalle persone. Per questo motivo
 
 ## Personale Chiave
 
-2.5 Il Senior Management comprende il Responsabile della Produzione, il Responsabile del Controllo Qualità e, qualora la responsabilità per i compiti di cui all'articolo 51 della direttiva 2001/83/EC (1),  non competa ad almeno una delle persone precedentemente nominate, un adeguato numero, ma almeno una Persona Qualificata designata a tale scopo. Di norma il Personale chiave dovrebbe svolgere i propri compiti a tempo pieno. Il Responsabile della Produzione e quello del Controllo Qualità dovranno essere indipendenti l'uno dall'altro. Nelle aziende di maggiori dimensioni può rivelarsi necessario delegare alcune delle funzioni di cui ai punti 2.7, 2.8, e 2.9. Inoltre, a seconda delle dimensioni e della struttura organizzativa dell'azienda, può essere nominato un Responsabile della Assicurazione Qualità o della Quality Unit. Dove una tale funzione esiste di solito alcune delle responsabilità descritte ai punti 2.7, 2.8 e 2.9 sono condivisi con il Responsabile del Controllo Qualità e il Responsabile della Produzione e il senior management dovrebbe pertanto assicurarsi che i ruoli, le responsabilità e i loro poteri siano definiti.
+2.5 Il Senior Management comprende il Responsabile della Produzione, il Responsabile del Controllo Qualità e, qualora la responsabilità per i compiti di cui all'articolo 51 della direttiva 2001/83/EC (1),  non competa ad almeno una delle persone precedentemente nominate, un adeguato numero, ma almeno una Persona Qualificata designata a tale scopo. Di norma il Personale chiave dovrebbe svolgere i propri compiti a tempo pieno. Il Responsabile della Produzione e quello del Controllo Qualità dovranno essere indipendenti l'uno dall'altro. Nelle aziende di maggiori dimensioni può rivelarsi necessario delegare alcune delle funzioni di cui ai punti 2.7, 2.8, e 2.9. Inoltre, a seconda delle dimensioni e della struttura organizzativa dell'azienda, può essere nominato un Responsabile della Assicurazione Qualità o della Quality Unit. Dove una tale funzione esiste di solito alcune delle responsabilità descritte ai punti 2.7, 2.8 e 2.9 sono condivisi con il Responsabile del Controllo Qualità e il Responsabile della Produzione e il senior management dovrebbe pertanto assicurarsi che i ruoli, le responsabilità e i loro poteri siano definiti.
 
 2.6 I compiti della/e Persona/e Qualificata/e sono descritti all'articolo 51 della direttiva 2001/83/EC e possono riassumersi nel modo seguente: 
 
@@ -96,7 +96,7 @@ x. il monitoraggio della conformità alle Norme di Buona Fabbricazione;
 
 xi. le operazioni d'ispezione, indagine e campionamento volte a tener sotto controllo i fattori che possono influenzare la qualità del prodotto. 
 
-## Addestramento e formazione del personale 
+## Addestramento e formazione del personale
 
 2.10 Il fabbricante dovrà provvedere all'addestramento e alla formazione di tutto il personale i cui incarichi comportino l'ingresso nelle zone di produzione o nei laboratori di controllo (personale tecnico, di manutenzione e di pulizia) nonché quella parte del personale le cui attività sono in grado di influire sulla  qualità del prodotto. 
 
@@ -131,8 +131,6 @@ Tali procedure dovranno essere comprese e seguite rigorosamente da ogni persona 
 ## Consulenti
 
 2.23 I consulenti devono avere un'istruzione, una formazione e un'esperienza adeguate, o una qualsiasi combinazione di questi, per fornire consulenza sull'argomento per il quale sono stati mantenuti. Le registrazioni dovrebbero essere mantenute indicando il nome, l'indirizzo, le qualifiche e il tipo di servizio fornito da questi consulenti.
-
-
 
 (1) Articolo 55 della direttiva 2001/82/EC 
 
