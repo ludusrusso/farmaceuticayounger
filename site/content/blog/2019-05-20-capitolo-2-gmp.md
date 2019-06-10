@@ -4,9 +4,9 @@ tags:
   - cgmp
 date: '2019-07-10T09:04:00+02:00'
 ---
-## Capitolo 2 - Personale 
+## Capitolo 2 - Personale
 
-## Principi 
+## Principi
 
 La corretta fabbricazione di medicinali dipende dalle persone. Per questo motivo ci deve essere personale qualificato in numero sufficiente per svolgere tutti i compiti che ricadono sotto la responsabilità del fabbricante. Le responsabilità individuali dovrebbero essere chiaramente portate a conoscenza delle singole persone e documentate. Tutto il personale dovrebbe essere a conoscenza dei principi delle GMP per gli aspetti che lo riguardano e ricevere una formazione tanto iniziale quanto continua commisurata alle proprie esigenze e comprensiva delle istruzioni sugli aspetti igienici. 
 
@@ -14,23 +14,21 @@ La corretta fabbricazione di medicinali dipende dalle persone. Per questo motivo
 
 2.1 Il produttore dovrà avere un numero adeguato di persone in possesso delle qualifiche e dell'esperienza pratica necessaria. Il senior management dovrebbe determinare e fornire risorse adeguate e appropriate (umane, finanziarie, materiali, strutture e attrezzature) per implementare e mantenere il sistema di gestione della qualità e migliorarne continuamente l'efficacia. Le responsabilità assegnate a qualsiasi individuo non dovrebbero essere così estese da comportare rischi per la qualità. 
 
-2.2 Il produttore deve disporre di un organigramma in cui le relazioni tra i responsabili della produzione, il controllo di qualità e, quando applicabile, il capo dell'Assicurazione Qualità o della Quality Unit di cui al punto 2.5 e la posizione della/e Persona/e Qualificata/e siano chiaramente mostrate nella gerarchia manageriale.
+2.2 Il produttore deve disporre di un organigramma in cui le relazioni tra i responsabili della produzione, il controllo di qualità e, quando applicabile, il capo dell'Assicurazione Qualità o della Quality Unit di cui al punto 2.5 e la posizione della/e Persona/e Qualificata/e siano chiaramente
+ mostrate nella gerarchia manageriale.
 
 2.3 Le persone in posizioni di responsabilità dovranno avere incarichi specifici, definiti per iscritto con la descrizione delle relative mansioni, ed un'autorità adeguata per poterli svolgere. Esse potranno delegare i propri compiti a persone che dispongano di qualifiche soddisfacenti; non dovranno esserci lacune o sovrapposizioni ingiustificate nelle responsabilità del personale relativamente all'applicazione delle GMP. 
 
-2.4 Il senior management ha la responsabilità ultima di garantire che un efficace sistema di gestione di qualità sia messo in atto per raggiungere gli obiettivi di qualità e, che i ruoli, le responsabilità e le autorità siano definite, comunicate e implementate in tutta l'organizzazione. Il senior management dovrebbe stabilire una politica di qualità che descriva le intenzioni e la direzione dell'azienda relative alla qualità e dovrebbe garantire la continua idoneità e l'efficacia del sistema di gestione della qualità e della conformità alle GMP attraverso la partecipazione alla revisione della gestione.
+2.4 Il senior management ha la responsabilità ultima di garantire che un efficace
+ sistema di gestione di qualità sia messo in atto per raggiungere gli obiettivi di qualità e, che i ruoli, le responsabilità e le autorità siano definite, comunicate e implementate in tutta l'organizzazione. Il senior management dovrebbe stabilire una politica di qualità che descriva le intenzioni e la direzione dell'azienda relative alla qualità e dovrebbe garantire la continua idoneità e l'efficacia del sistema di gestione della qualità e della conformità alle GMP attraverso la partecipazione alla revisione della gestione.
 
-## Personale Chiave 
+## Personale Chiave
 
-2.5 Il Senior Management comprende il Responsabile della Produzione, il Responsabile del Controllo Qualità e, qualora la responsabilità per i compiti di cui all'articolo 51 della direttiva 2001/83/EC (1), un adeguato numero, non competa ad almeno una delle persone precedentemente nominate, la o le Persone Qualificate designate a tale scopo. Di norma il Personale Direttivo dovrebbe svolgere i propri compiti a tempo pieno; il Responsabile della Produzione e quello del Controllo Qualità dovranno essere indipendenti l'uno dall'altro. Nelle aziende di maggiori dimensioni può rivelarsi necessario delegare alcune delle funzioni di cui ai punti 2.5, 2.6, e 2.7. 
+2.5 Il Senior Management comprende il Responsabile della Produzione, il Responsabile del Controllo Qualità e, qualora la responsabilità per i compiti di cui all'articolo 51 della direttiva 2001/83/EC (1),  non competa ad almeno una delle persone precedentemente nominate, un adeguato numero, ma almeno una Persona Qualificata designata a tale scopo. Di norma il Personale chiave dovrebbe svolgere i propri compiti a tempo pieno. Il Responsabile della Produzione e quello del Controllo Qualità dovranno essere indipendenti l'uno dall'altro. Nelle aziende di maggiori dimensioni può rivelarsi necessario delegare alcune delle funzioni di cui ai punti 2.7, 2.8, e 2.9. Inoltre, a seconda delle dimensioni e della struttura organizzativa dell'azienda, può essere nominato un Responsabile della Assicurazione Qualità o della Quality Unit. Dove una tale funzione esiste di solito alcune delle responsabilità descritte ai punti 2.7, 2.8 e 2.9 sono condivisi con il Responsabile del Controllo Qualità e il Responsabile della Produzione e il senior management dovrebbe pertanto assicurarsi che i ruoli, le responsabilità e i loro poteri siano definiti.
 
-2.6 I compiti delle Persone Qualificate sono descritti esaurientemente all'articolo 51 della direttiva 2001/83/EC e possono riassumersi nel modo seguente: 
+2.6 I compiti della/e Persona/e Qualificata/e sono descritti all'articolo 51 della direttiva 2001/83/EC e possono riassumersi nel modo seguente: 
 
-a) per i medicinali fabbricati nella Comunità Europea una Persona Qualificata deve garantire che ogni lotto sia stato prodotto e sottoposto alle prove/analizzato conformemente alle direttive ad esso applicabili ed all'Autorizzazione all'Immissione in Commercio (2)
-
-(1) Articolo 55 della direttiva 2001/82/EC 
-
-(2) Conformemente alla direttiva 75/319/CEE (ora Direttiva 2001/83/EC) della Corte di giustizia delle Comunità europee nella causa 247/81 i medicinali che siano stati adeguatamente controllati nella CEE da una Persona Qualificata non devono essere nuovamente controllati o verificati da un altro Stato membro della Comunità. 
+a) per i medicinali fabbricati nella Comunità Europea una Persona Qualificata deve garantire che ogni lotto sia stato prodotto e controllato in accordo alle leggi in vigore in quegli Stati Membri e in accordo con i requisiti dell'Autorizzazione all'Immissione in Commercio (2);
 
 (b) per i medicinali fabbricati al di fuori della Comunità Europea una Persona Qualificata deve garantire che ogni lotto importato sia stato sottoposto nel paese d'importazione alle analisi di cui al paragrafo 1, lettera b) dell'articolo 51; 
 
@@ -110,7 +108,7 @@ Addestramento e formazione del personale
 
 2.14 Il concetto di gestione di Qualità e tutte le misure in grado di migliorarne la comprensione e l'attuazione devono essere discussi esaurientemente nel corso delle sedute di addestramento e formazione. 
 
-## Igiene del personale 
+## Igiene del personale
 
 2.15 All'interno del sito di produzione si dovranno definire programmi particolareggiati in materia di igiene adattandoli alle diverse esigenze riscontrate. Essi dovranno comprendere le procedure riguardanti la salute, le norme di igiene e gli indumenti. 
 
@@ -132,6 +130,13 @@ Tali procedure dovranno essere comprese e seguite rigorosamente da ogni persona 
 
 ## Consulenti
 
-2.23 I consulenti devono avere un'istruzione, una formazione e un'esperienza adeguate, o una qualsiasi combinazione di questi, per fornire consulenza sull'argomento per il quale sono stati mantenuti. Le registrazioni dovrebbero essere mantenute indicando il nome, l'indirizzo, le qualifiche e il tipo di servizio fornito da questi consulenti.
+2.23 I consulenti devono avere un'istruzione, una formazione e un'esperienza adeguate, o una qualsiasi combinazione di questi, per fornire consulenza sull'argomento per il quale sono stati mantenuti.
+ Le registrazioni dovrebbero essere mantenute indicando il nome, l'indirizzo, le qualifiche e il tipo di servizio fornito da questi consulenti.
 
-[EudraLex - The Rules Governing Medicinal Products in the European Union - Volume 4 - EU Guidelines for Good Manufacturing Practice for Medicinal Products for Human and Veterinary Use- Part 1- Chapter 2: Personnel](https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-4/2014-03_chapter_2.pdf)
+
+
+(1) Articolo 55 della direttiva 2001/82/EC 
+
+(2) Conformemente alla direttiva 75/319/CEE (ora Direttiva 2001/83/EC) della Corte di giustizia delle Comunità europee nella causa 247/81 i medicinali che siano stati adeguatamente controllati nella CEE da una Persona Qualificata non devono essere nuovamente controllati o verificati da un altro Stato membro della Comunità. 
+
+[EudraLex - The Rules Governing Medicinal Products in the European Union - Volume 4 - EU Guidelines for Good Manufacturing Practice for Medicinal Products for Human and Veterinary Use - Part 1 - Chapter 2: Personnel](https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-4/2014-03_chapter_2.pdf)
