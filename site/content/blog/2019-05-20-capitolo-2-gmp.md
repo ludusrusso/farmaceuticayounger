@@ -72,27 +72,27 @@ Altri compiti del reparto Controllo Qualità sono riepilogati nel capitolo 6.
 
 2.7 Di norma i Responsabili della Produzione e del Controllo Qualità condividono la responsabilità di alcuni compiti relativi alla qualità o li svolgono congiuntamente. Fra tali compiti potranno rientrare, a seconda della normativa nazionale: 
 
-\-l'autorizzazione di procedure scritte e di altri documenti nonché le loro modifiche; 
+i. l'autorizzazione di procedure scritte e di altri documenti nonché le loro modifiche; 
 
-\-il monitoraggio ed il controllo dell'ambiente di fabbricazione; 
+ii. il monitoraggio ed il controllo dell'ambiente di fabbricazione; 
 
-\-l'igiene degli impianti; 
+iii. l'igiene degli impianti; 
 
-\-la convalida dei processi; 
+iv. la convalida dei processi; 
 
-\-l'addestramento e la formazione; 
+v. l'addestramento e la formazione; 
 
-\-l'approvazione ed il controllo dei forni tori di materiali; 
+vi. l'approvazione ed il controllo dei forni tori di materiali; 
 
-\-l'approvazione ed il controllo degli appaltatori; 
+vii. l'approvazione ed il controllo degli appaltatori; 
 
-\-la designazione ed il controllo delle condizioni di stoccaggio per materiali e prodotti; 
+viii. la designazione ed il controllo delle condizioni di stoccaggio per materiali e prodotti; 
 
-\-la conservazione dei documenti; 
+ix. la conservazione dei documenti; 
 
-\-il monitoraggio della conformità alle Norme di Buona Fabbricazione; 
+x. il monitoraggio della conformità alle Norme di Buona Fabbricazione; 
 
-\-le operazioni d'ispezione, indagine e campionamento volte a tener sotto controllo i fattori che possono influenzare la qualità del prodotto. 
+xi. le operazioni d'ispezione, indagine e campionamento volte a tener sotto controllo i fattori che possono influenzare la qualità del prodotto. 
 
 Addestramento e formazione del personale 
 
@@ -125,3 +125,7 @@ Tali procedure dovranno essere comprese e seguite rigorosamente da ogni persona 
 2.19 Il personale dovrà essere istruito sulle modalità di lavaggio delle mani. 
 
 2.20 Qualunque requisito specifico per la fabbricazione di particolari prodotti (ad es. preparati sterili) è riportato negli Annex.
+
+## Consulenti
+
+2.23 I consulenti devono avere un'istruzione, una formazione e un'esperienza adeguate, o una qualsiasi combinazione di questi, per fornire consulenza sull'argomento per il quale sono stati mantenuti. Le registrazioni dovrebbero essere mantenute indicando il nome, l'indirizzo, le qualifiche e il tipo di servizio fornito da questi consulenti.
