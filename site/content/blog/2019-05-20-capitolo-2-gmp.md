@@ -30,11 +30,13 @@ La corretta fabbricazione di medicinali dipende dalle persone. Per questo motivo
 
 a) per i medicinali fabbricati nella Comunità Europea una Persona Qualificata deve garantire che ogni lotto sia stato prodotto e controllato in accordo alle leggi in vigore in quegli Stati Membri e in accordo con i requisiti dell'Autorizzazione all'Immissione in Commercio (2);
 
-(b) per i medicinali fabbricati al di fuori della Comunità Europea una Persona Qualificata deve garantire che ogni lotto importato sia stato sottoposto nel paese d'importazione alle analisi di cui al paragrafo 1, lettera b) dell'articolo 51; 
+(b) nel caso di medicinali provenienti da paesi terzi, indipendentemente dal fatto che il prodotto sia stato fabbricato nell'Unione Europea, una Persona Qualificata deve garantire che ogni lotto di produzione sia stato sottoposto in uno Stato membro a un'analisi qualitativa completa, un'analisi quantitativa di almeno le sostanze attive e tutte le altre prove o controlli necessari per garantire la qualità dei medicinali conformemente ai requisiti dell'autorizzazione all'immissione in commercio. La Persona Qualificata deve certificare in un registro o equivalente documento, man mano che vengono effettuate le operazioni e prima di ogni rilascio, che ciascun lotto di produzione soddisfi le disposizioni dell'articolo 51.
 
-(c) durante lo svolgimento delle operazioni e prima che il prodotto venga comunque rilasciato una Persona Qualificata deve certificare in un registro od in un documento equivalente che ogni lotto di produzione ottempera a quanto disposto dall'articolo 51. 
+Le persone responsabili di tali mansioni devono soddisfare i requisiti di qualifica stabiliti dall'articolo 493 della stessa Direttiva, devono essere permanentemente e continuamente a disposizione del titolare dell'autorizzazione di fabbricazione per svolgere le proprie responsabilità.
 
-I responsabili di questi compiti devono soddisfare i requisiti in materia di qualifiche stabilite dall'articolo 49 (3) della stessa direttiva, ed essere con continuità ed in permanenza a disposizione del titolare dell'autorizzazione alla fabbricazione per svolgere quanto di loro competenza. Tali compiti possono essere delegati ma unicamente ad altre Persone Qualificate. 
+Le responsabilità di una Persona Qualificata possono essere delegate, ma solo ad altre Persone Qualificate.
+
+La guida sul ruolo della Persona Qualificata è fornita nell'Annex 16.
 
 2.7 Al Responsabile di Produzione competono in genere le seguenti responsabilità: 
 
@@ -42,9 +44,9 @@ i. garantire che i medicinali vengano prodotti e stoccati conformemente a quanto
 
 ii. approvare le istruzioni riguardanti le operazioni produttive e garantirne il rispetto rigoroso; 
 
-iii. garantire che i dati registrati relativi alla produzione siano valutati e firmati da una persona autorizzata prima di essere inviati al reparto Controllo Qualità; 
+iii. garantire che i dati registrati relativi alla produzione siano valutati e firmati da una persona autorizzata; 
 
-iv. verificare lo stato di efficienza del proprio reparto, dei locali e delle attrezzature e curarne la manutenzione; 
+iv. garantire la qualifica e la manutenzione del proprio dipartimento, locali e attrezzature;
 
 v. garantire che vengano effettuate le convalide del caso; 
 
@@ -52,9 +54,7 @@ vi. garantire che l'addestramento, tanto iniziale quanto continuo, del personale
 
 2.8 Al Responsabile del Controllo Qualità competono in genere le seguenti responsabilità: 
 
-i. approvare o rifiutare, a seconda del suo giudizio, le materie prime, i materiali da confezionamento ed i prodotti semilavorati, sfusi e finiti; 
-
-(3) Articolo 53 della Direttiva 2001/82/EC 
+i. approvare o rifiutare, a seconda del suo giudizio, materie prime, materiali di confezionamento, intermedi, bulk e prodotti finiti; 
 
 ii. valutare i dati registrati per i vari lotti di prodotto nel rendiconto di produzione; 
 
@@ -135,5 +135,7 @@ Tali procedure dovranno essere comprese e seguite rigorosamente da ogni persona 
 (1) Articolo 55 della direttiva 2001/82/EC 
 
 (2) Conformemente alla direttiva 75/319/CEE (ora Direttiva 2001/83/EC) della Corte di giustizia delle Comunità europee nella causa 247/81 i medicinali che siano stati adeguatamente controllati nella CEE da una Persona Qualificata non devono essere nuovamente controllati o verificati da un altro Stato membro della Comunità. 
+
+(3) Articolo 53 della Direttiva 2001/82/EC 
 
 [EudraLex - The Rules Governing Medicinal Products in the European Union - Volume 4 - EU Guidelines for Good Manufacturing Practice for Medicinal Products for Human and Veterinary Use - Part 1 - Chapter 2: Personnel](https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-4/2014-03_chapter_2.pdf)
