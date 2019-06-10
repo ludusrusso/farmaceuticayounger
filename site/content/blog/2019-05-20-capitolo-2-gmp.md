@@ -4,19 +4,19 @@ tags:
   - cgmp
 date: '2019-07-10T09:04:00+02:00'
 ---
-Capitolo 2 - Personale 
+## Capitolo 2 - Personale 
 
-Principi 
+## Principi 
 
 La costituzione ed il mantenimento di un sistema di Gestione di Qualità soddisfacente, al pari della corretta fabbricazione di medicinali, dipende dalle persone; per questo motivo è necessario poter disporre di personale qualificato in numero sufficiente per svolgere tutti i compiti che ricadono sotto la responsabilità del fabbricante. Le responsabilità individuali dovrebbero essere chiaramente portate a conoscenza delle singole persone e definite per iscritto; tutto il personale dovrebbe essere a conoscenza dei principi delle GMP per gli aspetti che lo riguardano e ricevere una formazione tanto iniziale quanto continua commisurata alle proprie esigenze e comprensivo delle istruzioni sugli aspetti igienici. 
 
-Aspetti generali
+## Aspetti generali
 
 2.1 Il fabbricante dovrà impiegare un numero adeguato di persone in possesso delle qualifiche e dell'esperienza pratica necessarie. Il carico delle responsabilità attribuite a ciascun individuo non dovranno essere tali da comportare rischi per la qualità. 
 
 2.2 Il fabbricante dovrà avere un organigramma. Le persone in posizioni di responsabilità dovranno avere incarichi specifici, definiti per iscritto con la descrizione delle relative mansioni, ed un'autorità adeguata per poterli svolgere. Esse potranno delegare i propri compiti a persone che dispongano di qualifiche soddisfacenti; non dovranno esserci lacune o sovrapposizioni ingiustificate nelle responsabilità del personale relativamente · all'applicazione delle GMP. 
 
-Personale Direttivo 
+## Personale Direttivo 
 
 2.3 Il Personale Direttivo comprende il Responsabile della Produzione, il Responsabile del Controllo Qualità e, qualora la responsabilità per i compiti di cui all'articolo 51 della direttiva 2001/83/EC (1) non competa ad almeno una delle persone precedentemente nominate, la o le Persone Qualificate designate a tale scopo. Di norma il Personale Direttivo dovrebbe svolgere i propri compiti a tempo pieno; il Responsabile della Produzione e quello del Controllo Qualità dovranno essere indipendenti l'uno dall'altro. Nelle aziende di maggiori dimensioni può rivelarsi necessario delegare alcune delle funzioni di cui ai punti 2.5, 2.6, e 2.7. 
 
@@ -106,7 +106,7 @@ Addestramento e formazione del personale
 
 2.12 Il concetto di Garanzia di Qualità e tutte le misure in grado di migliorarne la comprensione e l'attuazione devono essere discussi esaurientemente nel corso delle sedute di addestramento e formazione. 
 
-Igiene del personale 
+## Igiene del personale 
 
 2.13 All'interno del sito di produzione si dovranno definire programmi particolareggiati in materia di igiene adattandoli alle diverse esigenze riscontrate. Essi dovranno comprendere le procedure riguardanti la salute, le norme di igiene e gli indumenti. 
 
