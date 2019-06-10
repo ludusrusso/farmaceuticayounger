@@ -46,7 +46,7 @@ ii. approvare le istruzioni riguardanti le operazioni produttive e garantirne il
 
 iii. garantire che i dati registrati relativi alla produzione siano valutati e firmati da una persona autorizzata; 
 
-iv. garantire la qualifica e la manutenzione del proprio dipartimento, locali e attrezzature;
+iv. garantire la qualifica e la manutenzione del proprio reparto, dei locali e delle attrezzature;
 
 v. garantire che vengano effettuate le convalide del caso; 
 
@@ -56,37 +56,39 @@ vi. garantire che l'addestramento, tanto iniziale quanto continuo, del personale
 
 i. approvare o rifiutare, a seconda del suo giudizio, materie prime, materiali di confezionamento, intermedi, bulk e prodotti finiti; 
 
-ii. valutare i dati registrati per i vari lotti di prodotto nel rendiconto di produzione; 
+ii. garantire che vengano eseguiti tutti i test necessari e valutati i record associati;
 
 iii. garantire che vengano effettuate tutte le analisi necessarie; 
 
 iv. approvare le specifiche, le istruzioni per il campionamento, i metodi di prova e le altre procedure di Controllo Qualità; 
 
-v. approvare i laboratori esterni in conto terzi e monitorare il lavoro; 
+v. approvare e monitorare eventuali analisti contrattuali; 
 
-vi. verificare lo stato di efficienza del proprio reparto, dei locali e delle apparecchiature e curarne la manutenzione; 
+vi. garantire la qualifica e la manutenzione del proprio reparto, dei locali e delle attrezzature;
 
 vii. garantire che vengano effettuate le convalide del caso; 
 
-viii.garantire che l'addestramento, tanto iniziale quanto continuo, del personale del reparto venga effettuato ed adattato alle esigenze. 
+viii. garantire che l'addestramento, tanto iniziale quanto continuo, del personale del reparto venga effettuato ed adattato alle esigenze. 
 
-Altri compiti del reparto Controllo Qualità sono riepilogati nel capitolo 6. 
+Altri compiti del reparto Controllo Qualità sono riepilogati nel Capitolo 6. 
 
-2.9 Di norma i Responsabili della Produzione e del Controllo Qualità condividono la responsabilità di alcuni compiti relativi alla qualità o li svolgono congiuntamente. Fra tali compiti potranno rientrare, a seconda della normativa nazionale: 
+2.9 I Responsabili della Produzione e del Controllo Qualità e, se del caso, il Responsabile dell'Assicurazione Qualità o della Quality Unit, condividono la responsabilità di alcuni compiti relativi alla qualità o li svolgono congiuntamente compresi in particolare la progettazione, l'effettiva attuazione, il monitoraggio e la manutenzione del sistema di gestione della qualità.
 
-i. l'autorizzazione di procedure scritte e di altri documenti nonché le loro modifiche; 
+Fra tali compiti potranno rientrare, a seconda della normativa nazionale: 
 
-ii. il monitoraggio ed il controllo dell'ambiente di fabbricazione; 
+i. l'autorizzazione di procedure scritte e di altri documenti, compresi gli emendamenti; 
+
+ii. il monitoraggio ed il controllo dell'ambiente di produzione; 
 
 iii. l'igiene degli impianti; 
 
 iv. la convalida dei processi; 
 
-v. l'addestramento e la formazione; 
+v. il training; 
 
-vi. l'approvazione ed il controllo dei forni tori di materiali; 
+vi. l'approvazione ed il controllo dei fornitori di materiali; 
 
-vii. l'approvazione ed il controllo degli appaltatori; 
+vii. l'approvazione e il monitoraggio dei produttori e dei fornitori di contratti (contract manufacturing) di altre attività in outsourcing GMP correlate; 
 
 viii. la designazione ed il controllo delle condizioni di stoccaggio per materiali e prodotti; 
 
