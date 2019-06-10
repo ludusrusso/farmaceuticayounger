@@ -94,9 +94,13 @@ viii. la designazione ed il controllo delle condizioni di stoccaggio per materia
 
 ix. la conservazione dei documenti; 
 
-x. il monitoraggio della conformità alle Norme di Buona Fabbricazione; 
+x. il monitoraggio della conformità ai requisiti delle GMP; 
 
 xi. le operazioni d'ispezione, indagine e campionamento volte a tener sotto controllo i fattori che possono influenzare la qualità del prodotto. 
+
+xii. partecipazione alle revisioni della gestione delle prestazioni del processo, della qualità del prodotto e del sistema di gestione di qualità e sostenendo il miglioramento continuo;
+
+xiii. garantire che esista un processo di comunicazione ed escalation tempestivo ed efficace per sollevare problemi di qualità ai livelli appropriati di gestione.
 
 ## Addestramento e formazione del personale
 
