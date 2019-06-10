@@ -2,7 +2,7 @@
 title: GMP - Capitolo 2
 tags:
   - cgmp
-date: '2019-05-20T17:04:26+02:00'
+date: '2019-07-10T09:04:00+02:00'
 ---
 Capitolo 2 - Personale 
 
