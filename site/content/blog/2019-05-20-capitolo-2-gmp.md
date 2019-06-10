@@ -1,20 +1,20 @@
 ---
-title: Capitolo 2 - GMP
+title: GMP - Capitolo 2
 tags:
-  - articoli
+  - cgmp
 date: '2019-05-20T17:04:26+02:00'
 ---
-Capitolo 2 -Personale 
+Capitolo 2 - Personale 
 
 Principi 
 
-La costituzione ed il mantenimento di un sistema di Garanzia di Qualità soddisfacente, al pari della corretta fabbricazione di medicinali, dipende dalle persone; per questo motivo è necessario poter disporre di personale qualificato in numero sufficiente per svolgere tutti i compiti che ricadono sotto la responsabilità del fabbricante. Le responsabilità individuali dovrebbero essere chiaramente portate a conoscenza delle singole persone e definite per iscritto; tutto il personale dovrebbe essere a conoscenza dei principi delle NBF per gli aspetti che lo riguardano e ricevere una formazione tanto iniziale quanto continua commisurata alle proprie esigenze e comprensivo delle istruzioni sugli aspetti igienici. 
+La costituzione ed il mantenimento di un sistema di Gestione di Qualità soddisfacente, al pari della corretta fabbricazione di medicinali, dipende dalle persone; per questo motivo è necessario poter disporre di personale qualificato in numero sufficiente per svolgere tutti i compiti che ricadono sotto la responsabilità del fabbricante. Le responsabilità individuali dovrebbero essere chiaramente portate a conoscenza delle singole persone e definite per iscritto; tutto il personale dovrebbe essere a conoscenza dei principi delle GMP per gli aspetti che lo riguardano e ricevere una formazione tanto iniziale quanto continua commisurata alle proprie esigenze e comprensivo delle istruzioni sugli aspetti igienici. 
 
 Aspetti generali
 
-2.1 Il fabbricante dovrà impiegare un numero adeguato di persone in µossesso delle qualifiche e dell'esperienza pratica necessarie. Il carico delle responsabilità attribuite a ciascun individuo non dovranno essere tali da comportare rischi per la qualità. 
+2.1 Il fabbricante dovrà impiegare un numero adeguato di persone in possesso delle qualifiche e dell'esperienza pratica necessarie. Il carico delle responsabilità attribuite a ciascun individuo non dovranno essere tali da comportare rischi per la qualità. 
 
-2.2 Il fabbricante dovrà avere un organigramma. Le persone in posizioni di responsabilità dovranno avere incarichi specifici, definiti per iscritto con la descrizione delle relative mansioni, ed un'autorità adeguata per poterli svolgere. Esse potranno delegare i propri compiti a persone che dispongano di qualifiche soddisfacenti; non dovranno esserci lacune o sovrapposizioni ingiustificate nelle responsabilità del personale relativamente · all'applicazione delle NBF. 
+2.2 Il fabbricante dovrà avere un organigramma. Le persone in posizioni di responsabilità dovranno avere incarichi specifici, definiti per iscritto con la descrizione delle relative mansioni, ed un'autorità adeguata per poterli svolgere. Esse potranno delegare i propri compiti a persone che dispongano di qualifiche soddisfacenti; non dovranno esserci lacune o sovrapposizioni ingiustificate nelle responsabilità del personale relativamente · all'applicazione delle GMP. 
 
 Personale Direttivo 
 
@@ -124,4 +124,4 @@ Tali procedure dovranno essere comprese e seguite rigorosamente da ogni persona 
 
 2.19 Il personale dovrà essere istruito sulle modalità di lavaggio delle mani. 
 
-2.20 Qualunque requisito specifico per la fabbricazione di particolari prodotti (ad es. preparati sterili) è riportato negli Allegati.
+2.20 Qualunque requisito specifico per la fabbricazione di particolari prodotti (ad es. preparati sterili) è riportato negli Annex.
