@@ -96,7 +96,7 @@ x. il monitoraggio della conformità alle Norme di Buona Fabbricazione;
 
 xi. le operazioni d'ispezione, indagine e campionamento volte a tener sotto controllo i fattori che possono influenzare la qualità del prodotto. 
 
-Addestramento e formazione del personale 
+## Addestramento e formazione del personale 
 
 2.10 Il fabbricante dovrà provvedere all'addestramento e alla formazione di tutto il personale i cui incarichi comportino l'ingresso nelle zone di produzione o nei laboratori di controllo (personale tecnico, di manutenzione e di pulizia) nonché quella parte del personale le cui attività sono in grado di influire sulla  qualità del prodotto. 
 
@@ -130,8 +130,7 @@ Tali procedure dovranno essere comprese e seguite rigorosamente da ogni persona 
 
 ## Consulenti
 
-2.23 I consulenti devono avere un'istruzione, una formazione e un'esperienza adeguate, o una qualsiasi combinazione di questi, per fornire consulenza sull'argomento per il quale sono stati mantenuti.
- Le registrazioni dovrebbero essere mantenute indicando il nome, l'indirizzo, le qualifiche e il tipo di servizio fornito da questi consulenti.
+2.23 I consulenti devono avere un'istruzione, una formazione e un'esperienza adeguate, o una qualsiasi combinazione di questi, per fornire consulenza sull'argomento per il quale sono stati mantenuti. Le registrazioni dovrebbero essere mantenute indicando il nome, l'indirizzo, le qualifiche e il tipo di servizio fornito da questi consulenti.
 
 
 
