@@ -20,9 +20,9 @@ La corretta fabbricazione di medicinali dipende dalle persone. Per questo motivo
 
 2.4 Il senior management ha la responsabilità ultima di garantire che un efficace sistema di gestione di qualità sia messo in atto per raggiungere gli obiettivi di qualità e, che i ruoli, le responsabilità e le autorità siano definite, comunicate e implementate in tutta l'organizzazione. Il senior management dovrebbe stabilire una politica di qualità che descriva le intenzioni e la direzione dell'azienda relative alla qualità e dovrebbe garantire la continua idoneità e l'efficacia del sistema di gestione della qualità e della conformità alle GMP attraverso la partecipazione alla revisione della gestione.
 
-## Personale Direttivo 
+## Personale Chiave 
 
-2.5 Il Personale Direttivo comprende il Responsabile della Produzione, il Responsabile del Controllo Qualità e, qualora la responsabilità per i compiti di cui all'articolo 51 della direttiva 2001/83/EC (1) non competa ad almeno una delle persone precedentemente nominate, la o le Persone Qualificate designate a tale scopo. Di norma il Personale Direttivo dovrebbe svolgere i propri compiti a tempo pieno; il Responsabile della Produzione e quello del Controllo Qualità dovranno essere indipendenti l'uno dall'altro. Nelle aziende di maggiori dimensioni può rivelarsi necessario delegare alcune delle funzioni di cui ai punti 2.5, 2.6, e 2.7. 
+2.5 Il Senior Management comprende il Responsabile della Produzione, il Responsabile del Controllo Qualità e, qualora la responsabilità per i compiti di cui all'articolo 51 della direttiva 2001/83/EC (1), un adeguato numero, non competa ad almeno una delle persone precedentemente nominate, la o le Persone Qualificate designate a tale scopo. Di norma il Personale Direttivo dovrebbe svolgere i propri compiti a tempo pieno; il Responsabile della Produzione e quello del Controllo Qualità dovranno essere indipendenti l'uno dall'altro. Nelle aziende di maggiori dimensioni può rivelarsi necessario delegare alcune delle funzioni di cui ai punti 2.5, 2.6, e 2.7. 
 
 2.6 I compiti delle Persone Qualificate sono descritti esaurientemente all'articolo 51 della direttiva 2001/83/EC e possono riassumersi nel modo seguente: 
 
