@@ -123,21 +123,21 @@ xiii. garantire che esista un processo di comunicazione ed escalation tempestivo
 
 2.16 All'atto dell'assunzione ogni nuovo dipendente dovrà essere sottoposto ad esame medico. Spetta al fabbricante la responsabilità di redigere istruzioni tali da garantire che vengano portate a sua conoscenza condizioni di salute che possano essere rilevanti per la qualità del prodotto. Dopo il primo esame medico se ne dovranno effettuare altri quando necessario per il lavoro e la salute personale. 
 
-2.17 È necessario adottare misure per garantire, per quanto possibile, che nessuna persona affetta da una malattia infettiva o che abbia lesioni aperte sulla superficie esposta del corpo che alla fabbricazione di prodotti farmaceutici non prenda parte nessuna persona colpita da malattia infettiva o con ferite aperte sulla superficie esposta del corpo. 
+2.17 È necessario adottare misure per garantire, per quanto possibile, che nessuna persona affetta da una malattia infettiva o che abbia lesioni aperte sulla superficie esposta del corpo non prenda parte alla fabbricazione di prodotti medicinali. 
 
-2.18 Chiunque entri nelle aree di fabbricazione dovrà indossare indumenti protettivi adeguati alle operazioni da svolgere. 
+2.18 Ogni persona che entra nelle aree di produzione dovrebbe indossare indumenti protettivi adeguati alle operazioni da svolgere. 
 
-2.19 Nelle zone di fabbricazione e stoccaggio è proibito mangiare, bere, masticare gomma o fumare, ovvero depositare alimenti, bevande, articoli per fumatori o medicamenti personali. In generale dovrà essere proibita qualunque prassi non igienica nelle zone di fabbricazione e in qualunque altra zona in cui si possano avere conseguenze negative per il prodotto. 
+2.19 Nelle zone di fabbricazione e stoccaggio è proibito mangiare, bere, masticare gomma o fumare, o depositare alimenti, bevande, articoli per fumatori o medicamenti personali. In generale dovrebbe essere proibita qualunque prassi non igienica nelle zone di produzione e in qualunque altra zona in cui si possano avere conseguenze negative per il prodotto. 
 
-2.20 Le mani dell'operatore non dovranno entrare in contatto diretto con il prodotto esposto ovvero con qualsiasi parte dell'attrezzatura che venga in contatto con i prodotti. 
+2.20 Le mani dell'operatore non dovrebbero entrare in contatto diretto con il prodotto esposto ovvero con qualsiasi parte dell'attrezzatura che venga in contatto con i prodotti. 
 
-2.21 Il personale dovrà essere istruito sulle modalità di lavaggio delle mani. 
+2.21 Il personale dovrebbe essere istruito sulle modalità di lavaggio delle mani. 
 
-2.22 Qualunque requisito specifico per la fabbricazione di particolari prodotti (ad es. preparati sterili) è riportato negli Annex.
+2.22 Qualunque requisito specifico per la produzione di speciali gruppi di prodotti, ad es. preparazioni sterili, è riportato negli Annex.
 
 ## Consulenti
 
-2.23 I consulenti devono avere un'istruzione, una formazione e un'esperienza adeguate, o una qualsiasi combinazione di questi, per fornire consulenza sull'argomento per il quale sono stati mantenuti. Le registrazioni dovrebbero essere mantenute indicando il nome, l'indirizzo, le qualifiche e il tipo di servizio fornito da questi consulenti.
+2.23 I consulenti devono avere un'istruzione, una formazione e un'esperienza adeguate, o una qualsiasi combinazione di questi, per fornire consulenza sull'argomento per il quale sono stati ingaggiati. Le registrazioni dovrebbero essere mantenute indicando il nome, l'indirizzo, le qualifiche e il tipo di servizio fornito da questi consulenti.
 
 (1) Articolo 55 della direttiva 2001/82/EC 
 
