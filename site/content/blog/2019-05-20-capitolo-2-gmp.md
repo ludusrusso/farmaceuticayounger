@@ -139,9 +139,9 @@ xiii. garantire che esista un processo di comunicazione ed escalation tempestivo
 
 2.23 I consulenti devono avere un'istruzione, una formazione e un'esperienza adeguate, o una qualsiasi combinazione di questi, per fornire consulenza sull'argomento per il quale sono stati ingaggiati. Le registrazioni dovrebbero essere mantenute indicando il nome, l'indirizzo, le qualifiche e il tipo di servizio fornito da questi consulenti.
 
-(1) Articolo 55 della direttiva 2001/82/EC 
+(1) Articolo 55 della Direttiva 2001/82/EC 
 
-(2) Conformemente alla direttiva 75/319/CEE (ora Direttiva 2001/83/EC) della Corte di giustizia delle Comunità europee nella causa 247/81 i medicinali che siano stati adeguatamente controllati nella CEE da una Persona Qualificata non devono essere nuovamente controllati o verificati da un altro Stato membro della Comunità. 
+(2) Ai sensi dell'articolo 51, paragrafo 1, della direttiva 2001/83 / CE), i lotti di medicinali che contengono i controlli effettuati in uno Stato membro sono esenti dai controlli se sono commercializzati in un altro Stato membro, accompagnati dalle relazioni di controllo firmate dalla Persona Qualificata.
 
 (3) Articolo 53 della Direttiva 2001/82/EC 
 
