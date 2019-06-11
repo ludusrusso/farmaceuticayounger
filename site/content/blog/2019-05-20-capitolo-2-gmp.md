@@ -30,7 +30,8 @@ La corretta fabbricazione di medicinali dipende dalle persone. Per questo motivo
 
 a) per i medicinali fabbricati nella Comunità Europea una Persona Qualificata deve garantire che ogni lotto sia stato prodotto e controllato in accordo alle leggi in vigore in quegli Stati Membri e in accordo con i requisiti dell'Autorizzazione all'Immissione in Commercio (2);
 
-(b) nel caso di medicinali provenienti da paesi terzi, indipendentemente dal fatto che il prodotto sia stato fabbricato nell'Unione Europea, una Persona Qualificata deve garantire che ogni lotto di produzione sia stato sottoposto in uno Stato membro a un'analisi qualitativa completa, un'analisi quantitativa di almeno le sostanze attive e tutte le altre prove o controlli necessari per garantire la qualità dei medicinali conformemente ai requisiti dell'autorizzazione all'immissione in commercio. La Persona Qualificata deve certificare in un registro o equivalente documento, man mano che vengono effettuate le operazioni e prima di ogni rilascio, che ciascun lotto di produzione soddisfi le disposizioni dell'articolo 51.
+(b) nel caso di medicinali provenienti da paesi terzi, indipendentemente dal fatto che il prodotto sia stato fabbricato nell'Unione Europea, una Persona Qualificata deve garantire che ogni lotto di produzione sia stato sottoposto in uno Stato membro a un'analisi qualitativa completa, un'analisi quantitativa di almeno le sostanze attive e tutte le altre prove o controlli necessari per garantire la qualità dei medicinali conformemente ai requisiti dell'autorizzazione all'immissione in commercio. La Persona Qualificata deve certificare in un registro o equivalente
+ documento, man mano che vengono effettuate le operazioni e prima di ogni rilascio, che ciascun lotto di produzione soddisfi le disposizioni dell'articolo 51.
 
 Le persone responsabili di tali mansioni devono soddisfare i requisiti di qualifica stabiliti dall'articolo 493 della stessa Direttiva, devono essere permanentemente e continuamente a disposizione del titolare dell'autorizzazione di fabbricazione per svolgere le proprie responsabilità.
 
@@ -72,7 +73,8 @@ viii. garantire che l'addestramento, tanto iniziale quanto continuo, del persona
 
 Altri compiti del reparto Controllo Qualità sono riepilogati nel Capitolo 6. 
 
-2.9 I Responsabili della Produzione e del Controllo Qualità e, se del caso, il Responsabile dell'Assicurazione Qualità o della Quality Unit, condividono la responsabilità di alcuni compiti relativi alla qualità o li svolgono congiuntamente compresi in particolare la progettazione, l'effettiva attuazione, il monitoraggio e la manutenzione del sistema di gestione della qualità.
+2.9 I Responsabili della Produzione e del Controllo Qualità e, se del caso, il Responsabile dell'Assicurazione Qualità o della Quality Unit, condividono la responsabilità di alcuni compiti relativi alla qualità o li svolgono congiuntamente compresi in particolare la progettazione, l'effettiva attuazione, il monitoraggio e
+ la manutenzione del sistema di gestione della qualità.
 
 Fra tali compiti potranno rientrare, a seconda della normativa nazionale: 
 
@@ -98,31 +100,30 @@ x. il monitoraggio della conformità ai requisiti delle GMP;
 
 xi. le operazioni d'ispezione, indagine e campionamento volte a tener sotto controllo i fattori che possono influenzare la qualità del prodotto. 
 
-xii. partecipazione alle revisioni della gestione delle prestazioni del processo, della qualità del prodotto e del sistema di gestione di qualità e sostenendo il miglioramento continuo;
+xii. partecipazione alle revisioni della gestione delle prestazioni del processo, della qualità del prodotto e del sistema di gestione di qualità e sostenendo il miglioramento continuo;
 
-xiii. garantire che esista un processo di comunicazione ed escalation tempestivo ed efficace per sollevare problemi di qualità ai livelli appropriati di gestione.
+xiii. garantire che esista un processo di comunicazione ed escalation tempestivo ed efficace
+ per sollevare problemi di qualità ai livelli appropriati di gestione.
 
-## Addestramento e formazione del personale
+## Training
 
-2.10 Il fabbricante dovrà provvedere all'addestramento e alla formazione di tutto il personale i cui incarichi comportino l'ingresso nelle zone di produzione o nei laboratori di controllo (personale tecnico, di manutenzione e di pulizia) nonché quella parte del personale le cui attività sono in grado di influire sulla  qualità del prodotto. 
+2.10 Il fabbricante dovrà provvedere all'addestramento e alla formazione (training) di tutto il personale i cui incarichi comportino l'ingresso nelle zone di produzione e di stoccaggio o nei laboratori di controllo (incluso il personale tecnico, di manutenzione e di pulizia) nonché quella parte del personale le cui attività sono in grado di influire sulla qualità del prodotto. 
 
-2.11 Oltre alla formazione di base riguardante la teoria e la pratica delle NBF il personale di nuova assunzione dovrà ricevere un adeguato addestramento ai compiti ad esso assegnati. Occorre anche prevedere una formazione continua, la cui efficacia pratica dovrà essere valutata periodicamente. Dovranno essere previsti programmi di formazione ed addestramento approvati a seconda dei casi dal Responsabile della Produzione o da quello del Controllo Qualità. I risultati dell'addestramento e della formazione dovranno essere documentati. 
+2.11 Oltre alla formazione di base riguardante la teoria e la pratica del sistema di gestione di qualità e delle GMP, il personale di nuova assunzione dovrà ricevere un adeguato addestramento ai compiti ad esso assegnati. Occorre anche prevedere una formazione continua, la cui efficacia pratica dovrà essere valutata periodicamente. Dovranno essere previsti programmi di formazione ed addestramento approvati a seconda dei casi dal Responsabile della Produzione o da quello del Controllo Qualità. I risultati dell'addestramento e della formazione dovranno essere documentati. 
 
-2.12 Al personale che operi nelle aree in cui vi sia rischio di contaminazione (ad es.: aree controllate o aree in cui vengono manipolate sostanze molto attive, tossiche, infettive o sensibilizzanti) dovrà essere impartito un addestramento specifico. 
+2.12 Al personale che opera in aree in cui vi sia rischio di contaminazione, ad es.: aree controllate o aree in cui vengono manipolate sostanze molto attive, tossiche, infettive o sensibilizzanti, dovrà essere impartito un addestramento specifico. 
 
-2.13 I visitatori ed il personale non qualificato non dovranno, in linea di massima, essere ammessi nelle zone di produzione e di Controllo Qualità. Qualora sia inevitabile farli accedere a tali zone essi dovranno essere informati in anticipo, in particolare per quanto riguarda l'igiene personale e gli indumenti protettivi prescritti. Le persone in questione dovranno essere sorvegliate da vicino. 
+2.13 I visitatori ed il personale non qualificato non dovranno, in linea di massima, essere ammessi nelle zone di produzione e di Controllo Qualità. Qualora sia inevitabile farli accedere a tali zone essi dovranno essere informati in anticipo, in particolare per quanto riguarda l'igiene personale e gli indumenti protettivi prescritti. Le persone in questione dovranno essere strettamente sorvegliate. 
 
-2.14 Il concetto di gestione di Qualità e tutte le misure in grado di migliorarne la comprensione e l'attuazione devono essere discussi esaurientemente nel corso delle sedute di addestramento e formazione. 
+2.14 Il sistema di qualità farmaceutico e tutte le misure in grado di migliorarne la sua comprensione e attuazione devono essere discusse esaurientemente nel corso delle sedute di training.
 
 ## Igiene del personale
 
-2.15 All'interno del sito di produzione si dovranno definire programmi particolareggiati in materia di igiene adattandoli alle diverse esigenze riscontrate. Essi dovranno comprendere le procedure riguardanti la salute, le norme di igiene e gli indumenti. 
+2.15 All'interno del sito di produzione si dovranno definire programmi particolareggiati in materia di igiene adattandoli alle diverse esigenze riscontrate. Essi dovranno comprendere le procedure riguardanti la salute, le norme di igiene e gli indumenti del personale. Tali procedure dovranno essere comprese e seguite rigorosamente da ogni persona i cui compiti comportino l'accesso nella zona di produzione ed in quelle di controllo. I programmi in materia d'igiene dovranno essere promossi dalla dirigenza ed ampiamente discussi nel corso delle sedute di training.
 
-Tali procedure dovranno essere comprese e seguite rigorosamente da ogni persona i cui compiti comportino l'accesso nella zona di produzione ed in quelle di controllo. I programmi in materia d'igiene dovranno essere promossi dalla dirigenza ed ampiamente discussi nel corso delle sedute di addestramento e formazione. 
+2.16 All'atto dell'assunzione ogni nuovo dipendente dovrà essere sottoposto ad esame medico. Spetta al fabbricante la responsabilità di redigere istruzioni tali da garantire che vengano portate a sua conoscenza condizioni di salute che possano essere rilevanti per la qualità del prodotto. Dopo il primo esame medico se ne dovranno effettuare altri quando necessario per il lavoro e la salute personale. 
 
-2.16 All'atto dell'assunzione ogni nuovo dipendente dovrà essere sottoposto ad esame medico. Spetta al fabbricante la responsabilità di redigere istruzioni tali da garantire che vengano portate a sua conoscenza condizioni di salute potenzialmente importanti. Dopo il primo esame medico se ne dovranno effettuare altri quando ciò sia necessario per il lavoro e la salute personale. 
-
-2.17 Nei limiti del possibile si dovrà provvedere a garantire che alla fabbricazione di prodotti farmaceutici non prenda parte nessuna persona colpita da malattia infettiva o con ferite aperte sulla superficie esposta del corpo. 
+2.17 È necessario adottare misure per garantire, per quanto possibile, che nessuna persona affetta da una malattia infettiva o che abbia lesioni aperte sulla superficie esposta del corpo che alla fabbricazione di prodotti farmaceutici non prenda parte nessuna persona colpita da malattia infettiva o con ferite aperte sulla superficie esposta del corpo. 
 
 2.18 Chiunque entri nelle aree di fabbricazione dovrà indossare indumenti protettivi adeguati alle operazioni da svolgere. 
 
