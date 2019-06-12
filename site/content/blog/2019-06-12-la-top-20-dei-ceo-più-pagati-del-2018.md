@@ -93,15 +93,50 @@ Dopo aver guadagnato un pacchetto retributivo di 21,27 milioni di dollari l'anno
 
 ll pacchetto retributivo totale di Frazier (PDF) di $ 20,9 milioni includeva non solo un aumento del salario del 2% a $ 1,61 milioni, ma aumenta anche le sue azioni e i premi per le opzioni, così come i suoi benefici del piano di incentivi in ​​contanti. Frazier è stato ricompensato profumatamente per la performance di Merck, che lo scorso anno è stata guidata in gran parte dal blockbuster di immuno-oncologia Keytruda. Le sue vendite sono quasi raddoppiate a $ 7,17 miliardi, in quanto Merck ha aggiunto le approvazioni della FDA per il farmaco nel carcinoma della cervice, nel carcinoma a cellule di Merkel e nel linfoma a grandi cellule B primario mediastinico. La performance di Keytruda ha contribuito a spingere le vendite totali dell'azienda del 5% nel 2018 a 42,3 miliardi di dollari, una crescita alimentata anche dalla forte domanda di vaccino e prodotti per la salute degli animali. Il consiglio ha riconosciuto Frazier per aver guidato l'azienda durante questo periodo di crescita, aumentando il suo premio di incentivo a lungo termine di $ 500.000, che ha portato il valore totale del suo pacchetto di sussidi a $ 13 milioni. La società ha aumentato il pacchetto di compensazione diretta totale di Frazier del 3,6%. Frazier ha lavorato sodo per diversificare il gasdotto Merck oltre Keytruda, e verso questa fine, la società ha firmato 60 accordi nel 2018. Ha formato un patto di 5,76 miliardi di dollari con Eisai per sviluppare la medicina del cancro Lenvima, ad esempio, e ha pagato $ 394 milioni per acquistare Viralytics , uno sviluppatore di virus progettati per uccidere il cancro.
 
-1. Alex Gorsky, Johnson & Johnson
-2. Paul Campanelli, Endo
-3. Ian Read, Pfizer
-4. Giovanni Caforio, Bristol-Myers Squibb
-5. Jeffrey Leiden, Vertex Pharmaceuticals
-6. Robert Bradway, Amgen
-7. Clay Siegall, Seattle Genetics
-8. David Ricks, Eli Lilly
-9. Richard Pops, Alkermes
-10. Ludwig Hantson, Alexion Pharmaceuticals
-11. Mark Alles, Celgene
-12. Michel Vounatsos, Biogen
+1. 9. Alex Gorsky, Johnson & Johnson
+   2018 pay: $20.10 million
+   2017 pay: $29.80 million
+   Change: -32%
+
+![](/img/johnson-johnson.jpg)
+
+CEO Alex Gorsky ha visto ancora il suo calo dei salari, e non solo un po '. Gorsky ha pagato un taglio salariale di $ 9 milioni oltre a $ 20,1 milioni da $ 29,8 milioni nel 2017, con il suo valore pensionistico che subisce il peso del calo. Lo stipendio base di Gorsky, d'altro canto, è salito - se non di poco - dopo un anno in cui J & J ha superato gli obiettivi di crescita delle vendite e dell'EPS e raggiunto altri obiettivi strategici, tra cui il rafforzamento della pipeline e la creazione di valore attraverso operazioni di fusione e acquisizione. Ha registrato $ 1,64 milioni, con un incremento di $ 42.308.
+
+1. Paul Campanelli, Endo
+   2018 pay: $19.97 million
+   2017 pay: $13.60 million
+   Change: 46.8%
+
+![](/img/ceo-paul-campanelli-v2.jpg)
+
+Campanelli, che ha preso le redini del CEO a fine 2016, ha incassato $ 19,97 milioni nel 2018, rispetto ai $ 13,6 milioni dell'anno precedente. Quindi, per il 2018, la paga di Campanelli lo colloca sopra i capi di Big Pharma degli Stati Uniti Giovanni Caforio a Bristol-Myers Squibb e l'ex-CEO di Pfizer, Ian Read. Campanelli arrivò ad Endo per mezzo di Par Pharmaceutical, il produttore di generici Endo acquistato nel 2015. Poco dopo l'acquisizione, la concorrenza dei generatori statunitensi peggiorò, e il carico di debito di Endo -sostenuto in un affare simile alla Valeant sotto l'ex CEO di Rajiv De Silva- fu prendendo il suo pedaggio. Così, Campanelli ha avviato un piano di turnaround che ha focalizzato Endo su prodotti iniettabili sterili, "prodotti generici tecnicamente complessi e ad alta barriera" e farmaci mirati a ridurre il proprio debito.
+
+1. Ian Read, Pfizer
+   2018 pay: $19.55 million
+   2017 pay: $27.91 million
+   Change: -30%
+
+![](/img/pfizer.jpg)
+
+Nel 2017, il consiglio di amministrazione di Pfizer ha dato all'amministratore delegato Ian Read un massiccio aumento del salario del 61%, aumentando il suo compenso totale a $ 27,9 milioni nella speranza che non salisse la nave e si unisse a una compagnia rivale. Ma gran parte di questo pacchetto consisteva in incentivi basati su azioni, il cui valore è sceso lo scorso anno quando Read ha consegnato il CEO alle redini prima del previsto. Pfizer ha annunciato in ottobre che Read entrerebbe nel ruolo di presidente esecutivo, dando il posto all'amministratore delegato all'ex direttore generale Albert Bourla a gennaio di quest'anno. Con questa mossa, il risarcimento totale del 2018 di Read è stato ridotto del 30% poiché ha visto il suo premio di incentivi a lungo termine scendere del 38% a $ 8 milioni.
+
+1. Giovanni Caforio, Bristol-Myers Squibb 
+
+2018 pay: $19.38 million 
+
+2017 pay: $18.69 million 
+
+Change: 4% 
+
+![](/img/bms.jpg)
+
+Mentre Bristol-Myers Squibb spinge avanti con il suo megamerger Celgene, il drugmaker ha rivelato che il suo timoniere Giovanni Caforio ha portato a casa un aumento del 4% nel 2018 a $ 19,38 milioni. Mentre l'accordo porrà la società tra i massimi livelli di Big Pharma, per ora le retribuzioni di Caforio fuori dai primi 10. Il capo di Bristol-Myers ha vinto il suo aumento di stipendio nel 2018 grazie alla crescita delle vendite, alla crescita degli utili e ad altre vittorie, agli stati del deposito della procura della società, e nonostante la mancanza della compagnia contro alcuni dei suoi obiettivi di R & S. Il BMS "ha superato" gli obiettivi finanziari in settori chiave, tra cui la continua crescita dei nostri principali marchi prioritari ", ha affermato il procuratore e ha incassato $ 22,6 miliardi di entrate, con un incremento del 9%.
+
+1. Jeffrey Leiden, Vertex Pharmaceuticals
+2. Robert Bradway, Amgen
+3. Clay Siegall, Seattle Genetics
+4. David Ricks, Eli Lilly
+5. Richard Pops, Alkermes
+6. Ludwig Hantson, Alexion Pharmaceuticals
+7. Mark Alles, Celgene
+8. Michel Vounatsos, Biogen
