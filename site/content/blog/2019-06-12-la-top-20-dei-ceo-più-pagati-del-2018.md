@@ -17,22 +17,41 @@ Il CEO di Moderna, Bancel, si è invece classificato primo e ha superato tutti g
 Ecco la top 20 dei CEO delle aziende biofarmaceutiche più pagati del 2018:
 
 1. Stephane Bancel, Moderna Therapeutics
-2. Kare Schultz, Teva
-3. John Oyler, BeiGene
-4. Len Schleifer, Regeneron
-5. John Milligan, Gilead Sciences
-6. Nick Leschly, Bluebird Bio
-7. Richard Gonzalez, AbbVie
-8. Kenneth Frazier, Merck & Co.
-9. Alex Gorsky, Johnson & Johnson
-10. Paul Campanelli, Endo
-11. Ian Read, Pfizer
-12. Giovanni Caforio, Bristol-Myers Squibb
-13. Jeffrey Leiden, Vertex Pharmaceuticals
-14. Robert Bradway, Amgen
-15. Clay Siegall, Seattle Genetics
-16. David Ricks, Eli Lilly
-17. Richard Pops, Alkermes
-18. Ludwig Hantson, Alexion Pharmaceuticals
-19. Mark Alles, Celgene
-20. Michel Vounatsos, Biogen
+
+\    2018 pay: $58.60 million 
+
+\    2. Kare Schultz, Teva
+
+\    2018 pay: $32.47 million
+
+\    2017 pay: $17.03 million
+
+\    Change: 91%
+
+Il 2018 potrebbe essere stato il primo anno intero di lavoro del CEO di Teva Kåre Schultz, ma ciò non ha impedito alla società di concedergli un pacchetto di risarcimento che lo collocava nelle prime posizioni dei più pagati del settore farmaceutico. Il produttore di stupefacenti israeliano ha consegnato a Schultz un fantastico $ 32,5 milioni, quasi il doppio di quello che gli ha pagato nel 2017, e cinque volte quello che ha pagato il predecessore Erez Vigodman nel 2016. Quindi cosa ha fatto la differenza questa volta? Un bonus per la firma e uno grande per quello. Teva ha biforcato oltre $ 20 milioni a Schultz dopo che ha accettato di accettare il lavoro, uno che non sarebbe sembrato altrettanto attraente senza l'incentivo in più.
+
+1. John Oyler, BeiGene
+
+
+
+
+
+
+
+1. Len Schleifer, Regeneron
+2. John Milligan, Gilead Sciences
+3. Nick Leschly, Bluebird Bio
+4. Richard Gonzalez, AbbVie
+5. Kenneth Frazier, Merck & Co.
+6. Alex Gorsky, Johnson & Johnson
+7. Paul Campanelli, Endo
+8. Ian Read, Pfizer
+9. Giovanni Caforio, Bristol-Myers Squibb
+10. Jeffrey Leiden, Vertex Pharmaceuticals
+11. Robert Bradway, Amgen
+12. Clay Siegall, Seattle Genetics
+13. David Ricks, Eli Lilly
+14. Richard Pops, Alkermes
+15. Ludwig Hantson, Alexion Pharmaceuticals
+16. Mark Alles, Celgene
+17. Michel Vounatsos, Biogen
