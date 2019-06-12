@@ -133,10 +133,73 @@ Change: 4%
 Mentre Bristol-Myers Squibb spinge avanti con il suo megamerger Celgene, il drugmaker ha rivelato che il suo timoniere Giovanni Caforio ha portato a casa un aumento del 4% nel 2018 a $ 19,38 milioni. Mentre l'accordo porrà la società tra i massimi livelli di Big Pharma, per ora le retribuzioni di Caforio fuori dai primi 10. Il capo di Bristol-Myers ha vinto il suo aumento di stipendio nel 2018 grazie alla crescita delle vendite, alla crescita degli utili e ad altre vittorie, agli stati del deposito della procura della società, e nonostante la mancanza della compagnia contro alcuni dei suoi obiettivi di R & S. Il BMS "ha superato" gli obiettivi finanziari in settori chiave, tra cui la continua crescita dei nostri principali marchi prioritari ", ha affermato il procuratore e ha incassato $ 22,6 miliardi di entrate, con un incremento del 9%.
 
 1. Jeffrey Leiden, Vertex Pharmaceuticals
-2. Robert Bradway, Amgen
-3. Clay Siegall, Seattle Genetics
-4. David Ricks, Eli Lilly
-5. Richard Pops, Alkermes
-6. Ludwig Hantson, Alexion Pharmaceuticals
-7. Mark Alles, Celgene
-8. Michel Vounatsos, Biogen
+   2018 pay: $18.80 million 
+   2017 pay: $17.23 million 
+   Change: 9% 
+
+![](/img/vertex.jpg)
+
+Vertex Pharmaceuticals ha segnato alcune grandi vittorie nel 2018: ha lanciato il suo terzo farmaco per la fibrosi cistica, Symdeko, per uno, e ha registrato un aumento del 40%. Complessivamente, è stato un anno "straordinario", le cifre della compagnia, e abbastanza per garantire al CEO Jeffrey Leiden un aumento del 9%. Leiden ha incassato 18,8 milioni di dollari, grazie a un forte salto alla sua paga basata sull'equità. Lo stipendio del CEO è rimasto stabile per il 2018 a $ 1,3 milioni e ha portato a casa una remunerazione incentivante leggermente inferiore a $ 3,44 milioni. Ma i suoi premi azionari e di opzioni sono saliti di quasi $ 1,6 milioni a oltre $ 12 milioni, Vertex rivelata in un deposito di proxy. E questo ha fatto la differenza, portando il suo totale fino a $ 18,8 milioni da $ 17,2 milioni nel 2017. Il pacchetto retributivo di Leiden lo classifica 13 ° tra i migliori CEO biopharma per il 2018. Si colloca dietro a Giovanni Caforio di Bristol-Myers Squibb, che ha incassato un pacchetto di 19,38 milioni di dollari, precedendo Robert Bradway di Amgen che ha incassato 18,56 milioni di dollari.
+
+1. Robert Bradway, Amgen 
+   2018 pay: $18.56 million 
+   2017 pay: $16.90 million 
+   Change: 9%
+
+![](/img/amgen.jpg)
+
+Amgen affronta la sua giusta quota di sfide competitive, ma nel 2018, la società ha trasformato la crescita delle vendite e degli utili, ha ottenuto un'importante approvazione per i farmaci e avanzato la sua pipeline. Tutti questi progressi hanno avuto un ruolo nel primo grande rilancio del CEO Bob Bradway dal 2015. Tutto sommato, il pagamento del 2018 di Bradway di $ 18,6 milioni è salito del 10% rispetto al suo bottino del 2017 di $ 16,9 milioni, ha detto Amgen in un deposito per delega. Il suo stipendio è cresciuto minimo di $ 1,57 milioni, mentre il suo bonus di incentivo annuale è cresciuto a circa $ 3,9 milioni da $ 2,7 milioni. I premi per stock e opzioni di Bradway sono cresciuti, sebbene non così tanto; sono arrivati rispettivamente a $ 8,75 milioni e $ 3,75 milioni. Il totale occupa Bradway 14 ° tra i CEO biopharma meglio pagati, dietro a Jeffrey Leiden di Vertex e davanti a Clay Siegall di Seattle Genetics.
+
+1. Clay Siegall, Seattle Genetics
+   2018 pay: $18.10 million
+   2017 pay: $8.62 million
+   Change: 110%
+
+![](/img/seattle.jpg)
+
+Ogni elemento pubblicitario del CEO di Seattle Genetics Clay Siegall è aumentato del 2018, e insieme hanno totalizzato fino a 18,1 milioni di dollari, più del doppio degli 8,6 milioni di dollari registrati nel 2017. Qual è stato il carburante dietro a questa salita da fuoristrada? La droga Adcetris del tumore del sangue in parte di Seattle, che ha incrementato le vendite di più della metà e ha compiuto diversi passi verso ancora di più. Ad esempio, il farmaco ha ottenuto un'approvazione chiave chemio-combinata nel linfoma di Hodgkin classico di nuova diagnosi, tardivo, che Siegall descrisse come la "più grande opportunità di mercato" della società - e colpire quella pietra miliare era un'altra ragione per la crisi salariale di Siegall. E a novembre, Adcetris è diventato il primo trattamento approvato dalla FDA nel linfoma periferico delle cellule T in prima linea. Quel cenno è venuto sotto il percorso di Real-Time Oncology Review della FDA, meno di due settimane dopo che la società ha completato la sua applicazione e sei mesi prima del previsto. E il totale di Siegall ha superato quelli di molti dei suoi pari, inclusi i CEO che servono in alcuni dei più grandi pharma del mondo. Ad esempio, David Ricks, al suo secondo anno dietro la ruota di Eli Lilly, ha incassato $ 17,2 milioni nel risarcimento 2018.
+
+1. David Ricks, Eli Lilly 
+   2018 pay: $17.23 million 
+   2017 pay: $15.85 million 
+   Change: 9% 
+
+![](/img/lilly.jpg)
+
+Nel suo secondo anno al timone, Ricks ha guadagnato un aumento del 9% per un pacchetto retributivo totale di $ 17,23 milioni. Il suo stipendio base ha raggiunto $ 1,4 milioni e il suo consiglio ha concesso un bonus in contanti di $ 3,63 milioni basato sulle prestazioni finanziarie e dei gasdotti. Inoltre, ha compensato due tipi di sovvenzioni azionarie basate sulla performance che misurano il comportamento della società nei confronti di un gruppo di pari che include AbbVie, Gilead Sciences e Pfizer.
+
+1. Richard Pops, Alkermes
+   2018 pay: $17.06 million
+   2017 pay: $9.38 million
+   Change: 81.8%
+
+![](/img/alkermes.jpg)
+
+Non è stato il 2018 più facile per il biotech irlandese Alkermes dopo che un comitato consultivo della FDA ha criticato a lungo la sua droga di disturbo depressivo maggiore (MDD) della fase 3 a novembre. Nonostante questa battuta d'arresto, il CEO Richard Pops ha avuto un anno molto lucrativo, ma le cose potrebbero cambiare quando la sua paga del 2019 è in crescita. Pops ha visto il suo compenso totale quasi raddoppiare nel 2018 a $ 17,06 milioni, facendolo salire sulla lista dei CEO più pagati nel settore farmaceutico e biotecnologico. Nel 2017, il risarcimento di Pops si è attestato a $ 9,38 milioni, in base alla presentazione della delega della società. Questo è un aumento del 81,8% all'anno. Il problema è iniziato con la FDA che ha rifiutato di rivedere l'applicazione dell'azienda per il farmaco in aprile, citando una mancanza di prove cliniche sufficienti per dimostrare che il farmaco antidepressivo a base di oppioidi era sicuro ed efficace. Qualche settimana dopo, la FDA ha fatto un balzo in avanti su quella decisione, ma un comitato consultivo ha in seguito messo la droga in esplosione, votando 21-2 contro la raccomandazione per l'approvazione federale.
+
+1. Ludwig Hantson, Alexion Pharmaceuticals
+   2018 pay: $16.49 million
+   2017 pay: $15.31 million
+   Change: 8%
+
+![](/img/alexion.png)
+
+Nel suo primo anno intero ad Alexion, Ludwig Hantson ha accumulato 16,5 milioni di dollari nel 2018, addirittura superiore a 16,2 milioni di dollari di Mark Alles, CEO di Celgene. Hantson è balzato su Alexion da Baxalta, che è partito da Baxter nel 2015 e da quando è stato venduto a Shire, in un momento turbolento. L'allora CEO David Hallal e l'ex CFO Vikas Sinha erano usciti in mezzo a una indagine interna su pratiche commerciali scorrette. E dal momento della nomina di Hantson nel 2017, Alexion ha riunito una squadra completamente pulita sul suo gruppo dirigente. I nuovi dirigenti hanno riorganizzato la nave rapidamente mentre Hantson ha guidato una campagna per spostare la strategia di sviluppo dell'azienda dalle malattie ultrareal alle malattie meno rare per ampliare il suo bacino di potenziali pazienti. E la linea di vertice dell'azienda lo ha dimostrato: le vendite del 2018 sono state di $ 4,13 miliardi, con un aumento del 16% rispetto al 2017 e un battito facile all'obiettivo aziendale di $ 3,92 miliardi. Inoltre, sotto Hantson, Alexion ha ottenuto una prima approvazione della FDA per il suo follow-up di Soliris Ultomiris a dicembre. Ha trasferito la sua sede dal Connecticut al centro biotech di Boston per essere più vicino al pool di talenti biofarmaceutici e assunto 1.000 nuovi dipendenti. Dopo tutto ciò, Hantson ha guadagnato lo stipendio base di $ 1,2 milioni e ha visto i suoi premi azionari del 2018 salire a $ 12,4 milioni da $ 9,6 milioni nel 2017.
+
+1. Mark Alles, Celgene
+   2018 pay: $16.22 million
+   2017 pay: $13.11 million
+   Change: 24%
+
+![](/img/celgene.jpg)
+
+Dato che il prezzo delle azioni di Celgene è sceso del 39% nel 2018, aprendo la strada a $ 74 miliardi di buyout da parte di Bristol-Myers Squibb, l'amministratore delegato Mark Alles potrebbe non sembrare un probabile candidato per un aumento salariale. Ma il consiglio di Celgene ha dato ad Alles un grande successo, oltre a montare un paracadute d'oro per lui poco prima che fosse annunciata l'acquisizione del BMS. Quindi, oltre a incassare $ 16,2 milioni nel risarcimento totale nel 2018, Alles potrebbe incassare altri $ 27,9 milioni se se ne andrà dopo la chiusura della fusione di quest'anno. Gli azionisti di BMS hanno approvato l'acquisizione di Celgene ad aprile, ma la società non ha ancora annunciato le scelte di gestione per l'entità combinata. Il risarcimento del 2018 di Alles, rivelato nel 10K (PDF) della compagnia, potrebbe aver sollevato qualche preoccupazione a Wall Street alla luce del declino del prezzo delle azioni. Alles, che è diventato CEO di Celgene nel 2016, ha visto aumentare il suo stipendio base del 5% a $ 1,36 milioni e ha fruttato $ 2,79 milioni di bonus. Il suo bonus di destinazione era stato il 125% del salario guadagnato quando è diventato amministratore delegato, ma il consiglio ha aumentato il 150% nel 2018. Perché tanta generosità da parte del consiglio di Celgene? La società, dopo tutto, ha subito la sua giusta quota di invadenti nel 2018, tra cui un avviso di rifiuto da parte della FDA sul suo candidato alla droga per la sclerosi multipla, ozanimod, e uno sforzo fallito per accoppiare il suo multiplo campione di mieloma Revlimid con Rituxan per il trattamento del linfoma non Hodgkin. Nonostante queste delusioni, Celgene ha superato gli obiettivi finanziari interni per l'anno con $ 15,28 miliardi di vendite totali e $ 9,06 di utili rettificati per azione. Ha anche ingrandito il gasdotto acquisendo Impact Biomedicines e lo sviluppatore di CAR-T Juno Therapeutics, la società ha sottolineato nel 10K. Il consiglio di amministrazione ha attribuito un peso del 56% agli obiettivi finanziari nel calcolo dei bonus, mentre il resto proviene da "obiettivi aziendali strategici selezionati", pertanto tali risultati sono stati un grande vantaggio per Alles. Alles ha anche ottenuto $ 6,3 milioni in premi azionari e $ 5,7 milioni in opzioni, con importi che aumentano rispettivamente di $ 1 milione e $ 1,5 milioni nel 2017. Il futuro di Alles con BMS potrebbe essere in aria, ma la sua sicurezza finanziaria è quasi certa, grazie ad un colpo di tempismo da parte del consiglio di Celgene. A metà dicembre dello scorso anno ha revisionato il piano di riduzione del controllo sul cambiamento della compagnia, poche settimane prima che BMS rivelasse il suo piano di acquisizione. Prima di allora, non c'era un piano in atto che stabilisse come Alles sarebbe stata risarcita se Celgene fosse acquisito e si fosse trovato senza lavoro.
+
+1. Michel Vounatsos, Biogen
+   2018 pay: $16.17 million
+   2017 pay: $13.66 million
+   Change: 18%
+
+![](/img/biogen.jpg)
+
+L'aspetto del CEO di Biogen Michel Vounatsos tra i CEO più pagati del biopharma può sembrare sorprendente alla luce dei recenti problemi della compagnia. Il suo candidato alla droga di Alzheimer, aducanumab, ha fallito all'inizio di quest'anno, toccando l'esodo degli investitori. Questo fallimento è stato aggravato dai timori di appiattimento delle vendite nella principale unità di sclerosi multipla di Biogen. Vounatsos ha avuto una spinta in ogni categoria del suo compenso. Il suo stipendio base è stato aumentato da $ 1,09 milioni a $ 1,28 milioni. Il valore dei suoi premi azionari è passato da $ 9,9 milioni a $ 11 milioni. Tutto sommato, è aumentato del 18%. La fortuna di Vounatsos nel 2018 proveniva da un prodotto chiave: Spinraza, il farmaco di Biogen per il trattamento dell'atrofia muscolare spinale (SMA). Le sue vendite sono state pari a $ 1,7 miliardi nel 2018, rispetto a $ 884 milioni dell'anno precedente. Ciò ha contribuito a spingere le entrate totali della Biogen a un record di $ 13,5 miliardi per l'anno. Spinraza è "uno dei lanci più impressionanti nella storia dell'industria biofarmaceutica", ha affermato l'azienda nel suo proxy (PDF). Il successo del lancio di Spinraza ha contribuito a ridurre la sottoperformance rispetto ad altri prodotti chiave. Le entrate della compagnia sono cresciute anno su anno a $ 9,1 miliardi, anche se le vendite di Tecfidera hanno superato le stime degli analisti nel quarto trimestre, arrivando a $ 1,1 miliardi. Una ragione per la spinta: Vounatsos ha beneficiato nel 2018 di una modifica al suo bonus annuale. Il board ha aumentato il suo bonus annuale target dal 125% dello stipendio base nel 2017 al 140%, ma non ha modificato i piani bonus di nessuno degli altri quattro top manager della compagnia. Secondo il proxy, Vounatsos è stata premiata non solo per i ricavi record di Biogen nel 2018, ma anche per guidare i cambiamenti nei "core process" dell'azienda per migliorare l'efficienza operativa, l'allocazione del capitale e l'ottimizzazione degli asset. "Il board ha anche determinato che ha aiutato a diversificare la pipeline dell'azienda completando sei transazioni, tra cui un'opzione di $ 375 milioni per acquisire un trattamento per ictus da TMS. Biogen ha anche aumentato la quota di proprietà nella joint venture biosimilari Samsung Bioepis dal 5% a poco meno del 50% durante l'anno. Tuttavia, i Vounatsos potrebbero affrontare molte più sfide nel 2019. Con il fallimento di aducanumab, Biogen è sotto pressione per ritirarsi dall'Alzheimer e perseguire progetti di pipeline più promettenti, che potrebbe dover acquisire. Nel frattempo, si troverà di fronte a una nuova competizione per Spinraza, in quanto Novartis ha ottenuto l'approvazione della FDA a maggio per la terapia genica per il trattamento della SMA.
