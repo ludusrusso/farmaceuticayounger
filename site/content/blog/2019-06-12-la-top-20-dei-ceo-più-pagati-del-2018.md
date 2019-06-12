@@ -12,13 +12,11 @@ Tutti esclusi dalla top 20, scorrendo la quale si scopre che ad avere i compensi
 
 Sono molti, infatti, i CEO di queste aziende presenti nella lista: Stéphane Bancel di Moderna, John Oyler di BeiGene, Clay Siegall, di Seattle Genetics e Nick Leshly di bluebird bio.
 
-Ian Read di Pfizer, Alex Gorsky di Johnson & Johnson e Ken Frazier di MSD quest’anno non sono entrati nelle prime cinque posizioni di classifica anche se i loro stipendi sono stati superiori ai 19,5 milioni di dollari.
- Il CEO di Teva, Kåre Schultz, ha conquistato il 2° posto nel ranking degli stipendi d’oro del 2018 con 33 milioni di dollari.
+Ian Read di Pfizer, Alex Gorsky di Johnson & Johnson e Ken Frazier di MSD quest’anno non sono entrati nelle prime cinque posizioni di classifica anche se i loro stipendi sono stati superiori ai 19,5 milioni di dollari. Il CEO di Teva, Kåre Schultz, ha conquistato il podio con il 2° posto nel ranking degli stipendi d’oro con ben 33 milioni di dollari guadagnati nel 2018.
 
-Il CEO di Moderna, Bancel, si è invece classificato primo e ha superato tutti gli altri CEO di biopharma con la stupefacente cifra di 58,6 milioni di dollari.
+Il CEO di Moderna, Bancel, si è invece classificato primo e ha superato tutti gli altri CEO con la stupefacente cifra di 58,6 milioni di dollari.
 
-Ecco la top 20
- dei CEO delle biopharma più pagati del 2018
+Ecco la top 20 dei CEO più pagati del 2018:
 
 1. Stephane Bancel, Moderna Therapeutics
 2. Kare Schultz, Teva
