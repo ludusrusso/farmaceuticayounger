@@ -14,7 +14,7 @@ Ian Read di Pfizer, Alex Gorsky di Johnson & Johnson e Ken Frazier di MSD quest�
 
 Il CEO di Moderna, Bancel, si è invece classificato primo e ha superato tutti gli altri CEO con la stupefacente cifra di 58,6 milioni di dollari.
 
-Ecco la top 20 dei CEO più pagati del 2018:
+Ecco la top 20 dei CEO delle aziende biofarmaceutiche più pagati del 2018:
 
 1. Stephane Bancel, Moderna Therapeutics
 2. Kare Schultz, Teva
