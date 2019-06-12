@@ -30,28 +30,78 @@ Ecco la top 20 dei CEO delle aziende biofarmaceutiche più pagati del 2018:
 
 Il 2018 potrebbe essere stato il primo anno intero di lavoro del CEO di Teva Kåre Schultz, ma ciò non ha impedito alla società di concedergli un pacchetto di risarcimento che lo collocava nelle prime posizioni dei più pagati del settore farmaceutico. Il produttore di stupefacenti israeliano ha consegnato a Schultz un fantastico $ 32,5 milioni, quasi il doppio di quello che gli ha pagato nel 2017, e cinque volte quello che ha pagato il predecessore Erez Vigodman nel 2016. Quindi cosa ha fatto la differenza questa volta? Un bonus per la firma e uno grande per quello. Teva ha biforcato oltre $ 20 milioni a Schultz dopo che ha accettato di accettare il lavoro, uno che non sarebbe sembrato altrettanto attraente senza l'incentivo in più.
 
-1. John Oyler, BeiGene
+3. John Oyler, BeiGene
 
+2018 pay: $27.90 million
 
+2017 pay: $10.29 million
 
+Change: +171%
 
+![](/img/johnoyler.jpg)
 
+John Oyler è un raro esempio di straniero che trae beneficio dalla rapida espansione dell'industria biotech cinese. Dopo aver fondato BeiGene nel 2010, Oyler ha visto il suo picco di ricchezza personale lo scorso anno quando le azioni Nasdaq delle biotecnologie cinesi sono aumentate. E così ha fatto il suo pacchetto di pagamento. Nel 2018, Oyler ha accumulato 27,9 milioni di dollari in termini di retribuzione totale rispetto ai 10,3 milioni di dollari del 2017 e si è classificato al terzo posto nell'elenco dei dirigenti biopharma più pagati al mondo. La maggior parte di quel pacchetto si presentava sotto forma di sovvenzioni azionarie, sebbene adeguate, dato che la società aveva solo $ 130,9 milioni di ricavi per l'intero anno.
 
+4. Len Schleifer, Regeneron
 
-1. Len Schleifer, Regeneron
-2. John Milligan, Gilead Sciences
-3. Nick Leschly, Bluebird Bio
-4. Richard Gonzalez, AbbVie
-5. Kenneth Frazier, Merck & Co.
-6. Alex Gorsky, Johnson & Johnson
-7. Paul Campanelli, Endo
-8. Ian Read, Pfizer
-9. Giovanni Caforio, Bristol-Myers Squibb
-10. Jeffrey Leiden, Vertex Pharmaceuticals
-11. Robert Bradway, Amgen
-12. Clay Siegall, Seattle Genetics
-13. David Ricks, Eli Lilly
-14. Richard Pops, Alkermes
-15. Ludwig Hantson, Alexion Pharmaceuticals
-16. Mark Alles, Celgene
-17. Michel Vounatsos, Biogen
+2018 pay: $26.52 million
+
+2017 pay: $26.51 million
+
+Change: Less than 1%
+
+![](/img/len-schleifer.jpg)
+
+Schleifer, 66 anni, fondatore e direttore di lunga data di Regeneron, ha ricevuto 26,52 milioni di dollari di risarcimento totale per il 2018, in base alla presentazione della delega della società. Questo è meno di un aumento dell'1% rispetto alla sua paga di $ 26.508.058 nel 2017, ma ancora sufficiente per classificarlo tra i cinque amministratori delegati più pagati del settore.
+
+5. John Milligan, Gilead Sciences
+
+2018 pay: $25.96 million
+
+2017 pay: $15.44 million
+
+Change: 68%
+
+![](/img/milligan.jpg)
+
+Milligan ha collezionato (PDF) quasi $ 26 milioni di risarcimento per lo scorso anno, un totale di $ 10 milioni in più rispetto a lui nel 2017. Il suo stipendio è salito leggermente a $ 1,58 milioni e il suo pagamento di incentivi in ​​contanti è salito a $ 3,34 milioni. Ma i suoi premi azionari e opzioni hanno fatto un balzo.
+
+1. 6. Nick Leschly, Bluebird Bio
+   2018 pay: $23.96 million
+   2017 pay: $8.76 million
+   Change: 174%
+
+![](/img/bluebird-hires_750xx4288-2409-0-157.jpg)
+
+Il capo Bio Bluebird Nick Leschly ha battuto ogni CEO di Big Pharma con un pacchetto di pagamento del valore di quasi $ 24 milioni per il 2018. Il suo totale di $ 23,96 milioni è quasi tre volte il suo stipendio del 2017 di $ 8,76 milioni. Un paio di eventi imminenti potrebbero fare la differenza. La terapia genica della beta-talassemia dell'azienda, Zynteglo, ha ottenuto un OK europeo all'inizio di giugno. E Bluebird si aspetta di presentare la terapia per la revisione della FDA entro la fine del 2019. Questo è un grande passo avanti per un prodotto che ha affrontato la sua quota di battute d'arresto, compresi i dati di prova iniziali che hanno indotto Bluebird a revisionare il suo processo di produzione. Bluebird ha investito 80 milioni di dollari in una nuova struttura di produzione progettata per scalare la produzione di Zynteglo se e quando sarà approvata dalla FDA. Per quanto riguarda il lancio europeo, ha un accordo con Novasep per la produzione di terapie geniche in un sito in Belgio.
+
+1. 7. Richard Gonzalez, AbbVie 
+   2018 pay: $21.27 million 
+   2017 pay: $22.63 million 
+   Change: -6% 
+
+![](/img/richard-gonzalez.jpg)
+
+Dopo aver guadagnato un pacchetto retributivo di 21,27 milioni di dollari l'anno scorso, Gonzalez si è unito ai colleghi di Big Pharma all'audizione del Congresso sui prezzi dei farmaci all'inizio del 2018. All'udienza, il senatore Ron Wyden, D-Ore, ha chiesto se il compenso di Gonzalez - in particolare il suo bonus- è legato alle vendite del principale farmaco di AbbVie, Humira, che ha generato quasi $ 20 miliardi l'anno scorso. La sua risposta? "Humira era un elemento di una serie di fattori finanziari che sono stati valutati come parte del mio compenso", ha detto Gonzalez. "Ovviamente è un prodotto molto significativo per noi. Quindi è chiaro che sarebbe parte di quella valutazione. "In effetti, le entrate, le entrate, le vendite di Humira e molto altro ancora vanno a determinare la remunerazione a incentivo a breve termine di Gonzalez, come afferma la società per procura. E per il 2018, quel numero in realtà è diminuito un po ', ma è arrivato a quasi $ 4 milioni.
+
+1. 8. Kenneth Frazier, Merck & Co.
+   2018 pay: $20.93 million
+   2017 pay: $17.64 million
+   Change: 19%
+
+![](/img/merck.jpg)
+
+ll pacchetto retributivo totale di Frazier (PDF) di $ 20,9 milioni includeva non solo un aumento del salario del 2% a $ 1,61 milioni, ma aumenta anche le sue azioni e i premi per le opzioni, così come i suoi benefici del piano di incentivi in ​​contanti. Frazier è stato ricompensato profumatamente per la performance di Merck, che lo scorso anno è stata guidata in gran parte dal blockbuster di immuno-oncologia Keytruda. Le sue vendite sono quasi raddoppiate a $ 7,17 miliardi, in quanto Merck ha aggiunto le approvazioni della FDA per il farmaco nel carcinoma della cervice, nel carcinoma a cellule di Merkel e nel linfoma a grandi cellule B primario mediastinico. La performance di Keytruda ha contribuito a spingere le vendite totali dell'azienda del 5% nel 2018 a 42,3 miliardi di dollari, una crescita alimentata anche dalla forte domanda di vaccino e prodotti per la salute degli animali. Il consiglio ha riconosciuto Frazier per aver guidato l'azienda durante questo periodo di crescita, aumentando il suo premio di incentivo a lungo termine di $ 500.000, che ha portato il valore totale del suo pacchetto di sussidi a $ 13 milioni. La società ha aumentato il pacchetto di compensazione diretta totale di Frazier del 3,6%. Frazier ha lavorato sodo per diversificare il gasdotto Merck oltre Keytruda, e verso questa fine, la società ha firmato 60 accordi nel 2018. Ha formato un patto di 5,76 miliardi di dollari con Eisai per sviluppare la medicina del cancro Lenvima, ad esempio, e ha pagato $ 394 milioni per acquistare Viralytics , uno sviluppatore di virus progettati per uccidere il cancro.
+
+1. Alex Gorsky, Johnson & Johnson
+2. Paul Campanelli, Endo
+3. Ian Read, Pfizer
+4. Giovanni Caforio, Bristol-Myers Squibb
+5. Jeffrey Leiden, Vertex Pharmaceuticals
+6. Robert Bradway, Amgen
+7. Clay Siegall, Seattle Genetics
+8. David Ricks, Eli Lilly
+9. Richard Pops, Alkermes
+10. Ludwig Hantson, Alexion Pharmaceuticals
+11. Mark Alles, Celgene
+12. Michel Vounatsos, Biogen
