@@ -22,7 +22,7 @@ image: >-
 ---
 ![training-evaluation-pharma.jpg](/img/training-un-investimento-per-il-continuo-miglioramento.md/training-evaluation-pharma.jpg)
 
-Così il dizionario inglese definisce il termine "Training": _"a process by which someone is taught the skills that are needed for an art, profession, or job"_ cioè un processo attraverso il quale a qualcuno vengono insegnate le competenze necessarie per poter svolgere un'arte, una professione o un lavoro.
+Così il dizionario inglese definisce il termine "Training": "a process by which someone is taught the skills that are needed for an art, profession, or job" cioè un processo attraverso il quale a qualcuno vengono insegnate le competenze necessarie per poter svolgere un'arte, una professione o un lavoro.
 
 **Il Training è un dialogo, non un monologo. È un mezzo interattivo che ha come fine l'apprendimento e conseguentemente la sua valutazione. **Faccio un banale esempio: leggere un SOP (Standard Operating Procedure) mentre si è seduti da soli sulla propria scrivania, o essere trainati attivamente sulla stessa SOP, a mio parere, non è propriamente la stessa cosa: la prima non "insegna abilità", è solo un mezzo per diffondere informazioni.
 
