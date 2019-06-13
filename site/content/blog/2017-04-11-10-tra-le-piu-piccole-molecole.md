@@ -1,9 +1,9 @@
 ---
-title: '10 TRA LE PIù PICCOLE MOLECOLE FARMACOLOGICAMENTE ATTIVE'
-date: 2017-04-11T20:26:27+00:00
-draft: false
+title: 10 TRA LE PIù PICCOLE MOLECOLE FARMACOLOGICAMENTE ATTIVE
+tags:
+  - articoli
+date: 2017-04-11T20:26:27.000Z
 image: /img/10-tra-le-piu-piccole-molecole.md/schermata-2017-04-11-alle-22-21.png
-tags: [Farmaceutica]
 ---
 
 ![Schermata-2017-04-11-alle-22.21.png](/img/10-tra-le-piu-piccole-molecole.md/schermata-2017-04-11-alle-22-21.png)
