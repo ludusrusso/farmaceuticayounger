@@ -1,9 +1,9 @@
 ---
-title: 'Pharma Acronimi'
-date: 2017-06-06T05:19:01+00:00
-draft: false
+title: Pharma Acronimi
+tags:
+  - articoli
+date: 2017-06-06T05:19:01.000Z
 image: /img/pharma-acronimi.md/acronyms.png
-tags: [Farmaceutica]
 ---
 
 ![Acronyms.png](/img/pharma-acronimi.md/acronyms.png)
