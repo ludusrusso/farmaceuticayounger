@@ -3,15 +3,28 @@ title: 'Training: un investimento per il continuo miglioramento'
 tags:
   - articoli
 date: 2017-04-25T21:29:24.000Z
+description: >-
+  Il Training è un dialogo, non un monologo. È un mezzo interattivo che ha come
+  fine l'apprendimento e conseguentemente la sua valutazione. Faccio un banale
+  esempio: leggere un SOP (Standard Operating Procedure) mentre si è seduti da
+  soli sulla propria scrivania, o essere trainati attivamente sulla stessa SOP,
+  a mio parere, non è propriamente la stessa cosa: la prima non "insegna
+  abilità", è solo un mezzo per diffondere informazioni.
+socialDesc: >-
+  Il Training è un dialogo, non un monologo. È un mezzo interattivo che ha come
+  fine l'apprendimento e conseguentemente la sua valutazione. Faccio un banale
+  esempio: leggere un SOP (Standard Operating Procedure) mentre si è seduti da
+  soli sulla propria scrivania, o essere trainati attivamente sulla stessa SOP,
+  a mio parere, non è propriamente la stessa cosa: la prima non "insegna
+  abilità", è solo un mezzo per diffondere informazioni.
 image: >-
   /img/training-un-investimento-per-il-continuo-miglioramento.md/training-evaluation-pharma.jpg
 ---
-
 ![training-evaluation-pharma.jpg](/img/training-un-investimento-per-il-continuo-miglioramento.md/training-evaluation-pharma.jpg)
 
 Così il dizionario inglese definisce il termine "Training": _"a process by which someone is taught the skills that are needed for an art, profession, or job"_ cioè un processo attraverso il quale a qualcuno vengono insegnate le competenze necessarie per poter svolgere un'arte, una professione o un lavoro.
 
-Il Training è un dialogo, non un monologo. È un mezzo interattivo che ha come fine l'apprendimento e conseguentemente la sua valutazione. Faccio un banale esempio: leggere un SOP (Standard Operating Procedure) mentre si è seduti da soli sulla propria scrivania, o essere trainati attivamente sulla stessa SOP, a mio parere, non è propriamente la stessa cosa: la prima non "insegna abilità", è solo un mezzo per diffondere informazioni.
+**Il Training è un dialogo, non un monologo. È un mezzo interattivo che ha come fine l'apprendimento e conseguentemente la sua valutazione. **Faccio un banale esempio: leggere un SOP (Standard Operating Procedure) mentre si è seduti da soli sulla propria scrivania, o essere trainati attivamente sulla stessa SOP, a mio parere, non è propriamente la stessa cosa: la prima non "insegna abilità", è solo un mezzo per diffondere informazioni.
 
 Il concetto di "Diffusione delle Informazioni" è ben diverso da quello di "Training" e, a tal proposito, è doveroso fare una distinzione tra i due termini. L'informazione è definita come "la conoscenza di qualcuno o di qualcosa; fatti o dettagli su un argomento". La diffusione delle informazioni è importante. Abbiamo bisogno di dettagli o informazioni su un qualsiasi argomento per far crescere la cultura; ma la divulgazione di informazioni non "insegna abilità". La diffusione dell'informazione è un monologo, non un dialogo, e la lettura di un SOP, un regolamento, fornisce fatti e dettagli, non "abilita".
 
@@ -21,18 +34,17 @@ Due delle più grandi aziende farmaceutiche impegnate nella produzione di farmac
 
 La formazione richiede tempo, risorse, personale qualificato e soprattutto soldi.
 
-Per quale motivo un'azienda farmaceutica dovrebbe investirci su?
+**Per quale motivo un'azienda farmaceutica dovrebbe investirci su?**
 
-Prima di tutto per garantire la compliance alle normative in vigore, le GMP (Volume 4 delle Good Manufacturing Practice , Parte I,  Capitolo 2 "Training_"_). I programmi formativi ben organizzati e ben documentati aiutano a mantenere la conformità ai requisiti normativi.
+Prima di tutto per garantire la compliance alle normative in vigore, le GMP (Volume 4 delle Good Manufacturing Practice, Parte I, Capitolo 2 "Training_"_). I programmi formativi ben organizzati e ben documentati aiutano a mantenere la conformità ai requisiti normativi.
 
-In secondo luogo si sa che le aziende sono fatte di persone ed è ben noto come gli errori umani risultino essere fattori che incidono sui problemi di qualità o su incidenti negli impianti industriali e manifatturieri. Un percorso di training mirato a seconda del rischio associato all'attività o al reparto in cui ciascun dipendente lavora, permetterà di  prevenire o ridurre gli errori umani causati dalla mancanza di un adeguato sistema di formazione.
+In secondo luogo si sa che le aziende sono fatte di persone ed è ben noto come gli errori umani risultino essere fattori che incidono sui problemi di qualità o su incidenti negli impianti industriali e manifatturieri. Un percorso di training mirato a seconda del rischio associato all'attività o al reparto in cui ciascun dipendente lavora, permetterà di prevenire o ridurre gli errori umani causati dalla mancanza di un adeguato sistema di formazione.
 
 Inoltre un'azienda farmaceutica intenta a perseguire un programma di "cultura per l'apprendimento" nei confronti dei propri collaboratori e di miglioramento continuo, noterà come questo crei dipendenti che vanno orgogliosi del proprio lavoro nonché del proprio ambiente di lavoro. Inoltre un dipendente ben addestrato tenderà in primo luogo a comprendere meglio i processi che sono alla base della sua mansione o di un determinato compito assegnatogli, per poi conseguentemente, essere più consapevole delle proprie responsabilità, "sforzandosi" nel superare le aspettative.
 
-Va considerato anche il fatto che i programmi di formazione rientrano nel continuo "improvement" di un'azienda farmaceutica. Perciò l'azienda si impegna a garantire al singolo dipendente un "programma" non solo un "corso" di formazione che dovrà accompagnare il dipendente in tutto il periodo in cui lavorerà per l'azienda stessa. È previsto, per GMP, un piano annuale di refresh training una per rispolverare concetti di GMP o propriamente specifici aziendali come possono essere ad esempio, riprendere i concetti base mai scontati di una corretta gestione della documentazione, nonchè rinfrescare su alcuni concetti fondamentali di una SOP interna ad esempio di manutenzione periodica dell'autoclave e molti altri. Oltre alla formazione standard e direi da GMP del personale,  nel programma di improvement rientrano anche alcuni training mirati a far crescere una persona da un punto di vista di skills relative alla mansione che sta svolgendo. Di esempi ce ne sono molti ma quello che ultimamente va di moda sono dei percorsi di training sullle metodologie "Lean Six Sigma", soprattutto a livello manageriale, nonché training di lingua inglese, di Excel avanzato, di SAP ecc.
+Va considerato anche il fatto che i programmi di formazione rientrano nel continuo "improvement" di un'azienda farmaceutica. Perciò l'azienda si impegna a garantire al singolo dipendente un "programma" non solo un "corso" di formazione che dovrà accompagnare il dipendente in tutto il periodo in cui lavorerà per l'azienda stessa. È previsto, per GMP, un piano annuale di refresh training per rispolverare concetti di GMP o propriamente specifici aziendali come possono essere ad esempio, riprendere i concetti base mai scontati di una corretta gestione della documentazione, nonchè rinfrescare alcuni concetti fondamentali di una SOP interna ad esempio di manutenzione periodica dell'autoclave ecc. Oltre alla formazione standard e direi da GMP del personale, nel programma di improvement rientrano anche alcuni training mirati a far crescere una persona da un punto di vista di skills relative alla mansione che sta svolgendo. Di esempi ce ne sono molti ma quello che ultimamente va di moda sono dei percorsi di training sullle metodologie "Lean Six Sigma", soprattutto a livello manageriale, nonché training di lingua inglese, di Excel avanzato, di SAP ecc.
 
-Volume 4 - Good Manufacturing Practice (GMP) - Training
--------------------------------------------------------
+## Volume 4 - Good Manufacturing Practice (GMP) - Training
 
 Le GMP sottolineano l'importanza di condurre adeguati training con la relativa documentazione a supporto di essi, da parte delle aziende farmaceutiche.
 
