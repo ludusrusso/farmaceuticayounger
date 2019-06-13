@@ -1,9 +1,9 @@
 ---
 title: 'ASPIRINA: Più di 100 Anni di Successi'
-date: 2017-03-26T18:12:32+00:00
-draft: false
-image: https://silviavernotico.files.wordpress.com/2017/03/acido-acetilsalicilico.gif
-tags: [Farmaceutica]
+tags:
+  - articoli
+date: 2017-03-26T18:12:32.000Z
+image: 'https://silviavernotico.files.wordpress.com/2017/03/acido-acetilsalicilico.gif'
 ---
 
 Bianca, più piccola di una moneta da 1 euro, insapore, effervescente se sciolta in acqua, da più di cento anni presente sul mercato con l'indiscusso marchio Bayer, l'Aspirina è il farmaco più venduto al mondo. Basti pensare che nei soli Stati Uniti si consumano 16000 tonnellate di questo farmaco, pari a 80 milioni di compresse.
