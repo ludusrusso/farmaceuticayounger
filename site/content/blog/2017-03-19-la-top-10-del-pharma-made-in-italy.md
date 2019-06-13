@@ -1,9 +1,9 @@
 ---
-title: 'La TOP 10 del Pharma "Made in Italy"'
-date: 2017-03-19T22:47:08+00:00
-draft: false
+title: La TOP 10 del Pharma "Made in Italy"
+tags:
+  - articoli
+date: 2017-03-19T22:47:08.000Z
 image: /img/la-top-10-del-pharma-made-in-italy.md/menarini.jpg
-tags: [Farmaceutica]
 ---
 
 Un tesoretto da quasi 12 miliardi di euro, questo è il valore stimato nel 2017 delle 10 migliori aziende farmaceutiche nate in Italia: Menarini (3.500), Chiesi (1.600), Bracco (1.360), Recordati (1.200), Alfasigma (1.000), Angelini (divisione Pharma, con 850), Zambon (700), Italfarmaco (650), Kedrion (650), Dompé (260), (dati Farmindustria relativi al 2016).
