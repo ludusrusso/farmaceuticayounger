@@ -3,6 +3,20 @@ title: 'Training: un investimento per il continuo miglioramento'
 tags:
   - articoli
 date: 2017-04-25T21:29:24.000Z
+description: >-
+  Il Training è un dialogo, non un monologo. È un mezzo interattivo che ha come
+  fine l'apprendimento e conseguentemente la sua valutazione. Faccio un banale
+  esempio: leggere un SOP (Standard Operating Procedure) mentre si è seduti da
+  soli sulla propria scrivania, o essere trainati attivamente sulla stessa SOP,
+  a mio parere, non è propriamente la stessa cosa: la prima non "insegna
+  abilità", è solo un mezzo per diffondere informazioni.
+socialDesc: >-
+  Il Training è un dialogo, non un monologo. È un mezzo interattivo che ha come
+  fine l'apprendimento e conseguentemente la sua valutazione. Faccio un banale
+  esempio: leggere un SOP (Standard Operating Procedure) mentre si è seduti da
+  soli sulla propria scrivania, o essere trainati attivamente sulla stessa SOP,
+  a mio parere, non è propriamente la stessa cosa: la prima non "insegna
+  abilità", è solo un mezzo per diffondere informazioni.
 image: >-
   /img/training-un-investimento-per-il-continuo-miglioramento.md/training-evaluation-pharma.jpg
 ---
