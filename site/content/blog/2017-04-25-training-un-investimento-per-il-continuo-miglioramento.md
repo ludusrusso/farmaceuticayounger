@@ -1,9 +1,10 @@
 ---
 title: 'Training: un investimento per il continuo miglioramento'
-date: 2017-04-25T21:29:24+00:00
-draft: false
-image: /img/training-un-investimento-per-il-continuo-miglioramento.md/training-evaluation-pharma.jpg
-tags: [Farmaceutica]
+tags:
+  - articoli
+date: 2017-04-25T21:29:24.000Z
+image: >-
+  /img/training-un-investimento-per-il-continuo-miglioramento.md/training-evaluation-pharma.jpg
 ---
 
 ![training-evaluation-pharma.jpg](/img/training-un-investimento-per-il-continuo-miglioramento.md/training-evaluation-pharma.jpg)
