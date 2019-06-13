@@ -1,9 +1,9 @@
 ---
-title: 'SERENDIPITY'
-date: 2017-03-12T20:46:33+00:00
-draft: false
+title: SERENDIPITY
+tags:
+  - articoli
+date: 2017-03-12T20:46:33.000Z
 image: /img/serendipity.md/fleming.jpg
-tags: [Farmaceutica]
 ---
 
 Il termine **Serendipity** deriva da _Serendip,_ l'antico nome persiano dello Sri Lanka e indica lo scoprire una cosa non cercata mentre se ne sta cercando un'altra. Non è pura e mera casualità, come potrebbe portarci a pensare di prima impatto ma racchiude in sé  intuizione, fantasia e acume pratico. Per meglio comprendere l'acume che si cela dietro il termine mi piace ricordare la definizione che ne diede il ricercatore biomedico americano H.Comroe:
