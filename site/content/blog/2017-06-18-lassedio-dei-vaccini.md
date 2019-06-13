@@ -1,6 +1,8 @@
 ---
 title: L'assedio dei vaccini
-date: 2017-06-18T20:00:03+00:00
+tags:
+  - articoli
+date: 2017-06-18T20:00:03.000Z
 description: Siamo sotto assedio? Tutti costringono a vaccinare i nostri figli?
 image: /img/vaccini.jpg
 ---
