@@ -1,9 +1,11 @@
 ---
 title: 'ACIDO OBETICOLICO: un''eccellenza tutta italiana'
-date: 2017-07-10T19:29:52+00:00
-draft: false
-image: /img/acido-obeticolico-uneccellenza-tutta-italiana.md/schermata-2017-07-10-alle-21-39-09.png
-tags: [Farmaceutica]
+tags:
+  - Farmaceutica
+  - articoli
+date: 2017-07-10T19:29:52.000Z
+image: >-
+  /img/acido-obeticolico-uneccellenza-tutta-italiana.md/schermata-2017-07-10-alle-21-39-09.png
 ---
 
 ![Schermata 2017-07-10 alle 21.39.09.png](/img/acido-obeticolico-uneccellenza-tutta-italiana.md/schermata-2017-07-10-alle-21-39-09.png) Il 22 Giugno 2017, a Milano, si è tenuta la cerimonia finale del prestigioso **Premio Galeno Italia 2017**, considerato alla stregua di un “Premio Nobel” in campo farmaceutico.
