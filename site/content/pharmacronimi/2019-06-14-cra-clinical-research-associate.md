@@ -29,9 +29,9 @@ socialDesc: >-
   gli studi clinici.
 image: /img/f8922cdc-f405-4fe8-9f7a-89678f48bd35.png
 ---
-![](/img/f8922cdc-f405-4fe8-9f7a-89678f48bd35.png)
+![null](/img/f8922cdc-f405-4fe8-9f7a-89678f48bd35.png)
 
-Il CRA o Clinical Research Associate è una figura che si colloca nella fase di sperimentazione clinica (trial clinico) dei farmaci. L’azienda farmaceutica, definita lo “sponsor”, affida lo svolgimento e il monitoraggio di uno studio clinico associato ad un suo farmaco alle CRO (Clinica Research Organization), società indipendenti che gestiscono gli studi clinici per conto dello sponsor. Il CRA segue la sperimentazione per conto dell’azienda, visitando i centri ospedalieri coinvolti nella sperimentazione e collaborando con i medici impegnati nello studio. E’ una figura molto importante nella conduzione di uno studio clinico in quanto “garante” per lo sponsor della validità dei dati ottenuti attraverso gli studi clinici.
+Il CRA o Clinical Research Associate è una figura che si colloca nella fase di sperimentazione clinica (trial clinico) di un farmaco. L’azienda farmaceutica, definita lo “sponsor”, affida la conduzione di uno studio clinico associato ad un suo farmaco alle CRO (Clinica Research Organization), società indipendenti che gestiscono gli studi clinici per conto dello sponsor. Il CRA segue la sperimentazione per conto dell’azienda, visitando i centri ospedalieri coinvolti nella sperimentazione e collaborando con i medici impegnati nello studio. E’ una figura molto importante nella conduzione di uno studio clinico in quanto “garante” per lo sponsor della validità dei dati ottenuti attraverso lo studio clinico stesso.
 
 Le principali mansioni che svolge un CRA sono:
 
