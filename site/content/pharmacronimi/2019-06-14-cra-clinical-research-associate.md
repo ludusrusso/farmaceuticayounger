@@ -1,6 +1,6 @@
 ---
 title: CRA = Clinical Research Associate
-date: '2019-06-14T19:46:41+02:00'
+date: '2019-06-15T07:46:00+02:00'
 description: >-
   Il CRA o Clinical Research Associate è una figura che si colloca nella fase di
   sperimentazione clinica (trial clinico) dei farmaci. L’azienda farmaceutica,
