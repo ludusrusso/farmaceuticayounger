@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.105
-date: '2019-06-15T23:09:45+02:00'
+date: '2019-06-16T08:09:00+02:00'
 description: >-
   La Food and Drug Administration degli Stati Uniti ha concesso l’approvazione
   accelerata a Polivy (polatuzumab vedotin-piiq), in combinazione con
@@ -12,8 +12,11 @@ socialDesc: >-
   accelerata a Polivy (polatuzumab vedotin-piiq), in combinazione con
   bendamustina e Rituxan (BR), per il trattamento di pazienti adulti con linfoma
   diffuso a grandi cellule B (DLBCL) con recidiva o refrattario (R/R) ad almeno
-  due terapie precedenti.
+  due terapie precedenti. 
+image: /img/78deaed2-7997-4fb2-97d3-ad3f502b9ae6.png
 ---
+![](/img/78deaed2-7997-4fb2-97d3-ad3f502b9ae6.png)
+
 La Food and Drug Administration degli Stati Uniti ha concesso l’approvazione accelerata a [Polivy (polatuzumab vedotin-piiq)](https://www.roche.com/media/releases/med-cor-2019-06-11b.htm), in combinazione con bendamustina e Rituxan (BR), per il trattamento di pazienti adulti con linfoma diffuso a grandi cellule B (DLBCL) con recidiva o refrattario (R/R) ad almeno due terapie precedenti. 
 
 **Polivy rappresenta il primo regime chemioimmunoterapico approvato dalla FDA per i pazienti con linfoma diffuso a grandi cellule B con recidiva o refrattario.**
