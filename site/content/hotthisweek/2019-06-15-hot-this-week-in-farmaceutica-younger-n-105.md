@@ -19,7 +19,7 @@ image: /img/78deaed2-7997-4fb2-97d3-ad3f502b9ae6.png
 
 La Food and Drug Administration degli Stati Uniti ha concesso l’approvazione accelerata a [Polivy (polatuzumab vedotin-piiq)](https://www.roche.com/media/releases/med-cor-2019-06-11b.htm), in combinazione con bendamustina e Rituxan (BR), per il trattamento di pazienti adulti con linfoma diffuso a grandi cellule B (DLBCL) con recidiva o refrattario (R/R) ad almeno due terapie precedenti. 
 
-**Polivy rappresenta il primo regime chemioimmunoterapico approvato dalla FDA per i pazienti con linfoma diffuso a grandi cellule B con recidiva o refrattario.**
+**Polivy rappresenta il primo regime chemioimmunoterapico approvato dalla FDA per i pazienti con linfoma diffuso a grandi cellule B recidivante o refrattario.**
 
 DLBCL è la forma più comune di linfoma non Hodgkin (NHL), che rappresenta circa uno su tre casi di NHL. DLBCL è un tipo di NHL aggressivo (a crescita rapida), che è generalmente reattivo al trattamento di prima linea. Tuttavia, ben il 40% dei pazienti ha una recidiva, momento in cui le opzioni di terapia sono limitate con una riduzione della sopravvivenza. Si stima che a circa 150.000 persone in tutto il mondo venga diagnosticato DLBCL ogni anno.
 
