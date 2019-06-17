@@ -1,59 +1,71 @@
 backend:
   name: git-gateway
 
-media_folder: "site/static/img" # Folder where user uploaded files should go
-public_folder: "img"
+media_folder: 'site/static/img' # Folder where user uploaded files should go
+public_folder: 'img'
 publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    folder: "site/content/blog" # The path to the folder where the documents are stored
+  - name: 'post' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Post' # Used in the UI, ie.: "New Post"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    folder: 'site/content/blog' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Titolo", name: "title", widget: "string"}
-      - {label: "Tags", name: "tags", widget: "list", allow_add: true}
-      - {label: "Data Pubblicazione", name: "date", widget: "datetime"}
-      - {label: "Descrizione", name: "description", widget: "text", required: false}
-      - {label: "Descrizione Social", name: "socialDesc", widget: "text", required: false}
-      - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
-      - {label: "Contenuto", name: "body", widget: "markdown"}
+      - { label: 'Titolo', name: 'title', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'list', allow_add: true }
+      - { label: 'Data Pubblicazione', name: 'date', widget: 'datetime' }
+      - { label: 'Descrizione', name: 'description', widget: 'text', required: false }
+      - { label: 'Descrizione Social', name: 'socialDesc', widget: 'text', required: false }
+      - { label: 'Immagine di Anteprima', name: 'image', widget: 'image', required: false }
+      - { label: 'Contenuto', name: 'body', widget: 'markdown' }
 
-  - name: "hotthisweek" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Hot This Week" # Used in the UI, ie.: "New Post"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    folder: "site/content/hotthisweek" # The path to the folder where the documents are stored
+  - name: 'hotthisweek' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Hot This Week' # Used in the UI, ie.: "New Post"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    folder: 'site/content/hotthisweek' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Titolo", name: "title", widget: "string"}
-      - {label: "Data Pubblicazione", name: "date", widget: "datetime"}
-      - {label: "Descrizione", name: "description", widget: "text", required: false}
-      - {label: "Descrizione Social", name: "socialDesc", widget: "text", required: false}
-      - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
-      - {label: "Contenuto", name: "body", widget: "markdown"}
-  - name: "pharmacronimi" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Pharma Acronimi" # Used in the UI, ie.: "New Post"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    folder: "site/content/pharmacronimi" # The path to the folder where the documents are stored
+      - { label: 'Titolo', name: 'title', widget: 'string' }
+      - { label: 'Data Pubblicazione', name: 'date', widget: 'datetime' }
+      - { label: 'Descrizione', name: 'description', widget: 'text', required: false }
+      - { label: 'Descrizione Social', name: 'socialDesc', widget: 'text', required: false }
+      - { label: 'Immagine di Anteprima', name: 'image', widget: 'image', required: false }
+      - { label: 'Contenuto', name: 'body', widget: 'markdown' }
+  - name: 'pharmacronimi' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Pharma Acronimi' # Used in the UI, ie.: "New Post"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    folder: 'site/content/pharmacronimi' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Titolo", name: "title", widget: "string"}
-      - {label: "Data Pubblicazione", name: "date", widget: "datetime"}
-      - {label: "Descrizione", name: "description", widget: "text", required: false}
-      - {label: "Descrizione Social", name: "socialDesc", widget: "text", required: false}
-      - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
-      - {label: "Contenuto", name: "body", widget: "markdown"}
+      - { label: 'Titolo', name: 'title', widget: 'string' }
+      - { label: 'Data Pubblicazione', name: 'date', widget: 'datetime' }
+      - { label: 'Descrizione', name: 'description', widget: 'text', required: false }
+      - { label: 'Descrizione Social', name: 'socialDesc', widget: 'text', required: false }
+      - { label: 'Immagine di Anteprima', name: 'image', widget: 'image', required: false }
+      - { label: 'Contenuto', name: 'body', widget: 'markdown' }
 
-  - name: "pharmaquotes" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Pharma Quotes" # Used in the UI, ie.: "New Post"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    folder: "site/content/pharmaquotes" # The path to the folder where the documents are stored
+  - name: 'pharmaquotes' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Pharma Quotes' # Used in the UI, ie.: "New Post"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    folder: 'site/content/pharmaquotes' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Titolo", name: "title", widget: "string"}
-      - {label: "Data Pubblicazione", name: "date", widget: "datetime"}
-      - {label: "Descrizione", name: "description", widget: "text", required: false}
-      - {label: "Descrizione Social", name: "socialDesc", widget: "text", required: false}
-      - {label: "Immagine di Anteprima", name: "image", widget: "image", required: false}
-      - {label: "Contenuto", name: "body", widget: "markdown"}
+      - { label: 'Titolo', name: 'title', widget: 'string' }
+      - { label: 'Data Pubblicazione', name: 'date', widget: 'datetime' }
+      - { label: 'Descrizione', name: 'description', widget: 'text', required: false }
+      - { label: 'Descrizione Social', name: 'socialDesc', widget: 'text', required: false }
+      - { label: 'Immagine di Anteprima', name: 'image', widget: 'image', required: false }
+      - { label: 'Contenuto', name: 'body', widget: 'markdown' }
+
+  - name: 'pages' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Pagine' # Used in the UI, ie.: "New Post"
+    slug: '{{slug}}'
+    folder: 'site/content/pages' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: 'Titolo', name: 'title', widget: 'string' }
+      - { label: 'Descrizione', name: 'description', widget: 'text', required: false }
+      - { label: 'Descrizione Social', name: 'socialDesc', widget: 'text', required: false }
+      - { label: 'Immagine di Anteprima', name: 'image', widget: 'image', required: false }
+      - { label: 'Contenuto', name: 'body', widget: 'markdown' }
