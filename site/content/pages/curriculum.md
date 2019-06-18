@@ -14,4 +14,4 @@ Ho deciso quindi di risalire l’Italia e toccare il confine svizzero per inizia
 
 La Valtellina mi stava stretta, avevo voglia di imparare ancora di più di un processo produttivo ed è così che ho colto l’opportunità di seguire la produzione dei principi attivi dei farmaci spostandomi, non di molto, nel lodigiano per una nuova avventura nel mondo degli API (Active Pharmaceutical Ingredient). Era però una realtà diversa, forse troppo da quelle a cui ero abituata. Ero sempre più convinta di ritornare nel mondo vero e proprio del Farmaceutico.
 
-Mi sono trasferita così nell’affascinante capoluogo meneghino dove attualmente risiedo
+Mi sono trasferita così nell’affascinante capoluogo meneghino dove attualmente risiedo e da lì è iniziata l’avventura di Farmaceutica Younger, un blog che ho voluto fortemente per aiutare tutte quei ragazzi che come me, all’epoca in cui avevo iniziato, si sono trovati davanti al grande divario tra le nozioni apprese nel mondo accademico e quello farmaceutico.
