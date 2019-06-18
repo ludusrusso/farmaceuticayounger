@@ -11,7 +11,10 @@ socialDesc: >-
   La Food and Drug Administration degli Stati Uniti ha approvato Victoza
   (liraglutide) per il trattamento di pazienti pediatrici di età pari o
   superiore a 10 anni con diabete di tipo 2.
+image: /img/4fc251a3-702c-4ffe-83fd-bd8a0b8ca5b5.png
 ---
+![](/img/4fc251a3-702c-4ffe-83fd-bd8a0b8ca5b5.png)
+
 La Food and Drug Administration degli Stati Uniti ha approvato [Victoza (liraglutide)](https://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-pediatric-patients-type-2-diabetes) per il trattamento di pazienti pediatrici di età pari o superiore a 10 anni con diabete di tipo 2. 
 
 **Victoza è il primo farmaco non insulinico approvato per il trattamento del diabete di tipo 2 in pazienti pediatrici.** La metformina fu approvata per uso pediatrico nel 2000, mentre Victoza è stato approvato per il trattamento di pazienti adulti con diabete di tipo 2 nel 2010.
