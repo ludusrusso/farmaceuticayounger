@@ -1,7 +1,7 @@
 ---
 title: FDA APPROVAL - Victoza
 tags:
-  - farmanews
+  - Farmanews
 date: '2019-06-18T21:31:34+02:00'
 description: >-
   La Food and Drug Administration degli Stati Uniti ha approvato Victoza
