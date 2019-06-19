@@ -3,6 +3,16 @@ title: La top 20 dei CEO delle Big Pharma più pagati del 2018
 tags:
   - articoli
 date: '2019-06-12T09:41:29+02:00'
+description: >-
+  Da 16 a quasi 60 milioni di dollari all’anno. È questo il range entro il quale
+  sono compresi gli stipendi dei 20 CEO più pagati del mondo delle aziende
+  biofarmaceutiche. Come ogni anno, a redigere questa classifica è il sito
+  statunitense specilizzato Fierce Pharma.
+socialDesc: >-
+  Da 16 a quasi 60 milioni di dollari all’anno. È questo il range entro il quale
+  sono compresi gli stipendi dei 20 CEO più pagati del mondo delle aziende
+  biofarmaceutiche. Come ogni anno, a redigere questa classifica è il sito
+  statunitense specilizzato Fierce Pharma.
 ---
 Da 16 a quasi 60 milioni di dollari all’anno. È questo il range entro il quale sono compresi gli stipendi dei 20 CEO più pagati del mondo delle aziende biofarmaceutiche.  Come ogni anno, a redigere questa classifica è il sito statunitense specilizzato [Fierce Pharma](https://www.fiercepharma.com/special-report/top-20-highest-paid-biopharma-ceos-2018).
 
