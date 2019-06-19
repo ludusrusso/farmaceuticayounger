@@ -14,13 +14,13 @@ socialDesc: >-
   biofarmaceutiche. Come ogni anno, a redigere questa classifica è il sito
   statunitense specilizzato Fierce Pharma.
 ---
-Da 16 a quasi 60 milioni di dollari all’anno. È questo il range entro il quale sono compresi gli stipendi dei 20 CEO più pagati del mondo delle aziende biofarmaceutiche.  Come ogni anno, a redigere questa classifica è il sito statunitense specilizzato [Fierce Pharma](https://www.fiercepharma.com/special-report/top-20-highest-paid-biopharma-ceos-2018).
+Da 16 a quasi 60 milioni di dollari all’anno. Sono queste le cifre stellari degli stipendi dei 20 CEO più pagati nel mondo delle aziende biofarmaceutiche durante lo scorso 2018. Come ogni anno, a redigere questa classifica è il sito statunitense specilizzato [Fierce Pharma](https://www.fiercepharma.com/special-report/top-20-highest-paid-biopharma-ceos-2018).
 
-Le grandi sorprese sono due: nelle top 20 non c’è nessuna donna e rimangono fuori molti CEO delle big pharma. Emma Walmsley di GlaxoSmithKline, con i suoi 7,75 milioni di dollari, è lontana dal raggiungere il compenso dei suoi colleghi. Anche se GSK avesse raddoppiato il suo stipendio l'anno scorso, non si sarebbe guadagnata neanche l'ultima posizione. Stessa situazione per alcuni dei suoi colleghi di Big Pharma. Vas Narasimhan di Novartis ha guadagnato nel 2018 9,9 milioni di dollari l’anno, non abbastanza per entrare nelle prime 20 posizioni. Narasimhan è relativamente nuovo in questo ruolo, ma Severin Schwan di Roche, che ha guidato l’azienda in una crescita costante, ha incassato lo scorso anno "solo" 11,76 milioni di franchi. Olivier Brandicourt di Sanofi ha tagliato il suo stipendio, riducendolo a 8,2 milioni di dollari, perchè è stato un anno difficile per l’azienda francese.
+Le grandi sorprese sono due. Nella top 20 non c’è nessuna donna e inoltre rimangono fuori molti CEO delle Big Pharma. Emma Walmsley di GlaxoSmithKline, con i suoi 7,75 milioni di dollari, è lontana dal raggiungere il compenso dei suoi colleghi. Anche se GSK avesse raddoppiato il suo stipendio alla Walmsley, non ce l'avrebbe fatta a raggiungere neanche l'ultima posizione di questa classifica. Stessa situazione per alcuni dei suoi colleghi. Vas Narasimhan di Novartis ha guadagnato nel 2018 9,9 milioni di dollari, non abbastanza per entrare nelle prime 20 posizioni. Narasimhan è relativamente nuovo in questo ruolo, ma Severin Schwan di Roche, che ha guidato l’azienda in una crescita costante, ha incassato lo scorso anno "solo" 11,76 milioni di franchi. Olivier Brandicourt di Sanofi ha tagliato il suo stipendio, riducendolo a 8,2 milioni di dollari, in conseguenza al difficle anno vissuto dall’azienda francese.
 
-Tutti esclusi dalla top 20, scorrendo la quale si scopre che ad avere i compensi più elevati sono i CEO delle biotech relativamente piccole. Sono molti, infatti, i CEO di queste aziende presenti nella lista: Stéphane Bancel di Moderna, John Oyler di BeiGene, Clay Siegall, di Seattle Genetics e Nick Leshly di bluebird bio.
+Tutti esclusi dalla top 20, scorrendo la quale si scopre che ad avere i compensi più elevati sono i CEO delle biotech relativamente piccole: Stéphane Bancel di Moderna, John Oyler di BeiGene, Clay Siegall, di Seattle Genetics e Nick Leshly di bluebird bio.
 
-Ian Read di Pfizer, Alex Gorsky di Johnson & Johnson e Ken Frazier di MSD quest’anno non sono entrati nelle prime cinque posizioni di classifica anche se i loro stipendi sono stati superiori ai 19,5 milioni di dollari. Il CEO di Teva, Kåre Schultz, ha conquistato il podio con il 2° posto nel ranking degli stipendi d’oro con ben 33 milioni di dollari guadagnati nel 2018.
+Ian Read di Pfizer, Alex Gorsky di Johnson & Johnson e Ken Frazier di MSD quest’anno non sono entrati nelle prime cinque posizioni della classifica anche se i loro stipendi sono stati superiori ai 19,5 milioni di dollari. Il CEO di Teva, Kåre Schultz, ha conquistato il podio con il 2° posto nel ranking degli stipendi d’oro con ben 33 milioni di dollari guadagnati nel 2018.
 
 Il CEO di Moderna, Bancel, si è invece classificato primo e ha superato tutti gli altri CEO con la stupefacente cifra di 58,6 milioni di dollari.
 
@@ -36,7 +36,7 @@ Ecco la top 20 dei CEO delle aziende biofarmaceutiche più pagati del 2018:
 
 ![](/img/stephane_bancel.png)
 
-Bancel, con un totale di $ 58,6 milioni ha superato di gran lunga il compenso di tutti gli altri amministratori delegati di importanti produttori di farmaci, di grandi e piccole dimensioni. In effetti, il pacchetto di pagamento 2018 di Bancel era quasi il doppio del compenso registrato dal timoniere più pagato di più, Kare Schultz di Teva. A parte le opzioni su azioni, lo stipendio di Bancel è salito del 32% lo scorso anno a circa $ 863.000, e il suo pagamento di incentivi in ​​denaro è balzato del 20% a $ 1,8 milioni. Complessivamente, la paga del 2018 di Bancel ha gonfiato più di otto volte il suo pacchetto di pagamento del 2017 di $ 6,8 milioni. Bancel è  CEO di Moderna dal 2011. La società sta promuovendo farmaci e vaccini basati sull'RNA messaggero e ha stipulato partnership con AstraZeneca e Merck & Co. su alcuni farmaci candidati. 
+Bancel, con un totale di $ 58,6 milioni ha superato di gran lunga il compenso di tutti gli altri amministratori delegati di importanti produttori di farmaci, di grandi e piccole dimensioni. In effetti, il pacchetto di pagamento del 2018 di Bancel era quasi il doppio del compenso registrato dal Ceo Kare Schultz di Teva.  Complessivamente, la paga del 2018 di Bancel ha visto il suo stipendio gonfiarsi più di otto volte il suo pacchetto di pagamento del 2017 di $ 6,8 milioni. Bancel è  CEO di Moderna dal 2011. La società sta promuovendo farmaci e vaccini basati sull'RNA messaggero e ha stipulato partnership con AstraZeneca e Merck & Co. su alcuni farmaci candidati. 
 
 **\    2. Kare Schultz, Teva**
 
@@ -48,7 +48,7 @@ Bancel, con un totale di $ 58,6 milioni ha superato di gran lunga il compenso di
 
 ![](/img/edit-kaare-schultz_hires.jpg)
 
-Il 2018 potrebbe essere stato il primo anno intero di lavoro del CEO di Teva Kåre Schultz, ma ciò non ha impedito alla società di concedergli un pacchetto di risarcimento che lo collocava nelle prime posizioni dei più pagati del settore farmaceutico. Teva ha consegnato a Schultz un stipendio stellare di $ 32,5 milioni, quasi il doppio di quello che pagato nel 2017, e cinque volte in più della retribuzione del suo predecessore Erez Vigodman nel 2016. Quindi cosa ha fatto la differenza questa volta? Teva ha concesso oltre $ 20 milioni a Schultz dopo che ha accettato il lavoro proposto dall'azienda israeliana.
+Il 2018 potrebbe essere stato il primo anno complessivo da un punto di vista lavorativo del CEO di Teva Kåre Schultz, ma ciò non ha impedito alla società di concedergli un pacchetto di risarcimento che lo colloca nelle prime posizioni dei più pagati del settore farmaceutico. Teva ha consegnato a Schultz un stipendio stellare di $ 32,5 milioni, quasi il doppio di quello pagato nel 2017, e cinque volte in più della retribuzione del suo predecessore Erez Vigodman nel 2016. Quindi cosa ha fatto la differenza questa volta? Teva ha concesso oltre $ 20 milioni a Schultz dopo che ha accettato il lavoro proposto dall'azienda israeliana.
 
 3. **John Oyler, BeiGene**
 
@@ -72,7 +72,7 @@ John Oyler è un raro esempio di straniero che trae beneficio dalla rapida espan
 
 ![null](/img/len-schleifer.jpg)
 
-Schleifer, 66 anni, fondatore e direttore di lunga data di Regeneron, ha ricevuto 26,52 milioni di dollari di risarcimento totale per il 2018. Questo è meno di un aumento dell'1% rispetto alla sua paga di $ 26.508.058 nel 2017, ma ancora sufficiente per classificarlo tra i cinque amministratori delegati più pagati del settore. Il bonus in denaro di Schleifer, legato alla performance finanziaria di Regeneron, è salito da $ 2,47 milioni nel 2017 a $ 2,95 milioni, con un aumento del 19,7%. Questa significativa spinta è stata legata al continuo successo di Eylea, che ha registrato un aumento del 9% nelle vendite del primo trimestre 2019 in tutto il mondo e dell'aumento della diffusione di farmaci per l'asma e l'eczema Dupixent, in fase 3 per la BPCO .
+Schleifer, 66 anni, fondatore e direttore di lunga data di Regeneron, ha ricevuto 26,52 milioni di dollari di risarcimento totale per il 2018. Questo è meno di un aumento dell'1% rispetto alla sua paga di $ 26.51 milioni nel 2017, ma ancora sufficiente per classificarlo tra i cinque amministratori delegati più pagati del settore. Il bonus in denaro di Schleifer, legato alla performance finanziaria di Regeneron, è salito da $ 2,47 milioni nel 2017 a $ 2,95 milioni, con un aumento del 19,7%. Questa significativa spinta è stata legata al continuo successo di Eylea, farmaco per il trattamento della degenerazione maculare legata all’età (AMD) che ha registrato un aumento del 9% nelle vendite del primo trimestre 2019 in tutto il mondo e dell'aumento della diffusione di farmaci per l'asma e l'eczema Dupixent, in fase 3 per la BPCO .
 
 5. **John Milligan, Gilead Sciences**
 
@@ -84,7 +84,7 @@ Schleifer, 66 anni, fondatore e direttore di lunga data di Regeneron, ha ricevut
 
 ![null](/img/milligan.jpg)
 
-Milligan ha collezionato quasi $ 26 milioni di risarcimento lo scorso anno, un totale di $ 10 milioni in più rispetto al 2017. Il suo stipendio è salito leggermente a $ 1,58 milioni e il suo pagamento di incentivi in ​​contanti è salito a $ 3,34 milioni. Ma i suoi premi azionari e opzioni hanno fatto un balzo. Gilead sta scommettendo sul suo nuovo CEO Daniel O'Day per invertire la tendenza di un anno non positivo per l'azienda. Daniel O'Day era stato a capo della divisione farmaceutica di Roche e, prima ancora di Novartis.
+Milligan ha collezionato quasi $ 26 milioni di risarcimento lo scorso anno, con un totale di $ 10 milioni in più rispetto al 2017. Il suo stipendio è salito leggermente ma i suoi premi azionari e opzioni hanno fatto un balzo. Milligan, che si è dimesso improvvisamente a luglio ha ottenuto premi per un valore di $ 9,86 milioni e opzioni valutate a $ 11,13 milioni in parte grazie al suo "separation agreement" con Gilead. Gilead ora sta scommettendo sul suo nuovo CEO, Daniel O'Day, per invertire la tendenza di un anno non positivo per l'azienda. Daniel O'Day era stato a capo della divisione farmaceutica di Roche e, prima ancora di Novartis.
 
 \    6. **Nick Leschly, Bluebird Bio**
           2018: $23.96 milioni
