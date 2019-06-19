@@ -93,7 +93,7 @@ Milligan ha collezionato quasi $ 26 milioni di risarcimento lo scorso anno, con 
 
 ![null](/img/bluebird-hires_750xx4288-2409-0-157.jpg)
 
-Il capo Bio Bluebird Nick Leschly ha battuto ogni CEO di Big Pharma con un pacchetto di pagamento del valore di quasi $ 24 milioni per il 2018. Il suo totale di $ 23,96 milioni è quasi tre volte il suo stipendio del 2017 di $ 8,76 milioni. Un paio di eventi ha fatto la differenza. La terapia genica della beta-talassemia dell'azienda, Zynteglo, ha ottenuto l'ok europeo all'inizio di giugno. E Bluebird si aspetta di presentare la terapia per la revisione della FDA entro la fine del 2019. Bluebird ha investito 80 milioni di dollari in una nuova struttura di produzione progettata per la produzione di Zynteglo se e quando sarà approvata dalla FDA. 
+Il Ceo di Bluebird Bio Nick Leschly ha battuto ogni CEO di Big Pharma con un pacchetto di pagamento del valore di quasi $ 24 milioni per il 2018. Il suo totale di $ 23,96 milioni è quasi tre volte il suo stipendio del 2017 che si aggira intorno ai 9 milioni di dollari. Un paio di eventi hanno fatto la differenza. La terapia genica della beta-talassemia dell'azienda, Zynteglo, ha ottenuto l'ok da parte dell'Agenzia Europea all'inizio di giugno. Inoltre Bluebird Bio si aspetta di presentare la sua terapia per la revisione alla FDA entro la fine del 2019. Bluebird ha investito 80 milioni di dollari in una nuova struttura di produzione progettata per la produzione di Zynteglo se e quando otterrà l'approvazione dalla FDA. 
 
 \    **7. Richard Gonzalez, AbbVie **
           2018: $21.27 milioni 
@@ -102,7 +102,7 @@ Il capo Bio Bluebird Nick Leschly ha battuto ogni CEO di Big Pharma con un pacch
 
 ![null](/img/richard-gonzalez.jpg)
 
-Dopo aver guadagnato un pacchetto retributivo di 21,27 milioni di dollari l'anno scorso, Gonzalez si è unito ai colleghi di Big Pharma all'audizione del Congresso sui prezzi dei farmaci all'inizio del 2018. All'udienza, il senatore Ron Wyden, D-Ore, ha chiesto se il compenso di Gonzalez e in particolare il suo bonus sia legato alle vendite del principale farmaco di AbbVie, Humira, che ha generato quasi $ 20 miliardi l'anno scorso. La sua risposta? "Humira era un elemento di una serie di fattori finanziari che sono stati valutati come parte del mio compenso", ha detto Gonzalez. "Ovviamente è un prodotto molto significativo per noi. Quindi è chiaro che sarebbe parte di quella valutazione. " In effetti, le vendite di Humira e molto altro ancora vanno a determinare la remunerazione di Gonzalez. E per il 2018, il suo compenso è diminuito un pò, ma è arrivato a $ 21 milioni.
+Dopo aver guadagnato un pacchetto retributivo di 21,27 milioni di dollari l'anno scorso, Gonzalez si è unito ai colleghi di Big Pharma all'audizione del Congresso sui prezzi dei farmaci all'inizio del 2018. All'udienza, il senatore Ron Wyden, D-Ore, ha chiesto se il compenso di Gonzalez e in particolare il suo bonus sia legato alle vendite del principale farmaco di AbbVie, Humira, che ha generato quasi $ 20 miliardi l'anno scorso. La sua risposta? "Humira era un elemento di una serie di fattori finanziari che sono stati valutati come parte del mio compenso", ha detto Gonzalez. "Ovviamente è un prodotto molto significativo per noi. Quindi è chiaro che sarebbe parte di quella valutazione. " In effetti, le vendite di Humira vanno a determinare la remunerazione di Gonzalez. Per il 2018, il suo compenso è diminuito un pò, ma ha raggiunto quota 21 milioni di dollari.
 
 \    ** 8. Kenneth Frazier, Merck & Co.**
           2018: $20.93 milioni
@@ -111,12 +111,12 @@ Dopo aver guadagnato un pacchetto retributivo di 21,27 milioni di dollari l'anno
 
 ![null](/img/merck.jpg)
 
-ll pacchetto retributivo totale di Frazier di $ 20,9 milioni include non solo un aumento del salario del 2%, ma anche un aumento delle sue azioni e i premi per le opzioni, così come i suoi benefici del piano di incentivi in ​​contanti. Frazier è stato ricompensato profumatamente per la performance di Merck, che lo scorso anno è stata guidata in gran parte dal blockbuster di immuno-oncologia Keytruda. Le sue vendite sono quasi raddoppiate a $ 7,17 miliardi, in quanto Merck ha aggiunto le approvazioni della FDA per il farmaco nel carcinoma della cervice, nel carcinoma a cellule di Merkel e nel linfoma a grandi cellule B primario mediastinico. La performance di Keytruda ha contribuito a spingere le vendite totali dell'azienda del 5% nel 2018 a 42,3 miliardi di dollari, una crescita alimentata anche dalla forte domanda di vaccino e prodotti per la salute degli animali. Il consiglio ha riconosciuto Frazier per aver guidato l'azienda durante questo periodo di crescita, aumentando il suo premio di incentivo a lungo termine di $ 500.000, che ha portato il valore totale del suo pacchetto di sussidi a $ 13 milioni. La società ha aumentato il pacchetto di compensazione diretta totale di Frazier del 3,6%.
+ll pacchetto retributivo totale di Frazier di $ 20,9 milioni include non solo un aumento del salario del 2%, ma anche un aumento delle sue azioni e i premi per le opzioni, così come i suoi benefici del piano di incentivi in ​​contanti. Frazier è stato ricompensato profumatamente per la performance di Merck, che lo scorso anno è stata guidata in gran parte dal blockbuster di immuno-oncologia Keytruda. Le sue vendite sono quasi raddoppiate, in quanto Merck ha aggiunto le approvazioni della FDA per il farmaco nel carcinoma della cervice, nel carcinoma a cellule di Merkel e nel linfoma a grandi cellule B primario mediastinico. La performance di Keytruda ha contribuito a spingere le vendite totali dell'azienda del 5% nel 2018 a 42,3 miliardi di dollari. Il consiglio ha riconosciuto a Frazier la capacità di aver guidato l'azienda durante questo periodo di crescita, aumentando il suo premio di incentivo a lungo termine di $ 500.000, che ha portato il valore totale del suo pacchetto retributivo a quasi 21 milioni di dollari. 
  
 
 \    **  9. Alex Gorsky, Johnson & Johnson**
-           2018 pay: $20.10 milioni
-           2017 pay: $29.80 milioni
+           2018: $20.10 milioni
+           2017: $29.80 milioni
            Change: -32%
 
 ![null](/img/johnson-johnson.jpg)
@@ -130,7 +130,7 @@ Alex Gorsky, CEO di Johnson & Johnson ha visto ancora il calo del suo salario an
 
 ![null](/img/ceo-paul-campanelli-v2.jpg)
 
-Campanelli, che ha preso le redini  come CEO di Endo a fine 2016, ha incassato $ 19,97 milioni nel 2018, rispetto ai $ 13,6 milioni dell'anno precedente. Quindi, per il 2018, la paga di Campanelli lo colloca nella top 10 dei CEO più pagati delle Big Pharma. Campanelli è approdato in Endo per mezzo di Par Pharmaceutical, il produttore di generici Endo acquistato nel 2015. Poco dopo l'acquisizione, la concorrenza dei generici statunitensi è peggiorata, e il carico di debito di Endo è salito notevolmente. Così, Campanelli ha avviato un piano di turnaround che ha portato Endo a focalizzarsi su prodotti iniettabili sterili e farmaci mirati a ridurre il proprio debito.
+Campanelli, che ha preso le redini come CEO di Endo a fine 2016, ha incassato $ 19,97 milioni nel 2018, rispetto ai $ 13,6 milioni dell'anno precedente. Quindi, per il 2018, la paga di Campanelli lo colloca nella top 10 dei CEO più pagati delle Big Pharma. Campanelli è approdato in Endo per mezzo di Par Pharmaceutical, il produttore di generici Endo acquistato nel 2015. Poco dopo l'acquisizione, la concorrenza dei generici statunitensi è peggiorata, e il carico di debito di Endo è salito notevolmente. Così, Campanelli ha avviato un piano di turnaround che ha portato Endo a focalizzarsi su prodotti iniettabili sterili e farmaci mirati a ridurre il proprio debito.
 
    **\    11. Ian Read, Pfizer**
              2018: $19.55 milioni
@@ -160,7 +160,7 @@ Giovanni Caforio ha registrato un aumento del 4% nel 2018 portando il suo compen
 
 ![null](/img/vertex.jpg)
 
-Il 2018 per Vertex Pharmaceuticals è stato un anno di grandi vittorie. L'azienda ha lanciato il suo terzo farmaco per la fibrosi cistica, Symdeko, registrando un aumento del 40%. Complessivamente, è stato un anno "straordinario", abbastanza per garantire al CEO Jeffrey Leiden un aumento del 9%. Leiden ha incassato 18,8 milioni di dollari. I suoi premi azionari e di opzioni sono saliti di quasi $ 1,6 milioni a oltre $ 12 milioni, portando il suo totale fino a $ 18,8 milioni da $ 17,2 milioni nel 2017. Il pacchetto retributivo di Leiden lo classifica 13 ° tra i più ricchi CEO biopharma per il 2018. Si colloca dietro a Giovanni Caforio di Bristol-Myers Squibb, che ha incassato un pacchetto di 19,38 milioni di dollari, precedendo Robert Bradway di Amgen che ha incassato 18,56 milioni di dollari.
+Il 2018 per Vertex Pharmaceuticals è stato un anno di grandi vittorie. L'azienda ha lanciato il suo terzo farmaco per la fibrosi cistica, Symdeko, registrando un aumento del 40% delle entrate. Complessivamente, è stato un anno "straordinario", abbastanza per garantire al CEO Jeffrey Leiden un aumento del 9%. Leiden ha incassato 18,8 milioni di dollari. I suoi premi azionari e di opzioni sono saliti di quasi $ 1,6 milioni a oltre $ 12 milioni, portando il suo totale fino a $ 18,8 milioni da $ 17,2 milioni nel 2017. Il pacchetto retributivo di Leiden lo classifica 13 ° tra i più ricchi CEO biopharma per il 2018. Si colloca dietro a Giovanni Caforio di Bristol-Myers Squibb, che ha incassato un pacchetto di 19,38 milioni di dollari, precedendo Robert Bradway di Amgen che ha incassato 18,56 milioni di dollari.
 
   **\    14. Robert Bradway, Amgen **
                2018: $18.56 milioni
