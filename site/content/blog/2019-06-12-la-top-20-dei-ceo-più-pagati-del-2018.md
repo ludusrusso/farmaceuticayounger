@@ -79,36 +79,31 @@ Milligan ha collezionato quasi $ 26 milioni di risarcimento lo scorso anno, un t
 
 ![null](/img/bluebird-hires_750xx4288-2409-0-157.jpg)
 
-Il capo Bio Bluebird Nick Leschly ha battuto ogni CEO di Big Pharma con un pacchetto di pagamento del valore di quasi $ 24 milioni per il 2018. Il suo totale di $ 23,96 milioni è quasi tre volte il suo stipendio del 2017 di $ 8,76 milioni. Un paio di eventi ha fatto la differenza. La terapia genica della beta-talassemia dell'azienda, Zynteglo, ha ottenuto l'ok europeo all'inizio di giugno. E Bluebird si aspetta di presentare la terapia per la revisione della FDA entro la fine del 2019. Questo è un grande passo avanti per un prodotto che ha affrontato la sua quota di battute d'arresto, compresi i dati di prova iniziali che hanno indotto Bluebird a revisionare il suo processo di produzione. Bluebird ha investito 80 milioni di dollari in una nuova struttura di produzione progettata per scalare la produzione di Zynteglo se e quando sarà approvata dalla FDA. Per quanto riguarda il lancio europeo, ha un accordo con Novasep per la produzione di terapie geniche in un sito in Belgio.
+Il capo Bio Bluebird Nick Leschly ha battuto ogni CEO di Big Pharma con un pacchetto di pagamento del valore di quasi $ 24 milioni per il 2018. Il suo totale di $ 23,96 milioni è quasi tre volte il suo stipendio del 2017 di $ 8,76 milioni. Un paio di eventi ha fatto la differenza. La terapia genica della beta-talassemia dell'azienda, Zynteglo, ha ottenuto l'ok europeo all'inizio di giugno. E Bluebird si aspetta di presentare la terapia per la revisione della FDA entro la fine del 2019. Bluebird ha investito 80 milioni di dollari in una nuova struttura di produzione progettata per la produzione di Zynteglo se e quando sarà approvata dalla FDA. 
 
-1. 7. Richard Gonzalez, AbbVie 
-      2018 pay: $21.27 million 
-      2017 pay: $22.63 million 
-      Change: -6% 
+\    **7. Richard Gonzalez, AbbVie **
+          2018: $21.27 milioni 
+          2017: $22.63 milioni
+          Change: -6% 
 
 ![null](/img/richard-gonzalez.jpg)
 
-Dopo aver guadagnato un pacchetto retributivo di 21,27 milioni di dollari l'anno scorso, Gonzalez si è unito ai colleghi di Big Pharma all'audizione del Congresso sui prezzi dei farmaci all'inizio del 2018. All'udienza, il senatore Ron Wyden, D-Ore, ha chiesto se il compenso di Gonzalez - in particolare il suo bonus- è legato alle vendite del principale farmaco di AbbVie, Humira, che ha generato quasi $ 20 miliardi l'anno scorso.
- La sua risposta?
- "Humira era un elemento di una serie di fattori finanziari che sono stati valutati come parte del mio compenso", ha detto Gonzalez. "Ovviamente è un prodotto molto significativo per noi. Quindi è chiaro che sarebbe parte di quella valutazione. "
-In effetti, le entrate, le entrate, le vendite di Humira e molto altro ancora vanno a determinare la remunerazione a incentivo a breve termine di Gonzalez, come afferma la società per procura. E per il 2018, quel numero in realtà è diminuito un po ', ma è arrivato a quasi $ 4 milioni.
+Dopo aver guadagnato un pacchetto retributivo di 21,27 milioni di dollari l'anno scorso, Gonzalez si è unito ai colleghi di Big Pharma all'audizione del Congresso sui prezzi dei farmaci all'inizio del 2018. All'udienza, il senatore Ron Wyden, D-Ore, ha chiesto se il compenso di Gonzalez e in particolare il suo bonus sia legato alle vendite del principale farmaco di AbbVie, Humira, che ha generato quasi $ 20 miliardi l'anno scorso. La sua risposta? "Humira era un elemento di una serie di fattori finanziari che sono stati valutati come parte del mio compenso", ha detto Gonzalez. "Ovviamente è un prodotto molto significativo per noi. Quindi è chiaro che sarebbe parte di quella valutazione. " In effetti, le vendite di Humira e molto altro ancora vanno a determinare la remunerazione di Gonzalez. E per il 2018, il suo compenso è diminuito un pò, ma è arrivato a $ 21 milioni.
 
-1. 8. Kenneth Frazier, Merck & Co.
-      2018 pay: $20.93 million
-      2017 pay: $17.64 million
-      Change: 19%
+\    ** 8. Kenneth Frazier, Merck & Co.**
+          2018: $20.93 milioni
+          2017: $17.64 milioni
+          Change: 19%
 
 ![null](/img/merck.jpg)
 
-ll pacchetto retributivo totale di Frazier (PDF) di $ 20,9 milioni includeva non solo un aumento del salario del 2% a $ 1,61 milioni, ma aumenta anche le sue azioni e i premi per le opzioni, così come i suoi benefici del piano di incentivi in ​​contanti.
- Frazier è stato ricompensato profumatamente per la performance di Merck, che lo scorso anno è stata guidata in gran parte dal blockbuster di immuno-oncologia Keytruda. Le sue vendite sono quasi raddoppiate a $ 7,17 miliardi, in quanto Merck ha aggiunto le approvazioni della FDA per il farmaco nel carcinoma della cervice, nel carcinoma a cellule di Merkel e nel linfoma a grandi cellule B primario mediastinico. La performance di Keytruda ha contribuito a spingere le vendite totali dell'azienda del 5% nel 2018 a 42,3 miliardi di dollari, una crescita alimentata anche dalla forte domanda di vaccino e prodotti per la salute degli animali.
- Il consiglio ha riconosciuto Frazier per aver guidato l'azienda durante questo periodo di crescita, aumentando il suo premio di incentivo a lungo termine di $ 500.000, che ha portato il valore totale del suo pacchetto di sussidi a $ 13 milioni. La società ha aumentato il pacchetto di compensazione diretta totale di Frazier del 3,6%.
- Frazier ha lavorato sodo per diversificare il gasdotto Merck oltre Keytruda, e verso questa fine, la società ha firmato 60 accordi nel 2018. Ha formato un patto di 5,76 miliardi di dollari con Eisai per sviluppare la medicina del cancro Lenvima, ad esempio, e ha pagato $ 394 milioni per acquistare Viralytics , uno sviluppatore di virus progettati per uccidere il cancro.
+ll pacchetto retributivo totale di Frazier di $ 20,9 milioni include non solo un aumento del salario del 2%, ma anche un aumento delle sue azioni e i premi per le opzioni, così come i suoi benefici del piano di incentivi in ​​contanti. Frazier è stato ricompensato profumatamente per la performance di Merck, che lo scorso anno è stata guidata in gran parte dal blockbuster di immuno-oncologia Keytruda. Le sue vendite sono quasi raddoppiate a $ 7,17 miliardi, in quanto Merck ha aggiunto le approvazioni della FDA per il farmaco nel carcinoma della cervice, nel carcinoma a cellule di Merkel e nel linfoma a grandi cellule B primario mediastinico. La performance di Keytruda ha contribuito a spingere le vendite totali dell'azienda del 5% nel 2018 a 42,3 miliardi di dollari, una crescita alimentata anche dalla forte domanda di vaccino e prodotti per la salute degli animali. Il consiglio ha riconosciuto Frazier per aver guidato l'azienda durante questo periodo di crescita, aumentando il suo premio di incentivo a lungo termine di $ 500.000, che ha portato il valore totale del suo pacchetto di sussidi a $ 13 milioni. La società ha aumentato il pacchetto di compensazione diretta totale di Frazier del 3,6%.
+ 
 
-1. 9. Alex Gorsky, Johnson & Johnson
-      2018 pay: $20.10 million
-      2017 pay: $29.80 million
-      Change: -32%
+\    **  9. Alex Gorsky, Johnson & Johnson**
+           2018 pay: $20.10 milioni
+           2017 pay: $29.80 milioni
+           Change: -32%
 
 ![null](/img/johnson-johnson.jpg)
 
