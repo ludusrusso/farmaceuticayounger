@@ -183,21 +183,16 @@ Nel suo secondo anno al timone, Ricks ha ottenuto un aumento del 9% del suo pacc
 
 ![null](/img/alkermes.jpg)
 
-Non è stato il 2018 più facile per il biotech irlandese Alkermes dopo che un comitato consultivo della FDA ha criticato a lungo la sua droga di disturbo depressivo maggiore (MDD) della fase 3 a novembre. Nonostante questa battuta d'arresto, il CEO Richard Pops ha avuto un anno molto lucrativo, ma le cose potrebbero cambiare quando la sua paga del 2019 è in crescita.
- Pops ha visto il suo compenso totale quasi raddoppiare nel 2018 a $ 17,06 milioni, facendolo salire sulla lista dei CEO più pagati nel settore farmaceutico e biotecnologico. Nel 2017, il risarcimento di Pops si è attestato a $ 9,38 milioni, in base alla presentazione della delega della società. Questo è un aumento del 81,8% all'anno. Il problema è iniziato con la FDA che ha rifiutato di rivedere l'applicazione dell'azienda per il farmaco in aprile, citando una mancanza di prove cliniche sufficienti per dimostrare che il farmaco antidepressivo a base di oppioidi era sicuro ed efficace. Qualche settimana dopo, la FDA ha fatto un balzo in avanti su quella decisione, ma un comitato consultivo ha in seguito messo la droga in esplosione, votando 21-2 contro la raccomandazione per l'approvazione federale.
+Non è stato il 2018 più facile per la biotech irlandese Alkermes dopo che un comitato consultivo della FDA a novembre ha criticato a lungo il suo farmaco per il disturbo depressivo maggiore (MDD). Nonostante questa battuta d'arresto, il CEO Richard Pops ha avuto un anno molto positivo in termini di compensi ricevuti. Pops ha visto il suo compenso totale quasi raddoppiare nel 2018 a $ 17,06 milioni, facendolo salire sulla lista dei CEO più pagati nel settore farmaceutico e biotecnologico. Nel 2017, il risarcimento di Pops ha raggiunto i $ 9,38 milioni. I problemi sono iniziati quando l'Agenzia statunitense ha rifiutato di rivedere l'applicazione consegnata dall'azienda per il farmaco per una mancanza di prove cliniche sufficienti a dimostrare che il farmaco antidepressivo a base di oppioidi era sicuro ed efficace. 
 
-1. Ludwig Hantson, Alexion Pharmaceuticals
-   2018 pay: $16.49 million
-   2017 pay: $15.31 million
-   Change: 8%
+\    **18. Ludwig Hantson, Alexion Pharmaceuticals**
+              2018: $16.49 milioni
+              2017: $15.31 milioni
+              Change: 8%
 
 ![null](/img/alexion.png)
 
-Nel suo primo anno intero ad Alexion, Ludwig Hantson ha accumulato 16,5 milioni di dollari nel 2018, addirittura superiore a 16,2 milioni di dollari di Mark Alles, CEO di Celgene.
- Hantson è balzato su Alexion da Baxalta, che è partito da Baxter nel 2015 e da quando è stato venduto a Shire, in un momento turbolento. L'allora CEO David Hallal e l'ex CFO Vikas Sinha erano usciti in mezzo a una indagine interna su pratiche commerciali scorrette. E dal momento della nomina di Hantson nel 2017, Alexion ha riunito una squadra completamente pulita sul suo gruppo dirigente.
- I nuovi dirigenti hanno riorganizzato la nave rapidamente mentre Hantson ha guidato una campagna per spostare la strategia di sviluppo dell'azienda dalle malattie ultrareal alle malattie meno rare per ampliare il suo bacino di potenziali pazienti. E la linea di vertice dell'azienda lo ha dimostrato: le vendite del 2018 sono state di $ 4,13 miliardi, con un aumento del 16% rispetto al 2017 e un battito facile all'obiettivo aziendale di $ 3,92 miliardi.
- Inoltre, sotto Hantson, Alexion ha ottenuto una prima approvazione della FDA per il suo follow-up di Soliris Ultomiris a dicembre. Ha trasferito la sua sede dal Connecticut al centro biotech di Boston per essere più vicino al pool di talenti biofarmaceutici e assunto 1.000 nuovi dipendenti.
- Dopo tutto ciò, Hantson ha guadagnato lo stipendio base di $ 1,2 milioni e ha visto i suoi premi azionari del 2018 salire a $ 12,4 milioni da $ 9,6 milioni nel 2017.
+Nel suo primo anno completo ad Alexion, Ludwig Hantson ha guadagnato 16,5 milioni di dollari nel 2018, collocandosi al terzultimo posto dei Ceo più pagati del 2018 nel mondo delle Big Pharma, guadagnando più di Mark Alles, CEO di Celgene. Hantson è arrivato ad Alexion da Baxalta. L'allora CEO David Hallal e l'ex CFO Vikas Sinha erano usciti in mezzo a una indagine interna su pratiche commerciali scorrette. E dal momento della nomina di Hantson nel 2017, Alexion ha riunito una squadra completamente pulita sul suo gruppo dirigente. I nuovi dirigenti hanno riorganizzato la nave rapidamente mentre Hantson ha guidato una campagna per spostare la strategia di sviluppo dell'azienda dalle malattie ultrareal alle malattie meno rare per ampliare il suo bacino di potenziali pazienti. Le vendite del 2018 sono state di $ 4,13 miliardi, con un aumento del 16% rispetto al 2017 e un battito facile all'obiettivo aziendale di $ 3,92 miliardi. Inoltre, sotto Hantson, Alexion ha ottenuto una prima approvazione della FDA per il suo follow-up di Soliris Ultomiris a dicembre. Ha trasferito la sua sede dal Connecticut al centro biotech di Boston per essere più vicino al pool di talenti biofarmaceutici e assunto 1.000 nuovi dipendenti. Dopo tutto ciò, Hantson ha guadagnato lo stipendio base di $ 1,2 milioni e ha visto i suoi premi azionari del 2018 salire a $ 12,4 milioni da $ 9,6 milioni nel 2017.
 
 1. Mark Alles, Celgene
    2018 pay: $16.22 million
