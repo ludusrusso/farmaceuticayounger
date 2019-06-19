@@ -107,8 +107,7 @@ ll pacchetto retributivo totale di Frazier di $ 20,9 milioni include non solo un
 
 ![null](/img/johnson-johnson.jpg)
 
-CEO Alex Gorsky ha visto ancora il suo calo dei salari, e non solo un po '.
- Gorsky ha pagato un taglio salariale di $ 9 milioni oltre a $ 20,1 milioni da $ 29,8 milioni nel 2017, con il suo valore pensionistico che subisce il peso del calo. Lo stipendio base di Gorsky, d'altro canto, è salito - se non di poco - dopo un anno in cui J & J ha superato gli obiettivi di crescita delle vendite e dell'EPS e raggiunto altri obiettivi strategici, tra cui il rafforzamento della pipeline e la creazione di valore attraverso operazioni di fusione e acquisizione. Ha registrato $ 1,64 milioni, con un incremento di $ 42.308.
+Alex Gorsky, CEO di Johnson & Johnson ha visto ancora il calo del suo salario annuo, e non di poco. Gorsky ha pagato un taglio salariale di $ 9 milioni passando dai $ 29,8 milioni nel 2017 a $ 20,1 milioni nel 2018. Lo stipendio base di Gorsky, d'altro canto, è salito dopo un anno in cui J& J ha superato gli obiettivi di crescita delle vendite e raggiunto altri obiettivi strategici, tra cui il rafforzamento della pipeline e la creazione di valore attraverso operazioni di fusione e acquisizione. 
 
 1. Paul Campanelli, Endo
    2018 pay: $19.97 million
