@@ -156,33 +156,30 @@ Il 2018 per Vertex Pharmaceuticals è stato un anno di grandi vittorie. L'aziend
 ![null](/img/amgen.jpg)
 
 Amgen nel 2018 ha ottenuto un'importante approvazione per i farmaci e avanzato la sua pipeline. Tutti questi progressi hanno avuto un ruolo nel primo grande rilancio del CEO Bob Bradway dal 2015.
-La retribuzione del 2018 di Bradway di $ 18,6 milioni è salita del 10% rispetto al 2017. Il suo stipendio è cresciuto di $ 1,57 milioni, mentre il suo bonus di incentivo annuale è cresciuto da 2,7 milioni a circa $ 3,9 milioni. Con la somma totale della cifra guadagnata da Bradway occupa Bradway 14 ° tra i CEO biopharma meglio pagati, dietro a Jeffrey Leiden di Vertex e davanti a Clay Siegall di Seattle Genetics.
+La retribuzione del 2018 di Bradway di $ 18,6 milioni è salita del 10% rispetto al 2017. Il suo stipendio è cresciuto di $ 1,57 milioni, mentre il suo bonus di incentivo annuale è cresciuto da 2,7 milioni a circa $ 3,9 milioni. Con la somma totale della cifra guadagnata da Bradway, il Ceo di Amgen occupa il 14 ° posto tra i Ceo delle biopharma più pagati, dietro a Jeffrey Leiden di Vertex e davanti a Clay Siegall di Seattle Genetics.
 
-1. Clay Siegall, Seattle Genetics
-   2018 pay: $18.10 million
-   2017 pay: $8.62 million
-   Change: 110%
+\    **\    15. Clay Siegall, Seattle Genetics**
+                2018: $18.10 milioni
+                2017: $8.62 milioni
+                Change: 110%
 
 ![null](/img/seattle.jpg)
 
-Ogni elemento pubblicitario del CEO di Seattle Genetics Clay Siegall è aumentato del 2018, e insieme hanno totalizzato fino a 18,1 milioni di dollari, più del doppio degli 8,6 milioni di dollari registrati nel 2017.
- Qual è stato il carburante dietro a questa salita da fuoristrada? La droga Adcetris del tumore del sangue in parte di Seattle, che ha incrementato le vendite di più della metà e ha compiuto diversi passi verso ancora di più.
- Ad esempio, il farmaco ha ottenuto un'approvazione chiave chemio-combinata nel linfoma di Hodgkin classico di nuova diagnosi, tardivo, che Siegall descrisse come la "più grande opportunità di mercato" della società - e colpire quella pietra miliare era un'altra ragione per la crisi salariale di Siegall.
- E a novembre, Adcetris è diventato il primo trattamento approvato dalla FDA nel linfoma periferico delle cellule T in prima linea. Quel cenno è venuto sotto il percorso di Real-Time Oncology Review della FDA, meno di due settimane dopo che la società ha completato la sua applicazione e sei mesi prima del previsto. E il totale di Siegall ha superato quelli di molti dei suoi pari, inclusi i CEO che servono in alcuni dei più grandi pharma del mondo. Ad esempio, David Ricks, al suo secondo anno dietro la ruota di Eli Lilly, ha incassato $ 17,2 milioni nel risarcimento 2018.
+Il CEO di Seattle Genetics Clay Siegall ha cisto un incremento di più del doppio arrivando a quota 18,1 milioni di dollari nel 2018, rispetto agli 8,6 milioni di dollari del 2017. Adcetris ha visto un incrementato significativo delle vendite. Il farmaco ha inoltre ottenuto un'approvazione chiave chemio-combinata nel linfoma di Hodgkin classico di nuova diagnosi, tardivo, che Siegall descrisse come la "più grande opportunità di mercato" della società. E a novembre, Adcetris è diventato il primo trattamento approvato dalla FDA nel linfoma periferico delle cellule T in prima linea. E il totale guadagnato da Siegall ha superato quelli di molti dei suoi pari, inclusi i CEO di alcune delle più grandi Pharma del mondo. Ad esempio, David Ricks, al suo secondo anno al timone di Eli Lilly, ha incassato "solo" $ 17,2 milioni nel 2018.
 
-1. David Ricks, Eli Lilly 
-   2018 pay: $17.23 million 
-   2017 pay: $15.85 million 
-   Change: 9% 
+  **\    16. David Ricks, Eli Lilly **
+              2018: $17.23 milioni
+              2017: $15.85 milioni 
+              Change: 9% 
 
 ![null](/img/lilly.jpg)
 
-Nel suo secondo anno al timone, Ricks ha guadagnato un aumento del 9% per un pacchetto retributivo totale di $ 17,23 milioni. Il suo stipendio base ha raggiunto $ 1,4 milioni e il suo consiglio ha concesso un bonus in contanti di $ 3,63 milioni basato sulle prestazioni finanziarie e dei gasdotti. Inoltre, ha compensato due tipi di sovvenzioni azionarie basate sulla performance che misurano il comportamento della società nei confronti di un gruppo di pari che include AbbVie, Gilead Sciences e Pfizer.
+Nel suo secondo anno al timone, Ricks ha ottenuto un aumento del 9% del suo pacchetto retributivo totale di $ 17,23 milioni. Oltre a supervisionare alcuni importanti lanci di farmaci, vale a dire il farmaco contro il cancro Verzenio e la terapia immunologica, Olumiant, Ricks si è impegnata a tagliare i costi, a incanalare più denaro verso la ricerca e lo sviluppo e a distribuire i profitti agli azionisti. Verzenio e Olumiant stanno iniziando a registrare vendite significative. Ciascuno ha portato in casa guadagni per più di $ 200 milioni nel 2018. E Lilly si aspetta che il suo farmaco più recente Emgality, serva da punto di riferimento per una nuova era nella terapia dell'emicrania. Tutto sommato nel 2018, Lilly ha registrato un aumento del fatturato del 7% a $ 24,56 miliardi. L'utile netto per l'anno è stato di $ 3,23 miliardi dopo una perdita di $ 204 milioni nel 2017.
 
-1. Richard Pops, Alkermes
-   2018 pay: $17.06 million
-   2017 pay: $9.38 million
-   Change: 81.8%
+   **   17. Richard Pops, Alkermes**
+            2018: $17.06 milioni
+            2017: $9.38 milioni
+            Change: 81.8%
 
 ![null](/img/alkermes.jpg)
 
