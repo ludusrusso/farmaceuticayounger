@@ -1,5 +1,5 @@
 ---
-title: La top 20 dei CEO più pagati del 2018
+title: La top 20 dei CEO delle Big Pharma più pagati del 2018
 tags:
   - articoli
 date: '2019-06-12T09:41:29+02:00'
@@ -24,6 +24,8 @@ Ecco la top 20 dei CEO delle aziende biofarmaceutiche più pagati del 2018:
 
 \    Change: +761% 
 
+![](/img/stephane_bancel.png)
+
 Bancel, con un totale di $ 58,6 milioni ha superato di gran lunga il compenso di tutti gli altri amministratori delegati di importanti produttori di farmaci, di grandi e piccole dimensioni. In effetti, il pacchetto di pagamento 2018 di Bancel era quasi il doppio del compenso registrato dal timoniere più pagato di più, Kare Schultz di Teva. A parte le opzioni su azioni, lo stipendio di Bancel è salito del 32% lo scorso anno a circa $ 863.000, e il suo pagamento di incentivi in ​​denaro è balzato del 20% a $ 1,8 milioni. Complessivamente, la paga del 2018 di Bancel ha gonfiato più di otto volte il suo pacchetto di pagamento del 2017 di $ 6,8 milioni. Bancel è  CEO di Moderna dal 2011. La società sta promuovendo farmaci e vaccini basati sull'RNA messaggero e ha stipulato partnership con AstraZeneca e Merck & Co. su alcuni farmaci candidati. 
 
 **\    2. Kare Schultz, Teva**
@@ -33,6 +35,8 @@ Bancel, con un totale di $ 58,6 milioni ha superato di gran lunga il compenso di
 \    2017: $17.03 milioni
 
 \    Change: 91%
+
+![](/img/edit-kaare-schultz_hires.jpg)
 
 Il 2018 potrebbe essere stato il primo anno intero di lavoro del CEO di Teva Kåre Schultz, ma ciò non ha impedito alla società di concedergli un pacchetto di risarcimento che lo collocava nelle prime posizioni dei più pagati del settore farmaceutico. Teva ha consegnato a Schultz un stipendio stellare di $ 32,5 milioni, quasi il doppio di quello che pagato nel 2017, e cinque volte in più della retribuzione del suo predecessore Erez Vigodman nel 2016. Quindi cosa ha fatto la differenza questa volta? Teva ha concesso oltre $ 20 milioni a Schultz dopo che ha accettato il lavoro proposto dall'azienda israeliana.
 
@@ -212,9 +216,5 @@ La società, dopo tutto, ha subito un rifiuto da parte della FDA sul suo candida
 
 ![null](/img/biogen.jpg)
 
-Ultima posizione tra i CEO più pagati delle Big Pharma per Michel Vounatsos di Biogen. Il suo candidato alla droga di Alzheimer, aducanumab, ha fallito all'inizio di quest'anno, toccando l'esodo degli investitori. Questo fallimento è stato aggravato dai timori di appiattimento delle vendite nella principale unità di sclerosi multipla di Biogen. Vounatsos ha avuto una spinta in ogni categoria del suo compenso. Il suo stipendio base è stato aumentato da $ 1,09 milioni a $ 1,28 milioni. Il valore dei suoi premi azionari è passato da $ 9,9 milioni a $ 11 milioni. Tutto sommato, è aumentato del 18%.
- La fortuna di Vounatsos nel 2018 proveniva da un prodotto chiave: Spinraza, il farmaco di Biogen per il trattamento dell'atrofia muscolare spinale (SMA). Le sue vendite sono state pari a $ 1,7 miliardi nel 2018, rispetto a $ 884 milioni dell'anno precedente. Ciò ha contribuito a spingere le entrate totali della Biogen a un record di $ 13,5 miliardi per l'anno. Spinraza è "uno dei lanci più impressionanti nella storia dell'industria biofarmaceutica", ha affermato l'azienda nel suo proxy (PDF).
- Il successo del lancio di Spinraza ha contribuito a ridurre la sottoperformance rispetto ad altri prodotti chiave. Le entrate della compagnia sono cresciute anno su anno a $ 9,1 miliardi, anche se le vendite di Tecfidera hanno superato le stime degli analisti nel quarto trimestre, arrivando a $ 1,1 miliardi.
- Una ragione per la spinta: Vounatsos ha beneficiato nel 2018 di una modifica al suo bonus annuale. Il board ha aumentato il suo bonus annuale target dal 125% dello stipendio base nel 2017 al 140%, ma non ha modificato i piani bonus di nessuno degli altri quattro top manager della compagnia.
- Secondo il proxy, Vounatsos è stata premiata non solo per i ricavi record di Biogen nel 2018, ma anche per guidare i cambiamenti nei "core process" dell'azienda per migliorare l'efficienza operativa, l'allocazione del capitale e l'ottimizzazione degli asset. "Il board ha anche determinato che ha aiutato a diversificare la pipeline dell'azienda completando sei transazioni, tra cui un'opzione di $ 375 milioni per acquisire un trattamento per ictus da TMS. Biogen ha anche aumentato la quota di proprietà nella joint venture biosimilari Samsung Bioepis dal 5% a poco meno del 50% durante l'anno.
- Tuttavia, i Vounatsos potrebbero affrontare molte più sfide nel 2019. Con il fallimento di aducanumab, Biogen è sotto pressione per ritirarsi dall'Alzheimer e perseguire progetti di pipeline più promettenti, che potrebbe dover acquisire. Nel frattempo, si troverà di fronte a una nuova competizione per Spinraza, in quanto Novartis ha ottenuto l'approvazione della FDA a maggio per la terapia genica per il trattamento della SMA.
+Ultima posizione tra i CEO più pagati delle Big Pharma per Michel Vounatsos di Biogen. Non è stato un anno facile per la società. Il suo candidato farmaco per l'Alzheimer, aducanumab, ha fallito all'inizio di quest'anno, portando all'esodo degli investitori. Questo fallimento è stato aggravato dai timori di appiattimento delle vendite nella principale unità di sclerosi multipla di Biogen. Il suo stipendio base ha visto un aumento da $ 1,09 milioni a $ 1,28 milioni. Il valore dei suoi premi azionari è passato da $ 9,9 milioni a $ 11 milioni, registrando un aumentato del 18%. La fortuna di Vounatsos nel 2018 proviene da un prodotto chiave: Spinraza, il farmaco di Biogen per il trattamento dell'atrofia muscolare spinale (SMA). Le sue vendite sono state pari a $ 1,7 miliardi nel 2018, rispetto a $ 884 milioni dell'anno precedente. Ciò ha contribuito a spingere le entrate totali della Biogen a un record di $ 13,5 miliardi per l'anno. 
+Le entrate della compagnia sono cresciute anno su anno a $ 9,1 miliardi, anche se le vendite di Tecfidera hanno superato le stime degli analisti nel quarto trimestre, arrivando a $ 1,1 miliardi. Nel frattempo, si Amgen si troverà di fronte a una nuova sfida per il suo farmaco di punta Spinraza, in quanto Novartis ha ottenuto l'approvazione della FDA a maggio per la terapia genica per il trattamento della SMA.
