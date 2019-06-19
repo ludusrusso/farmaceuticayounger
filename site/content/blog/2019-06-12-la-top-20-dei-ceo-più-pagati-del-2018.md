@@ -34,53 +34,52 @@ Bancel, con un totale di $ 58,6 milioni ha superato di gran lunga il compenso di
 
 \    Change: 91%
 
-Il 2018 potrebbe essere stato il primo anno intero di lavoro del CEO di Teva Kåre Schultz, ma ciò non ha impedito alla società di concedergli un pacchetto di risarcimento che lo collocava nelle prime posizioni dei più pagati del settore farmaceutico. Teva ha consegnato a Schultz un stipendio stellare di $ 32,5 milioni, quasi il doppio di quello che pagato nel 2017, e cinque volte in più della retribuzione del suo predecessore Erez Vigodman nel 2016. Quindi cosa ha fatto la differenza questa volta? Teva ha concesso oltre $ 20 milioni a Schultz dopo che ha accettato di accettare il lavoro, uno che non sarebbe sembrato altrettanto attraente senza l'incentivo in più.
+Il 2018 potrebbe essere stato il primo anno intero di lavoro del CEO di Teva Kåre Schultz, ma ciò non ha impedito alla società di concedergli un pacchetto di risarcimento che lo collocava nelle prime posizioni dei più pagati del settore farmaceutico. Teva ha consegnato a Schultz un stipendio stellare di $ 32,5 milioni, quasi il doppio di quello che pagato nel 2017, e cinque volte in più della retribuzione del suo predecessore Erez Vigodman nel 2016. Quindi cosa ha fatto la differenza questa volta? Teva ha concesso oltre $ 20 milioni a Schultz dopo che ha accettato il lavoro proposto dall'azienda israeliana.
 
-3. John Oyler, BeiGene
+3. **John Oyler, BeiGene**
 
-2018 pay: $27.90 million
+**\    **2018: $27.90 milioni
 
-2017 pay: $10.29 million
+\    2017: $10.29 milioni
 
-Change: +171%
+\    Change: +171%
 
 ![null](/img/johnoyler.jpg)
 
-John Oyler è un raro esempio di straniero che trae beneficio dalla rapida espansione dell'industria biotech cinese. Dopo aver fondato BeiGene nel 2010, Oyler ha visto il suo picco di ricchezza personale lo scorso anno quando le azioni Nasdaq delle biotecnologie cinesi sono aumentate. E così ha fatto il suo pacchetto di pagamento.
- Nel 2018, Oyler ha accumulato 27,9 milioni di dollari in termini di retribuzione totale rispetto ai 10,3 milioni di dollari del 2017 e si è classificato al terzo posto nell'elenco dei dirigenti biopharma più pagati al mondo. La maggior parte di quel pacchetto si presentava sotto forma di sovvenzioni azionarie, sebbene adeguate, dato che la società aveva solo $ 130,9 milioni di ricavi per l'intero anno.
+John Oyler è un raro esempio di straniero che trae beneficio dalla rapida espansione dell'industria biotech cinese. Dopo aver fondato BeiGene nel 2010, Oyler ha visto il suo picco di ricchezza personale lo scorso anno quando le azioni Nasdaq delle biotecnologie cinesi sono aumentate. E così ha fatto la sua retribuzione. Nel 2018, Oyler ha accumulato 27,9 milioni di dollari in termini di retribuzione totale rispetto ai 10,3 milioni di dollari del 2017 e si è classificato al terzo posto nell'elenco dei CEO delle biopharma più pagati al mondo. La maggior parte di quel pacchetto si presentava sotto forma di sovvenzioni azionarie, dato che la società aveva solo $ 130,9 milioni di ricavi per l'intero anno.
 
-4. Len Schleifer, Regeneron
+4. **Len Schleifer, Regeneron**
 
-2018 pay: $26.52 million
+**\    **2018: $26.52 milioni
 
-2017 pay: $26.51 million
+\    2017: $26.51 milioni
 
-Change: Less than 1%
+\    Change: Less than 1%
 
 ![null](/img/len-schleifer.jpg)
 
-Schleifer, 66 anni, fondatore e direttore di lunga data di Regeneron, ha ricevuto 26,52 milioni di dollari di risarcimento totale per il 2018, in base alla presentazione della delega della società. Questo è meno di un aumento dell'1% rispetto alla sua paga di $ 26.508.058 nel 2017, ma ancora sufficiente per classificarlo tra i cinque amministratori delegati più pagati del settore.
+Schleifer, 66 anni, fondatore e direttore di lunga data di Regeneron, ha ricevuto 26,52 milioni di dollari di risarcimento totale per il 2018. Questo è meno di un aumento dell'1% rispetto alla sua paga di $ 26.508.058 nel 2017, ma ancora sufficiente per classificarlo tra i cinque amministratori delegati più pagati del settore. Il bonus in denaro di Schleifer, legato alla performance finanziaria di Regeneron, è salito da $ 2,47 milioni nel 2017 a $ 2,95 milioni, con un aumento del 19,7%. Questa significativa spinta è stata legata al continuo successo di Eylea, che ha registrato un aumento del 9% nelle vendite del primo trimestre 2019 in tutto il mondo e dell'aumento della diffusione di farmaci per l'asma e l'eczema Dupixent, in fase 3 per la BPCO .
 
-5. John Milligan, Gilead Sciences
+5. **John Milligan, Gilead Sciences**
 
-2018 pay: $25.96 million
+\    2018: $25.96 milioni
 
-2017 pay: $15.44 million
+\    2017: $15.44 milioni
 
-Change: 68%
+\    Change: 68%
 
 ![null](/img/milligan.jpg)
 
-Milligan ha collezionato (PDF) quasi $ 26 milioni di risarcimento per lo scorso anno, un totale di $ 10 milioni in più rispetto a lui nel 2017. Il suo stipendio è salito leggermente a $ 1,58 milioni e il suo pagamento di incentivi in ​​contanti è salito a $ 3,34 milioni. Ma i suoi premi azionari e opzioni hanno fatto un balzo.
+Milligan ha collezionato quasi $ 26 milioni di risarcimento lo scorso anno, un totale di $ 10 milioni in più rispetto al 2017. Il suo stipendio è salito leggermente a $ 1,58 milioni e il suo pagamento di incentivi in ​​contanti è salito a $ 3,34 milioni. Ma i suoi premi azionari e opzioni hanno fatto un balzo. Gilead sta scommettendo sul suo nuovo CEO Daniel O'Day per invertire la tendenza di un anno non positivo per l'azienda. Daniel O'Day era stato a capo della divisione farmaceutica di Roche e, prima ancora di Novartis.
 
-1. 6. Nick Leschly, Bluebird Bio
-      2018 pay: $23.96 million
-      2017 pay: $8.76 million
-      Change: 174%
+\    6. **Nick Leschly, Bluebird Bio**
+          2018: $23.96 milioni
+          2017: $8.76 milioni
+          Change: 174%
 
 ![null](/img/bluebird-hires_750xx4288-2409-0-157.jpg)
 
-Il capo Bio Bluebird Nick Leschly ha battuto ogni CEO di Big Pharma con un pacchetto di pagamento del valore di quasi $ 24 milioni per il 2018. Il suo totale di $ 23,96 milioni è quasi tre volte il suo stipendio del 2017 di $ 8,76 milioni. Un paio di eventi imminenti potrebbero fare la differenza. La terapia genica della beta-talassemia dell'azienda, Zynteglo, ha ottenuto un OK europeo all'inizio di giugno. E Bluebird si aspetta di presentare la terapia per la revisione della FDA entro la fine del 2019. Questo è un grande passo avanti per un prodotto che ha affrontato la sua quota di battute d'arresto, compresi i dati di prova iniziali che hanno indotto Bluebird a revisionare il suo processo di produzione. Bluebird ha investito 80 milioni di dollari in una nuova struttura di produzione progettata per scalare la produzione di Zynteglo se e quando sarà approvata dalla FDA. Per quanto riguarda il lancio europeo, ha un accordo con Novasep per la produzione di terapie geniche in un sito in Belgio.
+Il capo Bio Bluebird Nick Leschly ha battuto ogni CEO di Big Pharma con un pacchetto di pagamento del valore di quasi $ 24 milioni per il 2018. Il suo totale di $ 23,96 milioni è quasi tre volte il suo stipendio del 2017 di $ 8,76 milioni. Un paio di eventi ha fatto la differenza. La terapia genica della beta-talassemia dell'azienda, Zynteglo, ha ottenuto un OK europeo all'inizio di giugno. E Bluebird si aspetta di presentare la terapia per la revisione della FDA entro la fine del 2019. Questo è un grande passo avanti per un prodotto che ha affrontato la sua quota di battute d'arresto, compresi i dati di prova iniziali che hanno indotto Bluebird a revisionare il suo processo di produzione. Bluebird ha investito 80 milioni di dollari in una nuova struttura di produzione progettata per scalare la produzione di Zynteglo se e quando sarà approvata dalla FDA. Per quanto riguarda il lancio europeo, ha un accordo con Novasep per la produzione di terapie geniche in un sito in Belgio.
 
 1. 7. Richard Gonzalez, AbbVie 
       2018 pay: $21.27 million 
