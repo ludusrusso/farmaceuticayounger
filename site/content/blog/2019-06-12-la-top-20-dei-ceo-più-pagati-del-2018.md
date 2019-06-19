@@ -109,61 +109,54 @@ ll pacchetto retributivo totale di Frazier di $ 20,9 milioni include non solo un
 
 Alex Gorsky, CEO di Johnson & Johnson ha visto ancora il calo del suo salario annuo, e non di poco. Gorsky ha pagato un taglio salariale di $ 9 milioni passando dai $ 29,8 milioni nel 2017 a $ 20,1 milioni nel 2018. Lo stipendio base di Gorsky, d'altro canto, è salito dopo un anno in cui J& J ha superato gli obiettivi di crescita delle vendite e raggiunto altri obiettivi strategici, tra cui il rafforzamento della pipeline e la creazione di valore attraverso operazioni di fusione e acquisizione. 
 
-1. Paul Campanelli, Endo
-   2018 pay: $19.97 million
-   2017 pay: $13.60 million
-   Change: 46.8%
+**\    10. Paul Campanelli, Endo
+ **            2018: $19.97 milioni
+             2017: $13.60 milioni
+             Change: 46.8%
 
 ![null](/img/ceo-paul-campanelli-v2.jpg)
 
-Campanelli, che ha preso le redini del CEO a fine 2016, ha incassato $ 19,97 milioni nel 2018, rispetto ai $ 13,6 milioni dell'anno precedente. Quindi, per il 2018, la paga di Campanelli lo colloca sopra i capi di Big Pharma degli Stati Uniti Giovanni Caforio a Bristol-Myers Squibb e l'ex-CEO di Pfizer, Ian Read. Campanelli arrivò ad Endo per mezzo di Par Pharmaceutical, il produttore di generici Endo acquistato nel 2015. Poco dopo l'acquisizione, la concorrenza dei generatori statunitensi peggiorò, e il carico di debito di Endo -sostenuto in un affare simile alla Valeant sotto l'ex CEO di Rajiv De Silva- fu prendendo il suo pedaggio.
- Così, Campanelli ha avviato un piano di turnaround che ha focalizzato Endo su prodotti iniettabili sterili, "prodotti generici tecnicamente complessi e ad alta barriera" e farmaci mirati a ridurre il proprio debito.
+Campanelli, che ha preso le redini  come CEO di Endo a fine 2016, ha incassato $ 19,97 milioni nel 2018, rispetto ai $ 13,6 milioni dell'anno precedente. Quindi, per il 2018, la paga di Campanelli lo colloca nella top 10 dei CEO più pagati delle Big Pharma. Campanelli è approdato in Endo per mezzo di Par Pharmaceutical, il produttore di generici Endo acquistato nel 2015. Poco dopo l'acquisizione, la concorrenza dei generici statunitensi è peggiorata, e il carico di debito di Endo è salito notevolmente. Così, Campanelli ha avviato un piano di turnaround che ha portato Endo a focalizzarsi su prodotti iniettabili sterili e farmaci mirati a ridurre il proprio debito.
 
-1. Ian Read, Pfizer
-   2018 pay: $19.55 million
-   2017 pay: $27.91 million
-   Change: -30%
+   **\    11. Ian Read, Pfizer**
+             2018: $19.55 milioni
+             2017: $27.91 milioni
+             Change: -30%
 
 ![null](/img/pfizer.jpg)
 
-Nel 2017, il consiglio di amministrazione di Pfizer ha dato all'amministratore delegato Ian Read un massiccio aumento del salario del 61%, aumentando il suo compenso totale a $ 27,9 milioni nella speranza che non salisse la nave e si unisse a una compagnia rivale. Ma gran parte di questo pacchetto consisteva in incentivi basati su azioni, il cui valore è sceso lo scorso anno quando Read ha consegnato il CEO alle redini prima del previsto. Pfizer ha annunciato in ottobre che Read entrerebbe nel ruolo di presidente esecutivo, dando il posto all'amministratore delegato all'ex direttore generale Albert Bourla a gennaio di quest'anno. Con questa mossa, il risarcimento totale del 2018 di Read è stato ridotto del 30% poiché ha visto il suo premio di incentivi a lungo termine scendere del 38% a $ 8 milioni.
+Nel 2017, il consiglio di amministrazione di Pfizer ha dato all'amministratore delegato Ian Read un massiccio aumento del salario del 61%, aumentando il suo compenso totale a $ 27,9 milioni nella speranza che non lasciasse la compagnia. Ma gran parte di questo pacchetto consisteva in incentivi basati su azioni, il cui valore è sceso lo scorso anno quando Read ha rassegnato le proprie dimissioni prima del previsto. Pfizer ha annunciato ad ottobre che Read entrerebbe nel ruolo di Presidente esecutivo, lasciando il posto come amministratore delegato all'ex direttore generale Albert Bourla a gennaio di quest'anno. Con questa mossa, il risarcimento totale del 2018 di Read è stato ridotto del 30%.
 
-1. Giovanni Caforio, Bristol-Myers Squibb 
+**\    12. Giovanni Caforio, Bristol-Myers Squibb **
 
-2018 pay: $19.38 million 
+**\    **2018: $19.38 milioni 
 
-2017 pay: $18.69 million 
+\    2017: $18.69 milioni 
 
-Change: 4% 
+\    Change: 4% 
 
 ![null](/img/bms.jpg)
 
-Mentre Bristol-Myers Squibb spinge avanti con il suo megamerger Celgene, il drugmaker ha rivelato che il suo timoniere Giovanni Caforio ha portato a casa un aumento del 4% nel 2018 a $ 19,38 milioni. Mentre l'accordo porrà la società tra i massimi livelli di Big Pharma, per ora le retribuzioni di Caforio fuori dai primi 10.
- Il capo di Bristol-Myers ha vinto il suo aumento di stipendio nel 2018 grazie alla crescita delle vendite, alla crescita degli utili e ad altre vittorie, agli stati del deposito della procura della società, e nonostante la mancanza della compagnia contro alcuni dei suoi obiettivi di R & S.
- Il BMS "ha superato" gli obiettivi finanziari in settori chiave, tra cui la continua crescita dei nostri principali marchi prioritari ", ha affermato il procuratore e ha incassato $ 22,6 miliardi di entrate, con un incremento del 9%.
+Giovanni Caforio ha registrato un aumento del 4% nel 2018 portando il suo compenso a $ 19,38 milioni. Mentre l'accordo tra Bristol-Myers Squibb e Celgene porrà la società tra i massimi livelli di Big Pharma, per ora la retribuzione di Caforio non gli garantisce di essere incluso nella top 10. Il CEO di Bristol-Myers ha visto il suo aumento di stipendio nel 2018 grazie alla crescita delle vendite, alla crescita degli utili nonostante la compagnia non abbia raggiunto alcuni dei suoi obiettivi di R&D. L'azienda ha superato gli obiettivi finanziari in settori chiave, tra cui la continua crescita dei nostri principali marchi prioritari, registrando $ 22,6 miliardi di entrate, con un incremento del 9%.
 
-1. Jeffrey Leiden, Vertex Pharmaceuticals
-   2018 pay: $18.80 million 
-   2017 pay: $17.23 million 
-   Change: 9% 
+\    **13. Jeffrey Leiden, Vertex Pharmaceuticals**
+                  2018: $18.80 milioni 
+                  2017: $17.23 milioni 
+                  Change: 9% 
 
 ![null](/img/vertex.jpg)
 
-Vertex Pharmaceuticals ha segnato alcune grandi vittorie nel 2018: ha lanciato il suo terzo farmaco per la fibrosi cistica, Symdeko, per uno, e ha registrato un aumento del 40%. Complessivamente, è stato un anno "straordinario", le cifre della compagnia, e abbastanza per garantire al CEO Jeffrey Leiden un aumento del 9%.
- Leiden ha incassato 18,8 milioni di dollari, grazie a un forte salto alla sua paga basata sull'equità. Lo stipendio del CEO è rimasto stabile per il 2018 a $ 1,3 milioni e ha portato a casa una remunerazione incentivante leggermente inferiore a $ 3,44 milioni.
- Ma i suoi premi azionari e di opzioni sono saliti di quasi $ 1,6 milioni a oltre $ 12 milioni, Vertex rivelata in un deposito di proxy. E questo ha fatto la differenza, portando il suo totale fino a $ 18,8 milioni da $ 17,2 milioni nel 2017.
- Il pacchetto retributivo di Leiden lo classifica 13 ° tra i migliori CEO biopharma per il 2018. Si colloca dietro a Giovanni Caforio di Bristol-Myers Squibb, che ha incassato un pacchetto di 19,38 milioni di dollari, precedendo Robert Bradway di Amgen che ha incassato 18,56 milioni di dollari.
+Il 2018 per Vertex Pharmaceuticals è stato un anno di grandi vittorie. L'azienda ha lanciato il suo terzo farmaco per la fibrosi cistica, Symdeko, registrando un aumento del 40%. Complessivamente, è stato un anno "straordinario", abbastanza per garantire al CEO Jeffrey Leiden un aumento del 9%. Leiden ha incassato 18,8 milioni di dollari. I suoi premi azionari e di opzioni sono saliti di quasi $ 1,6 milioni a oltre $ 12 milioni, portando il suo totale fino a $ 18,8 milioni da $ 17,2 milioni nel 2017. Il pacchetto retributivo di Leiden lo classifica 13 ° tra i più ricchi CEO biopharma per il 2018. Si colloca dietro a Giovanni Caforio di Bristol-Myers Squibb, che ha incassato un pacchetto di 19,38 milioni di dollari, precedendo Robert Bradway di Amgen che ha incassato 18,56 milioni di dollari.
 
-1. Robert Bradway, Amgen 
-   2018 pay: $18.56 million 
-   2017 pay: $16.90 million 
-   Change: 9%
+  **\    14. Robert Bradway, Amgen **
+               2018: $18.56 milioni
+               2017: $16.90 milioni 
+               Change: 9%
 
 ![null](/img/amgen.jpg)
 
-Amgen affronta la sua giusta quota di sfide competitive, ma nel 2018, la società ha trasformato la crescita delle vendite e degli utili, ha ottenuto un'importante approvazione per i farmaci e avanzato la sua pipeline. Tutti questi progressi hanno avuto un ruolo nel primo grande rilancio del CEO Bob Bradway dal 2015.
- Tutto sommato, il pagamento del 2018 di Bradway di $ 18,6 milioni è salito del 10% rispetto al suo bottino del 2017 di $ 16,9 milioni, ha detto Amgen in un deposito per delega. Il suo stipendio è cresciuto minimo di $ 1,57 milioni, mentre il suo bonus di incentivo annuale è cresciuto a circa $ 3,9 milioni da $ 2,7 milioni. I premi per stock e opzioni di Bradway sono cresciuti, sebbene non così tanto; sono arrivati rispettivamente a $ 8,75 milioni e $ 3,75 milioni.
- Il totale occupa Bradway 14 ° tra i CEO biopharma meglio pagati, dietro a Jeffrey Leiden di Vertex e davanti a Clay Siegall di Seattle Genetics.
+Amgen nel 2018 ha ottenuto un'importante approvazione per i farmaci e avanzato la sua pipeline. Tutti questi progressi hanno avuto un ruolo nel primo grande rilancio del CEO Bob Bradway dal 2015.
+La retribuzione del 2018 di Bradway di $ 18,6 milioni è salita del 10% rispetto al 2017. Il suo stipendio è cresciuto di $ 1,57 milioni, mentre il suo bonus di incentivo annuale è cresciuto da 2,7 milioni a circa $ 3,9 milioni. Con la somma totale della cifra guadagnata da Bradway occupa Bradway 14 ° tra i CEO biopharma meglio pagati, dietro a Jeffrey Leiden di Vertex e davanti a Clay Siegall di Seattle Genetics.
 
 1. Clay Siegall, Seattle Genetics
    2018 pay: $18.10 million
