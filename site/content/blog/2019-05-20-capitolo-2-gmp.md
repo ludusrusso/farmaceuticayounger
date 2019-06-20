@@ -19,8 +19,7 @@ La corretta fabbricazione di medicinali dipende dalle persone. Per questo motivo
 
 2.3 Le persone in posizioni di responsabilità dovranno avere incarichi specifici, definiti per iscritto con la descrizione delle relative mansioni, ed un'autorità adeguata per poterli svolgere. Esse potranno delegare i propri compiti a persone che dispongano di qualifiche soddisfacenti; non dovranno esserci lacune o sovrapposizioni ingiustificate nelle responsabilità del personale relativamente all'applicazione delle GMP. 
 
-2.4 Il senior management ha la responsabilità ultima di garantire che un efficace
- sistema di gestione di qualità sia messo in atto per raggiungere gli obiettivi di qualità e, che i ruoli, le responsabilità e le autorità siano definite, comunicate e implementate in tutta l'organizzazione. Il senior management dovrebbe stabilire una politica di qualità che descriva le intenzioni e la direzione dell'azienda relative alla qualità e dovrebbe garantire la continua idoneità e l'efficacia del sistema di gestione della qualità e della conformità alle GMP attraverso la partecipazione alla revisione della gestione.
+2.4 Il senior management ha la responsabilità ultima di garantire che un efficace sistema di gestione di qualità sia messo in atto per raggiungere gli obiettivi di qualità e, che i ruoli, le responsabilità e le autorità siano definite, comunicate e implementate in tutta l'organizzazione. Il senior management dovrebbe stabilire una politica di qualità che descriva le intenzioni e la direzione dell'azienda relative alla qualità e dovrebbe garantire la continua idoneità e l'efficacia del sistema di gestione della qualità e della conformità alle GMP attraverso la partecipazione alla revisione della gestione.
 
 ## Personale Chiave
 
@@ -141,7 +140,8 @@ xiii. garantire che esista un processo di comunicazione ed escalation tempestivo
 
 (1) Articolo 55 della Direttiva 2001/82/EC 
 
-(2) Ai sensi dell'articolo 51, paragrafo 1, della direttiva 2001/83 / CE), i lotti di medicinali che contengono i controlli effettuati in uno Stato membro sono esenti dai controlli se sono commercializzati in un altro Stato membro, accompagnati dalle relazioni di controllo firmate dalla Persona Qualificata.
+(2) Ai sensi dell'articolo 51, paragrafo 1, della direttiva 2001/83 / CE), i lotti di medicinali che contengono
+ i controlli effettuati in uno Stato membro sono esenti dai controlli se sono commercializzati in un altro Stato membro, accompagnati dalle relazioni di controllo firmate dalla Persona Qualificata.
 
 (3) Articolo 53 della Direttiva 2001/82/EC 
 
