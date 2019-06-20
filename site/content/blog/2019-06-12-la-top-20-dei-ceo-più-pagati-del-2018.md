@@ -26,7 +26,7 @@ Il CEO di Moderna, Bancel, si è invece classificato primo e ha superato tutti g
 
 Ecco la top 20 dei CEO delle aziende biofarmaceutiche più pagati del 2018:
 
-1. **Stephane Bancel, Moderna Therapeutics**
+**1. Stephane Bancel, Moderna Therapeutics**
 
 \    2018: $58.60 milioni
 
@@ -34,19 +34,19 @@ Ecco la top 20 dei CEO delle aziende biofarmaceutiche più pagati del 2018:
 
 \    Change: +761% 
 
-![](/img/stephane_bancel.png)
+![null](/img/stephane_bancel.png)
 
-Bancel, con un totale di $ 58,6 milioni ha superato di gran lunga il compenso di tutti gli altri amministratori delegati di importanti produttori di farmaci, di grandi e piccole dimensioni. In effetti, il pacchetto di pagamento del 2018 di Bancel era quasi il doppio del compenso registrato dal Ceo Kare Schultz di Teva.  Complessivamente, la paga del 2018 di Bancel ha visto il suo stipendio gonfiarsi più di otto volte il suo pacchetto di pagamento del 2017 di $ 6,8 milioni. Bancel è  CEO di Moderna dal 2011. La società sta promuovendo farmaci e vaccini basati sull'RNA messaggero e ha stipulato partnership con AstraZeneca e Merck & Co. su alcuni farmaci candidati. 
+Bancel, con un totale di $ 58,6 milioni ha superato di gran lunga il compenso di tutti gli altri amministratori delegati di importanti produttori di farmaci, di grandi e piccole dimensioni. In effetti, il pacchetto di pagamento del 2018 di Bancel era quasi il doppio del compenso registrato dal Ceo Kare Schultz di Teva.  Complessivamente, la paga del 2018 di Bancel ha visto il suo stipendio gonfiarsi più di otto volte il suo pacchetto di pagamento del 2017 di $ 6,8 milioni. Bancel è  CEO di Moderna dal 2011. La società sta promuovendo farmaci e vaccini basati sull'RNA messaggero e ha stipulato partnership con AstraZeneca e Merck & Co. su alcuni farmaci candidati. 
 
-**\    2. Kare Schultz, Teva**
+**2. Kare Schultz, Teva**
 
-\    2018: $32.47 milioni
+** **   2018: $32.47 milioni
 
 \    2017: $17.03 milioni
 
 \    Change: 91%
 
-![](/img/edit-kaare-schultz_hires.jpg)
+![null](/img/edit-kaare-schultz_hires.jpg)
 
 Il 2018 potrebbe essere stato il primo anno complessivo da un punto di vista lavorativo del CEO di Teva Kåre Schultz, ma ciò non ha impedito alla società di concedergli un pacchetto di risarcimento che lo colloca nelle prime posizioni dei più pagati del settore farmaceutico. Teva ha consegnato a Schultz un stipendio stellare di $ 32,5 milioni, quasi il doppio di quello pagato nel 2017, e cinque volte in più della retribuzione del suo predecessore Erez Vigodman nel 2016. Quindi cosa ha fatto la differenza questa volta? Teva ha concesso oltre $ 20 milioni a Schultz dopo che ha accettato il lavoro proposto dall'azienda israeliana.
 
@@ -112,7 +112,6 @@ Dopo aver guadagnato un pacchetto retributivo di 21,27 milioni di dollari l'anno
 ![null](/img/merck.jpg)
 
 ll pacchetto retributivo totale di Frazier di $ 20,9 milioni include non solo un aumento del salario del 2%, ma anche un aumento delle sue azioni e i premi per le opzioni, così come i suoi benefici del piano di incentivi in ​​contanti. Frazier è stato ricompensato profumatamente per la performance di Merck, che lo scorso anno è stata guidata in gran parte dal blockbuster di immuno-oncologia Keytruda. Le sue vendite sono quasi raddoppiate, in quanto Merck ha aggiunto le approvazioni della FDA per il farmaco nel carcinoma della cervice, nel carcinoma a cellule di Merkel e nel linfoma a grandi cellule B primario mediastinico. La performance di Keytruda ha contribuito a spingere le vendite totali dell'azienda del 5% nel 2018 a 42,3 miliardi di dollari. Il consiglio ha riconosciuto a Frazier la capacità di aver guidato l'azienda durante questo periodo di crescita, aumentando il suo premio di incentivo a lungo termine di $ 500.000, che ha portato il valore totale del suo pacchetto retributivo a quasi 21 milioni di dollari. 
- 
 
 \    **  9. Alex Gorsky, Johnson & Johnson**
            2018: $20.10 milioni
@@ -188,7 +187,8 @@ Il CEO di Seattle Genetics Clay Siegall ha visto un incremento di più del doppi
 
 ![null](/img/lilly.jpg)
 
-Nel suo secondo anno al timone, Ricks ha ottenuto un aumento del 9% del suo pacchetto retributivo totale di $ 17,23 milioni. Oltre a supervisionare alcuni importanti lanci di farmaci, vale a dire il farmaco contro il cancro Verzenio e la terapia immunologica, Olumiant, Ricks si è impegnata a tagliare i costi, a incanalare più denaro verso la ricerca e lo sviluppo e a distribuire i profitti agli azionisti. Verzenio e Olumiant stanno iniziando a registrare vendite significative. Ciascuno ha portato in casa guadagni per più di $ 200 milioni nel 2018. E Lilly si aspetta che il suo farmaco più recente Emgality, sia un punto di riferimento per una nuova era nella terapia dell'emicrania. Tutto sommato nel 2018, Lilly ha registrato un aumento del fatturato del 7% a $ 24,56 miliardi. L'utile netto per l'anno è stato di $ 3,23 miliardi dopo una perdita di $ 204 milioni nel 2017.
+Nel suo secondo anno al timone, Ricks ha ottenuto un aumento del 9% del suo pacchetto retributivo totale di $ 17,23 milioni. Oltre a supervisionare alcuni importanti lanci di farmaci, vale a dire il farmaco contro il cancro Verzenio e la terapia immunologica, Olumiant, Ricks si è impegnata a tagliare i costi, a incanalare più denaro verso la ricerca e lo sviluppo e a distribuire i profitti agli azionisti. Verzenio e Olumiant stanno iniziando a registrare vendite significative. Ciascuno ha portato in casa guadagni per più di $ 200 milioni nel 2018. E Lilly si aspetta che il suo farmaco più recente Emgality, sia un punto di riferimento per una nuova era nella terapia dell'emicrania.
+ Tutto sommato nel 2018, Lilly ha registrato un aumento del fatturato del 7% a $ 24,56 miliardi. L'utile netto per l'anno è stato di $ 3,23 miliardi dopo una perdita di $ 204 milioni nel 2017.
 
    **   17. Richard Pops, Alkermes**
             2018: $17.06 milioni
@@ -216,7 +216,6 @@ Nel suo primo anno ad Alexion, Ludwig Hantson ha guadagnato 16,5 milioni di doll
 ![null](/img/celgene.jpg)
 
 Dato che il prezzo delle azioni di Celgene è sceso del 39% nel 2018, l'amministratore delegato Mark Alles potrebbe non sembrare un probabile candidato per un aumento salariale. Ma il consiglio di Celgene ha dato ad Alles un bell'incentivo poco prima che fosse annunciata l'acquisizione di BMS. Alles, che è diventato CEO di Celgene nel 2016, ha visto aumentare il suo stipendio base del 5%. La società, dopo tutto, ha subito un rifiuto da parte della FDA sul suo candidato farmaco per la sclerosi multipla, ozanimod, e uno sforzo fallito per l'approvazione della terapia combinata Revlimid - Rituxan per il trattamento del linfoma non Hodgkin. Nonostante questi insuccessi, Celgene ha superato gli obiettivi finanziari per l'anno con $ 15,28 miliardi di vendite totali e $ 9,06 di utili rettificati per azione. Alles ha anche ottenuto $ 6,3 milioni in premi azionari e $ 5,7 milioni in opzioni, con importi che aumentano rispettivamente di $ 1 milione e $ 1,5 milioni nel 2017.
-
 
 \    **20. Michel Vounatsos, Biogen**
                2018: $16.17 milioni
