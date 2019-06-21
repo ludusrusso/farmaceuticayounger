@@ -1,0 +1,5 @@
+---
+title: QSAR = Quantitative Structure - Activity Relationship
+date: '2019-06-21T17:44:55+02:00'
+---
+QSAR (Quantitative Structure - Activity Relationship) ovvero la Relazione Quantitativa Struttura - Attività si basa su un modello matematico, svilluppato da Hansh negli anni 60, in grado di predire il comportamento di diversi composti analoghi al ligando originale cambiandone uno o più gruppi funzionali o sostituenti. QSAR si avvale di metodi analitici, chimici, statistici, fisici ed informatici per poter teorizzare e predire le possibili attività biologiche di un dato composto, analizzando il composto stesso e l’interazione con il recettore, sia esso un altro ligando, un enzima, una proteina o un canale ionico. Teorizzare i possibili cambiamenti che i diversi gruppi sostituenti o diverse modifiche apportano alla bioattività di un composto permette di ottimizzare tempi e investimenti per lo sviluppo di nuovi farmaci in quanto consente di sintetizzare e testare solo i composti plausibilmente più attivi.
