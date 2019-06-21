@@ -1,6 +1,22 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.106
 date: '2019-06-21T16:24:25+02:00'
+description: >-
+  La Food and Drug Administration degli Stati Uniti ha approvato Victoza
+  (liraglutide) per il trattamento di pazienti pediatrici di età pari o
+  superiore a 10 anni con diabete di tipo 2. Victoza è il primo farmaco non
+  insulinico approvato per il trattamento del diabete di tipo 2 in pazienti
+  pediatrici. La metformina fu approvata per uso pediatrico nel 2000, mentre
+  Victoza è stato approvato per il trattamento di pazienti adulti con diabete di
+  tipo 2 nel 2010.
+socialDesc: >-
+  La Food and Drug Administration degli Stati Uniti ha approvato Victoza
+  (liraglutide) per il trattamento di pazienti pediatrici di età pari o
+  superiore a 10 anni con diabete di tipo 2. Victoza è il primo farmaco non
+  insulinico approvato per il trattamento del diabete di tipo 2 in pazienti
+  pediatrici. La metformina fu approvata per uso pediatrico nel 2000, mentre
+  Victoza è stato approvato per il trattamento di pazienti adulti con diabete di
+  tipo 2 nel 2010.
 ---
 La Food and Drug Administration degli Stati Uniti ha approvato [Victoza (liraglutide)](https://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-pediatric-patients-type-2-diabetes) per il trattamento di pazienti pediatrici di età pari o superiore a 10 anni con diabete di tipo 2. Victoza è il primo farmaco non insulinico approvato per il trattamento del diabete di tipo 2 in pazienti pediatrici. La metformina fu approvata per uso pediatrico nel 2000, mentre Victoza è stato approvato per il trattamento di pazienti adulti con diabete di tipo 2 nel 2010.
 
@@ -10,7 +26,7 @@ Liraglutide è un analogo del GLP-1 e agisce come agonista del recettore del GLP
 
 Il recettore del GLP-1 è il bersaglio del GLP-1 nativo, un ormone endogeno che potenzia la secrezione di insulina glucosio-dipendente dalle cellule beta del pancreas. Liraglutide stimola la secrezione di insulina in modo glucosio-dipendente e contemporaneamente riduce la secrezione elevata di glucagone. Quindi, quando la glicemia è elevata, la secrezione di insulina viene stimolata mentre viene inibita quella di glucagone. Per contro, durante l’ipoglicemia, liraglutide riduce la secrezione di insulina e non ostacola quella di glucagone. Il GLP-1 è inoltre un regolatore fisiologico dell’appetito e dell’assunzione di cibo, ma l’esatto meccanismo d’azione non è completamente chiaro. 
 
-L’efficacia e la sicurezza di Victoza per la riduzione della glicemia nei pazienti con diabete di tipo 2 sono state studiate in diversi studi clinici controllati con placebo tra cui uno studio clinico che ha arruolato 134 pazienti pediatrici di età pari o superiore a 10 anni della durata di 26 settimane. Circa il 64% dei pazienti ha avuto una riduzione dell’emoglobina A1c (HbA1c) inferiore al 7% dopo la somministrazione di Victoza, rispetto al solo 37% che ha raggiunto questi risultati con il placebo. HbA1c è un esame del sangue che viene eseguito di routine per valutare l’efficacia del diabete di un paziente e un numero inferiore indica un migliore controllo della malattia.
+L’efficacia e la sicurezza di Victoza sono state studiate in diversi studi clinici controllati con placebo tra cui uno studio clinico che ha arruolato 134 pazienti pediatrici con diabete di tipo 2 di età pari o superiore a 10 anni della durata di 26 settimane. Circa il 64% dei pazienti ha avuto una riduzione dell’emoglobina A1c (HbA1c) inferiore al 7% dopo la somministrazione di Victoza, rispetto al solo 37% che ha raggiunto questi risultati con il placebo. HbA1c è un esame del sangue che viene eseguito di routine per valutare l’efficacia del diabete di un paziente e un numero inferiore indica un migliore controllo della malattia.
 
 La FDA ha concesso a Victoza la Priority Review.
 
