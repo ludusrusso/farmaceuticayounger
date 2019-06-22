@@ -14,9 +14,9 @@ socialDesc: >-
   biofarmaceutiche. Come ogni anno, a redigere questa classifica è il sito
   statunitense specilizzato Fierce Pharma.
 ---
-Da 16 a quasi 60 milioni di dollari all’anno. Sono queste le cifre stellari degli stipendi dei 20 CEO più pagati nel mondo delle aziende biofarmaceutiche durante lo scorso 2018. Come ogni anno, a redigere questa classifica è il sito statunitense specilizzato [Fierce Pharma](https://www.fiercepharma.com/special-report/top-20-highest-paid-biopharma-ceos-2018).
+Da 16 ai quasi 60 milioni di dollari l’anno. Sono queste le cifre stellari degli stipendi dei 20 CEO più pagati nel mondo delle aziende biofarmaceutiche durante lo scorso 2018. Come ogni anno, a redigere questa classifica è il sito statunitense specilizzato [Fierce Pharma](https://www.fiercepharma.com/special-report/top-20-highest-paid-biopharma-ceos-2018).
 
-Le grandi sorprese sono due. Nella top 20 non c’è nessuna donna e inoltre rimangono fuori molti CEO delle Big Pharma. Emma Walmsley di GlaxoSmithKline, con i suoi 7,75 milioni di dollari, è lontana dal raggiungere il compenso dei suoi colleghi. Anche se GSK avesse raddoppiato il suo stipendio alla Walmsley, non ce l'avrebbe fatta a raggiungere neanche l'ultima posizione di questa classifica. Stessa situazione per alcuni dei suoi colleghi. Vas Narasimhan di Novartis ha guadagnato nel 2018 9,9 milioni di dollari, non abbastanza per entrare nelle prime 20 posizioni. Narasimhan è relativamente nuovo in questo ruolo, ma Severin Schwan di Roche, che ha guidato l’azienda in una crescita costante, ha incassato lo scorso anno "solo" 11,76 milioni di franchi. Olivier Brandicourt di Sanofi ha tagliato il suo stipendio, riducendolo a 8,2 milioni di dollari, in conseguenza al difficle anno vissuto dall’azienda francese.
+Nella top 20 non c’è nessuna donna e inoltre rimangono fuori molti CEO delle Big Pharma. Emma Walmsley di GlaxoSmithKline, con i suoi 7,75 milioni di dollari, è lontana dal raggiungere il compenso dei suoi colleghi. Anche se GSK avesse raddoppiato il suo stipendio alla Walmsley, non ce l'avrebbe fatta a raggiungere neanche l'ultima posizione di questa classifica. Stessa situazione per alcuni dei suoi colleghi. Vas Narasimhan di Novartis ha guadagnato nel 2018 9,9 milioni di dollari, non abbastanza per entrare nelle prime 20 posizioni. Severin Schwan di Roche, che ha guidato l’azienda in una crescita costante, ha incassato lo scorso anno "solo" 11,76 milioni di franchi. Olivier Brandicourt di Sanofi ha tagliato il suo stipendio, riducendolo a 8,2 milioni di dollari, in conseguenza al difficle anno vissuto dall’azienda francese.
 
 Tutti esclusi dalla top 20, scorrendo la quale si scopre che ad avere i compensi più elevati sono i CEO delle biotech relativamente piccole: Stéphane Bancel di Moderna, John Oyler di BeiGene, Clay Siegall, di Seattle Genetics e Nick Leshly di bluebird bio.
 
@@ -25,6 +25,8 @@ Ian Read di Pfizer, Alex Gorsky di Johnson & Johnson e Ken Frazier di MSD quest�
 Il CEO di Moderna, Bancel, si è invece classificato primo e ha superato tutti gli altri CEO con la stupefacente cifra di 58,6 milioni di dollari.
 
 Ecco la top 20 dei CEO delle aziende biofarmaceutiche più pagati del 2018:
+
+![null](/img/schermata-2019-06-22-alle-18.49.24.png)
 
 **1. Stephane Bancel, Moderna Therapeutics**
 
@@ -40,7 +42,7 @@ Bancel, con un totale di $ 58,6 milioni ha superato di gran lunga il compenso di
 
 **2. Kare Schultz, Teva**
 
-** **   2018: $32.47 milioni
+2018: $32.47 milioni
 
 \    2017: $17.03 milioni
 
