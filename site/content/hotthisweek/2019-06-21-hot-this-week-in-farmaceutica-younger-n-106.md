@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.106
-date: '2019-06-21T16:24:25+02:00'
+date: '2019-06-22T04:24:00+02:00'
 description: >-
   La Food and Drug Administration degli Stati Uniti ha approvato Victoza
   (liraglutide) per il trattamento di pazienti pediatrici di età pari o
