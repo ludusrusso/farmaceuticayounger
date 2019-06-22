@@ -46,11 +46,11 @@ Bancel, con un totale di $ 58,6 milioni ha superato di gran lunga il compenso di
 
 \    2017: $17.03 milioni
 
-\    Change: 91%
+\    Aumento: 91%
 
 ![null](/img/edit-kaare-schultz_hires.jpg)
 
-Il 2018 potrebbe essere stato il primo anno complessivo da un punto di vista lavorativo del CEO di Teva Kåre Schultz, ma ciò non ha impedito alla società di concedergli un pacchetto di risarcimento che lo colloca nelle prime posizioni dei più pagati del settore farmaceutico. Teva ha consegnato a Schultz un stipendio stellare di $ 32,5 milioni, quasi il doppio di quello pagato nel 2017, e cinque volte in più della retribuzione del suo predecessore Erez Vigodman nel 2016. Quindi cosa ha fatto la differenza questa volta? Teva ha concesso oltre $ 20 milioni a Schultz dopo che ha accettato il lavoro proposto dall'azienda israeliana.
+Il 2018 è il primo anno complessivo da un punto di vista lavorativo del CEO di Teva Kåre Schultz, ma ciò non ha impedito alla società di concedergli un pacchetto di risarcimento che lo colloca sul podio dei più pagati del settore farmaceutico. Teva ha consegnato a Schultz un stipendio stellare di quasi $ 32,5 milioni, quasi il doppio di quello pagato nel 2017, e cinque volte in più della retribuzione del suo predecessore Erez Vigodman nel 2016. Quindi cosa ha fatto la differenza questa volta? Teva ha concesso oltre $ 20 milioni a Schultz dopo che ha accettato il lavoro proposto dall'azienda israeliana.
 
 **3. John Oyler, BeiGene**
 
@@ -58,11 +58,11 @@ Il 2018 potrebbe essere stato il primo anno complessivo da un punto di vista lav
 
 \    2017: $10.29 milioni
 
-\    Change: +171%
+\    Aumento: +171%
 
 ![null](/img/johnoyler.jpg)
 
-John Oyler è un raro esempio di straniero che trae beneficio dalla rapida espansione dell'industria biotech cinese. Dopo aver fondato BeiGene nel 2010, Oyler ha visto il suo picco di ricchezza personale lo scorso anno quando le azioni Nasdaq delle biotecnologie cinesi sono aumentate. E così ha fatto la sua retribuzione. Nel 2018, Oyler ha accumulato 27,9 milioni di dollari in termini di retribuzione totale rispetto ai 10,3 milioni di dollari del 2017 e si è classificato al terzo posto nell'elenco dei CEO delle biopharma più pagati al mondo. La maggior parte di quel pacchetto si presentava sotto forma di sovvenzioni azionarie, dato che la società aveva solo $ 130,9 milioni di ricavi per l'intero anno.
+John Oyler è un raro esempio di straniero che trae beneficio dalla rapida espansione dell'industria biotech cinese. Dopo aver fondato BeiGene nel 2010, Oyler ha visto il suo picco di ricchezza personale lo scorso anno quando le azioni Nasdaq delle biotecnologie cinesi sono schizzate alle stelle. E così ha fatto la sua retribuzione. Nel 2018, Oyler ha accumulato 27,9 milioni di dollari in termini di retribuzione totale rispetto ai quasi 10,3 milioni di dollari del 2017 e si è classificato al terzo posto nell'elenco dei CEO delle biopharma più pagati al mondo. La maggior parte del suo pacchetto retributivo si presentava sotto forma di sovvenzioni azionarie, dato che la società aveva solo $ 130,9 milioni di ricavi per l'intero anno.
 
 **4. Len Schleifer, Regeneron**
 
@@ -70,11 +70,11 @@ John Oyler è un raro esempio di straniero che trae beneficio dalla rapida espan
 
 \    2017: $26.51 milioni
 
-\    Change: Less than 1%
+\    : meno dell' 1%
 
 ![null](/img/len-schleifer.jpg)
 
-Schleifer, 66 anni, fondatore e direttore di lunga data di Regeneron, ha ricevuto 26,52 milioni di dollari di risarcimento totale per il 2018. Questo è meno di un aumento dell'1% rispetto alla sua paga di $ 26.51 milioni nel 2017, ma ancora sufficiente per classificarlo tra i cinque amministratori delegati più pagati del settore. Il bonus in denaro di Schleifer, legato alla performance finanziaria di Regeneron, è salito da $ 2,47 milioni nel 2017 a $ 2,95 milioni, con un aumento del 19,7%. Questa significativa spinta è stata legata al continuo successo di Eylea, farmaco per il trattamento della degenerazione maculare legata all’età (AMD) che ha registrato un aumento del 9% nelle vendite del primo trimestre 2019 in tutto il mondo e dell'aumento della diffusione di farmaci per l'asma e l'eczema Dupixent, in fase 3 per la BPCO .
+Schleifer, 66 anni, fondatore e direttore di lunga data di Regeneron, ha ricevuto 26,52 milioni di dollari di risarcimento totale per il 2018, meno dell'1% rispetto alla sua paga di $ 26.51 milioni del 2017, ma ancora sufficiente per classificarlo tra i cinque amministratori delegati più pagati del settore. Il bonus in denaro di Schleifer, legato alla performance finanziaria di Regeneron, è salito da $ 2,47 milioni nel 2017 a $ 2,95 milioni, con un aumento del 19,7%. Questa significativa spinta è stata legata al continuo successo di Eylea, farmaco per il trattamento della degenerazione maculare legata all’età (AMD), che ha registrato un aumento del 9% nelle vendite del primo trimestre 2019 in tutto il mondo e dell'aumento della diffusione di farmaci per l'asma e l'eczema Dupixent, che è in fase 3 per la BPCO .
 
 **5. John Milligan, Gilead Sciences**
 
@@ -86,7 +86,7 @@ Schleifer, 66 anni, fondatore e direttore di lunga data di Regeneron, ha ricevut
 
 ![null](/img/milligan.jpg)
 
-Milligan ha collezionato quasi $ 26 milioni di risarcimento lo scorso anno, con un totale di $ 10 milioni in più rispetto al 2017. Il suo stipendio è salito leggermente ma i suoi premi azionari e opzioni hanno fatto un balzo. Milligan, che si è dimesso improvvisamente a luglio ha ottenuto premi per un valore di $ 9,86 milioni e opzioni valutate a $ 11,13 milioni in parte grazie al suo "separation agreement" con Gilead. Gilead ora sta scommettendo sul suo nuovo CEO, Daniel O'Day, per invertire la tendenza di un anno non positivo per l'azienda. Daniel O'Day era stato a capo della divisione farmaceutica di Roche e, prima ancora di Novartis.
+Milligan ha collezionato quasi $ 26 milioni di risarcimento lo scorso anno, con un totale di $ 10 milioni in più rispetto al 2017. Il suo stipendio è salito leggermente ma i suoi premi azionari e opzioni hanno fatto un balzo. Milligan, che si è dimesso improvvisamente a luglio, ha ottenuto premi per un valore di $ 9,86 milioni e opzioni valutate a $ 11,13 milioni in parte grazie al suo "separation agreement" con Gilead. Gilead ora sta scommettendo sul suo nuovo CEO, Daniel O'Day, per invertire la tendenza di un anno non positivo per l'azienda. Daniel O'Day era stato a capo della divisione farmaceutica di Roche e, prima ancora di Novartis.
 
 **6. Nick Leschly, Bluebird Bio**
 
@@ -94,11 +94,11 @@ Milligan ha collezionato quasi $ 26 milioni di risarcimento lo scorso anno, con 
 
 \    2017: $8.76 milioni
 
-\    Change: 174%
+\    174%
 
 ![null](/img/bluebird-hires_750xx4288-2409-0-157.jpg)
 
-Il Ceo di Bluebird Bio Nick Leschly ha battuto ogni CEO di Big Pharma con un pacchetto di pagamento del valore di quasi $ 24 milioni per il 2018. Il suo totale di $ 23,96 milioni è quasi tre volte il suo stipendio del 2017 che si aggira intorno ai 9 milioni di dollari. Un paio di eventi hanno fatto la differenza. La terapia genica della beta-talassemia dell'azienda, Zynteglo, ha ottenuto l'ok da parte dell'Agenzia Europea all'inizio di giugno. Inoltre Bluebird Bio si aspetta di presentare la sua terapia per la revisione alla FDA entro la fine del 2019. Bluebird ha investito 80 milioni di dollari in una nuova struttura di produzione progettata per la produzione di Zynteglo se e quando otterrà l'approvazione dalla FDA. 
+Il Ceo di Bluebird Bio, Nick Leschly ha battuto ogni CEO di Big Pharma con un pacchetto di pagamento del valore di quasi $ 24 milioni per il 2018. Il suo totale di $ 23,96 milioni è quasi tre volte il suo stipendio del 2017 che si aggira intorno ai 9 milioni di dollari. Un paio di eventi hanno fatto la differenza. La terapia genica della beta-talassemia dell'azienda, Zynteglo, ha ottenuto l'ok da parte dell'Agenzia Europea all'inizio di giugno. Inoltre Bluebird Bio presenterà il suo farmaco per la revisione alla FDA entro la fine del 2019. Bluebird ha investito 80 milioni di dollari in una nuova struttura di produzione progettata per la produzione di Zynteglo se e quando otterrà l'approvazione dalla FDA statunitense. 
 
 **7. Richard Gonzalez, AbbVie **
 
@@ -106,11 +106,11 @@ Il Ceo di Bluebird Bio Nick Leschly ha battuto ogni CEO di Big Pharma con un pac
 
 \    2017: $22.63 milioni
 
-\    Change: -6% 
+\    -6% 
 
 ![null](/img/richard-gonzalez.jpg)
 
-Dopo aver guadagnato un pacchetto retributivo di 21,27 milioni di dollari l'anno scorso, Gonzalez si è unito ai colleghi di Big Pharma all'audizione del Congresso sui prezzi dei farmaci all'inizio del 2018. All'udienza, il senatore Ron Wyden, D-Ore, ha chiesto se il compenso di Gonzalez e in particolare il suo bonus sia legato alle vendite del principale farmaco di AbbVie, Humira, che ha generato quasi $ 20 miliardi l'anno scorso. La sua risposta? "Humira era un elemento di una serie di fattori finanziari che sono stati valutati come parte del mio compenso", ha detto Gonzalez. "Ovviamente è un prodotto molto significativo per noi. Quindi è chiaro che sarebbe parte di quella valutazione. " In effetti, le vendite di Humira vanno a determinare la remunerazione di Gonzalez. Per il 2018, il suo compenso è diminuito un pò, ma ha raggiunto quota 21 milioni di dollari.
+Dopo aver guadagnato un pacchetto retributivo di 21,27 milioni di dollari l'anno scorso, Gonzalez si è unito ai colleghi di Big Pharma all'audizione del Congresso sui prezzi dei farmaci all'inizio del 2018. All'udienza, il senatore Ron Wyden, ha chiesto se il compenso di Gonzalez e in particolare il suo bonus sia legato alle vendite del principale farmaco di AbbVie, Humira, che ha generato quasi $ 20 miliardi l'anno scorso. La sua risposta? "Humira era un elemento di una serie di fattori finanziari che sono stati valutati come parte del mio compenso", ha detto Gonzalez. "Ovviamente è un prodotto molto significativo per noi. Quindi è chiaro che sarebbe parte di quella valutazione. " In effetti, le vendite di Humira sono andate a determinare la remunerazione di Gonzalez. Per il 2018, il suo compenso è diminuito un pò, ma ha raggiunto quota 21 milioni di dollari.
 
 **8. Kenneth Frazier, Merck & Co.**
 
@@ -118,11 +118,9 @@ Dopo aver guadagnato un pacchetto retributivo di 21,27 milioni di dollari l'anno
 
 \    2017: $17.64 milioni
 
-\    Change: 19%
-
 ![null](/img/merck.jpg)
 
-ll pacchetto retributivo totale di Frazier di $ 20,9 milioni include non solo un aumento del salario del 2%, ma anche un aumento delle sue azioni e i premi per le opzioni, così come i suoi benefici del piano di incentivi in ​​contanti. Frazier è stato ricompensato profumatamente per la performance di Merck, che lo scorso anno è stata guidata in gran parte dal blockbuster di immuno-oncologia Keytruda. Le sue vendite sono quasi raddoppiate, in quanto Merck ha aggiunto le approvazioni della FDA per il farmaco nel carcinoma della cervice, nel carcinoma a cellule di Merkel e nel linfoma a grandi cellule B primario mediastinico. La performance di Keytruda ha contribuito a spingere le vendite totali dell'azienda del 5% nel 2018 a 42,3 miliardi di dollari. Il consiglio ha riconosciuto a Frazier la capacità di aver guidato l'azienda durante questo periodo di crescita, aumentando il suo premio di incentivo a lungo termine di $ 500.000, che ha portato il valore totale del suo pacchetto retributivo a quasi 21 milioni di dollari. 
+ll pacchetto retributivo totale di Frazier di $ 20,9 milioni include non solo un aumento del salario del 2%, ma anche un aumento delle sue azioni, così come i suoi benefici del piano di incentivi in ​​contanti. Frazier è stato ricompensato profumatamente per la performance di Merck, che lo scorso anno è stata guidata in gran parte dal blockbuster nel campo dell'immunooncologia, Keytruda. Le sue vendite sono quasi raddoppiate, in quanto Merck ha aggiunto le approvazioni della FDA per il farmaco nel carcinoma della cervice, nel carcinoma a cellule di Merkel e nel linfoma a grandi cellule B primario mediastinico. La performance di Keytruda ha contribuito a spingere le vendite totali dell'azienda del 5% nel 2018 a 42,3 miliardi di dollari. Il consiglio ha riconosciuto a Frazier la capacità di aver guidato l'azienda durante questo periodo di crescita, aumentando il suo premio di incentivo a lungo termine di $ 500.000, che ha portato il valore totale del suo pacchetto retributivo a quasi 21 milioni di dollari. 
 
 **9. Alex Gorsky, Johnson & Johnson**
 
@@ -130,11 +128,9 @@ ll pacchetto retributivo totale di Frazier di $ 20,9 milioni include non solo un
 
 \    2017: $29.80 milioni
 
-\    Change: -32%
-
 ![null](/img/johnson-johnson.jpg)
 
-Alex Gorsky, CEO di Johnson & Johnson ha visto ancora il calo del suo salario annuo, e non di poco. Gorsky ha pagato un taglio salariale di $ 9 milioni passando dai $ 29,8 milioni nel 2017 a $ 20,1 milioni nel 2018. Lo stipendio base di Gorsky, d'altro canto, è salito dopo un anno in cui J& J ha superato gli obiettivi di crescita delle vendite e raggiunto altri obiettivi strategici, tra cui il rafforzamento della pipeline e la creazione di valore attraverso operazioni di fusione e acquisizione. 
+Alex Gorsky, CEO di Johnson & Johnson ha visto ancora il calo del suo salario annuo, e non di poco. Gorsky ha pagato un taglio salariale di $ 9 milioni passando dai $ 29,8 milioni nel 2017 a $ 20,1 milioni nel 2018. Lo stipendio base di Gorsky, d'altro canto, è salito dopo un anno in cui J&J ha superato gli obiettivi di crescita delle vendite e raggiunto altri obiettivi strategici, tra cui il rafforzamento della pipeline e la creazione di valore attraverso operazioni di fusione e acquisizione. 
 
 **10. Paul Campanelli, Endo**
 
@@ -142,11 +138,11 @@ Alex Gorsky, CEO di Johnson & Johnson ha visto ancora il calo del suo salario an
 
 \    2017: $13.60 milioni
 
-\    Change: 46.8%
+\    46.8%
 
 ![null](/img/ceo-paul-campanelli-v2.jpg)
 
-Campanelli, che ha preso le redini come CEO di Endo a fine 2016, ha incassato $ 19,97 milioni nel 2018, rispetto ai $ 13,6 milioni dell'anno precedente. Quindi, per il 2018, la paga di Campanelli lo colloca nella top 10 dei CEO più pagati delle Big Pharma. Campanelli è approdato in Endo per mezzo di Par Pharmaceutical, il produttore di generici Endo acquistato nel 2015. Poco dopo l'acquisizione, la concorrenza dei generici statunitensi è peggiorata, e il carico di debito di Endo è salito notevolmente. Così, Campanelli ha avviato un piano di turnaround che ha portato Endo a focalizzarsi su prodotti iniettabili sterili e farmaci mirati a ridurre il proprio debito.
+Campanelli, che ha preso le redini come CEO di Endo a fine 2016, ha incassato $ 19,97 milioni nel 2018, rispetto ai $ 13,6 milioni dell'anno precedente. Per il 2018, la paga di Campanelli lo colloca nella top 10 dei CEO più pagati delle Big Pharma. Campanelli è approdato in Endo per mezzo di Par Pharmaceutical, il produttore di generici Endo acquistato nel 2015. Poco dopo l'acquisizione, la concorrenza dei generici statunitensi è peggiorata, e il carico di debito di Endo è salito notevolmente. Così, Campanelli ha avviato un piano di turnaround che ha portato Endo a focalizzarsi su prodotti iniettabili sterili e farmaci mirati a ridurre il proprio debito.
 
 **11. Ian Read, Pfizer**
 
@@ -154,7 +150,7 @@ Campanelli, che ha preso le redini come CEO di Endo a fine 2016, ha incassato $ 
 
 \    2017: $27.91 milioni
 
-\    Change: -30%
+\    -30%
 
 ![null](/img/pfizer.jpg)
 
@@ -166,11 +162,11 @@ Nel 2017, il consiglio di amministrazione di Pfizer ha dato all'amministratore d
 
 \    2017: $18.69 milioni 
 
-\    Change: 4% 
+\    +4% 
 
 ![null](/img/bms.jpg)
 
-Giovanni Caforio ha registrato un aumento del 4% nel 2018 portando il suo compenso a $ 19,38 milioni. Mentre l'accordo tra Bristol-Myers Squibb e Celgene porrà la società tra i massimi livelli di Big Pharma, per ora la retribuzione di Caforio non gli garantisce di essere incluso nella top 10. Il CEO di Bristol-Myers ha visto il suo aumento di stipendio nel 2018 grazie alla crescita delle vendite, alla crescita degli utili nonostante la compagnia non abbia raggiunto alcuni dei suoi obiettivi di R&D. L'azienda ha superato gli obiettivi finanziari in settori chiave, tra cui la continua crescita dei nostri principali marchi prioritari, registrando $ 22,6 miliardi di entrate, con un incremento del 9%.
+Giovanni Caforio ha registrato un aumento del 4% nel 2018 portando il suo compenso a $ 19,38 milioni. Mentre l'accordo tra Bristol-Myers Squibb e Celgene porrà la società ai vertici delle Big Pharma, per ora la retribuzione di Caforio non gli garantisce di essere incluso nella top 10. Il CEO di Bristol-Myers ha visto il suo aumento di stipendio nel 2018 grazie alla crescita delle vendite, alla crescita degli utili nonostante la compagnia non abbia raggiunto alcuni dei suoi obiettivi di R&D. L'azienda ha superato gli obiettivi finanziari in settori chiave, tra cui la continua crescita dei nostri principali marchi prioritari, registrando $ 22,6 miliardi di entrate, con un incremento del 9%.
 
 **13. Jeffrey Leiden, Vertex Pharmaceuticals**
 
@@ -178,11 +174,11 @@ Giovanni Caforio ha registrato un aumento del 4% nel 2018 portando il suo compen
 
 \    2017: $17.23 milioni 
 
-\    Change: 9% 
+\    +9% 
 
 ![null](/img/vertex.jpg)
 
-Il 2018 per Vertex Pharmaceuticals è stato un anno di grandi vittorie. L'azienda ha lanciato il suo terzo farmaco per la fibrosi cistica, Symdeko, registrando un aumento del 40% delle entrate. Complessivamente, è stato un anno "straordinario", abbastanza per garantire al CEO Jeffrey Leiden un aumento del 9% del suo compenso. I suoi premi azionari e di opzioni sono saliti di quasi $ 1,6 milioni a oltre $ 12 milioni, portando il suo totale fino a $ 18,8 milioni da $ 17,2 milioni nel 2017. Il pacchetto retributivo di Leiden lo classifica 13 ° tra i più ricchi CEO delle biopharma per il 2018. Si colloca dietro a Giovanni Caforio di Bristol-Myers Squibb, che ha incassato un pacchetto di 19,38 milioni di dollari, precedendo Robert Bradway di Amgen che ha incassato 18,56 milioni di dollari.
+Il 2018 per Vertex Pharmaceuticals è stato un anno di grandi vittorie. L'azienda ha lanciato il suo terzo farmaco per la fibrosi cistica, Symdeko, registrando un aumento del 40% delle entrate. Questo che per l'azienda è stato un anno straordinario, è abbastanza per garantire al CEO Jeffrey Leiden un aumento del 9% del suo compenso. I suoi premi azionari e di opzioni sono saliti di quasi $ 1,6 milioni a oltre $ 12 milioni, portando il suo totale fino a $ 18,8 milioni da $ 17,2 milioni nel 2017. Il pacchetto retributivo di Leiden lo classifica 13 ° tra i più ricchi CEO delle aziende biofarmaceutiche per il 2018. Si colloca dietro a Giovanni Caforio di Bristol-Myers Squibb, che ha incassato un pacchetto di 19,38 milioni di dollari, precedendo Robert Bradway di Amgen che ha incassato 18,56 milioni di dollari.
 
 **14. Robert Bradway, Amgen **
 
@@ -190,12 +186,12 @@ Il 2018 per Vertex Pharmaceuticals è stato un anno di grandi vittorie. L'aziend
 
 \    2017: $16.90 milioni 
 
-\    Change: 9%
+\    +9%
 
 ![null](/img/amgen.jpg)
 
-Amgen nel 2018 ha ottenuto un'importante approvazione per i farmaci e avanzato la sua pipeline. Tutti questi progressi hanno avuto un ruolo nel primo grande rilancio del CEO Bob Bradway dal 2015.
-La retribuzione del 2018 di Bradway di $ 18,6 milioni è salita del 10% rispetto al 2017. Il suo stipendio è cresciuto di $ 1,57 milioni, mentre il suo bonus di incentivo annuale è cresciuto da 2,7 milioni a circa $ 3,9 milioni. Con la somma totale della cifra guadagnata da Bradway, il Ceo di Amgen occupa il 14° posto tra i Ceo delle biopharma più pagati, dietro a Jeffrey Leiden di Vertex e davanti a Clay Siegall di Seattle Genetics.
+Amgen nel 2018 ha ottenuto importanti approvazioni di farmaci e aumentato così la sua pipeline. Tutti questi progressi hanno avuto un ruolo nel primo grande rilancio del CEO Bob Bradway dal 2015.
+La retribuzione del 2018 di Bradway di $ 18,6 milioni è salita del 10% rispetto al 2017. Il suo stipendio è cresciuto di $ 1,57 milioni, mentre il suo bonus di incentivo annuale è cresciuto da 2,7 milioni a circa $ 3,9 milioni. Con la somma totale della cifra guadagnata da Bradway, il CEO di Amgen occupa il 14° posto tra gli amministratori delegati delle biofarmaceutiche più pagati nel 2018, dietro a Jeffrey Leiden di Vertex e davanti a Clay Siegall di Seattle Genetics.
 
 **15. Clay Siegall, Seattle Genetics**
 
