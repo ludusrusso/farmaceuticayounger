@@ -13,7 +13,7 @@ socialDesc: >-
   sono compresi gli stipendi dei 20 CEO più pagati del mondo delle aziende
   biofarmaceutiche. Come ogni anno, a redigere questa classifica è il sito
   statunitense specilizzato Fierce Pharma.
-image: /img/schermata-2019-06-22-alle-18.49.24.png
+image: /img/bac6bc89-9a5e-481c-ba66-f7068dfb92f5.png
 ---
 Da 16 ai quasi 60 milioni di dollari l’anno. Sono queste le cifre stellari degli stipendi dei 20 CEO più pagati nel mondo delle aziende biofarmaceutiche durante lo scorso 2018. Come ogni anno, a redigere questa classifica è il sito statunitense specilizzato [Fierce Pharma](https://www.fiercepharma.com/special-report/top-20-highest-paid-biopharma-ceos-2018).
 
