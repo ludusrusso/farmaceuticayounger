@@ -4,7 +4,7 @@ tags:
   - farmanews
 date: '2019-06-24T17:18:31+02:00'
 ---
-La Food and Drug Administration degli Stati Uniti ha approvato Vyleesi (bremelanotide) per il trattamento del disturbo del desiderio sessuale ipoattivo acquisito generalizzato (HSDD, Hypoactive sexual desire disorder) nelle donne in premenopausa.
+La Food and Drug Administration degli Stati Uniti ha approvato [Vyleesi (bremelanotide)](https://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-hypoactive-sexual-desire-disorder-premenopausal-women) per il trattamento del disturbo del desiderio sessuale ipoattivo acquisito generalizzato (HSDD, Hypoactive sexual desire disorder) nelle donne in premenopausa.
 
 L'HSDD è caratterizzato da un basso desiderio sessuale che causa difficoltà marcate da parte della donna nel rapporto con il proprio partner. Nel 2012, la FDA ha identificato la disfunzione sessuale femminile come una delle 20 patologie ad alta priorità. La FDA ha tenuto una riunione di due giorni nell'ottobre 2014 per far progredire la comprensione dell'agenzia sulla disfunzione sessuale femminile. Durante il primo giorno dell'incontro, la FDA ha sollecitato le prospettive direttamente dai pazienti sulla loro condizione e sul loro impatto sulla vita quotidiana. La FDA è impegnata a continuare a lavorare con le aziende per sviluppare trattamenti sicuri ed efficaci per la disfunzione sessuale femminile.
 
