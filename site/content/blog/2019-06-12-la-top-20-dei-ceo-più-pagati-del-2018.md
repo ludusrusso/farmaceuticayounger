@@ -21,7 +21,7 @@ Nella top 20 non c’è nessuna donna e inoltre rimangono fuori molti CEO delle 
 
 Tutti esclusi dalla top 20, scorrendo la quale si scopre che ad avere i compensi più elevati sono i CEO delle biotech relativamente piccole: Stéphane Bancel di Moderna, John Oyler di BeiGene, Clay Siegall, di Seattle Genetics e Nick Leshly di bluebird bio.
 
-Ian Read di Pfizer, Alex Gorsky di Johnson & Johnson e Ken Frazier di MSD quest’anno non sono entrati nelle prime cinque posizioni della classifica anche se i loro stipendi sono stati superiori ai 19,5 milioni di dollari. Il CEO di Teva, Kåre Schultz, ha conquistato il podio con il 2° posto nel podio degli stipendi d’oro con ben 33 milioni di dollari guadagnati nel 2018.
+Ian Read di Pfizer, Alex Gorsky di Johnson & Johnson e Ken Frazier di MSD quest’anno non sono entrati nelle prime cinque posizioni della classifica anche se i loro stipendi sono stati superiori ai 19,5 milioni di dollari. Il CEO di Teva, Kåre Schultz, ha conquistato il podio con il 2° posto nel ranking degli stipendi d’oro con ben 33 milioni di dollari guadagnati nel 2018.
 
 Il CEO di Moderna, Bancel, si è invece classificato primo e ha superato tutti gli altri CEO con la stupefacente cifra di 58,6 milioni di dollari.
 
@@ -89,7 +89,7 @@ Milligan ha collezionato quasi $ 26 milioni di risarcimento lo scorso anno, con 
 
 Il Ceo di Bluebird Bio, Nick Leschly ha battuto ogni CEO di Big Pharma con un pacchetto di pagamento del valore di quasi $ 24 milioni per il 2018. Il suo totale di $ 23,96 milioni è quasi tre volte il suo stipendio del 2017 che si aggira intorno ai 9 milioni di dollari. Un paio di eventi hanno fatto la differenza. La terapia genica della beta-talassemia dell'azienda, Zynteglo, ha ottenuto l'ok da parte dell'Agenzia Europea all'inizio di giugno. Inoltre Bluebird Bio presenterà il suo farmaco per la revisione alla FDA entro la fine del 2019. Bluebird ha investito 80 milioni di dollari in una nuova struttura di produzione progettata per la produzione di Zynteglo se e quando otterrà l'approvazione dalla FDA statunitense.
 
-**7. Richard Gonzalez, AbbVie **
+**7. Richard Gonzalez, AbbVie**
 
 2018: $21.27 milioni
 
