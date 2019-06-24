@@ -1,5 +1,5 @@
 ---
-title: La top 20 dei CEO delle Big Pharma più pagati del 2018
+title: La top 20 dei CEO delle BioFarma più pagati del 2018
 tags:
   - articoli
 date: '2019-06-12T09:41:29+02:00'
@@ -21,7 +21,7 @@ Nella top 20 non c’è nessuna donna e inoltre rimangono fuori molti CEO delle 
 
 Tutti esclusi dalla top 20, scorrendo la quale si scopre che ad avere i compensi più elevati sono i CEO delle biotech relativamente piccole: Stéphane Bancel di Moderna, John Oyler di BeiGene, Clay Siegall, di Seattle Genetics e Nick Leshly di bluebird bio.
 
-Ian Read di Pfizer, Alex Gorsky di Johnson & Johnson e Ken Frazier di MSD quest’anno non sono entrati nelle prime cinque posizioni della classifica anche se i loro stipendi sono stati superiori ai 19,5 milioni di dollari. Il CEO di Teva, Kåre Schultz, ha conquistato il podio con il 2° posto nel ranking degli stipendi d’oro con ben 33 milioni di dollari guadagnati nel 2018.
+Ian Read di Pfizer, Alex Gorsky di Johnson & Johnson e Ken Frazier di MSD quest’anno non sono entrati nelle prime cinque posizioni della classifica anche se i loro stipendi sono stati superiori ai 19,5 milioni di dollari. Il CEO di Teva, Kåre Schultz, ha conquistato il podio con il 2° posto nel podio degli stipendi d’oro con ben 33 milioni di dollari guadagnati nel 2018.
 
 Il CEO di Moderna, Bancel, si è invece classificato primo e ha superato tutti gli altri CEO con la stupefacente cifra di 58,6 milioni di dollari.
 
@@ -139,7 +139,7 @@ Campanelli, che ha preso le redini come CEO di Endo a fine 2016, ha incassato $ 
 
 Nel 2017, il consiglio di amministrazione di Pfizer ha dato all'amministratore delegato Ian Read un massiccio aumento del salario del 61%, aumentando il suo compenso totale a $ 27,9 milioni nella speranza che non lasciasse la compagnia. Ma gran parte di questo pacchetto consisteva in incentivi basati su azioni, il cui valore è sceso lo scorso anno quando Read ha rassegnato le proprie dimissioni prima del previsto. Pfizer ha annunciato ad ottobre che Read entrerebbe nel ruolo di Presidente esecutivo, lasciando il posto come amministratore delegato all'ex direttore generale Albert Bourla a gennaio di quest'anno. Con questa mossa, il risarcimento totale del 2018 di Read è stato ridotto del 30%.
 
-**12. Giovanni Caforio, Bristol-Myers Squibb **
+**12. Giovanni Caforio, Bristol-Myers Squibb**
 
 2018: $19.38 milioni
 
@@ -159,7 +159,7 @@ Giovanni Caforio ha registrato un aumento del 4% nel 2018 portando il suo compen
 
 Il 2018 per Vertex Pharmaceuticals è stato un anno di grandi vittorie. L'azienda ha lanciato il suo terzo farmaco per la fibrosi cistica, Symdeko, registrando un aumento del 40% delle entrate. Questo che per l'azienda è stato un anno straordinario, è abbastanza per garantire al CEO Jeffrey Leiden un aumento del 9% del suo compenso. I suoi premi azionari e di opzioni sono saliti di quasi $ 1,6 milioni a oltre $ 12 milioni, portando il suo totale fino a $ 18,8 milioni da $ 17,2 milioni nel 2017. Il pacchetto retributivo di Leiden lo classifica 13 ° tra i più ricchi CEO delle aziende biofarmaceutiche per il 2018. Si colloca dietro a Giovanni Caforio di Bristol-Myers Squibb, che ha incassato un pacchetto di 19,38 milioni di dollari, precedendo Robert Bradway di Amgen che ha incassato 18,56 milioni di dollari.
 
-**14. Robert Bradway, Amgen **
+**14. Robert Bradway, Amgen**
 
 2018: $18.56 milioni
 
@@ -180,7 +180,7 @@ La retribuzione del 2018 di Bradway di $ 18,6 milioni è salita del 10% rispetto
 
 Il CEO di Seattle Genetics Clay Siegall ha visto un incremento del suo pacchetto retributivo di più del doppio arrivando a quota 18,1 milioni di dollari nel 2018, rispetto agli 8,6 milioni di dollari del 2017. Complice di questo incremento la spinta delle vendite di Adcetris. Il farmaco ha inoltre ottenuto un'approvazione importante nel linfoma di Hodgkin di nuova diagnosi, tardivo. E a novembre, Adcetris è diventato il primo trattamento approvato dalla FDA nel linfoma periferico delle cellule T in prima linea. E il totale guadagnato da Siegall ha superato quelli di molti dei suoi pari, inclusi i CEO di alcune delle più grandi Pharma del mondo, come David Ricks che, al suo secondo anno al timone di Eli Lilly, ha incassato "solo" $ 17,2 milioni durante il 2018.
 
-**16. David Ricks, Eli Lilly **
+**16. David Ricks, Eli Lilly**
 
 2018: $17.23 milioni
 
