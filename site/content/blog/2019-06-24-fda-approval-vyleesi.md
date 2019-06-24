@@ -3,13 +3,26 @@ title: FDA APPROVAL - Vyleesi
 tags:
   - farmanews
 date: '2019-06-24T17:18:31+02:00'
+description: >-
+  La Food and Drug Administration degli Stati Uniti ha approvato Vyleesi
+  (bremelanotide) per il trattamento del disturbo del desiderio sessuale
+  ipoattivo (HSDD, Hypoactive sexual desire disorder) nelle donne in
+  pre-menopausa.
+socialDesc: >-
+  La Food and Drug Administration degli Stati Uniti ha approvato Vyleesi
+  (bremelanotide) per il trattamento del disturbo del desiderio sessuale
+  ipoattivo (HSDD, Hypoactive sexual desire disorder) nelle donne in
+  pre-menopausa.
+image: /img/6569c0d3-088c-4b88-8d0d-db7969736c9e.png
 ---
-La Food and Drug Administration degli Stati Uniti ha approvato [Vyleesi (bremelanotide)](https://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-hypoactive-sexual-desire-disorder-premenopausal-women) per il trattamento del disturbo del desiderio sessuale ipoattivo acquisito generalizzato (HSDD, Hypoactive sexual desire disorder) nelle donne in premenopausa.
+![](/img/6569c0d3-088c-4b88-8d0d-db7969736c9e.png)
 
-L'HSDD è caratterizzato da un basso desiderio sessuale che causa difficoltà marcate da parte della donna nel rapporto con il proprio partner. Nel 2012, la FDA ha identificato la disfunzione sessuale femminile come una delle 20 patologie ad alta priorità. La FDA ha tenuto una riunione di due giorni nell'ottobre 2014 per far progredire la comprensione dell'agenzia sulla disfunzione sessuale femminile. Durante il primo giorno dell'incontro, la FDA ha sollecitato le prospettive direttamente dai pazienti sulla loro condizione e sul loro impatto sulla vita quotidiana. La FDA è impegnata a continuare a lavorare con le aziende per sviluppare trattamenti sicuri ed efficaci per la disfunzione sessuale femminile.
+La Food and Drug Administration degli Stati Uniti ha approvato [Vyleesi (bremelanotide)](https://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-hypoactive-sexual-desire-disorder-premenopausal-women) per il trattamento del disturbo del desiderio sessuale ipoattivo (HSDD, Hypoactive sexual desire disorder) nelle donne in pre-menopausa.
 
-Vyleesi attiva i recettori melanocortinici, ma il meccanismo con cui migliora il desiderio sessuale e il relativo disagio è sconosciuto. I pazienti iniettano Vyleesi sotto la pelle dell'addome o della coscia almeno 45 minuti prima dell'attività sessuale. I pazienti non devono usare più di una dose entro 24 ore o più di otto dosi al mese. I pazienti devono avere un trattamento discontinuo dopo otto settimane se riferiscono un miglioramento del desiderio sessuale e del disagio associato.
+L'HSDD è caratterizzato da un basso desiderio sessuale che causa difficoltà marcate da parte della donna nel rapporto con il proprio partner. Nel 2012, la FDA ha identificato la disfunzione sessuale femminile come una delle 20 patologie ad alta priorità. Tra le cause note del disturbo vi sono l'interazione tra fattori ormonali, neurobiologici, e psicosociali. Si ritiene che il disturbo sia causato da una diminuzione dei fattori eccitatori quali la dopamina, estrogeni, progesterone e testosterone e/o un aumento dei fenomeni inibitori quali serotonina, prolattina, e gli oppioidi; fattori questi che nel soggetto sano sono normalmente in equilibrio. La FDA è impegnata nel suo costante lavoro con le aziende per sviluppare trattamenti sicuri ed efficaci per la disfunzione sessuale femminile.
 
-L'efficacia e la sicurezza di Vyleesi sono state valutate in due studi della durata di 24 settimane, randomizzati, in doppio cieco, controllati con placebo che ha arruolato 1.247 donne in premenopausa con HSDD acquisita e generalizzata. La maggior parte delle pazienti utilizzava Vyleesi, durante gli studi, due o tre volte al mese e non più di una volta alla settimana. In questi studi, circa il 25% delle pazienti trattate con Vyleesi ha espresso un punteggio maggiore di 1,2 nel punteggio di desiderio sessuale (valutato su un intervallo da 1,2 a 6,0 con punteggi più alti che indicano un maggiore desiderio sessuale) rispetto a circa il 17% delle pazienti trattate con placebo. Inoltre, circa il 35% delle pazienti trattate con Vyleesi ha avuto una diminuzione nel punteggio di sofferenza (punteggio su un range da zero a quattro, con punteggi più alti che indicavano maggiore sofferenza per il basso desiderio sessuale) rispetto a circa il 31% di quelli chi ha preso il placebo.
+Vyleesi agisce attivando i recettori melanocortinici, ma il meccanismo con cui migliora il desiderio sessuale e il relativo disagio è sconosciuto. Vyleesi viene somministrato attraverso un’iniezione sottocutanea a livello dell'addome o della coscia almeno 45 minuti prima dell'attività sessuale. I pazienti non possono usare più di una dose entro le 24 ore o più di otto dosi al mese. Il trattamento deve essere interrotto dopo otto settimane se vi è un miglioramento del desiderio sessuale e del disagio associato.
+
+L'efficacia e la sicurezza di Vyleesi sono state valutate in due studi clinici della durata di 24 settimane, randomizzati, in doppio cieco, controllati con placebo che ha arruolato 1.247 donne in pre-menopausa con HSDD. La maggior parte delle pazienti utilizzava Vyleesi, durante gli studi, due o tre volte al mese e non più di una volta alla settimana. Durante gli studi, circa il 25% delle pazienti trattate con Vyleesi ha espresso un punteggio maggiore di 1,2 come punteggio del desiderio sessuale (valutato su un intervallo da 1,2 a 6,0 con punteggi più alti che indicano un maggiore desiderio sessuale) rispetto a circa il 17% delle pazienti trattate con placebo. Inoltre, circa il 35% delle pazienti trattate con Vyleesi ha avuto una diminuzione nel punteggio di sofferenza (punteggio su un range da zero a quattro, con punteggi più alti che indicavano maggiore sofferenza per il basso desiderio sessuale) rispetto a circa il 31% di chi ha preso il placebo.
 
 La FDA ha concesso l'approvazione di Vyleesi ad AMAG Pharmaceuticals.
