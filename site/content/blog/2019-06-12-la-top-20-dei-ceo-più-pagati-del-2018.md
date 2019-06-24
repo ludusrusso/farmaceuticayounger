@@ -1,5 +1,5 @@
 ---
-title: La top 20 dei CEO delle Big Pharma più pagati del 2018
+title: La top 20 dei CEO delle BioFarma più pagati del 2018
 tags:
   - articoli
 date: '2019-06-12T09:41:29+02:00'
