@@ -12,11 +12,14 @@ socialDesc: >-
   La Food and Drug Administration degli Stati Uniti ha approvato Soliris
   (eculizumab) per uso endovenoso per il trattamento del disturbo dello spettro
   della neuromielite ottica (NMOSD) in pazienti adulti con anticorpi
-  anti-acquaporina-4 (AQP4) positivi.
+  anti-acquaporina-4 (AQP4) positivi. 
+image: /img/b668c4ba-e978-457c-b655-bc1f031f9cdc.png
 ---
+![](/img/b668c4ba-e978-457c-b655-bc1f031f9cdc.png)
+
 La Food and Drug Administration degli Stati Uniti ha approvato [Soliris (eculizumab)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-neuromyelitis-optica-spectrum-disorder-rare-autoimmune-disease-central) per uso endovenoso per il trattamento del disturbo dello spettro della neuromielite ottica (NMOSD) in pazienti adulti con anticorpi anti-acquaporina-4 (AQP4) positivi. 
 
-Soliris rappresenta il primo trattamento approvato dalla FDA per il disturbo dello spettro di neuromielite ottica.
+Soliris rappresenta il primo trattamento approvato dalla FDA per il disturbo dello spettro della neuromielite ottica.
 
 NMOSD è una malattia autoimmune del sistema nervoso centrale che colpisce principalmente i nervi ottici e il midollo spinale. Nei pazienti con NMOSD, il sistema immunitario attacca erroneamente cellule e proteine ​​sane nel corpo, principalmente quelle dei nervi ottici e del midollo spinale. Gli individui con NMOSD hanno tipicamente dolore oculare e perdita della vista. I danni ai nervi ottici determinano gonfiore, dolore e perdita della vista, mentre i problemi al midollo spinale conducono a debolezza, paralisi a gambe o braccia, perdita di sensibilità e riduzione di funzionalità della vescica e dell'intestino. Secondo il National Institutes of Health, NMOSD colpisce di più le donne rispetto agli uomini mentre gli afroamericani sono più a rischio rispetto ai caucasici. Le stime variano, ma si ritiene che l'NMOSD colpisca circa 4.000 - 8.000 pazienti negli Stati Uniti. NMOSD è causato da anticorpi che si legano a una proteina di trasporto dell’acqua chiamata aquaporina-4 (AQP4). Il legame dell'anticorpo anti-AQP4 sembra attivare altri componenti del sistema immunitario, causando infiammazione e danni al sistema nervoso centrale.
 
