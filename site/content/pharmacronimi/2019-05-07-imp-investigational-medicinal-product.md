@@ -1,6 +1,6 @@
 ---
 title: IMP = Investigational Medicinal Product
-date: '2019-06-28T08:04:00+02:00'
+date: '2019-06-29T08:04:00+02:00'
 description: >-
   L’IMP, ovvero l’Investigational Medicinal Product è una forma farmaceutica di
   una sostanza attiva o di un placebo utilizzato come farmaco testato o di
