@@ -1,7 +1,28 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.107
-date: '2019-06-29T22:13:09+02:00'
+date: '2019-06-30T08:13:00+02:00'
+description: >-
+  La Food and Drug Administration statunitense ha approvato Dupixent (dupilumab)
+  per il trattamento della rinosinusite cronica (infiammazione prolungata dei
+  seni nasali e della cavità nasale) negli adulti con polipi nasali (escrescenze
+  sul rivestimento interno dei seni). Dupixent è il primo trattamento approvato
+  per la rinosinusite cronica inadeguatamente controllata con polipi nasale
+  (CRSwNP, controlled chronic rhinosinusitis with nasal polyposis) e l'unica
+  terapia approvata per ridurre la dimensione del polipo nasale e migliorare i
+  sintomi della rinosinusite cronica associata.
+socialDesc: >-
+  La Food and Drug Administration statunitense ha approvato Dupixent (dupilumab)
+  per il trattamento della rinosinusite cronica (infiammazione prolungata dei
+  seni nasali e della cavità nasale) negli adulti con polipi nasali (escrescenze
+  sul rivestimento interno dei seni). Dupixent è il primo trattamento approvato
+  per la rinosinusite cronica inadeguatamente controllata con polipi nasale
+  (CRSwNP, controlled chronic rhinosinusitis with nasal polyposis) e l'unica
+  terapia approvata per ridurre la dimensione del polipo nasale e migliorare i
+  sintomi della rinosinusite cronica associata.
+image: /img/41da85c0-4fb3-43a1-b511-f41ef7fab2f7.png
 ---
+![](/img/41da85c0-4fb3-43a1-b511-f41ef7fab2f7.png)
+
 La Food and Drug Administration statunitense ha approvato [Dupixent (dupilumab)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-chronic-rhinosinusitis-nasal-polyps) per il trattamento della rinosinusite cronica (infiammazione prolungata dei seni nasali e della cavità nasale) negli adulti con polipi nasali (escrescenze sul rivestimento interno dei seni). Dupixent è il primo trattamento approvato per la rinosinusite cronica inadeguatamente controllata con polipi nasale (CRSwNP, controlled chronic rhinosinusitis with nasal polyposis) e l'unica terapia approvata per ridurre la dimensione del polipo nasale e migliorare i sintomi della rinosinusite cronica associata.
 
 CRSwNP è una malattia cronica delle vie aeree superiori che ostruisce i seni nasali e le vie nasali. Può portare a difficoltà respiratorie, congestione nasale e riduzione o perdita dell'olfatto e del gusto. Inoltre, CRSwNP si verifica spesso in combinazione con l'asma grave. Attualmente la CRSwNP viene trattata con steroidi sistemici o chirurgia nasale che spesso non sono sufficienti a controllare la malattia. 
