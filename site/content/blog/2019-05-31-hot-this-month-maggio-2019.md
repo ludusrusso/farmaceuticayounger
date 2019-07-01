@@ -25,9 +25,9 @@ Il comitato per i medicinali per uso umano di EMA (CHMP) ha raccomandato l'appro
 
 Il farmaco orfano autorizzato dal comitato è **Cufence** (triidrato di diidrocloruro), per il trattamento della malattia di Wilson, una malattia ereditaria rara che provoca l'accumulo di rame nel fegato, nel cervello e in altri organi vitali. 
 
-Il CHMP ha rilasciato un parere positivo per **LysaKare **(arginina/lisina) per la protezione dei reni contro le radiazioni durante la terapia radioattiva con lutezio (177Lu) oxodotreotide.
+Il CHMP ha rilasciato un parere positivo per **LysaKare**(arginina/lisina) per la protezione dei reni contro le radiazioni durante la terapia radioattiva con lutezio (177Lu) oxodotreotide.
 
-I due medicinali generici destinati al trattamento e alla prevenzione delle infezioni fungine che hanno ricevuto un parere positivo dal comitato sono **Posaconazolo Accord** (posaconazolo) e** Posaconazole AHCL **(posaconazolo).
+I due medicinali generici destinati al trattamento e alla prevenzione delle infezioni fungine che hanno ricevuto un parere positivo dal comitato sono **Posaconazolo Accord** (posaconazolo) e**Posaconazole AHCL**(posaconazolo).
 
 Il CHMP ha adottato un parere negativo per _Xyndari_ (glutammina), un farmaco orfano per il trattamento dell'anemia falciforme, una forma ereditaria di anemia. 
 
