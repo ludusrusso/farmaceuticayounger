@@ -3,7 +3,10 @@ title: GMP - Capitolo 2
 tags:
   - cgmp
 date: '2019-07-10T09:04:00+02:00'
+image: /img/gmp2.png
 ---
+![](/img/gmp2.png)
+
 ## Capitolo 2 - Personale
 
 ## Principi
