@@ -15,9 +15,9 @@ socialDesc: >-
   farmaci generici. Il CHMP ha inoltre espresso un parere negativo per un nuovo
   medicinale, 12 estensioni di indicazioni terapeutiche e un ritiro
   dell'autorizzazione all'immissione in commercio.
-image: /img/b3daa935-7ca6-48cc-ac1c-ae8596a00e8a.png
+image: /img/ok.png
 ---
-![](/img/b3daa935-7ca6-48cc-ac1c-ae8596a00e8a.png)
+![null](/img/ok.png)
 
 Il comitato per i medicinali per uso umano di EMA (CHMP) ha raccomandato l'approvazione di 3 medicinali nella riunione di giugno 2019, dei quali due farmaci generici. Il CHMP ha inoltre espresso parere negativo per un nuovo medicinale, 12 estensioni di indicazioni terapeutiche e un ritiro dell'autorizzazione all'immissione in commercio.
 
