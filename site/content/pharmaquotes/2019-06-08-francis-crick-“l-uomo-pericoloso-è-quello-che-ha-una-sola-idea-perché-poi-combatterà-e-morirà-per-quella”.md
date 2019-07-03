@@ -25,8 +25,8 @@ James Watson e Francis Crick lavoravano insieme da poco meno di due anni presso 
 
 Nel 1953, con l'aiuto delle fotografie del DNA ottenute da Maurice Wilkins e Rosalind Franklin mediante diffrazione a raggi X, Crick costruí insieme a Watson un modello molecolare del materiale costituente il DNA.
 
-Nature pubblicò il loro articolo_ “A Structure for Deoxyribose Nucleic Acid”_, il 25 aprile dello stesso anno. Meno di dieci anni dopo, l’Accademia Reale di Svezia assegnò ai tre ricercatori il Premio Nobel per la Medicina.
+Nature pubblicò il loro articolo_“A Structure for Deoxyribose Nucleic Acid”_, il 25 aprile dello stesso anno. Meno di dieci anni dopo, l’Accademia Reale di Svezia assegnò ai tre ricercatori il Premio Nobel per la Medicina.
 
 > The dangerous man is the one who has only one idea, because then he'll fight and die for it.
 
-\    \[The New Yorker, April 25, 2011] - Francis Crick
+[The New Yorker, April 25, 2011] - Francis Crick
