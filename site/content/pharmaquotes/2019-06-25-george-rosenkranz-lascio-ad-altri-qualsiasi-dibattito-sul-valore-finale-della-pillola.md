@@ -17,7 +17,7 @@ image: /img/e5fa89dc-7900-4886-aae9-bf8310bf4a90.png
 ---
 ![null](/img/e5fa89dc-7900-4886-aae9-bf8310bf4a90.png)
 
-George Rosenkranz, chimico ungherese naturalizzato messicano dopo la fuga in Messico per scappare al nazismo, è considerato uno dei "padri della pillola anticoncezionale". Il 23 giugno scorso all’età di 102 anni, il celebre chimico si è spento nella sua casa di Atherton, in California.
+**George Rosenkranz**, chimico ungherese naturalizzato messicano dopo la fuga in Messico per scappare al nazismo, è considerato uno dei "padri della pillola anticoncezionale". Il 23 giugno scorso all’età di 102 anni, il celebre chimico si è spento nella sua casa di Atherton, in California.
 
 Gli scienziati sapevano da tempo che alti livelli di estrogeni e progesterone inibivano efficacemente l'ovulazione. Ma sintetizzare quegli ormoni da estratti animali o vegetali era stato troppo costoso e relativamente inefficace per l'uso nei contraccettivi orali commerciali. Dopo una lunga sperimentazione,  Rosenkranz e i suoi colleghi, il chimico Carl Djerassi, un rifugiato austriaco, e il loro assistente di laboratorio, Luis E. Miramontes, sintetizzarono un composto progestinico chiamato noretindrone. Era il 15 ottobre 1951, una data storica, che segnò la nascita della pillola contraccettiva.
 
