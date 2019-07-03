@@ -25,4 +25,8 @@ Il noretindrone, chiamato anche noretisterone, si dimostrò un efficace inibitor
 
 Oltre ad un contributo fondamentale che diede alla scienza nel controllo delle nascite, il team con cui lavorò Rosenkranz ottenne la prima sintesi del cortisone, il farmaco usato per trattare l'artrite reumatoide e ridurre le infiammazioni dolorose nei muscoli e nelle articolazioni. Nel 2012, è stato insignito del Biotechnology Heritage Award, in riconoscimento dei suoi significativi contributi allo sviluppo della biotecnologia attraverso la scoperta, l'innovazione e la comprensione del pubblico.
 
-> I leave to others any debate about the ultimate worth of the pill. We must never forget that original research is the lifeblood of the pharmaceutical and biotechnology industry and that an interdisciplinary team effort is the indispensable motor of significant research achievement.” Rosenkranz nel discorso del 2001, alla cerimonia di premiazione presso l'Università del Messico in occasione del 50° anniversario della sintesi del noretindrone.
+> I leave to others any debate about the ultimate worth of the pill. We must never forget that original research is the lifeblood of the pharmaceutical and biotechnology industry and that an interdisciplinary team effort is the indispensable motor of significant research achievement.
+
+Rosenkranz nel discorso del 2001, alla cerimonia di premiazione presso l'Università del Messico in occasione del 50° anniversario della sintesi del noretindrone.
+
+>
