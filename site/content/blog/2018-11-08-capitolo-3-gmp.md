@@ -82,9 +82,9 @@ Ulteriori indicazioni sono disponibili nel Capitolo 5 e negli Annex 2, 3, 4, 5 e
 
 3.26 Di norma i laboratori utilizzati per il controllo qualità dovranno essere separati dalle zone adibite alla produzione. Specialmente per quei laboratori utilizzati per il controllo di sostanze biologiche e microbiologiche nonchè radioisotopi; tali laboratori dovranno essere separati l'uno dall'altro.
 
-3.27 I laboratori di controllo dovranno essere progettati in modo da essere idonei alle operazioni che in essi verranno effettuate. Lo spazio dovrà risultare sufficiente ad evitare frammischiamenti il rischio di contaminazione crociata; dovranno essere disponibili spazi adeguati per conservare i campioni e i relativi documenti.
+3.27 I laboratori di controllo dovranno essere progettati in modo da essere idonei alle operazioni che in essi verranno effettuate. Lo spazio dovrà risultare sufficiente ad evitare frammischiamenti (mix-ups) e contaminazione crociata. Dovranno essere disponibili spazi adeguati per conservare i campioni e i relativi documenti.
 
-3.28 Potrà risultare necessario prevedere locali separati per proteggere strumenti sensibili da vibrazioni, interferenze elettriche, umidità, ecc. 
+3.28 Potrebbero essere necessari locali separati per proteggere gli strumenti sensibili da vibrazioni, interferenze elettriche, umidità, ecc.
 
 3.29 Per i laboratori nei quali si lavorano sostanze pericolose, come campioni biologici o radioattivi, saranno richiesti particolari requisiti.
 
