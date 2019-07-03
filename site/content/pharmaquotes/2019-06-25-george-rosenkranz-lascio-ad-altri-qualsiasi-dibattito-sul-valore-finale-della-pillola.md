@@ -28,5 +28,3 @@ Oltre ad un contributo fondamentale che diede alla scienza nel controllo delle n
 > I leave to others any debate about the ultimate worth of the pill. We must never forget that original research is the lifeblood of the pharmaceutical and biotechnology industry and that an interdisciplinary team effort is the indispensable motor of significant research achievement.
 
 Rosenkranz nel discorso del 2001, alla cerimonia di premiazione presso l'Università del Messico in occasione del 50° anniversario della sintesi del noretindrone.
-
->
