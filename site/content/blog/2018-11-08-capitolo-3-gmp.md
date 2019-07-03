@@ -1,14 +1,16 @@
 ---
-title: Capitolo 3 GMP
+title: GMP - Capitolo 3
+tags:
+  - cgmp
 date: '2018-11-08T17:19:09+01:00'
 ---
-Capitolo 3 - Locali ed attrezzature
+## Capitolo 3 - Locali ed attrezzature
 
 Locali e attrezzature devono essere ubicati, progettati, costruiti, adattati e sottoposti a regolare manutenzione in modo da risultare idonei alle operazioni da svolgere. Nel progettarli e disporli si deve mirare a minimizzare il rischio di errori ed a consentire efficaci interventi di pulizia e manutenzione così da evitare la contaminazione crociata, l'accumulo di polvere o di sporcizia ed in genere qualunque effetto negativo sulla qualità dei prodotti.
 
-Locali
+## Locali
 
-Aspetti generali
+**Aspetti generali**
 
 3.1 I locali dovranno essere ubicati in un ambiente che, considerato unitamente alle misure volte a proteggere la fabbricazione, presenti un rischio minimo di provocare la contaminazione dei materiali o dei prodotti.
 
@@ -44,7 +46,7 @@ Aspetti generali
 
 3.17 I controlli nel corso del processo potranno aver luogo nell'area adibita alla produzione purchè essi non comportino nessun rischio per la produzione stessa.
 
-Aree di stoccaggio
+## **Aree di stoccaggio**
 
 3.18 Le aree di stoccaggio dovranno avere una capacità sufficiente a consentire di depositarvi in modo ordinato le varie tipologie di materiali e di prodotti: materie prime e materiali di confezionamento, prodotti semilavorati, sfusi e finiti, prodotti in quarantena, approvati, respinti, resi o richiamati.
 
@@ -62,7 +64,7 @@ Aree di stoccaggio
 
 3.25 Ai materiali di confezionamento stampati viene attribuita un'importanza fondamentale ai fini della conformità del medicinale e particolare attenzione dovrà essere dedicata allo stoccaggio di tali materiali in condizioni di sicurezza.
 
-Aree adibite al Laboratorio di controllo qualità
+**Aree adibite al Laboratorio di Controllo Qualità**
 
 3.26 Di norma i laboratori utilizzati per il controllo qualità dovranno essere separati dalle zone adibite alla produzione. Specialmente per quei laboratori utilizzati per il controllo di sostanze biologiche e microbiologiche nonchè radioisotopi; tali laboratori dovranno essere separati l'uno dall'altro.
 
@@ -72,7 +74,7 @@ Aree adibite al Laboratorio di controllo qualità
 
 3.29 Per i laboratori nei quali si lavorano sostanze pericolose, come campioni biologici o radioattivi, saranno richiesti particolari requisiti.
 
-Aree per attività accessorie
+## Aree per attività accessorie
 
 3.30 I locali adibiti a sale break dovranno essere separate dalle altre aree.
 
@@ -82,7 +84,7 @@ Aree per attività accessorie
 
 3.33 Gli stabulari dovranno essere ben isolati dalle altre zone e disporre di ingressi separati per l'accesso agli animali e di mezzi per il trattamento dell'aria.
 
-Apparecchiature
+## Apparecchiature
 
 3.34 Le apparecchiature di produzione dovranno essere progettate e sottoposte a manutenzione in modo da risultare idonee allo scopo cui sono destinate.
 
