@@ -58,25 +58,25 @@ Ulteriori indicazioni sono disponibili nel Capitolo 5 e negli Annex 2, 3, 4, 5 e
 
 3.16 Le aree adibite alla produzione dovranno essere ben illuminate, in particolar modo laddove si svolgono controlli visivi sulla linea di produzione.
 
-3.17 I controlli nel corso del processo potranno aver luogo nell'area adibita alla produzione purchè essi non comportino nessun rischio per la produzione stessa.
+3.17 Gli in-process control dovranno essere effettuati nell'area adibita alla produzione purchè essi non comportino nessun rischio per la produzione stessa.
 
-## **Aree di stoccaggio**
+**Aree di stoccaggio**
 
-3.18 Le aree di stoccaggio dovranno avere una capacità sufficiente a consentire di depositarvi in modo ordinato le varie tipologie di materiali e di prodotti: materie prime e materiali di confezionamento, prodotti semilavorati, sfusi e finiti, prodotti in quarantena, approvati, respinti, resi o richiamati.
+3.18 Le aree di stoccaggio dovranno avere una capacità sufficiente a consentire di depositarvi in modo ordinato le varie categorie di materiali e prodotti: materie prime e materiali di confezionamento, prodotti semilavorati, bulk e finiti, prodotti in quarantena, approvati, respinti, resi o richiamati.
 
-3.19 Le aree di stoccaggio dovranno essere progettate o adattate in modo da garantire buone condizioni di conservazione; dovranno in particolare risultare pulite e asciutte e venire altresì mantenute entro limiti accettabili di temperatura. Laddove occorra rispettare condizioni particolari per lo stoccaggio (ad es. di temperatura e di umidità) tali condizioni dovranno essere ottenute, verificate e controllate.
+3.19 Le aree di stoccaggio dovranno essere progettate o adattate in modo da garantire buone condizioni di conservazione. In particolare, dovranno risultare pulite e asciutte e mantenute entro limiti accettabili di temperatura. Laddove siano richieste speciali condizioni per lo stoccaggio (ad es. di temperatura e di umidità) tali condizioni dovranno essere fornite, verificate e controllate.
 
-3.20 I materiali e i prodotti dovranno essere protetti dalle intemperie con l'impiego di aree per il loro ricevimento e distribuzione. Le aree adibite al ricevimento dovranno essere progettate e attrezzate in modo da consentire all'occorrenza di procedere alla pulizia dei contenitori dei materiali in arrivo prima del loro stoccaggio.
+3.20 Le baie di ricezione e spedizione devono proteggere i materiali e i prodotti dalle intemperie. Le aree adibite al ricevimento dovranno essere progettate e attrezzate in modo da consentire quando necessario di procedere alla pulizia dei contenitori dei materiali in arrivo prima del loro stoccaggio.
 
 3.21 Qualora siano previste zone separate per la quarantena queste dovranno essere chiaramente indicate e accessibili soltanto al personale autorizzato. Qualunque sistema che sostituisca la quarantena fisica dovrà offrire un grado di sicurezza equivalente.
 
-3.22 Dovrà di norma essere prevista un'area separata, adibita al campionamento delle materie prime. Qualora il campionamento abbia luogo nella zona adibita allo stoccaggio dei prodotti esso dovrà essere effettuato in modo tale da escludere la contaminazione, anche crociata.
+3.22 Dovrà di norma essere prevista un'area separata, adibita al campionamento delle materie prime. Qualora il campionamento abbia luogo nella zona adibita allo stoccaggio dei prodotti esso dovrà essere effettuato in modo tale da escludere la contaminazione o la cross-contamination.
 
 3.23 Dovranno essere previste aree segregate per il deposito di materiali o prodotti respinti, richiamati o resi.
 
-3.24 Le sostanze e i prodotti caratterizzati da un'elevata attività dovranno essere stoccati in aree sicure.
+3.24 I materiali o i prodotti caratterizzati da un'elevata attività dovranno essere stoccati in aree sicure.
 
-3.25 Ai materiali di confezionamento stampati viene attribuita un'importanza fondamentale ai fini della conformità del medicinale e particolare attenzione dovrà essere dedicata allo stoccaggio di tali materiali in condizioni di sicurezza.
+3.25 I materiali di confezionamento stampati sono considerati critici ai fini della conformità del medicinale e particolare attenzione dovrà essere dedicata allo stoccaggio di tali materiali in condizioni di sicurezza.
 
 **Aree adibite al Laboratorio di Controllo Qualità**
 
