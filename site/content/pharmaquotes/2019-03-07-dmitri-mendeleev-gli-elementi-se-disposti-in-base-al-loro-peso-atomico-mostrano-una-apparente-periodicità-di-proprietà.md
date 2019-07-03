@@ -13,9 +13,9 @@ socialDesc: >-
   interessi culturali, è noto per la scoperta della periodicità delle proprietà
   degli elementi chimici, e la loro sistemazione nella famosa tavola periodica
   degli elementi che porta il suo nome.
-image: /img/img_5083.jpg
+image: /img/mendelev.png
 ---
-![null](/img/img_5083.jpg)
+![null](/img/mendelev.png)
 
 **Dmitrij Ivanovič Mendeleev**, chimico e scienziato russo dai molteplici interessi culturali, è noto per la scoperta della periodicità delle proprietà degli elementi chimici, e la loro sistemazione nella famosa tavola periodica degli elementi che porta il suo nome.
 
