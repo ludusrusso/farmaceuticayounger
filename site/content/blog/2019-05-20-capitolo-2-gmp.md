@@ -3,9 +3,9 @@ title: GMP - Capitolo 2
 tags:
   - cgmp
 date: '2019-07-10T09:04:00+02:00'
-image: /img/okok2.png
+image: /img/gmp2.png
 ---
-![null](/img/okok2.png)
+![null](/img/gmp2.png)
 
 ## Capitolo 2 - Personale
 
