@@ -3,6 +3,22 @@ title: FDA APPROVAL - Xpovio
 tags:
   - farmanews
 date: '2019-07-04T14:23:59+02:00'
+description: >-
+  La Food and Drug Administration statunitense ha concesso l'approvazione di
+  Xpovio (selinexor) in combinazione con il desametasone corticosteroide per il
+  trattamento di pazienti adulti con mieloma multiplo refrattario recidivante
+  (RRMM) che hanno ricevuto almeno quattro terapie precedenti e la cui malattia
+  è resistente a diverse altre forme di trattamento, tra cui almeno due
+  inibitori del proteasoma, almeno due agenti immunomodulatori e un anticorpo
+  monoclonale anti-CD38.
+socialDesc: >-
+  La Food and Drug Administration statunitense ha concesso l'approvazione di
+  Xpovio (selinexor) in combinazione con il desametasone corticosteroide per il
+  trattamento di pazienti adulti con mieloma multiplo refrattario recidivante
+  (RRMM) che hanno ricevuto almeno quattro terapie precedenti e la cui malattia
+  è resistente a diverse altre forme di trattamento, tra cui almeno due
+  inibitori del proteasoma, almeno due agenti immunomodulatori e un anticorpo
+  monoclonale anti-CD38.
 ---
 La Food and Drug Administration statunitense ha concesso l'approvazione di [Xpovio (selinexor) ](https://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-refractory-multiple-myeloma)in combinazione con il desametasone corticosteroide per il trattamento di pazienti adulti con mieloma multiplo refrattario recidivante (RRMM) che hanno ricevuto almeno quattro terapie precedenti e la cui malattia è resistente a diverse altre forme di trattamento, tra cui almeno due inibitori del proteasoma, almeno due agenti immunomodulatori e un anticorpo monoclonale anti-CD38.
 
