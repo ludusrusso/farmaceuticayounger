@@ -3,7 +3,10 @@ title: GMP - Capitolo 3
 tags:
   - cgmp
 date: '2018-11-08T17:19:09+01:00'
+image: /img/gmp3.png
 ---
+![](/img/gmp3.png)
+
 ## Capitolo 3 - Locali ed attrezzature
 
 ## Principi
@@ -26,7 +29,8 @@ Locali e attrezzature devono essere ubicati, progettati, costruiti, adattati e s
 
 **Area di Produzione**
 
-3.6 La cross-contamination deve essere prevenuta per tutti i prodotti attraverso una appropriata  progettazione e gestione degli impianti di produzione. Le misure per prevenire la contaminazione crociata dovrebbero essere commisurate ai rischi. I principi del Quality Risk Management dovrebbero essere utilizzati per valutare e controllare i rischi. A seconda del livello di rischio, potrebbe essere necessario dedicare locali e attrezzature per le operazioni di produzione e/o di imballaggio al fine di controllare il rischio presentato da alcuni medicinali.
+3.6 La cross-contamination deve essere prevenuta per tutti i prodotti attraverso una appropriata  progettazione e
+ gestione degli impianti di produzione. Le misure per prevenire la contaminazione crociata dovrebbero essere commisurate ai rischi. I principi del Quality Risk Management dovrebbero essere utilizzati per valutare e controllare i rischi. A seconda del livello di rischio, potrebbe essere necessario dedicare locali e attrezzature per le operazioni di produzione e/o di imballaggio al fine di controllare il rischio presentato da alcuni medicinali.
 
 Sono necessarie strutture dedicate per la produzione quando un medicinale presenta un rischio in quanto:
 
