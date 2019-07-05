@@ -1,6 +1,18 @@
 ---
 title: WFI = Water For Injection
 date: '2019-07-06T09:34:37+02:00'
+description: >-
+  La WFI (Water For Injection) ovvero l'acqua per preparazioni iniettabili,
+  viene preparata mediante distillazione o osmosi inversa accoppiato insieme ad
+  altre tecniche appropriate come l'elettrodeionizzazione, l'ultrafiltrazione o
+  la nanofiltrazione e rispondente a determinati standard di sterilità e purezza
+  definiti nella Farmacopea Europea. 
+socialDesc: >-
+  La WFI (Water For Injection) ovvero l'acqua per preparazioni iniettabili,
+  viene preparata mediante distillazione o osmosi inversa accoppiato insieme ad
+  altre tecniche appropriate come l'elettrodeionizzazione, l'ultrafiltrazione o
+  la nanofiltrazione e rispondente a determinati standard di sterilità e purezza
+  definiti nella Farmacopea Europea.
 ---
 La WFI (Water For Injection) ovvero l'acqua per preparazioni iniettabili, viene preparata mediante distillazione o osmosi inversa accoppiato insieme ad altre tecniche appropriate come l'elettrodeionizzazione, l'ultrafiltrazione o la nanofiltrazione e rispondente a determinati standard di sterilità e purezza definiti nella Farmacopea Europea. In accordo alla definizione contenuta nella monografia 0169 della Farmacopea Europea, l'acqua per preparazioni iniettabili viene così definita:
 
