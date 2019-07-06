@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.108
-date: '2019-07-06T19:17:04+02:00'
+date: '2019-07-07T07:17:00+02:00'
 description: >-
   La Food and Drug Administration statunitense ha concesso l’approvazione di
   Xpovio (selinexor) in combinazione con il desametasone per il trattamento di
@@ -17,7 +17,10 @@ socialDesc: >-
   diverse altre forme di trattamento, tra cui almeno due inibitori del
   proteasoma, almeno due agenti immunomodulatori e un anticorpo monoclonale
   anti-CD38.
+image: /img/4ba1d016-3b8c-45fe-82ef-e43972cf0abc.png
 ---
+![](/img/4ba1d016-3b8c-45fe-82ef-e43972cf0abc.png)
+
 La Food and Drug Administration statunitense ha concesso l’approvazione di [Xpovio (selinexor)](https://www.fda.gov/media/121669/download) in combinazione con il desametasone per il trattamento di pazienti adulti con mieloma multiplo refrattario recidivante (RRMM) che hanno ricevuto almeno quattro terapie precedenti e la cui malattia è resistente a diverse altre forme di trattamento, tra cui almeno due inibitori del proteasoma, almeno due agenti immunomodulatori e un anticorpo monoclonale anti-CD38.
 
 Secondo il National Cancer Institute (NCI), il mieloma multiplo è il secondo tumore del sangue più comune negli Stati Uniti, con oltre 32.000 nuovi casi ogni anno e oltre 130.000 pazienti affetti da questa malattia. Il mieloma multiplo (MM) è una neoplasia caratterizzata dalla proliferazione di un clone di plasmacellule (globuli bianchi che producono anticorpi) che si accumulano nel midollo osseo. Le cause esatte del mieloma multiplo sono sconosciute, ma è più comune nelle persone anziane e negli afroamericani. Nonostante i recenti progressi nel trattamento del mieloma multiplo, molti pazienti sviluppano una resistenza ai cinque farmaci anti-mieloma più comunemente usati al momento per il trattamento di questa patologia. L’approvazione accelerata di Xpovio fornisce un’opzione in più di trattamento per i pazienti con RRMM.
