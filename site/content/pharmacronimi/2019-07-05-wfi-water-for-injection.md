@@ -15,9 +15,9 @@ socialDesc: >-
   definiti nella Farmacopea Europea.
 image: /img/d4ec8b97-ff57-4741-b125-26e0ca128b9b.png
 ---
-![](/img/d4ec8b97-ff57-4741-b125-26e0ca128b9b.png)
+![null](/img/d4ec8b97-ff57-4741-b125-26e0ca128b9b.png)
 
-La WFI (Water For Injection) ovvero l'acqua per preparazioni iniettabili, viene preparata mediante distillazione o osmosi inversa accoppiato insieme ad altre tecniche appropriate come l'elettrodeionizzazione, l'ultrafiltrazione o la nanofiltrazione e rispondente a determinati standard di sterilità e purezza definiti nella Farmacopea Europea. In accordo alla definizione contenuta nella monografia 0169 della Farmacopea Europea, l'acqua per preparazioni iniettabili viene così definita:
+La WFI (Water For Injection) ovvero l'acqua per preparazioni iniettabili, viene preparata mediante distillazione o osmosi inversa accoppiata insieme ad altre tecniche appropriate come l'elettrodeionizzazione, l'ultrafiltrazione o la nanofiltrazione e rispondente a determinati standard di sterilità e purezza definiti nella Farmacopea Europea. In accordo alla monografia 0169 della Farmacopea Europea, l'acqua per preparazioni iniettabili viene così definita:
 
 > Water for the preparation of medicines for parenteral administration when water is used as vehicle (water for injections in bulk) and for dissolving or diluting substances or preparations for parenteral administration (sterilised water for injections).
 
