@@ -3,9 +3,36 @@ title: >-
   KARY MULLIS - “L'ingegneria genetica non è una novità: il processo evolutivo
   è, ed è sempre stato, un manipolatore genetico”
 date: '2019-07-07T19:07:02+02:00'
+description: >-
+  Era un tranquillo venerdì sera del 1983 e il biochimico Kary Mullis guidava la
+  sua piccola Honda argentata sulla Highway 128 per raggiungere la Contea di
+  Mendocino per un weekend di riposo. Una strada che conosceva bene tanto da
+  poterla guidare ad occhi chiusi. Era buio e i suoi pensieri iniziarono a
+  vagare. Dopo un po', tutti i pezzi del puzzle in un istante si ricomposero
+  quasi per magia. Filamenti di DNA si avvolgevano e volteggiano nel cielo
+  stellato di quella magica notte. 
+socialDesc: >-
+  Era un tranquillo venerdì sera del 1983 e il biochimico Kary Mullis guidava la
+  sua piccola Honda argentata sulla Highway 128 per raggiungere la Contea di
+  Mendocino per un weekend di riposo. Una strada che conosceva bene tanto da
+  poterla guidare ad occhi chiusi. Era buio e i suoi pensieri iniziarono a
+  vagare. Dopo un po', tutti i pezzi del puzzle in un istante si ricomposero
+  quasi per magia. Filamenti di DNA si avvolgevano e volteggiano nel cielo
+  stellato di quella magica notte. 
+image: /img/08857345-5c31-4752-959e-996de82f4688.png
 ---
-Era un tranquillo venerdì sera del 1983 e Il biochimico Kary Mullis guidava la sua piccola Honda argentata sulla Highway 128 per raggiungere l’Anderson Valley. una strada che conosceva bene tanto da poterla guidare ad occhi chiusi. Era buio e i suoi pensieri iniziarono a vagare. Dopo un po ', tutti i pezzi del puzzle in un istante si ricomposero quasi per magia. Alla fine ha dovuto fermare la sua auto per pensare correttamente. Mullis ha ricevuto il premio di chimica per la sua invenzione del processo noto come reazione a catena della polimerasi (PCR), in cui una piccola quantità di DNA può essere copiata in grandi quantità in un breve periodo di tempo. Applicando calore, i due filamenti della molecola del DNA sono separati e i blocchi costitutivi del DNA che sono stati aggiunti sono legati a ciascun filo. Con l'aiuto dell'enzima DNA polimerasi, si formano nuove catene di DNA e il processo può essere ripetuto. La PCR è stata di grande importanza sia nella ricerca medica che in quella forense.
+![](/img/08857345-5c31-4752-959e-996de82f4688.png)
 
-Ed eccoci quindi a quel venerdì sera del 1983. Kary guidava la sua piccola Honda argentata sulla Highway 128 per raggiungere l’Anderson Valley.
+Era un tranquillo venerdì sera del 1983 e Kary Mullis era alla guida della sua Honda argentata sulla Highway 128 per raggiungere la Contea di Mendocino per un weekend di riposo. Una strada che conosceva bene tanto da poterla guidare ad occhi chiusi. Era buio e i suoi pensieri iniziarono a vagare. Filamenti di DNA si avvolgevano e volteggiano nel cielo stellato di quella magica notte. Tutti i pezzi del puzzle in un istante si ricomposero quasi per magia. 
 
-Mentre le mani seguivano la strade e le curve, la mente tornava in laboratorio. Filamenti di DNA si avvolgevano e volteggiano nell’aria: immagini di molecole elettrificate colorate di rosa e blu scuro si infilavano tra gli occhi di Mullis e la strada. Ed ecco accendersi la lampadina oppure per dirla con le parole del compianto Perozzi il genio con fantasia, decisione e velocità d’esecuzione intuisce che poteva ottenere un numero strabiliante di copie di un preciso filamento di DNA con una reazione semplice, per la quale erano già noti tutti gli ingredienti. «Era tutto così banale che non riuscivo a credere che nessuno lo avesse già pensato e fatto prima, racconta Mullis . A Mendocino non avevo telefono, il lunedì mattina mi precipitai in biblioteca prestissimo al mattino. Scoprii che nessuno aveva mai amplificato il DNA, né la cosa per la verità parve interessare granché i miei colleghi. C’è voluto tempo prima che fosse intuita la portata della scoperta e perfino Nature e Science, le riviste scientifiche più importanti, rifiutarono il mio primo lavoro sulla PCR dicendomi che poteva essere utile solo a una ristretta cerchia di specialisti».
+> Era tutto così banale che non riuscivo a credere che nessuno lo avesse già pensato e fatto prima.
+
+Aveva capito che poteva ottenere un numero elevato di copie di un preciso filamento di DNA con una reazione semplice, per la quale erano già noti e disponibili tutti gli ingredienti. A Mendocino non aveva il telefono, il lunedì mattina si precipitò in biblioteca prestissimo. Parlò con molte persone fra medici e biologi che da subito non credetterò all’illuminazione di quel venerdì sera.
+
+> Nessuno vuole che un chimico arrivi e inizi a cambiare le cose.
+
+Kary Mullis, “su quello che fanno gli scienziati” TED talk.
+
+Mullis era convinto e non voleva abbandonare quell’idea per niente al mondo. Contro tutti e tutto, sfidò scienziati autorevoli in nome della sua idea. Nacque così la PCR, Polymerase Chain Reaction, la tecnica che permette di amplificare frammenti di DNA dei quali si conoscono le sequenze nucleotidiche iniziali e terminali in tempi brevi. C’è voluto tempo prima che fosse intuita la portata della scoperta e perfino le prestigiose riviste Nature e Science, rifiutarono il primo lavoro di Mullis sulla PCR in quanto ”poteva essere utile solo a una ristretta cerchia di specialisti.”
+
+Mullis ricevette il Premio Nobel per la chimica nel 1993 assieme a Michael Smith _"for his invention of the polymerase chain reaction (PCR) method."_ L’invenzione della PCR è stata di grande importanza sia nella ricerca medica che in quella forense. Da quel venerdì sera del lontano 1983 la biologia molecolare per mano di un chimico caparbio e illuminato non fu più la stessa.
