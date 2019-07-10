@@ -1,5 +1,5 @@
 ---
-title: 'HEIKE KEMERLINGH ONNES - '
+title: HEIKE KEMERLINGH ONNES - "Through measurement to knowledge"
 date: '2019-07-10T14:00:09+02:00'
 ---
 Era il 10 luglio 1908, una giornata umida e ventosa poco prima delle vacanze estive. Heike Kamerlingh Onnes, svegliato prima dell'alba da sua moglie Betsy, si fece preparare una carrozza alle 5 del mattino che lo avrebbe portato a Huize ter Wetering, la sua bella casa di campagna sul fiume Galgewater, a Steenschuur. Lì, nel centro della città, aveva messo in piedi il suo laboratorio criogenico e, in quel 10 luglio, anniversario del suo dottorato, era alle prese con uno dei suoi numerosi tentativi di avvicinarsi allo zero assoluto. 
