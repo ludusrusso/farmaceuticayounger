@@ -13,3 +13,5 @@ L'elio fluido divenne di fondamentale importanza per il raffreddamento di divers
 Fondò un laboratorio criogenico per verificare le leggi di van der Waals in un ampio intervallo di temperature. Nel suo laboratorio, presto diventato di fama internazionale e visitato da tanti ospiti, si facevano anche ricerche su fenomeni ottici, elettrici e magnetici, come la rotazione del piano di polarizzazione dovuta a campi magnetici, l’effetto Hall, le costanti dielettriche e la resistività dei metalli.
 
 Heike Kamerlingh Onnes ricevette il premio Nobel per la fisica nel 1913 "his investigations on the properties of matter at low temperatures which led, inter alia, to the production of liquid helium". Da quel giorno del lontano 1908 si aprì un capitolo completamente nuovo nella fisica delle basse temperature.
+
+Fonte: https://www.europhysicsnews.org/articles/epn/pdf/2008/06/epn2008602.pdf
