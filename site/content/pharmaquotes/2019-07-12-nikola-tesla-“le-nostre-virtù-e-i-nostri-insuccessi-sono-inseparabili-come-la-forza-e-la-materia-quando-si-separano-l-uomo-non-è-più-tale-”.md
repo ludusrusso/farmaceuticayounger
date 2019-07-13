@@ -2,7 +2,7 @@
 title: >-
   NIKOLA TESLA - “Le nostre virtù e i nostri insuccessi sono inseparabili, come
   la forza e la materia. Quando si separano, l'uomo non è più tale.”
-date: '2019-07-12T20:57:45+02:00'
+date: '2019-07-13T08:57:00+02:00'
 description: >-
   Nikola Tesla nacque in quella notte tormentata del 10 Luglio, fu un fisico
   serbo naturalizzato statunitense Il cui nome è indissolubilmente legato alla
