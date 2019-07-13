@@ -21,13 +21,13 @@ socialDesc: >-
   scoperte.
 image: /img/24cf2ce0-c5c8-4f09-8228-a8ef1a6d58f1.png
 ---
-![](/img/24cf2ce0-c5c8-4f09-8228-a8ef1a6d58f1.png)
+![null](/img/24cf2ce0-c5c8-4f09-8228-a8ef1a6d58f1.png)
 
-Era all’incirca mezzanotte del 10 luglio 1856 e fuori imperversava una violenta tempesta di fulmini. Un’ostetrica era intenta a portare alla luce un bambino, in quella tormentata notte che per lei era sinonimo di cattivo auspicio. Questo bambino sarà un bambino delle tenebre, disse. Ma la madre del bambino prontamente rispose: 
+Era all’incirca mezzanotte del 10 luglio 1856 e fuori imperversava una violenta tempesta di fulmini. Un’ostetrica era intenta a portare alla luce un bambino, in quella tormentata notte che per lei era sinonimo di cattivo presagio. ”Questo bambino sarà un bambino delle tenebre” disse l’ostetrica. Ma la madre del bambino prontamente rispose: 
 
 > No. Sarà un bambino della luce.
 
-Nikola Tesla nacque in quella notte tormentata del 10 Luglio, fu un fisico serbo naturalizzato statunitense Il cui nome è indissolubilmente legato alla corrente alternata. Oltre ad aver collezionato nella sua vita circa 300 brevetti, le invenzioni più di rilievo che gli furono riconosciute furono l’alternatore e la trasmissione delle onde radio. Cellulari, radio, antenne e satellitari, radar sono applicazioni tecnologiche rese possibili dalle sue scoperte.
+Nikola Tesla nacque in quella notte tormentata del 10 Luglio. Fu un fisico serbo naturalizzato statunitense il cui nome è indissolubilmente legato alla corrente alternata. Oltre ad aver collezionato nella sua vita circa 300 brevetti, le invenzioni più di rilievo che gli furono riconosciute furono l’alternatore e la trasmissione delle onde radio. Cellulari, radio, antenne e satellitari, radar sono applicazioni tecnologiche rese possibili dalle sue scoperte.
 
 Tesla era una persona poliglotta. Accanto al serbo e al croato, conosceva perfettamente altre sette lingue: il ceco, l'inglese, il francese, il tedesco, l'ungherese, l'italiano e il latino. Tesla studiò matematica, fisica e ingegneria alla Scuola Politecnica di Graz, in Austria, ma non portò mai a termine gli studi oltre il primo semestre del suo terzo anno, durante il quale Tesla smise di seguire le lezioni.
 
