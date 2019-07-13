@@ -1,7 +1,20 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.109
 date: '2019-07-14T08:48:00+02:00'
+description: >-
+  Con il riconoscimento da parte della FDA della Slovacchia, l'Unione europea e
+  gli Stati Uniti hanno ora completato, con tre giorni di anticipo, l'accordo di
+  mutuo riconoscimento (MRA) per quanto riguarda le ispezioni GMP dei siti di
+  produzione di determinati medicinali umani nei loro rispettivi territori.
+socialDesc: >-
+  Con il riconoscimento da parte della FDA della Slovacchia, l'Unione europea e
+  gli Stati Uniti hanno ora completato, con tre giorni di anticipo, l'accordo di
+  mutuo riconoscimento (MRA) per quanto riguarda le ispezioni GMP dei siti di
+  produzione di determinati medicinali umani nei loro rispettivi territori.
+image: /img/0e44d839-4af9-4af4-9c36-19ff06537edb.png
 ---
+![](/img/0e44d839-4af9-4af4-9c36-19ff06537edb.png)
+
 Con il riconoscimento da parte della FDA della Slovacchia, l'Unione europea e gli Stati Uniti hanno ora completato, con tre giorni di anticipo, l'accordo di mutuo riconoscimento (MRA) per quanto riguarda le ispezioni GMP dei siti di produzione di determinati medicinali umani nei loro rispettivi territori.
 
 > Accogliamo con favore l'attuazione di questo accordo, il che significa che le autorità di entrambe le sponde dell'Atlantico potranno ora fare affidamento sui reciproci risultati delle ispezioni. Questa pietra miliare è una testimonianza dell'importanza della nostra partnership strategica con gli Stati Uniti. Supporterà il miglior utilizzo della nostra capacità di ispezione, in modo che i pazienti possano fare affidamento sulla qualità, sicurezza ed efficacia di tutti i farmaci, indipendentemente da dove siano stati fabbricati.
