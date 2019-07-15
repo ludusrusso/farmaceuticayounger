@@ -21,7 +21,7 @@ socialDesc: >-
   anni.
 image: /img/mandelli.png
 ---
-![IMG_2666.JPG](/img/franco-mandelli-la-cura-non-puo-essere-solo-la-somministrazione-dei-farmaci-ma-bisogna-pensare-che-dietro-ad-una-malattia-ce-sempre-un-essere-umano.md/img_2666.jpg)
+![IMG_2666.JPG](/img/mandelli.png)
 
 **Franco Mandelli,** medico ed uno dei più importanti ematologi italiani, pioniere della lotta alle neoplasie del sangue (leucemie) e del sistema linfatico (linfomi), presidente del **GIMEMA** (Gruppo Italiano Malattie Ematologiche dell'Adulto) e dell'**AIL** (Associazione italiana contro le leucemie-linfomi e mieloma) ci ha lasciato il 15 Luglio scorso, all'età di 87 anni.
 
