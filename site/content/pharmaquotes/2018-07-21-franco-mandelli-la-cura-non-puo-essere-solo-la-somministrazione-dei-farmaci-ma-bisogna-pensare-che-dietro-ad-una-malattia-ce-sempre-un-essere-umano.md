@@ -1,11 +1,26 @@
 ---
-title: 'FRANCO MANDELLI - "La cura non può essere solo la somministrazione dei farmaci, ma bisogna pensare che dietro ad una malattia c''è sempre un essere umano"'
-date: 2018-07-21T07:30:36+00:00
-draft: false
-image: /img/franco-mandelli-la-cura-non-puo-essere-solo-la-somministrazione-dei-farmaci-ma-bisogna-pensare-che-dietro-ad-una-malattia-ce-sempre-un-essere-umano.md/img_2666.jpg
-tags: [PharmaQuotes]
+title: >-
+  FRANCO MANDELLI - "Ecco, è questo il vero dottore, uomo di scienza ma
+  soprattutto di coscienza."
+date: 2018-07-21T07:30:36.000Z
+description: >-
+  Franco Mandelli, medico ed uno dei più importanti ematologi italiani,
+  Professore emerito dell’Università Sapienza e Primario emerito del Policlinico
+  Umberto I di Roma, pioniere della lotta alle neoplasie del sangue (leucemie) e
+  del sistema linfatico (linfomi), presidente del GIMEMA (Gruppo Italiano
+  Malattie Ematologiche dell'Adulto) e dell'AIL (Associazione italiana contro le
+  leucemie-linfomi e mieloma) ci ha lasciato il 15 Luglio 2018, all'età di 87
+  anni.
+socialDesc: >-
+  Franco Mandelli, medico ed uno dei più importanti ematologi italiani,
+  Professore emerito dell’Università Sapienza e Primario emerito del Policlinico
+  Umberto I di Roma, pioniere della lotta alle neoplasie del sangue (leucemie) e
+  del sistema linfatico (linfomi), presidente del GIMEMA (Gruppo Italiano
+  Malattie Ematologiche dell'Adulto) e dell'AIL (Associazione italiana contro le
+  leucemie-linfomi e mieloma) ci ha lasciato il 15 Luglio 2018, all'età di 87
+  anni.
+image: /img/mandelli.png
 ---
-
 ![IMG_2666.JPG](/img/franco-mandelli-la-cura-non-puo-essere-solo-la-somministrazione-dei-farmaci-ma-bisogna-pensare-che-dietro-ad-una-malattia-ce-sempre-un-essere-umano.md/img_2666.jpg)
 
 **Franco Mandelli,** medico ed uno dei più importanti ematologi italiani, pioniere della lotta alle neoplasie del sangue (leucemie) e del sistema linfatico (linfomi), presidente del **GIMEMA** (Gruppo Italiano Malattie Ematologiche dell'Adulto) e dell'**AIL** (Associazione italiana contro le leucemie-linfomi e mieloma) ci ha lasciato il 15 Luglio scorso, all'età di 87 anni.
