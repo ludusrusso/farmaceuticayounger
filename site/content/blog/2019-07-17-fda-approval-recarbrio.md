@@ -2,7 +2,7 @@
 title: FDA APPROVAL - Recarbrio
 tags:
   - farmanews
-date: '2019-07-17T16:04:10+02:00'
+date: '2019-07-19T04:04:00+02:00'
 description: >-
   La Food and Drug Administration degli Stati Uniti ha approvato Recarbrio
   (imipenem, cilastatina e relebactam), un prodotto antibatterico per il
