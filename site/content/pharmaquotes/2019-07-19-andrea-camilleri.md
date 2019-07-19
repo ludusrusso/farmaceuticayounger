@@ -1,7 +1,22 @@
 ---
-title: 'ANDREA CAMILLERI - '
+title: >-
+  ANDREA CAMILLERI - "Chi ha sapere deve seminare come chi semina il grano. Il
+  sapere non deve essere un'élite."
 date: '2019-07-20T08:49:00+02:00'
+description: >-
+  Andrea Calogero Camilleri, scrittore, sceneggiatore, regista, drammaturgo
+  siciliano, è morto mercoledì 17 luglio scorso all’Ospedale di Santo Spirito a
+  Roma, dove era stato ricoverato un mese prima in seguito ad un arresto
+  cardiaco.
+socialDesc: >-
+  Andrea Calogero Camilleri, scrittore, sceneggiatore, regista, drammaturgo
+  siciliano, è morto mercoledì 17 luglio scorso all’Ospedale di Santo Spirito a
+  Roma, dove era stato ricoverato un mese prima in seguito ad un arresto
+  cardiaco.
+image: /img/camilleri.png
 ---
+![](/img/camilleri.png)
+
 Andrea Calogero Camilleri, scrittore, sceneggiatore, regista, drammaturgo siciliano, è morto mercoledì 17 luglio scorso all’Ospedale di Santo Spirito a Roma, dove era stato ricoverato un mese prima in seguito ad un arresto cardiaco.
 
 Scrittore prolifico ed estremamente popolare, anche per le trasposizioni televisive dei suoi romanzi, è stato caratterizzato da un’originale fusione di dialetto siciliano e di italiano, che è diventata la cifra linguistica distintiva della sua prosa narrativa e che ne ha fatto un autore di prodotti originali e di qualità, ma al tempo stesso accessibili a tutti. 
