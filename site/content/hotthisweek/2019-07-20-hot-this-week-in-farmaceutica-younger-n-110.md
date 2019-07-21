@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.110
-date: '2019-07-20T08:24:00+02:00'
+date: '2019-07-21T08:24:00+02:00'
 description: >-
   La Food and Drug Administration degli Stati Uniti ha approvato Recarbrio
   (imipenem, cilastatina e relebactam), un farmaco antibatterico per il
