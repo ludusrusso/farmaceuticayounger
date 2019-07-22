@@ -3,6 +3,14 @@ title: >-
   GREGOR MENDEL -  "Sono convinto che non passerà molto tempo prima che il mondo
   intero riconosca i risultati del mio lavoro."
 date: '2019-07-22T16:07:16+02:00'
+description: >-
+  Gregor Johann Mendel, biologo, matematico e frate agostiniano, precursore
+  della genetica moderna, nacque il 20 luglio 1822 a Hynčice nell'attuale
+  Repubblica ceca. 
+socialDesc: >-
+  Gregor Johann Mendel, biologo, matematico e frate agostiniano, precursore
+  della genetica moderna, nacque il 20 luglio 1822 a Hynčice nell'attuale
+  Repubblica ceca.
 ---
 **Gregor Johann Mendel**, biologo, matematico e frate agostiniano, precursore della genetica moderna, nacque il 20 luglio 1822 a Hynčice nell'attuale Repubblica ceca. 
 
