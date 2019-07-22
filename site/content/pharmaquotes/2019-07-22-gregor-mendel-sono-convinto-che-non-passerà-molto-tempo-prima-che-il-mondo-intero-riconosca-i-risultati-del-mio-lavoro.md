@@ -11,7 +11,10 @@ socialDesc: >-
   Gregor Johann Mendel, biologo, matematico e frate agostiniano, precursore
   della genetica moderna, nacque il 20 luglio 1822 a Hynčice nell'attuale
   Repubblica ceca.
+image: /img/f10ca05f-0205-49a8-a1d6-0955e30b41c8.png
 ---
+![](/img/f10ca05f-0205-49a8-a1d6-0955e30b41c8.png)
+
 **Gregor Johann Mendel**, biologo, matematico e frate agostiniano, precursore della genetica moderna, nacque il 20 luglio 1822 a Hynčice nell'attuale Repubblica ceca. 
 
 Figlio di due contadini, il giovane Mendel capisce fin da subito che l'unico modo che ha per continuare gli studi è intraprendere la carriera ecclesiastica. Entra nel monastero dei frati agostiniani di San Tommaso a Brunn dove studia la matematica, la meteorologia e la botanica. Consegue così la laurea in biologia e in matematica. 
