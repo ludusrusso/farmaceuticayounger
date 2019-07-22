@@ -13,7 +13,7 @@ socialDesc: >-
   Repubblica ceca.
 image: /img/f10ca05f-0205-49a8-a1d6-0955e30b41c8.png
 ---
-![](/img/f10ca05f-0205-49a8-a1d6-0955e30b41c8.png)
+![null](/img/f10ca05f-0205-49a8-a1d6-0955e30b41c8.png)
 
 **Gregor Johann Mendel**, biologo, matematico e frate agostiniano, precursore della genetica moderna, nacque il 20 luglio 1822 a Hynčice nell'attuale Repubblica ceca. 
 
@@ -29,4 +29,4 @@ Negli ultimi anni di vita Mendel è amareggiato dai fallimenti personali e profe
 
 > I miei studi scientifici mi hanno dato una grande gratificazione; e sono convinto che non passerà molto tempo prima che il mondo intero riconosca i risultati del mio lavoro.
 
-Mendel per primo applicò la matematica, in particolare la statistica e il calcolo delle probabilità, allo studio dell'ereditarietà biologica. Trentacinque anni dopo la scoperta delle leggi mendeliane, saranno l'olandese Hugo de Vries, il tedesco Carl Correns e l'austriaco Erich von Tschermak a riconoscere il valore delle scoperte di Mendel. L'opera di Mendel riesce così ad ottenere il posto che le spetta nella storia della scienza nel 1900.
+Mendel per primo applicò la matematica, in particolare la statistica e il calcolo delle probabilità, allo studio dell'ereditarietà biologica. Trentacinque anni dopo la scoperta delle leggi da lui postulate sull’ereditarietà genetica, saranno l'olandese Hugo de Vries, il tedesco Carl Correns e l'austriaco Erich von Tschermak a riconoscere il valore delle scoperte di Mendel. L'opera di Mendel riesce così ad ottenere il posto che le spetta nella storia della scienza nel 1900.
