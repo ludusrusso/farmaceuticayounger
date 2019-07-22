@@ -4,7 +4,15 @@ title: >-
   intero riconosca i risultati del mio lavoro."
 date: '2019-07-22T16:07:16+02:00'
 ---
-Gregor Johann Mendel, biologo, matematico e frate agostiniano, nacque il 20 luglio 1822 a Hynčice nell'attuale Repubblica ceca. per i suoi esperimenti sulle piante di piselli e per le sue osservazioni sui caratteri ereditari è considerato nel mondo scientifico il precursore della moderna genetica.
+**Gregor Johann Mendel**, biologo, matematico e frate agostiniano, nacque il 20 luglio 1822 a Hynčice nell'attuale Repubblica ceca. per i suoi esperimenti sulle piante di piselli e per le sue osservazioni sui caratteri ereditari è considerato nel mondo scientifico il precursore della moderna genetica.
+
+Figlio di due contadini, il giovane Mendel capisce che se vuole seguire la sua passione verso gli studi deve intraprendere la carriera ecclesiastica. Entra nel monastero dei frati agostiniani di San Tommaso a Brunn che gli permette di studiare la matematica, la meteorologia e la botanica. Consegue così la laurea in biologia e in matematica. 
+
+L'incontro con Andreas von Ettingshausen e Franz Unger fu fondamentale per il giovane frate. Il primo gli spiega la teoria combinatoria, il secondo gli illustra le tecniche più avanzate di impollinazione artificiale.
+
+Dopo anni trascorsi a Vienna, Mendel nel luglio del 1853 torna al monastero come professore di fisica, matematica e biologia e qui sviluppa le sue doti di ricercatore e scienziato.
+
+Mendel compie esperimenti nell'orto botanico del monastero coltivando piante e analizzandone i risultati. 
 
 Mendel quindi dopo sette anni di selezione identifica sette "Linee pure": sette varietà di pisello che differiscono per caratteri estremamente visibili (forma del seme: liscio o rugoso; colore del seme giallo o verde). Le caratteristiche di questa pianta si prestano particolarmente allo studio, unitamente a un semplice sistema riproduttivo, grazie al quale il monaco può impollinare a piacimento i suoi vegetali. Opera con un vastissimo numero di esemplari proprio perché conosce le leggi della probabilità, le quali si manifestano coinvolgendo grandi numeri.
 
