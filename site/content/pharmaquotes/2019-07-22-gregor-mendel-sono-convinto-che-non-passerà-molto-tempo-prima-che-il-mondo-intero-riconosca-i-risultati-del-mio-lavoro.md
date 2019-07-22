@@ -12,17 +12,11 @@ Mendel per primo applica la matematica, in particolare la statistica e il calcol
 
 All'inizio del 1865 Mendel ha l'occasione di esporre il suo lavoro di una vita a un pubblico di circa quaranta persone, che comprende biologi, chimici, botanici e medici; tiene due conferenze rispettivamente l'8 febbraio e l'8 marzo. Nessuno però pare riuscire a comprendere l'importanza del suo lavoro. L'anno successivo pubblica i suoi risultati facendo stampare quaranta copie che invia agli scienziati più importanti del continente. L'unica persona che però sembra interessarsi al suo operato è Karl Wilhelm von Nägeli, professore di botanica dell'università di Monaco, con il quale rimane in contatto per molto tempo.
 
+Negli ultimi anni di vita Mendel è amareggiato dai fallimenti personali e professionali, in quanto non riesce più a riprodurre lo stesso rapporto statistico con altre piante, muore a Brno causa di una nefrite acuta, il 6 gennaio 1884, all'età di 61 anni.
+
+La scienza dell'ereditarietà riceve il nome di genetica nel 1906 ad opera di William Bateson; il termine "gene" viene introdotto ancora più tardi, nel 1909, da Wilhem Johansen.
+
 Considerato il precursore della genetica moderna, Gregor Johann Mendel espose nel 1865 la teoria dell’ereditarietà, con la quale dimostrava che nel passaggio da una generazione all’altra – in ogni specie di esseri viventi – si trasmettono caratteri estetiche e interne. Questa scoperta – che rappresentò un punto di non ritorno – rivoluzionerà gli studi sull’ereditarietà.
-
-
-
-
-
-
-
-
-
-
 
 "Il valore e l'utilità di ogni esperimento sono determinati dall'idoneità del materiale allo scopo per cui è usato, e quindi nel caso che ci sta davanti non può essere immateriale ciò che le piante sono soggette a sperimentare e in che modo tale esperimento è condotto."
 
