@@ -1,12 +1,12 @@
 ---
-title: Capitolo 9 GMP
+title: 'GMP - Capitolo 9 '
 tags:
   - articoli
 date: '2019-05-17T14:55:29+02:00'
 ---
-Capitolo 9 -Autoispezione 
+## Capitolo 9 - Autoispezione 
 
-Principi 
+**Principi **
 
 Dovranno essere eseguite delle autoispezioni per verificare l'applicazione ed il rispetto dei principi delle Norme di Buona Fabbricazione oltre che per proporre le necessarie misure correttive. 
 
