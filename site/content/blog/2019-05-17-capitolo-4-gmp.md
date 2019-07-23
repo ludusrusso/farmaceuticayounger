@@ -248,6 +248,48 @@ h) eventuali commenti.
 
 **Analisi**
 
-4.26 Per le analisi sui materiali e sui prodotti nelle varie fasi della fabbricazione dovranno essere previste procedure scritte che descrivano i metodi e le attrezzature da impiegare. Le prove eseguite dovranno essere documentate. 7C. • e \~ ..... • e . -· -\~ilri aspetti 4.27 Si dovranno prevedere procedure scritte per l'approvazione o il rifiuto dei materiali o dei prodotti, in particolare per l'approvazione all'immissione in commercio del prodotto finito rilasciata dalle Persone Qualificate la quale dovrà avere accesso a tutti i documenti. Dovrà essere messo in atto un sistema in grado di indicare speciali osservazioni o ogni cambiamento nei dati critici. 4.28 Per la distribuzione del singolo lotto di un prodotto dovrà essere redatto un documento in modo da agevolare all'occorrenza il richiamo del lotto stesso. 4.29 All'occorrenza dovranno essere previste politiche aziendali, procedure, protocolli e rendiconti scritti con le relative documentazioni per gli interventi compiuti o le conclusioni raggiunte, in merito a: -convalida e qualifica di processi, apparecchiature e sistemi; -montaggio e taratura delle attrezzature; -trasferimento tecnologico (Technology Transfer) -manutenzione, pulizia e disinfezione; -questioni relative al personale tra cui lista delle firme, addestramento e formazione in NBF e aspetti tecnici, abbigliamento di lavoro, igiene e verifica dell'efficacia di addestramento e formazione; -controllo dell'ambiente; -disinfestazione; -reclami; -ritiri del prodotto; -resi; -cambi e modifiche; -indagini a seguito di deviazioni e non-conformità; -verifiche interne sul sistema di qualità e sulla conformità NBF; 77 • e ~ ..J • e 4.30 Per le più importanti apparecchiature di fabbricazione e di controllo dovranno essere disponibili chiare istruzioni per l'uso. 4.31 Per le principali apparecchiature di analisi e produzione e per le aree d'importanza fondamentale in cui il prodotto è stato processato dovranno essere preparati dei registri (Logbook) in cui dovranno essere siano riportati in ordine cronologico, a seconda dei casi, ogni utilizzo dell'area, l'apparecchiatura/metodo, le tarature, gli interventi di manutenzione, la pulizia o riparazione con le rispettive date e il nome delle persone che hanno compiuto queste operazioni. 4.32 Deve essere conservato un inventario dei documenti che fanno parte del Sistema di Gestione della Qualità.
+4.26 Per le analisi sui materiali e sui prodotti nelle varie fasi della fabbricazione dovranno essere previste procedure scritte che descrivano i metodi e le attrezzature da impiegare. Le prove eseguite dovranno essere documentate. 
+
+**Altro**
+
+4.27 Si dovranno prevedere procedure scritte per l'approvazione o il rifiuto dei materiali o dei prodotti, in particolare per l'approvazione all'immissione in commercio del prodotto finito rilasciata dalle Persone Qualificate la quale dovrà avere accesso a tutti i documenti. Dovrà essere messo in atto un sistema in grado di indicare speciali osservazioni o ogni cambiamento nei dati critici. 
+
+4.28 Per la distribuzione del singolo lotto di un prodotto dovrà essere redatto un documento in modo da agevolare all'occorrenza il richiamo del lotto stesso. 
+
+4.29 All'occorrenza dovranno essere previste politiche aziendali, procedure, protocolli e rendiconti scritti con le relative documentazioni per gli interventi compiuti o le conclusioni raggiunte, in merito a: 
+
+\- convalida e qualifica di processi, apparecchiature e sistemi; 
+
+\- montaggio e taratura delle attrezzature; 
+
+\- trasferimento tecnologico (Technology Transfer) 
+
+\- manutenzione, pulizia e disinfezione; 
+
+\- questioni relative al personale tra cui lista delle firme, addestramento e formazione in GMP e aspetti tecnici, abbigliamento di lavoro, igiene e verifica dell'efficacia di addestramento e formazione; -controllo dell'ambiente; 
+
+\- disinfestazione; 
+
+\- reclami; 
+
+\- ritiri del prodotto; 
+
+\- resi; 
+
+\- change control (cambi); 
+
+\- indagini a seguito di deviazioni e non conformità; 
+
+\- verifiche interne sul sistema di qualità e sulla conformità alle GMP; 
+
+\- Riassunto dei record ove appropriato (ad es. Product Quality Review);
+
+\- Audit dei fornitori.
+
+4.30 Per le più importanti apparecchiature di fabbricazione e di controllo dovranno essere disponibili chiare istruzioni per l'uso. 
+
+4.31 Per le principali apparecchiature di analisi e produzione e per le aree d'importanza fondamentale in cui il prodotto è stato processato dovranno essere preparati dei registri (Logbook) in cui dovranno essere siano riportati in ordine cronologico, a seconda dei casi, ogni utilizzo dell'area, l'apparecchiatura/metodo, le tarature, gli interventi di manutenzione, la pulizia o riparazione con le rispettive date e il nome delle persone che hanno compiuto queste operazioni. 
+
+4.32 Deve essere conservato un inventario dei documenti che fanno parte del Sistema di Gestione della Qualità.
 
 (1) In alternativa, la certificazione può essere basata, completamente o in parte, sulla valutazione dei dati in tempo reale (riassunti e rapporti straordinari) del lotto ottenuto da Tecnologia Analitica di Processo (PAl), o dei parametri secondo il dossier di Autorizzazione all'Immissione in Commercio approvato.
