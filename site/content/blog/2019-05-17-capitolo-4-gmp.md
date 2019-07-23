@@ -1,20 +1,24 @@
 ---
-title: Capitolo 4 GMP
+title: 'GMP - Capitolo 4 '
 tags:
   - articoli
 date: '2019-05-17T16:25:00+02:00'
 ---
-Capitolo 4 -Documentazione 
+## Capitolo 4 - Documentazione 
 
 Principi
 
-Una buona documentazione costituisce una parte fondamentale del sistema di Garanzia di Qualità, indispensabile per operare in conformità con i requisiti NBF. Le diverse tipologie di documenti e supporti utilizzati devono essere definiti in modo completo nel Sistema di Gestione della Qualità del produttore. La documentazione potrà esistere in diverse forme, tra cui cartacea, elettronica o fotografica. L'obiettivo principale del sistema documentale utilizzato deve essere quello di definire, controllare, monitorare e registrare tutte le attività che direttamente o indirettamente hanno impatto su tutti gli aspetti della qualità del medicinale. Il Sistema di Gestione Qualità dovrebbe includere istruzioni sufficientemente dettagliate per facilitare la comprensione dei requisiti, oltre che fornire un'adeguata registrazione dei diversi processi e la valutazione delle osservazioni, in modo da dimostrare la costante applicazione dei requisiti NBF. La conformità alle NBF è gestita e registrata attraverso due principali tipologie di documentazione: le istruzioni (disposizioni, requisiti) e registrazioni/ rapporti. Ad ogni tipo di documento dovranno essere applicate adeguate Norme di Buona Documentazione. Dovranno essere attuate adeguate verifiche per garantire l'accuratezza, l'integrità, la disponibilità e leggibilità dei documenti. Le istruzioni dovranno essere prive di errori e disponibili in forma scritta. Il termine "forma scritta" significa documentata .o, se su diverso supporto, i dati dovranno essere resi leggibili dal personale. 
+Una buona documentazione costituisce una parte fondamentale del sistema di Assicurazione Qualità, indispensabile per operare in conformità con i requisiti GMP. Le diverse tipologie di documenti e supporti utilizzati devono essere definiti in modo completo nel Sistema di Gestione della Qualità del produttore. La documentazione potrà esistere in diverse forme, tra cui cartacea, elettronica o fotografica. L'obiettivo principale del sistema documentale utilizzato deve essere quello di definire, controllare, monitorare e registrare tutte le attività che direttamente o indirettamente hanno impatto su tutti gli aspetti della qualità del medicinale. Il Sistema di Gestione della Qualità dovrebbe includere istruzioni sufficientemente dettagliate per facilitare la comprensione dei requisiti, oltre che fornire un'adeguata registrazione dei diversi processi e la valutazione delle osservazioni, in modo da dimostrare la costante applicazione dei requisiti GMP. 
 
-Documentazione NBF necessaria (per tipologia): 
+Esistono due tipi principali di documentazione utilizzata per gestire e registrare la conformità alle GMP: istruzioni (istruzioni, requisiti) e records/reports. È necessario applicare buone pratiche di documentazione adeguate al tipo di documento.
 
-Site Master File: documento che descrive le attività NBF relative al produttore. 
+Dovrebbero essere implementati controlli adeguati per garantire l'accuratezza, l'integrità, la disponibilità e la leggibilità dei documenti. I documenti che riguardano le istruzioni operative devono essere privi di errori e disponibili in forma scritta. Il termine "scritto" significa registrato o documentato su supporti dai quali i dati dovranno essere resi in una forma leggibile dall'uomo.
 
-Istruzioni (disposizioni, o requisiti): 
+**Documentazione GMP necessaria (per tipologia): **
+
+**Site Master File:** documento che descrive le attività GMP relative al produttore. 
+
+_**Istruzioni (disposizioni, o requisiti): **_
 
 Specifiche: descrivono in dettaglio i requisiti a cui i prodotti o materiali utilizzati o ottenuti durante la fabbricazione devono conformarsi. Essi servono come base per la valutazione della qualità. 
 
