@@ -16,7 +16,7 @@ Ogni reclamo o altro tipo di segnalazione relativo a prodotti potenzialmente dif
 
 8.2 Si dovranno prevedere procedure scritte che descrivano le misure da attuare, compresa la necessità di prendere in considerazione un ritiro, nel caso pervenga un reclamo per un possibile difetto di un prodotto. 
 
-8.3 Qualunque reclamo per un prodotto difettoso dovrà essere documentato riportandone tutti _i particolari ed esaminato in modo esauriente. Il responsabile del Controllo Qualità dovrà di norma partecipare allo studio di questi problemi. 
+8.3 Qualunque reclamo per un prodotto difettoso dovrà essere documentato riportandone tutti i particolari ed esaminato in modo esauriente. Il responsabile del Controllo Qualità dovrà di norma partecipare allo studio di questi problemi. 
 
 8.4 Qualora in un lotto di produzione si scopra o si sospetti la presenza di un difetto si dovrà prendere in considerazione la possibilità di controllare altri lotti per determinare se anch'essi presentino un analogo difetto. In particolare si dovranno esaminare altri lotti di produzione che possano contenere ri-lavorazioni del lotto difettoso. 
 
