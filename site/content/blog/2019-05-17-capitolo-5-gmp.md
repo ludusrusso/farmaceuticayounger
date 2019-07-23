@@ -1,16 +1,16 @@
 ---
-title: Capitolo 5 GMP
+title: GMP - Capitolo 5
 tags:
   - articoli
 date: '2019-05-17T11:18:19+02:00'
 ---
-Capitolo 5 - Produzione 
+## Capitolo 5 - Produzione 
 
-Principi 
+**Principi **
 
 Le operazioni di produzione devono seguire procedure definite chiaramente e conformarsi ai principi delle Norme per la Buona Fabbricazione al fine di ottenere prodotti della qualità richiesta e conformi alle autorizzazioni alla fabbricazione ed all'immissione in commercio.
 
-Aspetti generali 
+**Aspetti generali **
 
 5.1 Alla produzione dovranno provvedere e sopraintendere persone competenti. 
 
@@ -68,7 +68,7 @@ g) effettuare prove per individuare la presenza di residui ed apporre sulle attr
 
 5.20 Le misure volte ad impedire la contaminazione crociata e la loro efficacia dovranno essere verificate periodicamente conformemente a procedure stabilite. 
 
-Convalida 
+**Convalida **
 
 5.21 Gli studi di convalida dovranno consolidare le Norme di Buona Fabbricazione e svolgersi conformemente a procedure ben definite; i risultati e le conclusioni di tali studi andranno O documentati.
 
@@ -78,7 +78,7 @@ Convalida
 
 5.24 Processi e procedure dovranno essere sottoposti ad una rivalutazione critica periodica per garantire che consentano sempre di conseguire i risultati desiderati.
 
-Materie prime 
+**Materie prime **
 
 5.25 L'approvigionamento delle materie prime costituisce una importante operazione e dovrà essere affidata a persone che abbiano una conoscenza specifica ed approfondita dei fornitori. 
 
@@ -100,7 +100,7 @@ Materie prime
 
 5.34 I materiali destinati a un dato lotto dovranno essere mantenuti riuniti ed etichettati in modo ben visibile uno per uno. 
 
-Processo di produzione: semilavorati e sfusi 
+**Processo di produzione: semilavorati e sfusi **
 
 5.35 Prima di avviare qualunque operazione di produzione si dovrà provvedere a garantire che l'area di lavoro e le attrezzature risultino pulite e sgombre da materie prime, prodotti, residui di prodotti o documenti non necessari per l'operazione che si intende avviare. 
 
@@ -112,7 +112,7 @@ Processo di produzione: semilavorati e sfusi
 
 5.39 Ogni deviazione significativa dalla resa prevista dovrà essere documentata ed investigata. 
 
-Materiali di confezionamento 
+**Materiali di confezionamento **
 
 5.40 Alle operazioni di acquisto, gestione e controllo dei materiali di confezionamento, tanto stampati quanto destinati alla confezione primaria, verrà dedicata la stessa attenzione che alle materie prime. 
 
@@ -122,7 +122,7 @@ Processo di produzione: semilavorati e sfusi
 
 5.43 Il materiale per il confezionamento primario o stampato che risulti scaduto od obsoleto dovrà essere distrutto e l'operazione dovrà essere documentata. 
 
-Confezionamento 
+**Confezionamento **
 
 5.44 Nel programmare il confezionamento occorrerà prestare particolare attenzione a minimizzare i rischi di contaminazione crociata, i frammischia menti o le sostituzioni. Prodotti diversi non dovranno essere confezionati nelle immediate vicinanze l'uno dell'altro a meno che non risultino fisicamente separati.
 
@@ -146,7 +146,7 @@ Confezionamento
 
 a) aspetto generale delle confezioni; 
 
-b) completezza delle confezioni; 
+b) completezza delle confezioni; 
 
 c) correttezza dei prodotti e dei materiali di confezionamento impiegati; 
 
@@ -162,7 +162,7 @@ I campioni prelevati dalla linea di confezionamento non dovranno venirvi re-imme
 
 5.57 Al termine di un'operazione di confezionamento, qualunque materiale di confezionamento non utilizzato e recante il numero di codice del lotto di produzione dovrà essere distrutto, e tale operazione dovrà essere documentata. La restituzione al magazzino di materiale stampato privo di codici dovrà essere effettuata seguendo una procedura documentata. 
 
-Prodotti finiti 
+**Prodotti finiti **
 
 5.58 I prodotti finiti dovranno essere tenuti in quarantena sino a quando siano definitivamente approvati secondo le condizioni stabilite dal fabbricante. 
 
@@ -170,7 +170,7 @@ Prodotti finiti
 
 5.60 Dopo l'approvazione i prodotti finiti dovranno essere immagazzinati, come scorte utilizzabili, nelle condizioni stabilite dal fabbricante. 
 
-Materiali respinti, recuperati e resi 
+**Materiali respinti, recuperati e resi **
 
 5.61 I materiali ed i prodotti respinti dovranno venir chiaramente contrassegnati come tali e stoccati separatamente in zone ad accesso riservato. Essi dovranno essere rinviati ai fornitori o all'occorrenza essere rilavorati o distrutti. Qualunque sia la destinazione prescelta essa dovrà essere approvata e documentata da personale autorizzato. 
 
