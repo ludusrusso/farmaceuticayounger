@@ -192,7 +192,7 @@ h) note relative a particolari problemi,compresi i dettagli (corredati di autori
 
 i) l'approvazione da parte della persona responsabile delle operazioni del processo. 
 
-**Nota:** Qualora il processo convalidato sia monitorato e controllato in continuo, i rendiconti generati automaticamente potranno essere limitati ad un rapporto riepilogativo di conformità e ad un rapporto delle deviazioni e fuori specifica (00S). 
+**Nota:** Qualora il processo convalidato sia monitorato e controllato in continuo, i rendiconti generati automaticamente potranno essere limitati ad un rapporto riepilogativo di conformità e ad un rapporto delle deviazioni e fuori specifica (OOS). 
 
 **Record di confezionamento del lotto** 
 
