@@ -1,24 +1,24 @@
 ---
-title: Capitolo 7 GMP
+title: 'GMP - Capitolo 7 '
 tags:
   - articoli
 date: '2019-05-17T14:48:02+02:00'
 ---
-Capitolo 7 -Fabbricazione ed Analisi affidate a Terzi 
+## Capitolo 7 - Fabbricazione ed Analisi affidate a Terzi 
 
-Principi 
+**Principi **
 
 La fabbricazione e le analisi affidate a terzi dovranno essere definite, concordate e controllate in modo corretto per evitare malintesi che potrebbero tradursi in un prodotto o in una prestazione di qualità insoddisfacente. Tra il Committente e il Fornitore dovrà esistere un contratto scritto che definisca chiaramente i doveri di entrambe le parti. Il contratto deve stabilire chiaramente il modo in cui la Persona Qualificata che approva la commercializzazione del singolo lotto di prodotto adempie pienamente i compiti di cui è responsabile. 
 
 Nota: Questo capitolo verte sulle responsabilità dei fabbricanti nei confronti delle Competenti Autorità degli Stati membri per quanto riguarda la concessione di Autorizzazioni all'Immissione in Commercio ed alla fabbricazione. Esso non intende influenzare in nessun modo le responsabilità che fornitori e committenti hanno nei confronti dei consumatori; quest'aspetto del problema è disciplinato da altre disposizioni della legislazione comunitaria e nazionale. 
 
-Aspetti generali 
+**Aspetti generali **
 
 7.1 La fabbricazione e/o le analisi affidate a terzi ed i relativi accordi di natura tecnica dovranno essere oggetto di un contratto scritto. 
 
 7.2 Tutti gli accordi riguardanti la fabbricazione e le analisi affidate a terzi, inclusa ogni modifica eventualmente proposta degli accordi tecnici o di altro genere, dovranno essere conformi alla Autorizzazione all'Immissione in Commercio relativa al prodotto in questione. 
 
-Il Committente 
+**Il Committente **
 
 7.3 Al Committente spetta la responsabilità di valutare se il Fornitore abbia le competenze necessarie per riuscire a svolgere le attività richieste e di garantire, attraverso il contratto, che le GMP descritte nella presente guida siano rispettate. 
 
@@ -26,7 +26,7 @@ Il Committente
 
 7.5 Il Committente dovrà garanti re che tutti i prodotti ed i materiali lavorati che gli vengono consegnati dal Fornitore siano conformi alle specifiche che li riguardano owero che tali prodotti siano stati approvati da una Persona Qualificata. 
 
-Il Fornitore 
+**Il Fornitore **
 
 7.6 Il Fornitore dovrà disporre di locali, attrezzature, conoscenze ed esperienze adeguate nonché di personale competente per svolgere in modo soddisfacente le attività commissionategli dal Committente. Soltanto un fabbricante titolare di un'autorizzazione alla fabbricazione potrà svolgere per conto terzi un'attività di fabbricazione. 
 
@@ -36,7 +36,7 @@ Il Fornitore
 
 7.9. Il Fornitore dovrà astenersi da ogni attività che possa influenzare negativamente la qualità del prodotto fabbricato e/ 0 analizzato per il Committente. 
 
-Il Contratto 
+**Il Contratto **
 
 7.10 Il Committente e il Fornitore dovranno stipulare un contratto che specifichi le rispettive responsabilità in relazione alla fabbricazione ed al controllo del prodotto. Le parti tecniche del contratto dovranno essere redatte da persone competenti che dispongano di una conoscenza adeguata della tecnologia e delle analisi farmaceutiche nonché delle Norme di Buona Fabbricazione. Tutte le disposizioni riguardanti la fabbricazione e le analisi dovranno essere conformi all'Autorizzazione all'Immissione in Commercio ed essere definite di comune accordo dalle parti contraenti. 
 
