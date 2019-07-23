@@ -1,22 +1,22 @@
 ---
-title: Capitolo 8 GMP
+title: 'GMP - Capitolo 8 '
 tags:
   - articoli
 date: '2019-05-17T14:50:08+02:00'
 ---
-Capitolo 8 -Reclami e Ritiro del Prodotto 
+## Capitolo 8 - Reclami e Ritiro del Prodotto 
 
-Principi 
+**Principi **
 
 Ogni reclamo o altro tipo di segnalazione relativo a prodotti potenzialmente difettosi dovrà essere esaminato con cura conformemente a procedure scritte. Al fine di poter far fronte ad ogni eventualità e nel rispetto dell'articolo 117 della Direttiva 2001/83/EC e articolo 84 della direttiva 2001/82/EC dovrà essere previsto un sistema che consenta all'occorrenza di ritirare dal mercato in modo rapido ed efficace prodotti di cui si sappia o si sospetti la presenza di difetti. 
 
-Reclami 
+**Reclami **
 
 8.1 Dovrà essere incaricato un responsabile che si occupi dei reclami e decida quali misure dovranno essere prese, assegnandogli sufficiente personale di supporto per coadiuvarlo. Qualora questa persona non sia anche la Persona Qualificata, quest'ultima dovrà essere messa al corrente di ogni eventuale reclamo, indagine o ritiro. 
 
 8.2 Si dovranno prevedere procedure scritte che descrivano le misure da attuare, compresa la necessità di prendere in considerazione un ritiro, nel caso pervenga un reclamo per un possibile difetto di un prodotto. 
 
-8.3 Qualunque reclamo per un prodotto difettoso dovrà essere documentato riportandone tutti _i particolari ed esaminato jn modo esauriente. Il responsabile del Controllo Qualità dovrà di norma partecipare allo studio di questi problemi. 
+8.3 Qualunque reclamo per un prodotto difettoso dovrà essere documentato riportandone tutti _i particolari ed esaminato in modo esauriente. Il responsabile del Controllo Qualità dovrà di norma partecipare allo studio di questi problemi. 
 
 8.4 Qualora in un lotto di produzione si scopra o si sospetti la presenza di un difetto si dovrà prendere in considerazione la possibilità di controllare altri lotti per determinare se anch'essi presentino un analogo difetto. In particolare si dovranno esaminare altri lotti di produzione che possano contenere ri-lavorazioni del lotto difettoso. 
 
