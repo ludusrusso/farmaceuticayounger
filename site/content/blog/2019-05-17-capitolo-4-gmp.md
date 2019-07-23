@@ -24,17 +24,19 @@ _**Istruzioni (disposizioni, o requisiti): **_
 
 **Formule di produzione e istruzioni per il processo di produzione, per il confezionamento e per le analisi: **forniscono il dettaglio di tutte le materie prime, attrezzature e sistemi informatici (se presenti) da utilizzare e descrivono nello specifico tutte le istruzioni per il processo di produzione, il confezionamento, il campionamento e le analisi. Dovranno essere indicati inoltre i controlli di processo e le tecniche analitiche qualora rilevanti, unitamente ai criteri di accettazione. 
 
-**Procedure:** (altrimenti note come Procedure Operative Standard, o POS), danno direttive per l'esecuzione di determinate operazioni. Protocolli: danno istruzioni per l'esecuzione e la registrazione di determinate operazioni. 
+**Procedure:** (altrimenti note come Procedure Operative Standard, o SOP), danno direttive per l'esecuzione di determinate operazioni. 
 
-Capitolati tecnici: sono accordi sottoscritti tra il committente e il fornitore che definiscono i termini di una attività affidata in conto terzi. 
+**Protocolli:** danno istruzioni per l'esecuzione e la registrazione di determinate operazioni. 
 
-Registrazione/Rapporto: 
+**Technical Agreements: **sono accordi sottoscritti tra il committente e il fornitore che definiscono i termini di una attività affidata in conto terzi. 
 
-Registrazioni: forniscono la prova delle diverse azioni intraprese per dimostrare la conformità alle istruzioni, per es. attività, eventi, indagini, e nel caso della fabbricazione di lotti, la storia di ogni lotto di prodotto, compresa la sua distribuzione. Le registrazioni comprendono i dati grezzi utilizzati per generare altri dati. Per dati registrati con sistemi informatici gli utenti autorizzati dovranno definire quali dati devono essere utilizzati come dati grezzi. Dovranno essere definiti dati grezzi almeno tutti i dati su cui si basano le decisioni per la qualità. 
+_**Record/Report: **_
 
-Certificati di analisi: forniscono una sintesi dei risultati delle analisi effettuate su campioni di prodotti o materiali (1) unitamente alla valutazione di conformità rispetto a quanto dichiarato in specifica. 
+**Record:** forniscono la prova delle diverse azioni intraprese per dimostrare la conformità alle istruzioni, per es. attività, eventi, indagini, e nel caso della fabbricazione di lotti, la storia di ogni lotto di prodotto, compresa la sua distribuzione. Le registrazioni comprendono i dati grezzi (raw data) utilizzati per generare altri dati. Per dati registrati con sistemi informatici gli utenti autorizzati dovranno definire quali dati devono essere utilizzati come dati grezzi. Dovranno essere definiti dati grezzi almeno tutti i dati su cui si basano le decisioni che riguardano la qualità. 
 
-Rapporti: documenti che contengono la descrizione dello svolgimento di particolari esercizi, progetti o indagini, unitamente ai risultati, alle conclusioni e alle raccomandazioni. 
+**Certificati di Analisi:** forniscono una sintesi dei risultati delle analisi effettuate su campioni di prodotti o materiali (1) unitamente alla valutazione di conformità rispetto a quanto dichiarato in specifica. 
+
+**Report:** documenti che contengono la descrizione dello svolgimento di particolari esercizi, progetti o indagini, unitamente ai risultati, alle conclusioni e alle raccomandazioni. 
 
 (1) In alternativa, la certificazione può essere basata, completamente o in parte, sulla valutazione dei dati in tempo reale (riassunti e rapporti straordinari) del lotto ottenuta da Tecnologia Analitica di Processo (PAl), o dei parametri secondo il dossier di Autorizzazione all'Immissione in Commercio approvato. 
 
