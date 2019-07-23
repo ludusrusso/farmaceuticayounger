@@ -1,16 +1,16 @@
 ---
-title: Capitolo 6 GMP
+title: 'GMP - Capitolo 6 '
 tags:
   - articoli
 date: '2019-05-17T11:58:04+02:00'
 ---
-Capitolo 6 -Controllo Qualità 
+## Capitolo 6 - Controllo Qualità 
 
-Principi 
+**Principi **
 
 Il Controllo Qualità riguarda le procedure di campionamento, di definizione delle specifiche e di esecuzione delle prove nonché quelle relative all'organizzazione, alla documentazione ed all'approvazione del prodotto volte a garantire che vengano eseguite le prove necessarie ed opportune ed inoltre che nessun materiale venga posto in lavorazione e nessun prodotto destinato alla distribuzione o alla vendita se la sua qualità non sia stata giudicata soddisfacente. Il Controllo-Qualità non si limita alle operazioni di laboratorio, ma deve entrare in tutte le decisioni che possono riguardare la qualità del prodotto. L'indipendenza del servizio Controllo Qualità dal reparto produzione viene ritenuta di fondamentale importanza per il soddisfacente funzionamento de\ Controllo Qualità stesso. (anche il capitolo 1). 
 
-Aspetti generali 
+**Aspetti generali **
 
 6.1 Ogni titolare di un'autorizzazione alla fabbricazione dovrà disporre di un Reparto Controllo Qualità. Tale reparto dovrà essere indipendente da altri servizi e fare capo ad una persona dotata delle qualifiche e dell'esperienza appropriate la quale possa avere a disposizione uno o più laboratori di controllo. Il reparto dovrà disporre di risorse adeguate per garantire che tutte le disposizioni pertinenti al Controllo Qualità siano applicate in modo efficace ed affidabile. 
 
@@ -24,9 +24,9 @@ Buone pratiche del Laboratorio di Controllo Qualità
 
 6.5 I locali e le attrezzature del laboratorio di controllo dovranno rispettare le prescrizioni, tanto a carattere generale che specifico applicabili alle aree di Controllo Qualità di cui al capitolo 3.
 
-6.6 Personale, locali ed attrezzature dei laboratori dovranno risultare idonei ai compiti derivanti dalla natura e dalla portata delle operazioni di fabbricazione. L'utilizzo di laboratori esterni, nel rispetto dei principi esposti nel capitolo 7 "Analisi affidate a terzi", può essere accettato per ragioni particolari, ma ciò va dichiarato nella documentazione del Controllo Qualità. 
+6.6 Personale, locali ed attrezzature dei laboratori dovranno risultare idonei ai compiti derivanti dalla natura e dalla portata delle operazioni di fabbricazione. L'utilizzo di laboratori esterni, nel rispetto dei principi esposti nel capitolo 7 "Analisi affidate a terzi", può essere accettato per ragioni particolari, ma ciò va dichiarato nella documentazione del Controllo Qualità. 
 
-Documentazione 
+**Documentazione **
 
 6.7 Per la documentazione del laboratorio si dovranno seguire i principi esposti nel capitolo 4. Una parte importante di tale documentazione riguarda il Controllo Qualità ed il reparto addetto a tale controllo dovrà poter disporre rapidamente dei seguenti documenti: 
 
@@ -50,7 +50,7 @@ Documentazione
 
 6.10 Oltre alle informazioni facenti parte della documentazione di un dato lotto dovranno essere archiviati e rapidamente disponibili anche altri dati originali quali i quaderni e/o le note di laboratorio. 
 
-Campionamento 
+**Campionamento **
 
 6.11 Le operazioni di campionamento dovranno svolgersi conformemente a procedure scritte debitamente approvate che descrivano: 
 
@@ -78,17 +78,17 @@ Documentazione
 
 6.14 Ulteriori linee-guida su campioni di riferimento e controcampioni si trovano nell'Allegato 19. 
 
-Analisi e controlli 
+**Analisi e controlli **
 
 6.15 I metodi analitici impiegati dovranno essere convalidati. Tutte le operazioni di controllo descritte nell'autorizzazione alla immissione in commercio dovranno essere effettuate conformemente ai metodi approvati. 
 
-6.16 I risultati ottenuti dovranno essere registrati e controllati al fine di verificarne l'attendibilità. Eventuali calcoli dovranno essere esaminati criticamente. 
+6.16 I risultati ottenuti dovranno essere registrati e controllati al fine di verificarne l'attendibilità. Eventuali calcoli dovranno essere esaminati criticamente. 
 
 6.17 Le analisi effettuate dovranno essere registrate e i relativi documenti dovranno comprendere almeno i seguenti dati: 
 
 a) denominazione del materiale o del prodotto e, all'occorrenza, dosaggio; 
 
-b) numero del lotto di produzfone e, all'occorrenza, nome del fabbricante e/o fornitore; 
+b) numero del lotto di produzione e, all'occorrenza, nome del fabbricante e/o fornitore; 
 
 c) riferimenti alle specifiche ed alle procedure applicabili per i controlli al caso in questione; 
 
@@ -106,13 +106,14 @@ h) la precisa dichiarazione di approvazione o di rifiuto (od un'altra decisione 
 
 6.19 Si dovrà prestare particolare attenzione a\la qualità dei reagenti, della vetreria volumetrica e delle soluzioni impiegate in laboratorio nonché degli standard di riferimento e dei terreni di coltura che dovranno essere preparati conformemente a procedure scritte. 
 
-6.20 I reagenti di laboratorio destinati ad un impiego prolungato dovranno recare la data di preparazione e la firma della persona che li ha preparati. La data di scadenza dei reagenti instabili e dei terreni di coltura dovrà figurare sull'etichetta insieme alle condizioni di conservazione specifiche per tali prodotti. Per le soluzioni volumetriche andranno inoltre indicati l'ultima data di standardizzazione ed il fattore di correzione più recente. 
+6.20 I reagenti di laboratorio destinati ad un impiego prolungato dovranno recare la data di preparazione e la firma della persona che li ha preparati. La data di scadenza dei reagenti instabili e dei terreni di coltura dovrà figurare sull'etichetta insieme alle condizioni di conservazione specifiche per tali prodotti. 
+Per le soluzioni volumetriche andranno inoltre indicati l'ultima data di standardizzazione ed il fattore di correzione più recente. 
 
 6.21 Sul recipiente dovrà all'occorrenza figurare la data in cui è stata ricevuta una qualunque sostanza impiegata per operazioni di controllo (ad es. reagenti e standard di riferimento). Si dovranno seguire le istruzioni per l'utilizzo e la conservazione; in alcuni casi, all'atto del ricevimento o prima dell'impiego potrà risultare necessario effettuare sui reagenti un controllo di identificazione e/o altri controlli. 
 
 6.22 Gli animali impiegati per controllare componenti, sostanze o prodotti dovranno all'occorrenza essere messi in quarantena prima di essere utilizzati. Essi dovranno essere accuditi e controllati in modo da garantirne l'idoneità all'impiego previsto. Essi dovranno essere identificati e si dovrà provvedere a documentare in modo adeguato e in ordine cronologico il loro impiego. 
 
-Programma di monitoraggio della stabilità 
+**Programma di monitoraggio della stabilità **
 
 6.23 Dopo la commercializzazione, la stabilità del prodotto medicinale dovrà essere monitorata in accordo con un programma continuo ed appropriato che sia in grado di rilevare ogni problema di stabilità (es. modifiche nel livello di impurezze o del profilo di dissoluzione) associate alla formulazione nella confezione di vendita. 
 
@@ -136,13 +137,15 @@ Gli studi di stabilità di prodotti ricostituiti sono effettuati durante il peri
 
 \-descrizione dei sistemi di chiusura dei contenitori 
 
-\-intervalli di analisi (tempi) -descrizione delle condizioni di stoccaggio (si dovranno usare condizioni standard definite dall'ICH per analisi a lungo termine, in accordo con quanto riportato sull'etichetta del prodotto) 
+\-intervalli di analisi (tempi) 
+
+\-descrizione delle condizioni di stoccaggio (si dovranno usare condizioni standard definite dall'ICH per analisi a lungo termine, in accordo con quanto riportato sull'etichetta del prodotto) 
 
 \-altri parametri applicabili specifici del prodotto medicinale. 
 
 6.28 Il protocollo per il programma di monitoraggio della stabilità può essere diverso da quello presentato inizialmente nel dossier per la richiesta di Autorizzazione all'Immissione in Commercio per gli studi di stabilità a lungo termine, ammesso che ciò sia giustificato e documentato nel protocollo stesso (per esempio, la frequenza di analisi o modifiche per l'aggiornamento alle raccomandazioni dell'ICH). 
 
-6.29 Il numero dei lotti e la frequenza delle analisi dovranno essere tali da garantire una numero di dati sufficiente per l'analisi dell'andamento. Se non diversamente giustificato, si dovrà includere nel programma di monitoraggio della stabilità almeno un lotto all'anno di prodotto fabbricato per ogni dosaggio e per ogni tipologia di confezionamento primario, se rilevante, (a meno che, nell'anno in esame, non ne siano stati prodotti nessuno). Per i prodotti per i quali il monitoraggio della stabilità richiederebbe normalmente test sugli animali e non sono disponibili alternative appropriate o tecniche convalidate, la frequenza delle analisi può tener conto del rapporto rischi-benefici. Il principio di progetti ad accorpamenti (bracketing) e "a matrici" (matrixing) può essere applicato se scientificamente giustificato nel protocollo. 
+6.29 Il numero dei lotti e la frequenza delle analisi dovranno essere tali da garantire una numero di dati sufficiente per l'analisi dell'andamento. Se non diversamente giustificato, si dovrà includere nel programma di monitoraggio della stabilità almeno un lotto all'anno di prodotto fabbricato per ogni dosaggio e per ogni tipologia di confezionamento primario, se rilevante, (a meno che, nell'anno in esame, non ne siano stati prodotti nessuno). Per i prodotti per i quali il monitoraggio della stabilità richiederebbe normalmente test sugli animali e non sono disponibili alternative appropriate o tecniche convalidate, la frequenza delle analisi può tener conto del rapporto rischi-benefici. Il principio di progetti ad accorpamenti (bracketing) e "a matrici" (matrixing) può essere applicato se scientificamente giustificato nel protocollo. 
 
 6.30 In certe situazioni, si dovranno includere nel programma di monitoraggio della stabilità alcuni lotti aggiuntivi. Per esempio, dovrà essere fatto uno studio di monitoraggio della stabilità dopo ogni cambio rilevante o dopo ogni importante deviazione al processo o al confezionamento. Ogni operazione di ri-lavorazione, ri-processo o recupero dovrà essere presa in considerazione per l'inclusione nel programma di monitoraggio. 
 
