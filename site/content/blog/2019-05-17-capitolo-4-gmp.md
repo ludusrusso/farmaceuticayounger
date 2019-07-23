@@ -20,11 +20,11 @@ Dovrebbero essere implementati controlli adeguati per garantire l'accuratezza, l
 
 _**Istruzioni (disposizioni, o requisiti): **_
 
-Specifiche: descrivono in dettaglio i requisiti a cui i prodotti o materiali utilizzati o ottenuti durante la fabbricazione devono conformarsi. Essi servono come base per la valutazione della qualità. 
+**Specifiche:** descrivono in dettaglio i requisiti a cui i prodotti o materiali utilizzati o ottenuti durante la fabbricazione devono essere conformi. Essi servono come base per la valutazione della qualità. 
 
-Formule di produzione e istruzioni per il processo di produzione e per il confezionamento e istruzioni per le analisi: forniscono il dettaglio di tutte le materie prime, attrezzature e sistemi informatici (se presenti) da utilizzare e descrivono nello specifico tutte le istruzioni per il processo di produzione, il confezionamento, il campionamento e le analisi. Dovranno essere indicati inoltre i controlli di processo e le tecniche analitiche qualora rilevanti, unitamente ai criteri di accettazione. 
+**Formule di produzione e istruzioni per il processo di produzione, per il confezionamento e per le analisi: **forniscono il dettaglio di tutte le materie prime, attrezzature e sistemi informatici (se presenti) da utilizzare e descrivono nello specifico tutte le istruzioni per il processo di produzione, il confezionamento, il campionamento e le analisi. Dovranno essere indicati inoltre i controlli di processo e le tecniche analitiche qualora rilevanti, unitamente ai criteri di accettazione. 
 
-Procedure: (altrimenti note come Procedure Operative Standard, o POS), danno direttive per l'esecuzione di determinate operazioni. Protocolli: danno istruzioni per l'esecuzione e la registrazione di determinate operazioni. 
+**Procedure:** (altrimenti note come Procedure Operative Standard, o POS), danno direttive per l'esecuzione di determinate operazioni. Protocolli: danno istruzioni per l'esecuzione e la registrazione di determinate operazioni. 
 
 Capitolati tecnici: sono accordi sottoscritti tra il committente e il fornitore che definiscono i termini di una attività affidata in conto terzi. 
 
