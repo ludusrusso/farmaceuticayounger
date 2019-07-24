@@ -3,6 +3,22 @@ title: FDA APPROVAL - Lyrica generici
 tags:
   - farmanews
 date: '2019-07-23T16:13:59+02:00'
+description: >-
+  La Food and Drug Administration degli Stati Uniti ha approvato i primi
+  generici di Lyrica (pregabalin) per la gestione del dolore neuropatico
+  associato alla neuropatia periferica diabetica, per la gestione della
+  nevralgia post-erpetica, come terapia aggiuntiva per il trattamento
+  dell'insorgenza parziale convulsioni in pazienti di età pari o superiore a 17
+  anni, per la gestione della fibromialgia e per la gestione del dolore
+  neuropatico associato a lesioni del midollo spinale.
+socialDesc: >-
+  La Food and Drug Administration degli Stati Uniti ha approvato i primi
+  generici di Lyrica (pregabalin) per la gestione del dolore neuropatico
+  associato alla neuropatia periferica diabetica, per la gestione della
+  nevralgia post-erpetica, come terapia aggiuntiva per il trattamento
+  dell'insorgenza parziale convulsioni in pazienti di età pari o superiore a 17
+  anni, per la gestione della fibromialgia e per la gestione del dolore
+  neuropatico associato a lesioni del midollo spinale.
 ---
 La Food and Drug Administration degli Stati Uniti ha approvato i primi [generici di Lyrica (pregabalin)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-generics-lyrica) per la gestione del dolore neuropatico associato alla neuropatia periferica diabetica, per la gestione della nevralgia post-erpetica, come terapia aggiuntiva per il trattamento dell'insorgenza parziale convulsioni in pazienti di età pari o superiore a 17 anni, per la gestione della fibromialgia e per la gestione del dolore neuropatico associato a lesioni del midollo spinale.
 
