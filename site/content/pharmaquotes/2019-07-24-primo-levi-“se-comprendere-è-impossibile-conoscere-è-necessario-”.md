@@ -15,7 +15,7 @@ image: /img/levi.png
 ---
 ![](/img/levi.png)
 
-Primo Michele Levi, scrittore, partigiano e chimico italiano nato a Torino il 31 luglio 1919, è l'autore di un classico della letteratura mondiale, Se questo è un uomo. Il 31 luglio di quest’anno Primo Levi avrebbe compiuto 100 anni. 
+Primo Michele Levi, scrittore, partigiano e chimico italiano nato a Torino il 31 luglio 1919, è l'autore di un classico della letteratura mondiale, _Se questo è un uomo._ Il 31 luglio di quest’anno Primo Levi avrebbe compiuto 100 anni. 
 
 L'opera è una delle più alte nonchè una delle prime testimonianze sulla tragica realtà dei lager, dove  racconta le sue terribili esperienze nel campo di sterminio nazista di Auschwitz. Laureato in chimica, in alcune delle sue opere appaiono riferimenti diretti e indiretti a questa branca della scienza. Ne Il Sistema periodico Primo Levi definisce il suo scrivere: 
 
