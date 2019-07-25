@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.111
-date: '2019-07-25T10:05:53+02:00'
+date: '2019-07-28T08:05:00+02:00'
 ---
 La Food and Drug Administration degli Stati Uniti ha approvato oggi la polvere nasale Baqsimi, la prima terapia con glucagone approvata per il trattamento di emergenza di ipoglicemia grave che può essere somministrata senza iniezione.
 
