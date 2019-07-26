@@ -2,7 +2,7 @@
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.111
 date: '2019-07-28T08:05:00+02:00'
 ---
-La Food and Drug Administration degli Stati Uniti ha approvato BAQSIMI™ (glucagone), la prima terapia con glucagone sotto forma di polvere nasale approvata per il trattamento dell'ipoglicemia grave nelle persone con diabete di età pari o superiore a quattro anni.
+La Food and Drug Administration degli Stati Uniti ha approvato[ BAQSIMI™ (glucagone)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-severe-hypoglycemia-can-be-administered-without-injection), la prima terapia con glucagone che può essere somministrata senza iniezione, approvata per il trattamento dell'ipoglicemia grave nelle persone con diabete di età pari o superiore a quattro anni.
 
 L'ipoglicemia grave si verifica quando i livelli di zucchero nel sangue di un paziente scendono al di sotto di un valore soglia da creare confusione mentale o perdita di conoscenza o soffrire di altri sintomi che richiedono l'assistenza di un'altra persona per il trattamento. In genere, l'ipoglicemia grave si verifica nelle persone con diabete che usano il trattamento con insulina. Se non trattata, un'ipoglicemia grave può portare a gravi conseguenze, come perdita di conoscenza, convulsioni, coma e morte.
 
