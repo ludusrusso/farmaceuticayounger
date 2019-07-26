@@ -2,15 +2,11 @@
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.111
 date: '2019-07-28T08:05:00+02:00'
 ---
-La Food and Drug Administration degli Stati Uniti ha approvato BAQSIMI™ (glucagone), la prima terapia con glucagone approvata per il trattamento dell'ipoglicemia grave nelle persone con diabete di età pari o superiore a quattro anni.
-
-
-
-di emergenza di ipoglicemia grave che può essere somministrata senza iniezione. Baqsimi è una polvere nasale approvato per il trattamento dell'ipoglicemia grave nei pazienti con diabete di età pari o superiore a quattro anni.
+La Food and Drug Administration degli Stati Uniti ha approvato BAQSIMI™ (glucagone), la prima terapia con glucagone sotto forma di polvere nasale approvata per il trattamento dell'ipoglicemia grave nelle persone con diabete di età pari o superiore a quattro anni.
 
 L'ipoglicemia grave si verifica quando i livelli di zucchero nel sangue di un paziente scendono al di sotto di un valore soglia da creare confusione mentale o perdita di conoscenza o soffrire di altri sintomi che richiedono l'assistenza di un'altra persona per il trattamento. In genere, l'ipoglicemia grave si verifica nelle persone con diabete che usano il trattamento con insulina. Se non trattata, un'ipoglicemia grave può portare a gravi conseguenze, come perdita di conoscenza, convulsioni, coma e morte.
 
-Fino ad oggi le persone che soffrivano di gravi episodi ipoglicemici dovevano essere trattate con un'iniezione di glucagone da ricostituire, che doveva cioè prima essere miscelata in un processo in più fasi. BAQSIMI è sotto forme di forma spray nasale portatile e pronto per l'uso senza ricostituzione, disponibile immediatamente in una singola dose fissa da 3 mg. Viene assorbito per via nasale, quindi non richiede inalazione. BAQSIMI inoltre non ha bisogno di essere refrigerato e può essere conservato a temperature fino a 86 ° F / 30 ° C nel tubo termoretraibile fornito. Questo nuovo modo di amministrare il glucagone può semplificare il processo, che può essere critico durante un episodio, specialmente perché il paziente potrebbe aver perso conoscenza o avere un attacco. In quelle situazioni, vogliamo che il processo di trattamento della persona sofferente sia il più semplice possibile. 
+Fino ad oggi le persone che soffrivano di gravi episodi ipoglicemici dovevano essere trattate con un'iniezione di glucagone da ricostituire, che doveva cioè prima essere miscelata in un processo in più fasi. BAQSIMI è sotto forme di forma spray nasale portatile e pronto per l'uso senza ricostituzione, disponibile immediatamente in una singola dose fissa da 3 mg. Viene assorbito per via nasale, quindi non richiede inalazione. BAQSIMI inoltre non ha bisogno di essere refrigerato e può essere conservato a temperature fino a 30 ° C nel tubo termoretraibile fornito. Questo nuovo modo di amministrare il glucagone può semplificare il processo, che può essere critico durante un episodio, specialmente perché il paziente potrebbe aver perso conoscenza o avere un attacco. In quelle situazioni, vogliamo che il processo di trattamento della persona sofferente sia il più semplice possibile. 
 
 Acquisita da Eli Lilly nel 2015, Locemia Solutions, una società farmaceutica specializzata nel trattamento del diabete. Dr.Claude Piche, CEO e co-fondatore di Locemia Solutions racconta così la nascita della sua avventura:
 
