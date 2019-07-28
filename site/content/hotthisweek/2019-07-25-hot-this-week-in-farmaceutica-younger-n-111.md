@@ -11,9 +11,9 @@ socialDesc: >-
   (glucagone), la prima terapia con glucagone che può essere somministrata senza
   iniezione, approvata per il trattamento dell'ipoglicemia grave nelle persone
   con diabete di età pari o superiore a quattro anni.
-image: /img/a55fd378-036f-47aa-aa3d-872638a71d7e.png
+image: /img/f9dd8e0e-bfc2-4206-8745-04165a7f56b2.png
 ---
-![](/img/a55fd378-036f-47aa-aa3d-872638a71d7e.png)
+![null](/img/30602d6d-85a4-4b17-8946-33c378664e5c.png)
 
 La Food and Drug Administration degli Stati Uniti ha approvato[ BAQSIMI™ (glucagone)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-severe-hypoglycemia-can-be-administered-without-injection), la prima terapia con glucagone che può essere somministrata senza iniezione, per il trattamento dell'ipoglicemia grave nelle persone con diabete di età pari o superiore a quattro anni.
 
