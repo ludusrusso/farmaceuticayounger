@@ -2,13 +2,16 @@
 title: HOT THIS MONTH - Luglio 2019
 tags:
   - farmanews
-date: '2019-07-26T16:27:29+02:00'
+date: '2019-07-29T04:27:00+02:00'
+image: /img/175ea261-f6fb-4c5c-b1f4-d4d185135c7b.png
 ---
+![](/img/175ea261-f6fb-4c5c-b1f4-d4d185135c7b.png)
+
 Il comitato per i medicinali per uso umano dell'EMA (CHMP) ha raccomandato l'approvazione di cinque medicinali, di cui due medicinali orfani e uno generico, nella riunione di fine luglio 2019. Il CHMP ha anche raccomandato l’estensione di indicazione terapeutica di 8 medicinali.
 
-Il comitato ha raccomandato il rilascio di un'autorizzazione all'immissione in commercio condizionale per **Vitrakvi** (larotrectinib), il primo trattamento approvato nell'Unione europea per tumori solidi con una fusione genica neurotrofica del recettore tirosin-chinasi (NTRK). Le fusioni del gene NTRK si verificano in un numero di tumori rari. 
+Il comitato ha raccomandato il rilascio di un'autorizzazione all'immissione in commercio condizionale per [**Vitrakvi**](https://www.farmaceuticayounger.science/blog/2019/01/lfda-statunitense-chiude-il-2018-con-59-nuove-approvazioni/) (larotrectinib), il primo trattamento approvato nell'Unione europea per tumori solidi con una fusione genica neurotrofica del recettore tirosin-chinasi (NTRK). Le fusioni del gene NTRK si verificano in un numero di tumori rari. 
 
-Il CHMP ha espresso parere positivo su **Epidyolex** (cannabidiolo) per il trattamento delle convulsioni associate alla sindrome di Lennox-Gastaut o alla sindrome di Dravet, due forme di epilessia. Epidyolex contiene un principio attivo derivato dalla cannabis ed è il primo a ricevere un parere positivo nella procedura centralizzata dell'UE.
+Il CHMP ha espresso parere positivo su [**Epidyolex**](https://www.farmaceuticayounger.science/blog/2019/01/lfda-statunitense-chiude-il-2018-con-59-nuove-approvazioni/) (cannabidiolo) per il trattamento delle convulsioni associate alla sindrome di Lennox-Gastaut o alla sindrome di Dravet, due forme di epilessia. Epidyolex contiene un principio attivo derivato dalla cannabis ed è il primo a ricevere un parere positivo nella procedura centralizzata dell'UE.
 
 **Inbrija** (levodopa) ha ricevuto un'opinione positiva per il trattamento dei sintomi di periodi "off" nella malattia di Parkinson.
 
