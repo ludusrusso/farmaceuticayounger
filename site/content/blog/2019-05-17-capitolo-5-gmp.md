@@ -4,31 +4,31 @@ tags:
   - articoli
 date: '2019-05-17T11:18:19+02:00'
 ---
-## Capitolo 5 - Produzione 
+## Capitolo 5 - Produzione
 
 **Principi **
 
-Le operazioni di produzione devono seguire procedure definite chiaramente e conformarsi ai principi delle Norme per la Buona Fabbricazione al fine di ottenere prodotti della qualità richiesta e conformi alle autorizzazioni alla fabbricazione ed all'immissione in commercio.
+Le operazioni di produzione devono seguire procedure definite chiaramente; devono essere conformi ai principi delle Good Manufacturing Practice al fine di ottenere prodotti della qualità richiesta e conformi alle autorizzazioni alla produzione ed all'immissione in commercio.
 
 **Aspetti generali **
 
-5.1 Alla produzione dovranno provvedere e sopraintendere persone competenti. 
+5.1 La Produzione deve essere rappresentata e supervisionata da persone competenti. 
 
-5.2 Ogni operazione di gestione dei materiali e dei prodotti quale il ricevimento e la quarantena, il campionamento, lo stoccaggio, l'etichettatura, la distribuzione, la lavorazione, il confezionamento e la distribuzione finale dovrà essere compiuta seguendo procedure od istruzioni scritte ed all'occorrenza essere documentata. 
+5.2 Ogni operazione di gestione dei materiali e dei prodotti, come il ricevimento e la quarantena, il campionamento, lo stoccaggio, l'etichettatura, la distribuzione, la lavorazione, il confezionamento e la distribuzione deve essere fatta in accordo a procedure o istruzioni scritte ed all'occorrenza essere documentata. 
 
-5.3 Tutte le materie prime in entrata dovranno essere controllate per garantire che la fornitura corrisponda all'ordine. All'occorrenza i recipienti dovranno essere puliti e muniti di un'etichetta recante i dati prescritti.
+5.3 Tutte le materie prime in entrata devono essere controllate per garantire che la fornitura corrisponda all'ordine. I contenitori devono essere puliti quando necessario e muniti di un'etichetta con i dati prescritti.
 
-5.4 I danni subiti dai recipienti e qualunque altro eventuale problema che possa influire negativamente sulla qualità di un materiale dovranno essere esaminati, documentati e riferiti al reparto Controllo Qualità.
+5.4 I danni subiti dai contenitori e qualunque altro eventuale problema che possa influire negativamente sulla qualità di un materiale devono essere esaminati, documentati e riportati al reparto Controllo Qualità.
 
-5.5 Le materie prime ed i prodotti finiti dovranno essere posti in quarantena, fisicamente o amministrativamente, immediatamente dopo essere stati ricevuti o lavorati fino alla loro approvazione per l'impiego o la distribuzione. 
+5.5 Le materie prime ed i prodotti finiti dovranno essere posti in quarantena, fisicamente o amministrativamente, immediatamente dopo essere stati ricevuti o lavorati fino alla loro approvazione per l'uso o la distribuzione. 
 
 5.6 Prodotti semilavorati e sfusi acquistati in quanto tali dovranno essere gestiti al loro ricevimento come se si trattasse di materie prime. 
 
 5.7 Tutti i materiali ed i prodotti dovranno essere immagazzinati nelle condizioni più opportune stabilite dal fabbricante ed in modo ordinato al fine di consentire la separazione per lotti e la rotazione delle scorte.  
 
-5.8 A seconda delle necessità si dovranno eseguire la verifica delle rese e la riconciliazione dei quantitativi in questione al fine di garantire che le discrepanze non superino i limiti accettabili 
+5.8 Controlli sui resi, e la riconciliazione delle quantità, dovranno essere condotti se necessario al fine di garantire che le discrepanze non superino i limiti accettabili.
 
-5.9 Nello stesso locale non si dovranno eseguire simultaneamente o consecutivamente operazioni su prodotti diversi a meno che non vi sia alcun rischio di frammischiamento o di contaminazione crociata.
+5.9 Nello stesso locale non si dovranno eseguire simultaneamente o consecutivamente operazioni su prodotti diversi a meno che non vi sia alcun rischio di frammischiamento (mix-up) o di contaminazione crociata (cross-contamination).
 
 5.10 Prodotti e materiali dovranno essere protetti dai vari tipi di contaminazione, compresa quella microbica, in ogni fase del processo di produzione. 
 
