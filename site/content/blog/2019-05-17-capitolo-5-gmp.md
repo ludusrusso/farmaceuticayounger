@@ -32,21 +32,21 @@ Le operazioni di produzione devono seguire procedure definite chiaramente; devon
 
 5.10 Prodotti e materiali dovranno essere protetti dai vari tipi di contaminazione, compresa quella microbica, in ogni fase del processo di produzione. 
 
-5.11 Quando si utilizzano sostanze e prodotti allo stato secco si dovranno prendere speciali precauzioni per prevenire la produzione e la propagazione di polveri. Ciò riguarda in particolare la manipolazione di sostanze estremamente attive o sensibilizzanti. 
+5.11 Quando si utilizzano sostanze e prodotti allo stato secco si dovranno prendere speciali precauzioni per prevenire la produzione e la propagazione di polveri. Ciò riguarda in particolare la manipolazione di materiali estremamente attivi o sensibilizzanti. 
 
-5.12 Durante la produzione tutti i materiali, i recipienti per le sostanze allo stato sfuso, le principali apparecchiature e I'occorrenza i locali impiegati dovranno essere contrassegnati con etichette od altrimenti identificati indicando il prodotto o materiale in lavorazione, il dosaggio (se del caso) e il numero di lotto. A seconda dei casi l'indicazione in questione dovrà anche menzionare la fase di lavorazione 
+5.12 In ogni momento della produzione, tutti i materiali, i contenitori per le sostanze allo stato sfuso, le principali apparecchiature e quando appropriati i locali impiegati dovranno essere contrassegnati con etichette o altrimenti identificati indicando il prodotto o materiale in lavorazione, il dosaggio (quando applicabile) e il numero di lotto. A seconda dei casi, questa indicazione dovrà anche menzionare la fase di produzione.
 
-5.13 Le etichette applicate ai recipienti, alle apparecchiature o ai locali dovranno essere chiare, univoche e conformi al formato approvato dall'azienda. Oltre alle scritte, sulle etichette è spesso utile impiegare anche i colori per indicare un determinato stato (ad es.: in quarantena, accettato, respinto, pulito,...) 
+5.13 Le etichette applicate ai contenitori, alle apparecchiature o ai locali dovranno essere chiare, univoche e conformi al formato approvato dall'azienda. Sulle etichette è spesso utile, oltre alle scritte, impiegare anche i colori per indicare un determinato stato (ad es.: in quarantena, accettato, respinto, pulito). 
 
-5.14 Si dovranno eseguire verifiche per garantire che le tubazioni e le altre parti di attrezzature utilizzate per trasportare i prodotti da una zona all'altra siano collegate in modo corretto 
+5.14 Si dovranno eseguire verifiche per garantire che le tubazioni e le altre parti di attrezzature utilizzate per trasportare i prodotti da una zona all'altra siano collegate in modo corretto.
 
-5.15 Nei limiti del possibile dovrà essere evitata qualunque deviazione dalle istruzioni o dalle procedure. Qualora avvenga una tale deviazione, essa dovrà essere approvata per iscritto da una persona competente, se opportuno chiamando in causa il reparto addetto al Controllo Qualità 
+5.15 Nei limiti del possibile dovrà essere evitata qualunque deviazione dalle istruzioni o dalle procedure. Qualora si verifichi una deviazione, essa dovrà essere approvata per iscritto da una persona competente, se opportuno chiamando in causa il reparto Controllo Qualità.
 
-5.16 L'accesso ai locali adibiti alla produzione dovrà essere consentito soltanto alle persone autorizzate
+5.16 L'accesso ai locali adibiti alla produzione dovrà essere consentito soltanto alle persone autorizzate.
+
+**Prevenzione della contaminazione crociata in produzione**
 
 5.17 Di norma si dovrà evitare di fabbricare prodotti non medicinali aree destinate alla produzione di medicinali e con le apparecchiature adibite a tale produzione 
-
-Prevenzione della contaminazione crociata in produzione
 
 5.18 Si dovrà evitare che una materia prima o un prodotto siano contaminati da un'altra materia prima o prodotto. Questo rischio di contaminazione crociata accidentale deriva dal rilascio non controllato di polveri, gas, vapori, aerosol od organismi provenienti da sostanze e prodotti del processo di produzione, da residui presenti nelle attrezzature e dagli indumenti degli operatori. L'entità del rischio varia a seconda dei tipi di contaminante e di prodotto in questione; tra i contaminanti più pericolosi vi sono sostanze dotate di elevato potere sensibilizzante, preparati biologici quali quelli contenenti organismi vivi, alcuni ormoni, sostanze citotossiche ed altre sostanze fortemente attive. I prodotti per i quali è probabile che la R contaminazione produca le conseguenze più gravi sono quelli iniettabili e quelli iniettabili a forti dosi e/o per lunghi periodi. 
 
