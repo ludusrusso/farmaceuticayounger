@@ -1,6 +1,6 @@
 ---
 title: ' PRIMO LEVI - “Se comprendere è impossibile, conoscere è necessario.”'
-date: '2019-07-31T08:48:00+02:00'
+date: '2019-07-31T07:48:00+02:00'
 description: >-
   Primo Michele Levi, scrittore, partigiano e chimico italiano nato a Torino il
   31 luglio 1919, è l'autore di un classico della letteratura mondiale, Se
