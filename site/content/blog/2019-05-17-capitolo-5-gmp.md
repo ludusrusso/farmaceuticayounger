@@ -54,7 +54,61 @@ Le operazioni di produzione devono seguire procedure definite chiaramente; devon
 
 5.20 Un processo di gestione del rischio di qualità, che comprende una valutazione della potenza e della tossicologia, dovrebbe essere usato per valutare e controllare i rischi di contaminazione crociata presentati dai prodotti fabbricati. Fattori inclusi; dovrebbero essere presi in considerazione anche la progettazione e l'uso delle strutture/attrezzature, il flusso di personale e materiali, i controlli microbiologici, le caratteristiche fisico-chimiche della sostanza attiva, le caratteristiche del processo, i processi di pulizia e le capacità analitiche relative ai limiti pertinenti stabiliti dalla valutazione dei prodotti. Il risultato del processo di gestione del rischio di qualità dovrebbe essere la base per determinare la necessità e la misura in cui locali e attrezzature dovrebbero essere dedicati a un determinato prodotto o famiglia di prodotti. Ciò può includere parti specifiche che vengono a contatto con il prodotto o l’intera struttura produttiva. Può essere accettabile confinare le attività di produzione in un'area di produzione separata e autonoma all'interno di un impianto multiprodotto, ove giustificato.
 
-5.21 Il risultato del processo di gestione del rischio di qualità dovrebbe essere la base per determinare l'estensione delle misure tecniche e organizzative necessarie per controllare i rischi di contaminazione incrociata. Questi potrebbero includere, a titolo esemplificativo, i seguenti:
+5.21 Il risultato del processo di gestione del rischio di qualità dovrebbe essere la base per determinare l'estensione delle misure tecniche e organizzative necessarie per controllare i rischi di contaminazione crociata. Questi potrebbero includere, a titolo esemplificativo, i seguenti:
+
+_Misure tecniche_
+
+i. Stabilimento di produzione dedicato (locali e attrezzature);
+
+ii. Zone di produzione autosufficienti con apparecchiature di elaborazione separate e sistemi di riscaldamento, ventilazione e condizionamento dell'aria (HVAC) separati. Può anche essere desiderabile isolare determinate attrezzature da quelle utilizzate in altre aree;
+
+iii. Progettazione di processi produttivi, locali e attrezzature per ridurre al minimo le opportunità di contaminazione crociata durante la lavorazione, la manutenzione e la pulizia;
+
+iv. Utilizzo di "sistemi chiusi" per il processamento e il trasferimento di materiale/prodotto tra apparecchiature;
+
+v. Utilizzo di sistemi di barriera fisica, inclusi isolatori, come misure di contenimento;
+
+vi. Rimozione controllata della polvere vicino alla fonte del contaminante, ad es. attraverso estrazione localizzata;
+
+vii. Attrezzature, parti a contatto con il prodotto dedicate o parti selezionate dedicate che sono più difficili da pulire (ad es. Filtri), strumenti di manutenzione dedicati;
+
+viii. Utilizzo di tecnologie monouso;
+
+ix. Utilizzo di apparecchiature progettate per facilitare la pulizia;
+
+X. Uso appropriato di air-lock e cascate di pressione per confinare potenziali contaminanti presenti nell'aria all'interno di un'area specifica;
+
+xi. Riduzione al minimo del rischio di contaminazione causata dal ricircolo o dal ritorno di aria non trattata o insufficientemente trattata;
+
+xii. Utilizzo di sistemi automatici di pulizia (“clean in place”) di efficacia validata;
+
+xiii. Per aree di lavaggio generali comuni, separazione delle aree di lavaggio, asciugatura e conservazione delle attrezzature.
+
+_Misure organizzative_
+
+i. Dedicando l'intera struttura produttiva o un'area di produzione autonoma su base campagna (dedicata alla separazione nel tempo) seguita da un processo di pulizia di efficacia convalidata;
+
+ii. Mantenimento di indumenti protettivi specifici all'interno di aree in cui vengono trattati prodotti ad alto rischio di contaminazione incrociata;
+
+iii. La verifica della pulizia dopo ogni campagna di prodotto dovrebbe essere considerata come uno strumento di rilevazione per supportare l'efficacia dell'approccio di gestione del rischio di qualità per i prodotti che si ritiene presentino un rischio più elevato;
+
+iv. A seconda del rischio di contaminazione, verifica della pulizia delle superfici non a contatto con i prodotti e monitoraggio dell'aria all'interno dell'area di produzione e / o delle aree adiacenti al fine di dimostrare l'efficacia delle misure di controllo contro la contaminazione nell'aria o la contaminazione mediante trasferimento meccanico;
+
+v. misure specifiche per la gestione dei rifiuti, acqua di risciacquo contaminata e camici sporchi;
+
+vi. Registrazione di sversamenti, eventi accidentali o deviazioni dalle procedure;
+
+vii. Progettazione di processi di pulizia per locali e attrezzature in modo tale che i processi di pulizia in sé non presentino un rischio di contaminazione incrociata;
+
+viii. Progettazione di registri dettagliati per i processi di pulizia per assicurare il completamento della pulizia in conformità con le procedure approvate e l'uso di etichette di stato di pulizia su attrezzature e aree di produzione;
+
+ix. Utilizzo di aree di lavaggio generali comuni su base campagna;
+
+x. Supervisione del comportamento lavorativo per garantire l'efficacia della formazione e il rispetto dei relativi controlli procedurali.
+
+5.22 Le misure per prevenire la contaminazione incrociata e la loro efficacia devono essere riviste periodicamente secondo le procedure stabilite.
+
+
 
 
 
