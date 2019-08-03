@@ -7,7 +7,7 @@ description: >-
   La Food and Drug Administration degli Stati Uniti ha concesso l'approvazione
   di Turalio (pexidartinib) per il trattamento di pazienti adulti con tumore
   sintomatico a cellule giganti tenosinoviali (TGCT) associato a grave morbilità
-  o limitazioni funzionali e non rispondente al miglioramento della chirurgia.
+  o limitazioni funzionali e non rispondente al miglioramento della chirurgia
 socialDesc: >-
   La Food and Drug Administration degli Stati Uniti ha concesso l'approvazione
   di Turalio (pexidartinib) per il trattamento di pazienti adulti con tumore
