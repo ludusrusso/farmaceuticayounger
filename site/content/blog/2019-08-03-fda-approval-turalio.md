@@ -16,7 +16,7 @@ socialDesc: >-
 ---
 La Food and Drug Administration degli Stati Uniti ha concesso l'approvazione di [Turalio (pexidartinib)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-rare-joint-tumor) per il trattamento di pazienti adulti con tumore sintomatico a cellule giganti tenosinoviali (TGCT) associato a grave morbilità o limitazioni funzionali e non rispondente al miglioramento della chirurgia.
 
-L'approvazione di Turalio è la prima terapia approvata dalla FDA per trattare questa malattia rara. 
+L'approvazione di Turalio è la prima terapia approvata dalla FDA per trattare questa rara malattia. 
 
 Il TGCT è una rara forma di neoplasia, generalmente non metastatica, ma che può essere localmente aggressiva. Colpisce le membrane sinoviali (sottile strato di tessuto che copre le superfici degli spazi articolari), le borse e le guaine dei tendini (strato di membrana che copre i tendini, che sono tessuti fibrosi che collegano i muscoli alle ossa). Il tumore è raramente maligno ma provoca l'ispessimento e la crescita delle guaine sinoviali e tendinee, danneggiando i tessuti circostanti, provocando gonfiore, dolore, rigidità e ridotta mobilità in corrispondenza dell’articolazione interessata. La terapia primaria per il TGCT prevede un intervento chirurgico per l'asportazione del tumore. Tuttavia, nei pazienti affetti da forme recidivanti, difficili da trattare o diffuse, in cui il tumore può avvolgere l'osso, i tendini, i legamenti ed altre componenti dell'articolazione, diventa più complicato rimuoverlo o ridurlo mediante interventi di resezione chirurgica. 
 
