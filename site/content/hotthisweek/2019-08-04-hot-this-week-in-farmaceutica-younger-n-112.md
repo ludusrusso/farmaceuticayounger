@@ -11,9 +11,9 @@ socialDesc: >-
   di Turalio (pexidartinib) per il trattamento di pazienti adulti con tumore
   sintomatico a cellule giganti tenosinoviali (TGCT) associato a grave morbilità
   o limitazioni funzionali e non rispondente al miglioramento della chirurgia.
-image: /img/bb2a8c3b-f905-4d05-9263-2f5528c29b1b.png
+image: /img/11e78789-72f5-4495-896f-7ca32ca8dc92.png
 ---
-![](/img/bb2a8c3b-f905-4d05-9263-2f5528c29b1b.png)
+![null](/img/11e78789-72f5-4495-896f-7ca32ca8dc92.png)
 
 La Food and Drug Administration degli Stati Uniti ha concesso l’approvazione di [Turalio (pexidartinib)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-rare-joint-tumor) per il trattamento di pazienti adulti con tumore sintomatico a cellule giganti tenosinoviali (TGCT) associato a grave morbilità o limitazioni funzionali e non rispondente al miglioramento della chirurgia.
 
