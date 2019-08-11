@@ -2,7 +2,7 @@
 title: GMP - Capitolo 3
 tags:
   - cgmp
-date: '2018-11-08T17:19:09+01:00'
+date: '2018-11-12T17:19:09+01:00'
 image: /img/gmp3.png
 ---
 ![null](/img/gmp3.png)
