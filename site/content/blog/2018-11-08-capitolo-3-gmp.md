@@ -93,34 +93,34 @@ Ulteriori indicazioni sono disponibili nel Capitolo 5 e negli Annex 2, 3, 4, 5 e
 
 **Aree per Attività Ausiliarie**
 
-3.30 I locali adibiti a sale break dovranno essere separate dalle altre aree.
+3.30 I locali adibiti a sale break devono essere separati dalle altre aree.
 
-3.31 I locali utilizzati per gli spogliatoi, per lavarsi le mani, e per i servizi igienici dovranno essere di agevole accesso e adeguati al numero di persone. I servizi igienici non dovranno comunicare direttamente con aree di produzione o di stoccaggio.
+3.31 I locali utilizzati per gli spogliatoi, per lavarsi le mani, e per i servizi igienici devono essere di agevole accesso e adeguati al numero di persone. I servizi igienici non devono comunicare direttamente con aree di produzione o di stoccaggio.
 
-3.32 le officine di manutenzione dovranno essere separate dalle aree adibite alla produzione. Ogni volta che in un'area produttiva vengano depositati utensili e parti di ricambio questi andranno conservati in locali o scomparti ad essi riservati.
+3.32 Le officine di manutenzione devono essere trovarsi il più lontano possibile dalle aree adibite alla produzione. Ogni volta che in un'area produttiva vengono depositati utensili e parti di ricambio questi andranno conservati in locali o scomparti ad essi riservati.
 
-3.33 Gli stabulari dovranno essere ben isolati dalle altre zone e disporre di ingressi separati (per l'accesso agli animali) per il trattamento dell'aria.
+3.33 Gli stabulari devono essere ben isolati dalle altre zone e disporre di ingressi separati (per l'accesso agli animali) e di strutture per il trattamento dell'aria.
 
 ## Apparecchiature
 
-3.34 Le apparecchiature di produzione dovranno essere progettate, posizionate e sottoposte a manutenzione in modo da risultare idonee allo scopo cui sono destinate.
+3.34 Le apparecchiature di produzione devono essere progettate, posizionate e sottoposte a manutenzione in modo da risultare idonee allo scopo cui sono destinate.
 
-3.35 Le operazioni di manutenzione e riparazione non dovranno recare rischi per la qualità del prodotto.
+3.35 Le operazioni di manutenzione e riparazione non devono recare rischi per la qualità del prodotto.
 
-3.36 Le apparecchiature di produzione dovranno essere progettate in modo da rendere agevole la loro completa pulizia. Dovranno essere pulite seguendo precise procedure scritte e conservate solo dopo essere state pulite e asciutte.
+3.36 Le apparecchiature di produzione devono essere progettate in modo da rendere agevole la loro completa pulizia. Devono essere pulite seguendo precise procedure scritte e conservate solo dopo essere state pulite e asciugate.
 
-3.37 Le apparecchiature di lavaggio e pulizia dovranno essere scelte in modo da prevenire qualsiasi rischio di errore o contaminazione.
+3.37 Le apparecchiature di lavaggio e pulizia devono essere scelte e usate in modo da non essere causa di contaminazione.
 
-3.38 Tutte le apparecchiature dovranno essere istallate in modo da prevenire qualsiasi rischio di errore o contaminazione.
+3.38 Le apparecchiature devono essere istallate in modo da prevenire qualsiasi rischio di errore o contaminazione.
 
-3.39 Le apparecchiature di produzione non dovranno comportare rischi per il prodotto. Le parti che entrano a contatto con il prodotto non dovranno essere chimicamente reattive, nè dare luogo a fenomeni di cessione o assorbimento in misura tale da condizionare la qualità del prodotto costituendo un rischio.
+3.39 Le apparecchiature di produzione non devono comportare rischi per i prodotti. Le parti che entrano a contatto con il prodotto non devono essere chimicamente reattive, nè dare luogo a fenomeni di cessione o assorbimento in misura tale da condizionare la qualità del prodotto costituendo un rischio.
 
 3.40 Per le operazioni di controllo e produzione si dovrà disporre di bilance e strumenti di misura di capacità e precisione adeguate.
 
-3.41 Le apparecchiature per effettuare misurazioni, pesate, registrazioni di dati e controlli dovranno essere tarate e verificate ad intervalli ben definiti e con metodi idonei. I risultati di tali analisi dovranno essere registrati secondo modalità adeguate.
+3.41 Le apparecchiature per effettuare misurazioni, pesate, registrazioni di dati e controlli devono essere tarate e verificate ad intervalli ben definiti e con metodi idonei. I risultati di tali analisi devono essere registrati secondo modalità adeguate.
 
-3.42 Le tubazioni fisse dovranno essere chiaramente etichettate per indicarne il contenuto, e all'occorrenza, la direzione del flusso.
+3.42 Le tubazioni fisse devono essere chiaramente etichettate per indicarne il contenuto, e all'occorrenza, la direzione del flusso.
 
-3.43 Le tubazioni adibite al trasporto di acqua distillata, deionizzata e, quando appropriato, di acqua di altro tipo dovranno essere sanitizzate secondo procedure scritte che riportino i limiti di attività dei contaminanti microbiologici e le misure da prendere.
+3.43 Le tubazioni adibite al trasporto di acqua distillata, deionizzata e, quando appropriato, di acqua di altro tipo devono essere sanitizzate secondo procedure scritte che riportino i limiti di attività dei contaminanti microbiologici e le misure da prendere.
 
-3.44 Le apparecchiature difettose dovranno, se possibile, essere rimosse dalle zone adibite alla produzione e al controllo qualità, o venire chiaramente etichettate come difettose.
+3.44 Le apparecchiature difettose devono, se possibile, essere rimosse dalle zone adibite alla produzione e al controllo qualità, o almeno venire chiaramente etichettate come difettose.
