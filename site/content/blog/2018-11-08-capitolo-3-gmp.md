@@ -55,33 +55,33 @@ Ulteriori indicazioni sono disponibili nel Capitolo 5 e negli Annex 2, 3, 4, 5 e
 
 3.13 La pesata delle materie prime deve, di norma, aver luogo in un locale pesata separato appositamente progettato per tale uso.
 
-3.14 Nei casi in cui vi sia produzione di polvere (ad es. durante le operazioni di campionamento, pesata, miscelazione e operazioni di lavorazione, confezionamento di prodotti secchi) si dovranno prendere specifiche precauzioni per impedire la contaminazione crociata ed agevolare la pulizia.
+3.14 Nei casi in cui vi sia produzione di polvere (ad es. durante le operazioni di campionamento, pesata, miscelazione e operazioni di lavorazione, confezionamento di prodotti secchi) si devono prendere specifiche precauzioni per impedire la contaminazione crociata ed agevolare la pulizia.
 
-3.15 I locali per il confezionamento dei medicinali dovranno essere adeguatamente progettati e disposti in modo da evitare frammischiamenti e/o contaminazione crociata.
+3.15 I locali per il confezionamento dei medicinali devono essere adeguatamente progettati e disposti in modo da evitare frammischiamenti e/o contaminazione crociata.
 
-3.16 Le aree adibite alla produzione dovranno essere ben illuminate, in particolar modo laddove si svolgono controlli visivi sulla linea di produzione.
+3.16 Le aree adibite alla produzione devono essere ben illuminate, in particolar modo laddove si svolgono controlli visivi sulla linea di produzione.
 
-3.17 Gli in-process control dovranno essere effettuati nell'area adibita alla produzione purchè essi non comportino nessun rischio per la produzione stessa.
+3.17 Gli in-process control devono essere effettuati nell'area adibita alla produzione purchè essi non comportino nessun rischio per la produzione stessa.
 
 **Aree di stoccaggio**
 
-3.18 Le aree di stoccaggio dovranno avere una capacità sufficiente a consentire di depositarvi in modo ordinato le varie categorie di materiali e prodotti: materie prime e materiali di confezionamento, prodotti semilavorati, bulk e finiti, prodotti in quarantena, approvati, respinti, resi o richiamati.
+3.18 Le aree di stoccaggio devono avere una capacità sufficiente a consentire di depositare in modo ordinato le varie categorie di materiali e prodotti: materie prime e materiali di confezionamento, prodotti semilavorati, bulk e finiti, prodotti in quarantena, approvati, respinti, resi o richiamati.
 
-3.19 Le aree di stoccaggio dovranno essere progettate o adattate in modo da garantire buone condizioni di conservazione. In particolare, dovranno risultare pulite e asciutte e mantenute entro limiti accettabili di temperatura. Laddove siano richieste speciali condizioni per lo stoccaggio (ad es. di temperatura e di umidità) tali condizioni dovranno essere fornite, verificate e controllate.
+3.19 Le aree di stoccaggio devono essere progettate o adattate in modo da garantire buone condizioni di conservazione. In particolare, devono risultare pulite e asciutte e mantenute entro limiti accettabili di temperatura. Laddove siano richieste speciali condizioni per lo stoccaggio (ad es. di temperatura e di umidità) tali condizioni devono essere fornite, verificate e controllate.
 
-3.20 Le baie di ricezione e spedizione devono proteggere i materiali e i prodotti dalle intemperie. Le aree adibite al ricevimento dovranno essere progettate e attrezzate in modo da consentire quando necessario di procedere alla pulizia dei contenitori dei materiali in arrivo prima del loro stoccaggio.
+3.20 Le zone di ricezione e spedizione devono proteggere i materiali e i prodotti dalle intemperie. Le aree adibite al ricevimento devono essere progettate e attrezzate in modo da consentire quando necessario di procedere alla pulizia dei contenitori dei materiali in arrivo prima del loro stoccaggio.
 
-3.21 Qualora siano previste zone separate per la quarantena queste dovranno essere chiaramente indicate e accessibili soltanto al personale autorizzato. Qualunque sistema che sostituisca la quarantena fisica dovrà offrire un grado di sicurezza equivalente.
+3.21 Qualora siano previste zone separate per la quarantena queste devono essere chiaramente indicate e accessibili soltanto al personale autorizzato. Qualunque sistema che sostituisca la quarantena fisica deve offrire un grado di sicurezza equivalente.
 
-3.22 Dovrà di norma essere prevista un'area separata, adibita al campionamento delle materie prime. Qualora il campionamento abbia luogo nella zona adibita allo stoccaggio dei prodotti esso dovrà essere effettuato in modo tale da escludere la contaminazione o la cross-contamination.
+3.22 Deve di norma essere prevista un'area separata, adibita al campionamento delle materie prime. Qualora il campionamento abbia luogo nella zona adibita allo stoccaggio dei prodotti esso deve essere effettuato in modo tale da escludere la contaminazione o la cross-contamination.
 
-3.23 Dovranno essere previste aree segregate per il deposito di materiali o prodotti respinti, richiamati o resi.
+3.23 Devono essere previste aree segregate per il deposito di materiali o prodotti respinti, richiamati o resi.
 
-3.24 I materiali o i prodotti caratterizzati da un'elevata attività dovranno essere stoccati in aree sicure.
+3.24 I materiali o i prodotti caratterizzati da un'elevata reattività devono essere stoccati in aree sicure.
 
-3.25 I materiali di confezionamento stampati sono considerati critici ai fini della conformità del medicinale e particolare attenzione dovrà essere dedicata allo stoccaggio di tali materiali in condizioni di sicurezza.
+3.25 I materiali di confezionamento stampati sono considerati critici ai fini della conformità del medicinale e particolare attenzione deve essere dedicata allo stoccaggio di tali materiali in condizioni di sicurezza.
 
-**Aree adibite al Laboratorio di Controllo Qualità**
+**Aree adibite al Controllo Qualità**
 
 3.26 Di norma i laboratori utilizzati per il controllo qualità dovranno essere separati dalle zone adibite alla produzione. Specialmente per quei laboratori utilizzati per il controllo di sostanze biologiche e microbiologiche nonchè radioisotopi; tali laboratori dovranno essere separati l'uno dall'altro.
 
