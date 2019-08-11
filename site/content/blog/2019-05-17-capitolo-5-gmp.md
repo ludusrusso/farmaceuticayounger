@@ -108,12 +108,6 @@ x. Supervisione del comportamento lavorativo per garantire l'efficacia della for
 
 5.22 Le misure per prevenire la contaminazione incrociata e la loro efficacia devono essere riviste periodicamente secondo le procedure stabilite.
 
-
-
-
-
-
-
 5.19 La contaminazione crociata dovrà essere evitata ricorrendo a idonee misure di carattere tecnico o organizzativo quali ad esempio: 
 
 a) fabbricare i prodotti a rischio in aree separate (obbligatorio nel caso di prodotti quali penicillina, vaccini vivi, preparati contenenti batteri vivi ed alcuni altri preparati biologici) oppure operare una produzione a campagne (separazione nel tempo) intervallate da un'adeguata pulizia delle apparecchiature; 
@@ -152,7 +146,15 @@ g) effettuare prove per individuare la presenza di residui ed apporre sulle attr
 
 5.28 Qualora una fornitura di materiale sia composta da lotti diversi, ogni lotto andrà considerato a se stante ai fini del campionamento, delle analisi e dell'accettazione. 
 
-5.29 Nelle aree di stoccaggio le materie prime dovranno essere etichettate in modo adeguato ( capitolo 5, voce 13). Le etichette dovranno recare per lo meno le seguenti indicazioni: -denominazione del prodotto e all'occorrenza codice specifico dell'azienda; -numero assegnato al lotto all'atto del ricevimento; -se del caso, la condizione del contenuto (ad es.: in quarantena, in esame, accettato, respinto); -ove opportuno, una data di scadenza o di rianalisi. Qualora si faccia uso di sistemi di stoccaggio completamente computerizzati tutte le informazioni di cui sopra non dovranno essere necessariamente riportate in forma leggibile sull'etichetta. 
+5.29 Nelle aree di stoccaggio le materie prime dovranno essere etichettate in modo adeguato ( capitolo 5, voce 13). Le etichette dovranno recare per lo meno le seguenti indicazioni: 
+
+\- denominazione del prodotto e all'occorrenza codice specifico dell'azienda; 
+
+\- numero assegnato al lotto all'atto del ricevimento; 
+
+\- se del caso, la condizione del contenuto (ad es.: in quarantena, in esame, accettato, respinto); 
+
+\- ove opportuno, una data di scadenza o di rianalisi. Qualora si faccia uso di sistemi di stoccaggio completamente computerizzati tutte le informazioni di cui sopra non dovranno essere necessariamente riportate in forma leggibile sull'etichetta. 
 
 5.30 Dovranno essere previste procedure o misure adeguate per garantire l'identificazione del contenuto di ogni recipiente di materie prime. I contenitori per materiali sfusi da cui siano stati prelevati campioni dovranno essere contrassegnati (cap 6.13). 
 
