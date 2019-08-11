@@ -83,15 +83,15 @@ Ulteriori indicazioni sono disponibili nel Capitolo 5 e negli Annex 2, 3, 4, 5 e
 
 **Aree adibite al Controllo Qualità**
 
-3.26 Di norma i laboratori utilizzati per il controllo qualità dovranno essere separati dalle zone adibite alla produzione. Specialmente per quei laboratori utilizzati per il controllo di sostanze biologiche e microbiologiche nonchè radioisotopi; tali laboratori dovranno essere separati l'uno dall'altro.
+3.26 Di norma i laboratori utilizzati per il controllo qualità devono essere separati dalle zone adibite alla produzione. Specialmente per quei laboratori utilizzati per il controllo di sostanze biologiche e microbiologiche nonchè radioisotopi, tali laboratori devono essere separati l'uno dall'altro.
 
-3.27 I laboratori di controllo dovranno essere progettati in modo da essere idonei alle operazioni che in essi verranno effettuate. Lo spazio dovrà risultare sufficiente ad evitare frammischiamenti (mix-ups) e contaminazione crociata. Dovranno essere disponibili spazi adeguati per conservare i campioni e i relativi documenti.
+3.27 I laboratori di controllo devono essere progettati in modo da essere idonei alle operazioni che in essi verranno effettuate. Lo spazio deve risultare sufficiente ad evitare frammischiamenti (mix-ups) e contaminazione crociata. Devono essere disponibili spazi adeguati per conservare i campioni e i documenti.
 
 3.28 Potrebbero essere necessari locali separati per proteggere gli strumenti sensibili da vibrazioni, interferenze elettriche, umidità, ecc.
 
-3.29 Per i laboratori nei quali si lavorano sostanze pericolose, come campioni biologici o radioattivi, saranno richiesti particolari requisiti.
+3.29 Per i laboratori nei quali si lavorano sostanze pericolose, come campioni biologici o radioattivi, sono richiesti particolari requisiti.
 
-**Aree per attività accessorie**
+**Aree per Attività Ausiliarie**
 
 3.30 I locali adibiti a sale break dovranno essere separate dalle altre aree.
 
