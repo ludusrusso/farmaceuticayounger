@@ -11,28 +11,27 @@ image: /img/gmp3.png
 
 ## Principi
 
-Locali e attrezzature devono essere ubicati, progettati, costruiti, adattati e sottoposti a regolare manutenzione in modo da risultare idonei alle operazioni da svolgere. Il loro layout e la loro disposizione deve minimizzare il rischio di errori e consentire efficaci interventi di pulizia e manutenzione così da evitare la contaminazione crociata (cross-contamination), l'accumulo di polvere o di sporcizia ed in genere qualunque effetto negativo sulla qualità dei prodotti.
+Locali e attrezzature devono essere ubicati, progettati, costruiti, adattati e sottoposti a regolare manutenzione in modo da risultare idonei alle operazioni da svolgere. La loro disposizione e progettazione deve minimizzare il rischio di errori e consentire efficaci interventi di pulizia e manutenzione così da evitare la contaminazione crociata (cross-contamination), l'accumulo di polvere o di sporcizia ed in genere qualunque effetto negativo sulla qualità dei prodotti.
 
 ## Locali
 
 **Aspetti generali**
 
-3.1 I locali dovranno essere ubicati in un ambiente che, considerato unitamente alle misure volte a proteggere la fabbricazione, presenti un rischio minimo di provocare la contaminazione dei materiali o dei prodotti.
+3.1 I locali devono essere ubicati in un ambiente che, considerato unitamente alle misure volte a proteggere la fabbricazione, presenti un rischio minimo di provocare la contaminazione dei materiali o dei prodotti.
 
-3.2 I locali dovranno essere sottoposti ad un'accurata manutenzione, assicurando nel contempo che le operazioni di riparazione e di manutenzione stessa non comportino alcun rischio per la qualità dei prodotti. I locali dovranno essere puliti e all'occorrenza disinfettati secondo le dettagliate procedure interne.
+3.2 I locali devono essere sottoposti ad un'accurata manutenzione, assicurando nel contempo che le operazioni di riparazione e di manutenzione non comportino alcun rischio per la qualità dei prodotti. I locali devono essere puliti e all'occorrenza disinfettati secondo dettagliate procedure scritte.
 
-3.3 Le condizioni di illuminazione, temperatura, umidità e ventilazione dovranno risultare adeguate e tali da non avere ripercussioni negative, dirette o indirette sui prodotti medicinali durante le fasi di fabbricazione e stoccaggio oppure sul corretto funzionamento delle attrezzature.
+3.3 Le condizioni di illuminazione, temperatura, umidità e ventilazione devono risultare adeguate e tali da non avere ripercussioni negative, dirette o indirette sui prodotti medicinali durante le fasi di fabbricazione e stoccaggio oppure sul corretto funzionamento delle attrezzature.
 
-3.4 I locali dovranno essere progettati e attrezzati in modo da offrire la massima protezione contro l'ingresso di insetti o di altri animali.
+3.4 I locali devono essere progettati e attrezzati in modo da offrire la massima protezione contro l'ingresso di insetti o di altri animali.
 
-3.5 Si dovranno prendere provvedimenti per impedire l'accesso di persone non autorizzate. Le zone adibite alla produzione, allo stoccaggio e al controllo qualità non dovranno essere zone di passaggio per il personale che non vi lavora.
+3.5 Si devono prendere provvedimenti per impedire l'accesso di persone non autorizzate. Le zone adibite alla produzione, allo stoccaggio e al controllo qualità non devono essere zone di passaggio per il personale che non vi lavora.
 
 **Area di Produzione**
 
-3.6 La cross-contamination deve essere prevenuta per tutti i prodotti attraverso una appropriata  progettazione e
- gestione degli impianti di produzione. Le misure per prevenire la contaminazione crociata dovrebbero essere commisurate ai rischi. I principi del Quality Risk Management dovrebbero essere utilizzati per valutare e controllare i rischi. A seconda del livello di rischio, potrebbe essere necessario dedicare locali e attrezzature per le operazioni di produzione e/o di imballaggio al fine di controllare il rischio presentato da alcuni medicinali.
+3.6 La cross-contamination deve essere evitata per tutti i prodotti attraverso una appropriata  progettazione e gestione degli impianti di produzione. Le misure per prevenire la contaminazione crociata devono essere commisurate ai rischi. I principi del Quality Risk Management devono essere utilizzati per valutare e controllare i rischi. A seconda del livello di rischio, potrebbe essere necessario dedicare locali e attrezzature per le operazioni di produzione e/o di imballaggio al fine di controllare il rischio legato ad alcuni prodotti medicinali.
 
-Sono necessarie strutture dedicate per la produzione quando un medicinale presenta un rischio in quanto:
+Sono necessarie strutture dedicate per la produzione quando un medicinale presenta un rischio nei seguenti casi:
 
 i. il rischio non può essere adeguatamente controllato da misure operative e/o tecniche,
 
@@ -42,19 +41,19 @@ iii. i limiti dei residui rilevanti, derivati dalla valutazione tossicologica, n
 
 Ulteriori indicazioni sono disponibili nel Capitolo 5 e negli Annex 2, 3, 4, 5 e 6.
 
-3.7 I locali dovranno essere disposti in moda da consentire che la produzione avvenga in aree collegate tra loro secondo un ordine logico corrispondente alla sequenza delle operazioni da svolgere e ai livelli di igiene prescritti.
+3.7 I locali devono essere disposti preferibilmente in modo da consentire che la produzione avvenga in aree collegate tra loro secondo un ordine logico corrispondente alla sequenza delle operazioni da svolgere e ai livelli di igiene prescritti.
 
-3.8 Gli spazi adibiti alla lavorazione e allo stoccaggio durante la produzione dovranno essere tali da consentire la disposizione ordinata e logica di attrezzature e materiali così da minimizzare il rischio di frammischiamento tra medicinali diversi o tra i loro componenti, escludere la contaminazione crociata e minimizzare il rischio che uno delle fasi del processo di fabbricazione o di controllo venga omesso o mal eseguito.
+3.8 Gli spazi adibiti alla lavorazione e allo stoccaggio durante la produzione devono essere tali da consentire la disposizione ordinata e logica di attrezzature e materiali così da minimizzare il rischio di frammischiamento tra medicinali diversi o tra i loro componenti, evitare la contaminazione crociata e minimizzare il rischio che una delle fasi del processo di fabbricazione o di controllo venga omesso o mal eseguito.
 
-3.9 Nei luoghi in cui le materie prime e i materiali di confezionamento primario, prodotti intermedi o bulk sono esposti all'ambiente, le superfici interne (pareti, pavimenti e soffitti) dovranno essere lisce, esenti da crepe e giunture sconnesse e tali da non produrre polvere e da poter essere pulite in modo semplice ed efficace e, se necessario, disinfettate.
+3.9 Nei luoghi in cui le materie prime e i materiali di confezionamento primario, prodotti intermedi o bulk sono esposti all'ambiente, le superfici interne (pareti, pavimenti e soffitti) devono essere lisce, esenti da crepe e giunture sconnesse e tali da non produrre polvere e da poter essere pulite in modo semplice ed efficace e, se necessario, disinfettate.
 
-3.10 Le tubazioni, gli impianti di illuminazione, i punti di ventilazione e gli altri servizi dovranno essere progettati e disposti in modo da evitare che vengano a crearsi rientranze difficili da pulire. Per quanto possibile dovrebbero risultare accessibili, per la manutenzione, dall'esterno delle aree adibite alla produzione.
+3.10 Le tubazioni, gli impianti di illuminazione, i punti di ventilazione e gli altri servizi devono essere progettati e disposti in modo da evitare che vengano a crearsi rientranze difficili da pulire. Per quanto possibile devono risultare accessibili, per la manutenzione, dall'esterno delle aree adibite alla produzione.
 
-3.11 Le tubazioni di scarico dovranno essere di dimensioni adeguate e disporre di pozzetti sifonati. Ove possibile andranno evitate le canalette aperte, ma qualora la loro presenza si riveli necessaria dovranno essere poco profonde per facilitarne la pulizia e la disinfezione.
+3.11 Le tubazioni di scarico devono essere di dimensioni adeguate e disporre di pozzetti di scarico. Ove possibile devono essere evitate le canalette aperte, ma qualora la loro presenza si riveli necessaria devono essere poco profonde per facilitarne la pulizia e la disinfezione.
 
-3.12 Le aree adibite alla produzione dovranno essere ventilate in modo efficace, disporre di apparecchiature per il controllo del condizionamento dell'aria (incluse la temperatura e, quando necessario, l'umidità e la filtrazione) adeguate tanto ai prodotti trattati e alle relative operazioni quanto all'ambiente esterno.
+3.12 Le aree adibite alla produzione devono essere ventilate in modo efficace, disporre di apparecchiature per il controllo del condizionamento dell'aria (incluse la temperatura e, quando necessario, l'umidità e la filtrazione) adeguate tanto ai prodotti trattati e alle relative operazioni quanto all'ambiente esterno.
 
-3.13 La pesata delle materie prime dovrà, di norma, aver luogo in un locale pesata separato appositamente progettato per tale uso.
+3.13 La pesata delle materie prime deve, di norma, aver luogo in un locale pesata separato appositamente progettato per tale uso.
 
 3.14 Nei casi in cui vi sia produzione di polvere (ad es. durante le operazioni di campionamento, pesata, miscelazione e operazioni di lavorazione, confezionamento di prodotti secchi) si dovranno prendere specifiche precauzioni per impedire la contaminazione crociata ed agevolare la pulizia.
 
