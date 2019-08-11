@@ -11,7 +11,7 @@ socialDesc: >-
   Antigen Receptor T-cell) disponibile in Italia.
 image: /img/b2b57b57-ffbb-4d0a-99e2-d66299712c93.png
 ---
-![](/img/b2b57b57-ffbb-4d0a-99e2-d66299712c93.png)
+![null](/img/b2b57b57-ffbb-4d0a-99e2-d66299712c93.png)
 
 **L’Agenzia Italiana del Farmaco ha dato il via libera**, in data 7 Agosto 2019, **alla rimborsabilità della prima terapia a base di cellule CAR-T** (Chimeric Antigen Receptor T-cell) **disponibile in Italia**.
 
@@ -25,4 +25,4 @@ Il processo per la produzione e somministrazione delle CAR-T è molto complesso 
 
 La novità dell’accordo sta nel fatto che lo Stato pagherà in base ai risultati effettivi sul paziente, secondo il sistema del cosiddetto** ‘payment at results’.** Lo schema prevede che, si pagherà solo se nel paziente vi sarà la remissione. Un accordo innovativo, utilizzato da AIFA per la prima volta che può rappresentare certamente un riferimento a livello europeo.
 
-L'AIFA renderà disponibile sul proprio sito l’elenco dei Centri autorizzati alla somministrazione del trattamento non appena questi saranno stati individuati dalle competenti Regioni e Province Autonome.
+[L'AIFA](https://aifa.gov.it/-/aifa-approva-la-rimborsabilita-della-prima-terapia-car-t) renderà disponibile sul proprio sito l’elenco dei Centri autorizzati alla somministrazione del trattamento non appena questi saranno stati individuati dalle competenti Regioni e Province Autonome.
