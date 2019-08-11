@@ -156,59 +156,61 @@ g) effettuare prove per individuare la presenza di residui ed apporre sulle attr
 
 \- ove opportuno, una data di scadenza o di rianalisi. Qualora si faccia uso di sistemi di stoccaggio completamente computerizzati tutte le informazioni di cui sopra non dovranno essere necessariamente riportate in forma leggibile sull'etichetta. 
 
-5.30 Dovranno essere previste procedure o misure adeguate per garantire l'identificazione del contenuto di ogni recipiente di materie prime. I contenitori per materiali sfusi da cui siano stati prelevati campioni dovranno essere contrassegnati (cap 6.13). 
+5.30 Devono essere previste procedure o misure adeguate per garantire l'identificazione del contenuto di ogni recipiente di materie prime. I contenitori per materiali sfusi da cui siano stati prelevati campioni dovranno essere contrassegnati (cap 6.13). 
 
-5.31 Dovranno essere impiegate soltanto materie prime approvate dal reparto Controllo Qualità che non abbiano superato il periodo di validità. 
+5.31 Devono essere impiegate soltanto materie prime approvate dal reparto Controllo Qualità che non abbiano superato il periodo di validità. 
 
-5.32 Le materie prime dovranno essere consegnate per l'uso soltanto da persone designate conformemente ad una procedura scritta in modo da garantire che si tratti esattamente del materiale previsto e che questo sia posto in recipienti puliti e correttamente etichettati dopo esser stato accuratamente pesato o misurato. 
+5.32 Le materie prime devono essere consegnate per l'uso soltanto da persone designate conformemente ad una procedura scritta in modo da garantire che si tratti esattamente del materiale previsto e che questo sia posto in recipienti puliti e correttamente etichettati dopo esser stato accuratamente pesato o misurato. 
 
-5.33 Ogni materiale da consegnare per l'uso e il suo peso o volume, dovranno essere verificati indipendentemente e tale. verifica dovrà essere documentata. 
+5.33 Ogni materiale da consegnare per l'uso e il suo peso o volume, deve essere verificato indipendentemente e tale. La verifica deve essere documentata. 
 
-5.34 I materiali destinati a un dato lotto dovranno essere mantenuti riuniti ed etichettati in modo ben visibile uno per uno. 
+5.34 I materiali destinati a un dato lotto devono essere mantenuti riuniti ed etichettati in modo ben visibile uno per uno. 
 
 **Processo di produzione: semilavorati e sfusi **
 
 5.35 Prima di avviare qualunque operazione di produzione si dovrà provvedere a garantire che l'area di lavoro e le attrezzature risultino pulite e sgombre da materie prime, prodotti, residui di prodotti o documenti non necessari per l'operazione che si intende avviare. 
 
-5.36 I prodotti intermedi e sfusi dovranno essere conservati in condizioni appropriate. 
+5.36 I prodotti intermedi e sfusi devono essere conservati in condizioni appropriate. 
 
-5.37 Le fasi di processo d'importanza critica dovranno essere convalidati (la voce "Convalida" del presente capitolo). 
+5.37 Le fasi di processo d'importanza critica devoco essere convalidati (la voce "Convalida" del presente capitolo). 
 
-5.38 Tutti i controlli di processo e quelli ambientali ritenuti necessari dovranno essere effettuati e documentati. 
+5.38 Tutti i controlli di processo e quelli ambientali ritenuti necessari devono essere effettuati e documentati. 
 
-5.39 Ogni deviazione significativa dalla resa prevista dovrà essere documentata ed investigata. 
+5.39 Ogni deviazione significativa dalla resa prevista devono essere documentata ed investigata. 
 
 **Materiali di confezionamento **
 
 5.40 Alle operazioni di acquisto, gestione e controllo dei materiali di confezionamento, tanto stampati quanto destinati alla confezione primaria, verrà dedicata la stessa attenzione che alle materie prime. 
 
-5.41 Una cura particolare sarà riservata ai materiali stampati, che dovranno essere immagazzinati in adeguate condizioni di sicurezza che escludano l'accesso di persone non autorizzate. Le etichette tagliate ed altri materiali stampati sciolti dovranno essere stoccati e trasportati all'interno di recipienti chiusi e separati per evitare i frammischiamenti. I materiali di confezionamento dovranno essere consegnati ai reparti di produzione soltanto da personale autorizzato e seguendo una procedura approvata e documentata. 
+5.41 Una cura particolare sarà riservata ai materiali stampati, che devono essere immagazzinati in adeguate condizioni di sicurezza che escludano l'accesso di persone non autorizzate. Le etichette tagliate ed altri materiali stampati sciolti devono essere stoccati e trasportati all'interno di recipienti chiusi e separati per evitare i frammischiamenti. I materiali di confezionamento devono essere consegnati ai reparti di produzione soltanto da personale autorizzato e seguendo una procedura approvata e documentata. 
 
-5.42 Ogni fornitura o lotto di materiale di confezionamento (primario o stampato) dovrà ricevere un numero specifico di riferimento od un marchio di identificazione. 
+5.42 Ogni fornitura o lotto di materiale di confezionamento (primario o stampato) deve ricevere un numero specifico di riferimento od un marchio di identificazione. 
 
-5.43 Il materiale per il confezionamento primario o stampato che risulti scaduto od obsoleto dovrà essere distrutto e l'operazione dovrà essere documentata. 
+5.43 Il materiale per il confezionamento primario o stampato che risulti scaduto od obsoleto deve essere distrutto e l'operazione deve essere documentata. 
 
 **Confezionamento **
 
-5.44 Nel programmare il confezionamento occorrerà prestare particolare attenzione a minimizzare i rischi di contaminazione crociata, i frammischia menti o le sostituzioni. Prodotti diversi non dovranno essere confezionati nelle immediate vicinanze l'uno dell'altro a meno che non risultino fisicamente separati.
+5.44 Nel programmare il confezionamento occorre prestare particolare attenzione a minimizzare i rischi di contaminazione crociata, i frammischiamenti o le sostituzioni. Prodotti diversi non devono essere confezionati nelle immediate vicinanze l'uno dell'altro a meno che non risultino fisicamente separati.
 
-5.45 Prima di avviare le operazioni di confezionamento si dovrà provvedere a garantire che l'area di lavoro, le linee di confezionamento, le macchine stampanti e le altre attrezzature siano pulite e sgombre da qualsiasi prodotto, materiale o documento precedentemente impiegato che non si'a necessario per l'operazione da effettuare. La verifica della disponibilità della linea dovrà svolgersi in base ad un adeguato elenco dei punti da controllare (check-list). 
+5.45 Prima di avviare le operazioni di confezionamento si deve provvedere a garantire che l'area di lavoro, le linee di confezionamento, le macchine stampanti e le altre attrezzature siano pulite e sgombre da qualsiasi prodotto, materiale o documento precedentemente impiegato che non si'a necessario per l'operazione da effettuare. La verifica della disponibilità della linea deve svolgersi in base ad un adeguato elenco dei punti da controllare (check-list). 
 
-5.46 Il nome ed il numero di lotto del prodotto in lavorazione dovranno figurare su ogni linea o area di confezionamento. 
+5.46 Il nome ed il numero di lotto del prodotto in lavorazione devono figurare su ogni linea o area di confezionamento. 
 
-5.47 Tutti i prodotti ed i materiali di confezionamento da utilizzare dovranno essere controllati all'atto della consegna al reparto confezionamento per verificarne la quantità, l'identità e la conformità alle istruzioni per il confezionamento. 
+5.47 Tutti i prodotti ed i materiali di confezionamento da utilizzare devono essere controllati all'atto della consegna al reparto confezionamento per verificarne la quantità, l'identità e la conformità alle istruzioni per il confezionamento. 
 
-5.48 I recipienti da riempire dovranno essere puliti prima del riempimento. Si dovrà prestare attenzione per evitare la presenza e per rimuovere eventuali contaminanti quali frammenti di vetro e particelle metalliche. 5.49 Di norma le operazioni di riempimento e chiusura ermetica dovranno essere seguite quanto più rapidamente possibile dall'etichettatura. Qualora ciò non avvenga si dovrà ricorrere a procedure adeguate per garantire che non possano aver luogo frammischiamenti od errori d'etichettatura. 
+5.48 I recipienti da riempire devoco essere puliti prima del riempimento. Si dovrà prestare attenzione per evitare la presenza e per rimuovere eventuali contaminanti quali frammenti di vetro e particelle metalliche. 
 
-5.50 Eventuali operazioni di stampa (relative ad es. a numeri di codice e a date di scadenza) da eseguirsi separatamente o durante l'operazione di confezionamento, dovranno essere controllate per la loro correttezza e tale verifica dovrà essere documentata. Si dovrà prestare attenzione alle scritte apposte a mano, che dovranno essere ricontrollate ad intervalli regolari. 
+5.49 Di norma le operazioni di riempimento e chiusura ermetica devono essere seguite quanto più rapidamente possibile dall'etichettatura. Qualora ciò non avvenga si deve ricorrere a procedure adeguate per garantire che non possano aver luogo frammischiamenti od errori d'etichettatura. 
 
-5.51 Si dovrà prestare particolare attenzione qualora si faccia ricorso ad etichette già pre-tagliate o si esegua una sovrastampa al di fuori della linea di lavorazione. I rotoli di etichetta sono di norma da preferire alle etichette già pre-tagliate poiché aiutano ad evitare frammischia menti. 
+5.50 Eventuali operazioni di stampa (relative ad es. a numeri di codice e a date di scadenza) da eseguirsi separatamente o durante l'operazione di confezionamento, devono essere controllate per la loro correttezza e tale verifica dovrà essere documentata. Si deve prestare attenzione alle scritte apposte a mano, che devono essere ricontrollate ad intervalli regolari. 
 
-5.52 Dovranno essere eseguiti controlli per garantire che eventuali lettori elettronici di codici, contatori di etichette o dispositivi analoghi funzionino correttamente. 
+5.51 Si deve prestare particolare attenzione qualora si faccia ricorso ad etichette già pre-tagliate o si esegua una sovrastampa al di fuori della linea di lavorazione. I rotoli di etichetta sono di norma da preferire alle etichette già pre-tagliate poiché aiutano ad evitare frammischiamenti. 
 
-5.53 Le informazioni stampate o impresse a secco sui materiali di confezionamento dovranno essere ben spaziate e resistenti alla scoloritura od alla cancellazione. 
+5.52 Devono essere eseguiti controlli per garantire che eventuali lettori elettronici di codici, contatori di etichette o dispositivi analoghi funzionino correttamente. 
 
-5.54 I controlli eseguiti sulla linea durante il confezionamento dovranno comprendere almeno quanto segue: 
+5.53 Le informazioni stampate o impresse a secco sui materiali di confezionamento devono essere ben spaziate e resistenti alla scoloritura od alla cancellazione. 
+
+5.54 I controlli eseguiti sulla linea durante il confezionamento devono comprendere almeno quanto segue: 
 
 a) aspetto generale delle confezioni; 
 
@@ -220,32 +222,32 @@ d) correttezza di eventuali scritte sovrastampate;
 
 e) corretto funzionamento dei dispositivi di controllo installati sulla linea di confezionamento. 
 
-I campioni prelevati dalla linea di confezionamento non dovranno venirvi re-immessi. 
+I campioni prelevati dalla linea di confezionamento non devono essere re-immessi. 
 
-5.55 I prodotti che subiscano un evento insolito andranno re-immessi in lavorazione soltanto previa ispezione, indagine ed approvazione speciali da parte di personale autorizzato. Questa operazione dovrà essere documentata in modo particolareggiato. 
+5.55 I prodotti che subiscano un evento insolito andranno re-immessi in lavorazione soltanto previa ispezione, indagine ed approvazione speciali da parte di personale autorizzato. Questa operazione deve essere documentata in modo particolareggiato. 
 
-5.56 Ogni discrepanza significativa od insolita osservata nel corso della conciliazione tra il quantitativo di prodotto sfuso e di materiali stampati di confezionamento ed il numero di unità prodotte dovrà essere indagata e giustificata in modo soddisfacente prima di approvare il prodotto. 
+5.56 Ogni discrepanza significativa od insolita osservata nel corso della conciliazione tra il quantitativo di prodotto sfuso e di materiali stampati di confezionamento ed il numero di unità prodotte deve essere indagata e giustificata in modo soddisfacente prima di approvare il prodotto. 
 
-5.57 Al termine di un'operazione di confezionamento, qualunque materiale di confezionamento non utilizzato e recante il numero di codice del lotto di produzione dovrà essere distrutto, e tale operazione dovrà essere documentata. La restituzione al magazzino di materiale stampato privo di codici dovrà essere effettuata seguendo una procedura documentata. 
+5.57 Al termine di un'operazione di confezionamento, qualunque materiale di confezionamento non utilizzato e recante il numero di codice del lotto di produzione deve essere distrutto, e tale operazione documentata. La restituzione al magazzino di materiale stampato privo di codici deve essere effettuata seguendo una procedura documentata. 
 
 **Prodotti finiti **
 
-5.58 I prodotti finiti dovranno essere tenuti in quarantena sino a quando siano definitivamente approvati secondo le condizioni stabilite dal fabbricante. 
+5.58 I prodotti finiti devono essere tenuti in quarantena sino a quando siano definitivamente approvati secondo le condizioni stabilite dal fabbricante. 
 
 5.59 La valutazione dei prodotti finiti e la documentazione necessaria prima di approvare un prodotto sono descritte nel capitolo 6 (Controllo Qualità). 
 
-5.60 Dopo l'approvazione i prodotti finiti dovranno essere immagazzinati, come scorte utilizzabili, nelle condizioni stabilite dal fabbricante. 
+5.60 Dopo l'approvazione i prodotti finiti devono essere immagazzinati, come scorte utilizzabili, nelle condizioni stabilite dal fabbricante. 
 
 **Materiali respinti, recuperati e resi **
 
-5.61 I materiali ed i prodotti respinti dovranno venir chiaramente contrassegnati come tali e stoccati separatamente in zone ad accesso riservato. Essi dovranno essere rinviati ai fornitori o all'occorrenza essere rilavorati o distrutti. Qualunque sia la destinazione prescelta essa dovrà essere approvata e documentata da personale autorizzato. 
+5.61 I materiali ed i prodotti respinti devono essere chiaramente contrassegnati come tali e stoccati separatamente in zone ad accesso riservato. Essi devono essere rinviati ai fornitori o all'occorrenza essere rilavorati o distrutti. Qualunque sia la destinazione prescelta essa deve essere approvata e documentata da personale autorizzato. 
 
-5.62 La rilavorazione dei prodotti respinti dovrà costituire un caso eccezionale. Essa è ammissibile soltanto qualora la qualità del prodotto finale non ne risulti influenzata, le specifiche siano soddisfatte e l'operazione abbia luogo conformemente a una procedura ben definita ed autorizzata previa valutazione dei rischi che comporta. Le operazioni di rilavorazione dovranno essere documentate. 
+5.62 La rilavorazione dei prodotti respinti deve costituire un caso eccezionale. Essa è ammissibile soltanto qualora la qualità del prodotto finale non ne risulti influenzata, le specifiche siano soddisfatte e l'operazione abbia luogo conformemente a una procedura ben definita ed autorizzata previa valutazione dei rischi che comporta. Le operazioni di rilavorazione devono essere documentate. 
 
-5.63 Il recupero totale o parziale di precedenti lotti di produzione, aventi livello qualitativo conforme a quello prescritto, in un lotto dello stesso prodotto in una determinata fase della fabbricazione può aver luogo soltanto previa autorizzazione. Quest'operazione di recupero dovrà svolgersi conformemente ad una procedura definita e previa valutazione dei rischi che comporta, inclusi eventuali effetti sul periodo di scadenza. L'operazione di recupero dovrà essere opportunamente documentata. 
+5.63 Il recupero totale o parziale di precedenti lotti di produzione, aventi livello qualitativo conforme a quello prescritto, in un lotto dello stesso prodotto in una determinata fase della fabbricazione può aver luogo soltanto previa autorizzazione. Quest'operazione di recupero deve svolgersi conformemente ad una procedura definita e previa valutazione dei rischi che comporta, inclusi eventuali effetti sul periodo di scadenza. L'operazione di recupero deve essere opportunamente documentata. 
 
-5.64 Il dipartimento Controllo Qualità dovrà valutare la necessità di svolgere controlli aggiuntivi su un dato prodotto finito che sia stato rilavorato o in cui sia stato incorporato un prodotto di recupero. 
+5.64 Il dipartimento Controllo Qualità deve valutare la necessità di svolgere controlli aggiuntivi su un dato prodotto finito che sia stato rilavorato o in cui sia stato incorporato un prodotto di recupero. 
 
-5.65 I prodotti resi dal mercato e che siano usciti dal controllo del fabbricante dovranno essere distrutti a meno che la loro qualità non risulti senza alcun dubbio soddisfacente; se ne potrà prendere in considerazione la rivendita, la ri-etichettatura o il re-impiego come prodotto sfuso in un nuovo lotto di produzione soltanto dopo che tali operazioni siano state valutate criticamente dal reparto Controllo Qualità conformemente ad una procedura scritta. 
+5.65 I prodotti resi dal mercato e che siano usciti dal controllo del fabbricante devono essere distrutti a meno che la loro qualità non risulti senza alcun dubbio soddisfacente; se ne potrà prendere in considerazione la rivendita, la ri-etichettatura o il re-impiego come prodotto sfuso in un nuovo lotto di produzione soltanto dopo che tali operazioni siano state valutate criticamente dal reparto Controllo Qualità conformemente ad una procedura scritta. 
 
-Nel compiere tale valutazione si dovrà tener conto della natura del prodotto, di eventuali condizioni speciali di stoccaggio richieste, delle condizioni in cui si trova e della sua storia nonché del tempo trascorso dal momento della sua distribuzione. Nel caso insorga un qualunque dubbio circa la qualità del prodotto in questione esso dovrà essere considerato non idoneo per la ridistribuzione od il reimpiego, anche se potrà essere possibile un ritrattamento chimico di base volto a recuperarne i principi attivi. Tutte le operazioni eseguite dovranno essere adeguatamente documentate.
+Nel compiere tale valutazione si deve tener conto della natura del prodotto, di eventuali condizioni speciali di stoccaggio richieste, delle condizioni in cui si trova e della sua storia nonché del tempo trascorso dal momento della sua distribuzione. Nel caso insorga un qualunque dubbio circa la qualità del prodotto in questione esso deve essere considerato non idoneo per la ridistribuzione o il reimpiego, anche se potrà essere possibile un ritrattamento chimico di base volto a recuperarne i principi attivi. Tutte le operazioni eseguite devono essere adeguatamente documentate.
