@@ -15,7 +15,7 @@ socialDesc: >-
   of the course of the catalytic conversion of glycogen".
 image: /img/f64c75a5-67f6-473e-82c7-f47c4d0f0653.png
 ---
-![](/img/f64c75a5-67f6-473e-82c7-f47c4d0f0653.png)
+![null](/img/f64c75a5-67f6-473e-82c7-f47c4d0f0653.png)
 
 **Gerty Cori**, biochimica ceca naturalizzata statunitense, è stata la prima donna a vincere il Premio Nobel per la Medicina nel 1947, insieme al marito Carl Ferdinand Cori e al fisiologo argentino Bernardo Houssay, _"for their discovery of the course of the catalytic conversion of glycogen"._
 
@@ -29,4 +29,4 @@ La sua vita testimonia con chiarezza la cecità di un mondo che, se da un lato n
 
 Pur gravemente ammalata, porta avanti le sue ricerche senza sosta. Donna infaticabile e appassionata, trascorre giornate intere in un laboratorio di appena due metri quadri. L’unico lusso che si concedeva era una piccola brandina, che usa quando è troppo stanca e affaticata per lavorare.
 
-> I momenti indimenticabili della mia vita sono quelli rari che arrivano dopo anni di lavoro faticoso, quando il velo sul segreto della natura sembra improvvisamente sollevarsi, e quando ciò che era oscuro e caotico appare sotto luce e uno schema chiaro e bello.
+> I momenti indimenticabili della mia vita sono quelli rari che arrivano dopo anni di lavoro faticoso, quando il velo sul segreto della natura sembra improvvisamente sollevarsi, e quando ciò che era oscuro e caotico appare sotto una luce e uno schema chiaro e bello.
