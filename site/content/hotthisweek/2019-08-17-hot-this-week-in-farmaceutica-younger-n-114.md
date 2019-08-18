@@ -1,7 +1,26 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.114
-date: '2019-08-17T11:00:58+02:00'
+date: '2019-08-18T09:00:58+02:00'
+description: >-
+  La Food and Drug Administration degli Stati Uniti ha concesso un'approvazione
+  accelerata a Rozlytrek (entrectinib), per il trattamento degli adulti con
+  carcinoma polmonare non a piccole cellule metastatico ROS1-positivo (NSCLC) e
+  per il trattamento di pazienti adulti e pediatrici di età pari o superiore a
+  12 anni con tumori solidi che presentano una fusione genica neurotrofica del
+  recettore tirosin-chinasi (NTRK) per i quali non esistono trattamenti
+  efficaci.
+socialDesc: >-
+  La Food and Drug Administration degli Stati Uniti ha concesso un'approvazione
+  accelerata a Rozlytrek (entrectinib), per il trattamento degli adulti con
+  carcinoma polmonare non a piccole cellule metastatico ROS1-positivo (NSCLC) e
+  per il trattamento di pazienti adulti e pediatrici di età pari o superiore a
+  12 anni con tumori solidi che presentano una fusione genica neurotrofica del
+  recettore tirosin-chinasi (NTRK) per i quali non esistono trattamenti
+  efficaci.
+image: /img/06560be6-04ae-4496-9903-257842059839.png
 ---
+![](/img/06560be6-04ae-4496-9903-257842059839.png)
+
 La Food and Drug Administration degli Stati Uniti ha concesso un'approvazione accelerata a [Rozlytrek (entrectinib)](https://www.fda.gov/news-events/press-announcements/fda-approves-third-oncology-drug-targets-key-genetic-driver-cancer-rather-specific-type-tumor), per il trattamento degli adulti con carcinoma polmonare non a piccole cellule metastatico ROS1-positivo (NSCLC) e per il trattamento di pazienti adulti e pediatrici di età pari o superiore a 12 anni con tumori solidi che presentano una fusione genica neurotrofica del recettore tirosin-chinasi (NTRK) per i quali non esistono trattamenti efficaci.
 
 **Rozlytrek è il primo trattamento approvato dalla FDA che prende di mira le fusioni geniche di ROS1 e NTRK** e il terzo trattamento antitumorale basato su un biomarcatore comune a diversi tipi di tumori anziché sulla posizione nel corpo in cui il tumore ha avuto origine, i farmaci antitumorali cosiddetti "[agnostici dei tessuti](https://www.farmaceuticayounger.science/blog/2019/01/lfda-statunitense-chiude-il-2018-con-59-nuove-approvazioni/)".
