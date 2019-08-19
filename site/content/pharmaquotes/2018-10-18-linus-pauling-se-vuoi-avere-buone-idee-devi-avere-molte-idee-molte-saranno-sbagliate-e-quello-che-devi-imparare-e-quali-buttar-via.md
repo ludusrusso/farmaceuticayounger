@@ -1,7 +1,7 @@
 ---
 title: >-
-  LINUS PAULING - "Se vuoi avere buone idee devi averne molte. Molte saranno
-  sbagliate ma quello che devi imparare è capire quali scartare"
+  LINUS PAULING - "Se vuoi avere buone idee devi averne tante. La maggior parte
+  di loro saranno sbagliate ma quello che devi imparare è capire quali scartare"
 date: '2018-10-27T09:40:00+02:00'
 description: >-
   Linus Carl Pauling, chimico, cristallografo e attivista statunitense, tra i
@@ -36,9 +36,9 @@ socialDesc: >
   degli scienziati internazionali...
 
   Stay Tuned with #FarmaceuticaYounger!
-image: /img/img_3748.jpg
+image: /img/pauling.png
 ---
-![null](/img/img_3748.jpg)
+![null](/img/pauling.png)
 
 **Linus Carl Pauling**, chimico, cristallografo e attivista statunitense, tra i più celebri scienziati del XX secolo è stato uno dei pochi vincitori di due premi Nobel, per la Chimica nel 1954 e per la Pace nel 1962. Pauling è stato l'unico tra i doppi vincitori del Nobel a non averlo condiviso con altre personalità.
 
