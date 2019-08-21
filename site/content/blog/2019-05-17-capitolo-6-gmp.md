@@ -78,7 +78,7 @@ ix. Le istruzioni per la pulizia e la conservazione delle attrezzature di campio
 
 6.14 Ulteriori linee-guida su campioni di riferimento e controcampioni si trovano nell'Annex 19. 
 
-**Analisi e controlli **
+**Analisi **
 
 6.15 I metodi analitici impiegati dovranno essere convalidati. Tutte le operazioni di controllo descritte nell'autorizzazione alla immissione in commercio dovranno essere effettuate conformemente ai metodi approvati. 
 
