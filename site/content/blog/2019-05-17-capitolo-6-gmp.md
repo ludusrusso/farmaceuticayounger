@@ -34,7 +34,8 @@ i. Specifiche;
 
 ii. Procedure che descrivono campionamento, prove, record (inclusi fogli di lavoro di prova e/o quaderni di laboratorio), registrazioni e verifiche;
 
-iii. Procedure e registrazioni della calibrazione/qualifica degli strumenti e manutenzione delle attrezzature;
+iii. Procedure e registrazioni della calibrazione/qualifica degli strumenti e
+ manutenzione delle attrezzature;
 
 iv. Una procedura per l'indagine dei risultati fuori specifica (out of specification) e fuori trend (out of trend);
 
@@ -80,52 +81,57 @@ ix. Le istruzioni per la pulizia e la conservazione delle attrezzature di campio
 
 **Analisi **
 
-6.15 I metodi analitici impiegati devono essere convalidati. Tutte le operazioni di controllo descritte nell'autorizzazione alla immissione in commercio dovranno essere effettuate conformemente ai metodi approvati. 
+6.15 I metodi analitici impiegati devono essere convalidati. Un laboratorio che utilizza un metodo di prova e che non ha eseguito la convalida originale, deve verificare l'adeguatezza del metodo di prova. Tutte le operazioni di controllo descritte nell'autorizzazione alla immissione in commercio devono essere effettuate conformemente ai metodi approvati. 
 
-6.16 I risultati ottenuti dovranno essere registrati e controllati al fine di verificarne l'attendibilità. Eventuali calcoli dovranno essere esaminati criticamente. 
+6.16 I risultati ottenuti devono essere registrati. I risultati dei parametri identificati come attributi di qualità o come critici devono essere controllati per assicurare che siano coerenti tra loro. Eventuali calcoli devono essere esaminati criticamente.
 
-6.17 Le analisi effettuate dovranno essere registrate e i relativi documenti dovranno comprendere almeno i seguenti dati: 
+6.17 Le analisi effettuate devono essere registrate e i relativi documenti devono comprendere almeno i seguenti dati: 
 
-a) denominazione del materiale o del prodotto e, all'occorrenza, dosaggio; 
+i. Nome del materiale o del prodotto e, ove opportuno, la forma di dosaggio; 
 
-b) numero del lotto di produzione e, all'occorrenza, nome del fabbricante e/o fornitore; 
+ii. Numero del lotto di produzione e, ove opportuno, nome del produttore e/o fornitore; 
 
-c) riferimenti alle specifiche ed alle procedure applicabili per i controlli al caso in questione; 
+iii. Riferimenti alle specifiche e alle procedure di prova pertinenti; 
 
-d) risultati dei controlli, inclusi osservazioni e calcoli, e riferimenti ad eventuali certificati d'analisi; 
+iv. Risultati dei controlli, inclusi osservazioni e calcoli, e riferimenti ad eventuali certificati d'analisi; 
 
-e) date dei controlli;
+v. Date dei controlli;
 
-f) sigle delle persone che hanno effettuato i controlli; 
+vi. Sigle delle persone che hanno effettuato i controlli; 
 
-g) all'occorrenza le sigle delle persone che hanno verificato i risultati dei controlli ed i calcoli; 
+vii. Sigle delle persone che hanno verificato i risultati dei controlli ed i calcoli, all'occorrenza; 
 
-h) la precisa dichiarazione di approvazione o di rifiuto (od un'altra decisione sulla classificazione del prodotto) con la firma datata del responsabile designato. 
+viii. La precisa dichiarazione di approvazione o di rifiuto (od un'altra decisione sulla classificazione del prodotto) con la firma datata del responsabile designato; 
 
-6.18 Tutti i controlli effettuati durante la fabbricazione, compresi quelli eseguiti nell'area di produzione dal personale di produzione, dovranno essere eseguiti conformemente ai metodi approvati dal Controllo Qualità e i risultati di tali controlli dovranno essere registrati. 
+ix. Riferimento all'apparecchiatura utilizzata.
 
-6.19 Si dovrà prestare particolare attenzione a\la qualità dei reagenti, della vetreria volumetrica e delle soluzioni impiegate in laboratorio nonché degli standard di riferimento e dei terreni di coltura che dovranno essere preparati conformemente a procedure scritte. 
+6.18 Tutti i controlli effettuati durante la fabbricazione, compresi quelli eseguiti nell'area di produzione dal personale di produzione, devono essere eseguiti conformemente ai metodi approvati dal Controllo Qualità e i risultati di tali controlli devono essere registrati. 
 
-6.20 I reagenti di laboratorio destinati ad un impiego prolungato dovranno recare la data di preparazione e la firma della persona che li ha preparati. La data di scadenza dei reagenti instabili e dei terreni di coltura dovrà figurare sull'etichetta insieme alle condizioni di conservazione specifiche per tali prodotti. 
-Per le soluzioni volumetriche andranno inoltre indicati l'ultima data di standardizzazione ed il fattore di correzione più recente. 
+6.19 Si deve prestare particolare attenzione alla qualità dei reagenti, della vetreria volumetrica e delle soluzioni impiegate in laboratorio nonché degli standard di riferimento e dei terreni di coltura che devono essere preparati in accordo a procedure scritte. Il livello dei controlli deve essere commisurato al loro uso e ai dati di stabilità disponibili.
 
-6.21 Sul recipiente dovrà all'occorrenza figurare la data in cui è stata ricevuta una qualunque sostanza impiegata per operazioni di controllo (ad es. reagenti e standard di riferimento). Si dovranno seguire le istruzioni per l'utilizzo e la conservazione; in alcuni casi, all'atto del ricevimento o prima dell'impiego potrà risultare necessario effettuare sui reagenti un controllo di identificazione e/o altri controlli. 
+6.20 Gli standard di laboratorio devono essere stabiliti come idonei all'uso previsto. La loro qualifica e certificazione in quanto tale deve essere chiaramente dichiarata e documentata. Ogniqualvolta esistano norme di riferimento complementari da una fonte ufficialmente riconosciuta, queste devono preferibilmente essere utilizzate come norme di riferimento primarie a meno che non siano pienamente giustificate (l'uso di norme secondarie è consentito una volta che la loro tracciabilità alle norme primarie è stata dimostrata e documentata). Questi materiali complementari devono essere utilizzati per lo scopo descritto nella monografia appropriata, salvo diversa autorizzazione dell'autorità nazionale competente.
 
-6.22 Gli animali impiegati per controllare componenti, sostanze o prodotti dovranno all'occorrenza essere messi in quarantena prima di essere utilizzati. Essi dovranno essere accuditi e controllati in modo da garantirne l'idoneità all'impiego previsto. Essi dovranno essere identificati e si dovrà provvedere a documentare in modo adeguato e in ordine cronologico il loro impiego. 
+6.21 I reagenti di laboratorio, le soluzioni, gli standard di riferimento e i terreni di coltura devono essere contrassegnati con la data di preparazione e di apertura e la firma della persona che li ha preparati. La data di scadenza dei reagenti e dei terreni di coltura deve essere indicata sull'etichetta, insieme alle condizioni di conservazione specifiche. Inoltre, per le soluzioni volumetriche, devono essere indicate l'ultima data di standardizzazione e l'ultimo fattore corrente.
 
-**Programma di monitoraggio della stabilità **
+6.22 Se necessario, la data di ricezione di qualsiasi sostanza utilizzata per le operazioni di test (ad es. reagenti, soluzioni e standard di riferimento) deve essere indicata sul contenitore. Le istruzioni per l'uso e la conservazione devono essere seguite. In alcuni casi potrebbe essere necessario eseguire un test di identificazione e/o altri test sui materiali reagenti al momento del ricevimento o prima dell'uso.
 
-6.23 Dopo la commercializzazione, la stabilità del prodotto medicinale dovrà essere monitorata in accordo con un programma continuo ed appropriato che sia in grado di rilevare ogni problema di stabilità (es. modifiche nel livello di impurezze o del profilo di dissoluzione) associate alla formulazione nella confezione di vendita. 
+6.23 I terreni di coltura devono essere preparati in conformità con i requisiti del produttore dei terreni, a meno che non siano scientificamente giustificati. Le prestazioni di tutti i terreni di coltura devono essere verificate prima dell'uso.
 
-6.24 Lo scopo del programma di monitoraggio della stabilità è di monitorare il prodotto durante tutta la sua validità e di determinare che il prodotto adeguatamente conservato nelle condizioni riportate in etichetta rimanga, e ci si aspetta che rimanga, entro le specifiche. 
+6.24 I terreni e i ceppi microbiologici usati devono essere decontaminati secondo una procedura standard e smaltiti in modo da prevenire la contaminazione incrociata e la ritenzione di residui. La durata di conservazione dei terreni microbiologici in uso deve essere stabilita, documentata e scientificamente giustificata.
 
-6.25 Questo si applica principalmente ai prodotti medicinali nella confezione di vendita ma si dovrà considerare l'inserimento nel programma anche di prodotti sfusi (bulk). Per esempio, quando un prodotto sfuso è stoccato per un lungo periodo prima di essere confezionato e/o inviato da un sito di produzione ad un sito di confezionamento, dovrà essere valutato e studiato l'impatto sulla stabilità del prodotto confezionato delle condizioni ambientali. In aggiunta, si dovrebbero considerare gli intermedi che sono stoccati e utilizzati per periodi prolungati. 
+6.25 Gli animali impiegati per controllare componenti, sostanze o prodotti devono all'occorrenza essere messi in quarantena prima di essere utilizzati. Devono essere mantenuti e controllati in modo da garantirne l'idoneità all'impiego previsto. Devono essere identificati e devono essere conservati in modo adeguato e mostrare in ordine cronologico il loro utilizzo.
 
-Gli studi di stabilità di prodotti ricostituiti sono effettuati durante il periodo di sviluppo del prodotto e non dovranno essere monitorati in modo continuativo. Tuttavia, se necessario, può essere monitorata anche la stabilità di un prodotto ricostituito. 
+**Programma di monitoraggio della stabilità (on-going stability)**
 
-6.26 Il programma continuativo di stabilità (monitoraggio) dovrà essere descritto in un protocollo scritto e seguire le normative del capitolo 4; i risultati dovranno essere formalizzati in una rapporto. Gli strumenti utilizzati per il programma continuativo di stabilità (le camere di stabilità oltre ad altri) dovranno essere qualificati e mantenuti in buone condizioni secondo la normative del capitolo 3 e dell'Allegato 15. 
+6.26 Dopo la commercializzazione, la stabilità del prodotto medicinale deve essere monitorata in accordo con un programma continuo ed appropriato che sia in grado di rilevare ogni problema di stabilità (es. modifiche nel livello di impurezze o del profilo di dissoluzione) associate alla formulazione nella confezione di vendita. 
 
-6.27 Il protocollo per un programma continuativo di stabilità dovrà estendersi fino a coprire tutto il periodo di validità del prodotto e dovrà includere, ma non limitarsi, ai seguenti parametri: 
+6.27 Lo scopo del programma di monitoraggio della stabilità è di monitorare il prodotto durante tutta la sua validità e di determinare che il prodotto adeguatamente conservato nelle condizioni riportate in etichetta rimanga, e ci si aspetta che rimanga, entro le specifiche. 
+
+6.28 Questo si applica principalmente ai prodotti medicinali nella confezione di vendita ma si dovrà considerare l'inserimento nel programma anche di prodotti sfusi (bulk). Per esempio, quando un prodotto sfuso è stoccato per un lungo periodo prima di essere confezionato e/o inviato da un sito di produzione ad un sito di confezionamento, deve essere valutato e studiato l'impatto sulla stabilità del prodotto confezionato delle condizioni ambientali. In aggiunta, si devono considerare gli intermedi che sono stoccati e utilizzati per periodi prolungati. Gli studi di stabilità di prodotti ricostituiti sono effettuati durante il periodo di sviluppo del prodotto e non devono essere monitorati in modo continuativo. Tuttavia, se necessario, può essere monitorata anche la stabilità di un prodotto ricostituito. 
+
+6.29 Il programma di stabilità on-going deve essere descritto in un protocollo scritto e seguire le normative del Capitolo 4; i risultati devono essere formalizzati in una rapporto. Gli strumenti utilizzati per il programma continuativo di stabilità (le camere di stabilità oltre ad altri) devono essere qualificati e mantenuti in buone condizioni secondo le regole generali del Capitolo 3 e dell'Annex 15. 
+
+6.30 Il protocollo per un programma continuativo di stabilità deve estendersi fino a coprire tutto il periodo di validità del prodotto e deve includere, ma non limitarsi, ai seguenti parametri: 
 
 \-numero di lotti per potenza e differenti dimensioni dei lotti, ove applicabile 
 
@@ -143,14 +149,14 @@ Gli studi di stabilità di prodotti ricostituiti sono effettuati durante il peri
 
 \-altri parametri applicabili specifici del prodotto medicinale. 
 
-6.28 Il protocollo per il programma di monitoraggio della stabilità può essere diverso da quello presentato inizialmente nel dossier per la richiesta di Autorizzazione all'Immissione in Commercio per gli studi di stabilità a lungo termine, ammesso che ciò sia giustificato e documentato nel protocollo stesso (per esempio, la frequenza di analisi o modifiche per l'aggiornamento alle raccomandazioni dell'ICH). 
+6.31 Il protocollo per il programma di monitoraggio della stabilità può essere diverso da quello presentato inizialmente nel dossier per la richiesta di Autorizzazione all'Immissione in Commercio per gli studi di stabilità a lungo termine, ammesso che ciò sia giustificato e documentato nel protocollo stesso (per esempio, la frequenza di analisi o modifiche per l'aggiornamento alle raccomandazioni dell'ICH). 
 
-6.29 Il numero dei lotti e la frequenza delle analisi dovranno essere tali da garantire una numero di dati sufficiente per l'analisi dell'andamento. Se non diversamente giustificato, si dovrà includere nel programma di monitoraggio della stabilità almeno un lotto all'anno di prodotto fabbricato per ogni dosaggio e per ogni tipologia di confezionamento primario, se rilevante, (a meno che, nell'anno in esame, non ne siano stati prodotti nessuno). Per i prodotti per i quali il monitoraggio della stabilità richiederebbe normalmente test sugli animali e non sono disponibili alternative appropriate o tecniche convalidate, la frequenza delle analisi può tener conto del rapporto rischi-benefici. Il principio di progetti ad accorpamenti (bracketing) e "a matrici" (matrixing) può essere applicato se scientificamente giustificato nel protocollo. 
+6.32 Il numero dei lotti e la frequenza delle analisi dovranno essere tali da garantire una numero di dati sufficiente per l'analisi dell'andamento. Se non diversamente giustificato, si dovrà includere nel programma di monitoraggio della stabilità almeno un lotto all'anno di prodotto fabbricato per ogni dosaggio e per ogni tipologia di confezionamento primario, se rilevante, (a meno che, nell'anno in esame, non ne siano stati prodotti nessuno). Per i prodotti per i quali il monitoraggio della stabilità richiederebbe normalmente test sugli animali e non sono disponibili alternative appropriate o tecniche convalidate, la frequenza delle analisi può tener conto del rapporto rischi-benefici. Il principio di progetti ad accorpamenti (bracketing) e "a matrici" (matrixing) può essere applicato se scientificamente giustificato nel protocollo. 
 
-6.30 In certe situazioni, si dovranno includere nel programma di monitoraggio della stabilità alcuni lotti aggiuntivi. Per esempio, dovrà essere fatto uno studio di monitoraggio della stabilità dopo ogni cambio rilevante o dopo ogni importante deviazione al processo o al confezionamento. Ogni operazione di ri-lavorazione, ri-processo o recupero dovrà essere presa in considerazione per l'inclusione nel programma di monitoraggio. 
+6.33 In certe situazioni, si dovranno includere nel programma di monitoraggio della stabilità alcuni lotti aggiuntivi. Per esempio, dovrà essere fatto uno studio di monitoraggio della stabilità dopo ogni cambio rilevante o dopo ogni importante deviazione al processo o al confezionamento. Ogni operazione di ri-lavorazione, ri-processo o recupero dovrà essere presa in considerazione per l'inclusione nel programma di monitoraggio. 
 
-6.31 I risultati degli studi continuativi di stabilità dovranno essere resi disponibili ai responsabili dell'azienda e in particolare, alla Persona Qualificata. Nel caso in cui gli studi di stabilità siano condotti in un sito "diverso da quello di produzione del prodotto sfuso o del prodotto finito ci dovrà essere un accordo scritto tra le parti. I risultati degli studì di monitoraggio dovranno essere disponibili al sito di produzione per un riesame da parte dell'autorità competente. 
+6.34 I risultati degli studi continuativi di stabilità dovranno essere resi disponibili ai responsabili dell'azienda e in particolare, alla Persona Qualificata. Nel caso in cui gli studi di stabilità siano condotti in un sito "diverso da quello di produzione del prodotto sfuso o del prodotto finito ci dovrà essere un accordo scritto tra le parti. I risultati degli studì di monitoraggio dovranno essere disponibili al sito di produzione per un riesame da parte dell'autorità competente. 
 
-6.32 I risultati fuori specifiche o evidenti andamenti anomali, dovranno essere indagati. Ogni risultato fuori specifiche che sia confermato o ogni importante andamento negativo dovrà essere relazionato all'autorità competente. Dovrà essere considerato il possibile impatto sui lotti in commercio in accordo al cap. 8 delle Norme di Buona Fabbricazione e le autorità competenti dovranno essere consultate al riguardo. 
+6.35 I risultati fuori specifiche o evidenti andamenti anomali, dovranno essere indagati. Ogni risultato fuori specifiche che sia confermato o ogni importante andamento negativo dovrà essere relazionato all'autorità competente. Dovrà essere considerato il possibile impatto sui lotti in commercio in accordo al cap. 8 delle Norme di Buona Fabbricazione e le autorità competenti dovranno essere consultate al riguardo. 
 
-6.33 Un riassunto di tutti i dati generati, inclusa ogni conclusione interinale sul programma, dovrà essere messo in forma scritta e conservato. Tale rapporto dovrà essere sottoposto a revisione periodica.
+6.36 Un riassunto di tutti i dati generati, inclusa ogni conclusione interinale sul programma, dovrà essere messo in forma scritta e conservato. Tale rapporto dovrà essere sottoposto a revisione periodica.
