@@ -133,27 +133,27 @@ ix. Riferimento all'apparecchiatura utilizzata.
 
 6.30 Il protocollo per un programma continuativo di stabilità deve estendersi fino a coprire tutto il periodo di validità del prodotto e deve includere, ma non limitarsi, ai seguenti parametri: 
 
-\-numero di lotti per potenza e differenti dimensioni dei lotti, ove applicabile 
+i. Numero di lotto/i per potenza e differenti dimensioni dei lotti, ove applicabile;
 
-\-metodi applicabili di analisi fisica, chimica, microbiologica e biologica 
+ii. Metodi applicabili di analisi fisica, chimica, microbiologica e biologica;
 
-\-criteri di accettazione 
+iii. Criteri di accettazione; 
 
-\-riferimento ai metodi analitici 
+iv. Riferimento ai metodi analitici;
 
-\-descrizione dei sistemi di chiusura dei contenitori 
+v. Descrizione del/i sistema/i di chiusura dei contenitori;
 
-\-intervalli di analisi (tempi) 
+vi. Intervalli di analisi (tempi);
 
-\-descrizione delle condizioni di stoccaggio (si dovranno usare condizioni standard definite dall'ICH per analisi a lungo termine, in accordo con quanto riportato sull'etichetta del prodotto) 
+vii. Descrizione delle condizioni di stoccaggio (si devono usare condizioni standard definite dalle ICH/VICH per analisi a lungo termine, in accordo con quanto riportato sull'etichetta del prodotto) 
 
-\-altri parametri applicabili specifici del prodotto medicinale. 
+viii. Altri parametri applicabili specifici del prodotto medicinale. 
 
-6.31 Il protocollo per il programma di monitoraggio della stabilità può essere diverso da quello presentato inizialmente nel dossier per la richiesta di Autorizzazione all'Immissione in Commercio per gli studi di stabilità a lungo termine, ammesso che ciò sia giustificato e documentato nel protocollo stesso (per esempio, la frequenza di analisi o modifiche per l'aggiornamento alle raccomandazioni dell'ICH). 
+6.31 Il protocollo per il programma di monitoraggio della stabilità può essere diverso da quello presentato inizialmente nel dossier per la richiesta di Autorizzazione all'Immissione in Commercio per gli studi di stabilità a lungo termine, ammesso che ciò sia giustificato e documentato nel protocollo stesso (per esempio, la frequenza di analisi o modifiche per l'aggiornamento alle raccomandazioni delle ICH/VICH). 
 
-6.32 Il numero dei lotti e la frequenza delle analisi dovranno essere tali da garantire una numero di dati sufficiente per l'analisi dell'andamento. Se non diversamente giustificato, si dovrà includere nel programma di monitoraggio della stabilità almeno un lotto all'anno di prodotto fabbricato per ogni dosaggio e per ogni tipologia di confezionamento primario, se rilevante, (a meno che, nell'anno in esame, non ne siano stati prodotti nessuno). Per i prodotti per i quali il monitoraggio della stabilità richiederebbe normalmente test sugli animali e non sono disponibili alternative appropriate o tecniche convalidate, la frequenza delle analisi può tener conto del rapporto rischi-benefici. Il principio di progetti ad accorpamenti (bracketing) e "a matrici" (matrixing) può essere applicato se scientificamente giustificato nel protocollo. 
+6.32 Il numero dei lotti e la frequenza delle analisi devono essere tali da garantire una numero di dati sufficiente per l'analisi dell'andamento. Se non diversamente giustificato, si dovrà includere nel programma di monitoraggio della stabilità almeno un lotto all'anno di prodotto fabbricato per ogni dosaggio e per ogni tipologia di confezionamento primario, se rilevante, (a meno che, nell'anno in esame, non ne siano stati prodotti nessuno). Per i prodotti per i quali il monitoraggio della stabilità richiederebbe normalmente test sugli animali e non sono disponibili alternative appropriate o tecniche convalidate, la frequenza delle analisi può tener conto del rapporto rischi-benefici. Il principio di progetti ad accorpamenti (bracketing) e "a matrici" (matrixing) può essere applicato se scientificamente giustificato nel protocollo. 
 
-6.33 In certe situazioni, si dovranno includere nel programma di monitoraggio della stabilità alcuni lotti aggiuntivi. Per esempio, dovrà essere fatto uno studio di monitoraggio della stabilità dopo ogni cambio rilevante o dopo ogni importante deviazione al processo o al confezionamento. Ogni operazione di ri-lavorazione, ri-processo o recupero dovrà essere presa in considerazione per l'inclusione nel programma di monitoraggio. 
+6.33 In certe situazioni, lotti aggiuntivi devono essere inclusi nel programma di monitoraggio della stabilità alcuni lotti aggiuntivi. Per esempio, deve essere fatto uno studio di monitoraggio della stabilità dopo ogni cambio rilevante o dopo ogni importante deviazione al processo o al confezionamento. Ogni operazione di rilavorazione, riprocesso o recupero deve essere presa in considerazione per l'inclusione nel programma di monitoraggio. 
 
 6.34 I risultati degli studi continuativi di stabilità dovranno essere resi disponibili ai responsabili dell'azienda e in particolare, alla Persona Qualificata. Nel caso in cui gli studi di stabilità siano condotti in un sito "diverso da quello di produzione del prodotto sfuso o del prodotto finito ci dovrà essere un accordo scritto tra le parti. I risultati degli studì di monitoraggio dovranno essere disponibili al sito di produzione per un riesame da parte dell'autorità competente. 
 
