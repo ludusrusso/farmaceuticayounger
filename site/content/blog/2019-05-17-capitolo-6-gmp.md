@@ -30,41 +30,41 @@ Il Controllo Qualità riguarda le procedure di campionamento, di definizione del
 
 6.7 Per la documentazione di laboratorio si devono seguire i principi esposti nel Capitolo 4. Una parte importante di tale documentazione riguarda il Controllo Qualità ed il reparto addetto a tale controllo deve poter disporre rapidamente dei seguenti documenti: 
 
-\- Specifiche; 
+i. Specifiche; 
 
-\- Procedure che descrivono campionamento, prove, record (inclusi fogli di lavoro di prova e/o quaderni di laboratorio), registrazioni e verifiche;
+ii. Procedure che descrivono campionamento, prove, record (inclusi fogli di lavoro di prova e/o quaderni di laboratorio), registrazioni e verifiche;
 
-\- Procedure e registrazioni della calibrazione/qualifica degli strumenti e manutenzione delle attrezzature;
+iii. Procedure e registrazioni della calibrazione/qualifica degli strumenti e manutenzione delle attrezzature;
 
-\- Una procedura per l'indagine dei risultati fuori specifica (out of specification) e fuori trend (out of trend);
+iv. Una procedura per l'indagine dei risultati fuori specifica (out of specification) e fuori trend (out of trend);
 
-\-ove prescritto, dati del controllo ambientale; 
+v. Report di prova e/o certificati di analisi;
 
-\-all'occorrenza, rendiconti di convalida dei metodi di prova; 
+vi. Dati provenienti dal monitoraggio ambientale (aria, acqua e altre utenze), ove richiesto;
 
-\-procedure e registri di taratura degli strumenti e manutenzione delle attrezzature. 
+vii. Record di convalida dei metodi di prova, ove applicabile.
 
-6.8 Tutta la documentazione del Controllo Qualità riguardante le registrazioni relative ad un dato lotto di produzione dovrà essere conservata fino a un anno dopo la data di scadenza del lotto stesso e almeno fino a cinque anni dopo la certificazione di cui all'articolo 51, paragrafo 3, della Direttiva 2001/83/ EC. 
+6.8 Qualsiasi documentazione del Controllo Qualità relativa a un Batch Record deve essere conservata secondo i principi indicati nel Capitolo 4 sulla conservazione della documentazione dei lotti.
 
-6.9 Per alcuni tipi di dati (ad esempio risultati di test analitici, rese, controlli ambientali) si raccomanda che sia tenuta la loro registrazione in modo che sia possibile valutarne l'andamento. 
+6.9 Alcuni tipi di dati (ad esempio risultati di test analitici, rese, controlli ambientali) devono essere registrati in modo che sia possibile valutarne l'andamento. Qualsiasi dato fuori trend o fuori specifica deve essere affrontato e oggetto di indagine.
 
-6.10 Oltre alle informazioni facenti parte della documentazione di un dato lotto dovranno essere archiviati e rapidamente disponibili anche altri dati originali quali i quaderni e/o le note di laboratorio. 
+6.10 Oltre alle informazioni facenti parte della documentazione di un dato lotto devono essere archiviati e rapidamente disponibili anche altri dati originali quali i quaderni e/o le note di laboratorio. 
 
 **Campionamento **
 
-6.11 Le operazioni di campionamento dovranno svolgersi conformemente a procedure scritte debitamente approvate che descrivano: 
+6.11 Le operazioni di campionamento devono svolgersi conformemente a procedure scritte debitamente approvate che descrivano: 
 
-\-il metodo di campionamento; 
+i. Il metodo di campionamento; 
 
-\-le attrezzature da impiegare; 
+ii. Le attrezzature da usare; 
 
-\-la quantità di campione da prelevare; 
+iii. La quantità di campione da prelevare; 
 
-\-le istruzioni per ulteriori suddivisioni del campione,se necessario; 
+iv. Le istruzioni per ulteriori suddivisioni del campione; 
 
-\-il tipo e i requisiti dei contenitori da utilizzare per il campionamento; 
+v. Il tipo e i requisiti dei contenitori da utilizzare per il campionamento; 
 
-\-le modalità d'identificazione dei contenitori da cui si sono prelevati i campioni; 
+vi. Le modalità d'identificazione dei contenitori da cui si sono prelevati i campioni; 
 
 \-eventuali precauzioni particolari da adottare, specie per quanto concerne il campionamento di sostanze sterili o nocive; 
 
