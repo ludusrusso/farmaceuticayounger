@@ -160,3 +160,25 @@ viii. Altri parametri applicabili specifici del prodotto medicinale.
 6.35 I risultati fuori specifiche o evidenti andamenti anomali, devono essere indagati. Ogni risultato fuori specifiche che sia confermato o ogni importante andamento negativo deve essere riportato all'autorità competente. Deve essere considerato il possibile impatto sui lotti in commercio in accordo al Capitolo 8 delle GMP e le autorità competenti devono essere consultate al riguardo. 
 
 6.36 Un riassunto di tutti i dati generati, inclusa ogni conclusione interinale sul programma, dovrà essere messo in forma scritta e conservato. Tale rapporto dovrà essere sottoposto a revisione periodica.
+
+**Trasferimento tecnico dei metodi di prova**
+
+6.37 Prima di trasferire un metodo di prova, il sito di trasferimento deve verificare che i metodi di prova siano conformi a quelli descritti nell'autorizzazione all'immissione in commercio o nel relativo fascicolo tecnico. La convalida originale dei metodi di prova deve essere rivista per garantire la conformità con gli attuali requisiti ICH/VICH. Una gap analisi deve essere eseguita e documentata per identificare qualsiasi convalida supplementare che dovrebbe essere eseguita, prima di iniziare il processo di trasferimento tecnico.
+
+6.38 Il trasferimento di metodi di prova da un laboratorio (laboratorio di trasferimento) a un altro laboratorio (laboratorio ricevente) deve essere descritto in un protocollo dettagliato.
+
+6.39 Il protocollo di trasferimento deve includere, ma non essere limitato ai seguenti parametri:
+
+i. Individuazione delle prove da eseguire e dei metodi di prova pertinenti sottoposti a trasferimento;
+
+ii. Individuazione dei requisiti di formazione aggiuntivi;
+
+iii. Individuazione di standard e campioni da testare;
+
+iv. Identificazione di eventuali condizioni speciali di trasporto e conservazione degli articoli di prova;
+
+v. I criteri di accettazione devono essere basati sull'attuale studio di validazione della metodologia e rispetto ai requisiti ICH/VICH.
+
+6.40 Deviazioni dal protocollo devono essere esaminate prima della chiusura del processo di trasferimento tecnico. Il rapporto sul trasferimento tecnico deve documentare l'esito comparativo del processo e deve identificare le aree che richiedono un'ulteriore riconvalida del metodo di prova, se applicabile.
+
+6.41 Ove opportuno, i requisiti specifici descritti in altre linee guida europee devono essere affrontati per il trasferimento di particolari metodi di prova (ad es. Spettroscopia nel vicino infrarosso).
