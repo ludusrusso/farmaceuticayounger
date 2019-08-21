@@ -64,19 +64,19 @@ iv. Le istruzioni per ulteriori suddivisioni del campione;
 
 v. Il tipo e i requisiti dei contenitori da utilizzare per il campionamento; 
 
-vi. Le modalità d'identificazione dei contenitori da cui si sono prelevati i campioni; 
+vi. L'identificazione dei contenitori campionati;
 
-\-eventuali precauzioni particolari da adottare, specie per quanto concerne il campionamento di sostanze sterili o nocive; 
+vii. Ogni particolare precauzione da adottare, specie per quanto concerne il campionamento di sostanze sterili o nocive; 
 
-\-le condizioni di conservazione; 
+viii. Le condizioni di conservazione; 
 
-\-le istruzioni per la pulizia e la conservazione delle attrezzature di campionamento. 
+ix. Le istruzioni per la pulizia e la conservazione delle attrezzature di campionamento. 
 
-6.12 I campioni di riferimento dovranno risultare rappresentativi del lotto di sostanze o di prodotti da cui sono stati prelevati. Potranno essere prelevati anche altri campioni per controllare le fasi più delicate di un processo (ad es. l'inizio o la fine). 
+6.12 I campioni devono essere rappresentativi del lotto di sostanze o di prodotti da cui sono stati prelevati. Potranno essere prelevati anche altri campioni per controllare le fasi più delicate di un processo (ad es. l'inizio o la fine). Il piano di campionamento utilizzato deve essere adeguatamente giustificato e basato su un approccio di gestione dei rischi.
 
-6.13 I recipienti utilizzati per i campioni dovranno riportare un'etichetta su cui sia indicato il contenuto, corredato del numero del lotto di produzione, la data del campionamento ed i recipienti da cui sono stati prelevati i campioni. 
+6.13 I contenitori utilizzati per i campioni devono riportare un'etichetta su cui sia indicato il contenuto, corredato del numero del lotto di produzione, la data del campionamento ed i recipienti da cui sono stati prelevati i campioni. Devono essere gestiti in modo da ridurre al minimo il rischio di frammischiamento e proteggere i campioni da condizioni di conservazione sfavorevoli.
 
-6.14 Ulteriori linee-guida su campioni di riferimento e controcampioni si trovano nell'Allegato 19. 
+6.14 Ulteriori linee-guida su campioni di riferimento e controcampioni si trovano nell'Annex 19. 
 
 **Analisi e controlli **
 
