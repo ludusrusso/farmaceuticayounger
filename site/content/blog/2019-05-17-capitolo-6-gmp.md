@@ -4,39 +4,39 @@ tags:
   - articoli
 date: '2019-05-17T11:58:04+02:00'
 ---
-## Capitolo 6 - Controllo Qualità 
+## Capitolo 6 - Controllo Qualità
 
 **Principi **
 
-Il Controllo Qualità riguarda le procedure di campionamento, di definizione delle specifiche e di esecuzione delle prove nonché quelle relative all'organizzazione, alla documentazione ed all'approvazione del prodotto volte a garantire che vengano eseguite le prove necessarie ed opportune ed inoltre che nessun materiale venga posto in lavorazione e nessun prodotto destinato alla distribuzione o alla vendita se la sua qualità non sia stata giudicata soddisfacente. Il Controllo-Qualità non si limita alle operazioni di laboratorio, ma deve entrare in tutte le decisioni che possono riguardare la qualità del prodotto. L'indipendenza del servizio Controllo Qualità dal reparto produzione viene ritenuta di fondamentale importanza per il soddisfacente funzionamento de\ Controllo Qualità stesso. (anche il capitolo 1). 
+Il Controllo Qualità riguarda le procedure di campionamento, di definizione delle specifiche e di esecuzione delle prove nonché quelle relative all'organizzazione, alla documentazione ed all'approvazione del prodotto volte a garantire che vengano eseguite le prove necessarie ed opportune ed inoltre che nessun materiale venga posto in lavorazione e nessun prodotto destinato alla distribuzione o alla vendita se la sua qualità non sia stata giudicata soddisfacente. Il Controllo Qualità non si limita alle operazioni di laboratorio, ma deve entrare in tutte le decisioni che possono riguardare la qualità del prodotto. L'indipendenza del Controllo Qualità dalla Produzione viene ritenuta di fondamentale importanza per il soddisfacente funzionamento del Controllo Qualità stesso. 
 
 **Aspetti generali **
 
-6.1 Ogni titolare di un'autorizzazione alla fabbricazione dovrà disporre di un Reparto Controllo Qualità. Tale reparto dovrà essere indipendente da altri servizi e fare capo ad una persona dotata delle qualifiche e dell'esperienza appropriate la quale possa avere a disposizione uno o più laboratori di controllo. Il reparto dovrà disporre di risorse adeguate per garantire che tutte le disposizioni pertinenti al Controllo Qualità siano applicate in modo efficace ed affidabile. 
+6.1 Ogni titolare di un'autorizzazione alla fabbricazione dovrà disporre di un Reparto Controllo Qualità. Tale reparto dovrà essere indipendente da altri servizi e fare capo ad una persona dotata delle qualifiche e dell'esperienza appropriate la quale possa avere a disposizione uno o più laboratori di controllo. Adeguate risorse dovranno essere disponibili per garantire che tutte le disposizioni pertinenti al Controllo Qualità siano applicate in modo efficace ed affidabile. 
 
-6.2 I compiti principali del responsabile del Controllo Qualità sono riepilogati nel capitolo 2. Al dipartimento Controllo Qualità nel suo insieme spetteranno anche altri compiti quali quello di definire, convalidare ed attuare tutte le procedure di Controllo Qualità, custodire i campioni di riferimento di materiali e di prodotti, garantire la corretta etichettatura dei contenitori di materiali e di prodotti, garantire il controllo della stabilità dei prodotti, partecipare alle indagini provocate da reclami relativi alla qualità del prodotto, ecc. Tutte queste operazioni dovranno essere svolte conformemente a procedure scritte e, se necessario, dovranno essere documentate. 
+6.2 I compiti principali del responsabile del Controllo Qualità sono riepilogati nel Capitolo 2. Al dipartimento Controllo Qualità nel suo insieme spetteranno anche altri compiti quali quelli di definire, convalidare ed attuare tutte le procedure di Controllo Qualità, custodire i campioni di riferimento di materiali e di prodotti, garantire la corretta etichettatura dei contenitori di materiali e di prodotti, garantire il controllo della stabilità dei prodotti, partecipare alle indagini provocate da reclami relativi alla qualità del prodotto, ecc. Tutte queste operazioni devono essere svolte conformemente a procedure scritte e, se necessario, devono essere documentate. 
 
-6.3 Nella valutazione del prodotto finito dovranno rientrare tutti i fattori significativi, tra cui le condizioni di produzione, i risultati delle analisi eseguite durante il processo, una revisione della documentazione di fabbricazione (confezionamento incluso), il rispetto delle specifiche relative al prodotto finito e Pesarne della confezione finale finita. 
+6.3 La valutazione del prodotto finito deve contenere tutti i fattori significativi, inclusi le condizioni di produzione, i risultati delle analisi eseguite durante il processo, una revisione della documentazione di produzione (confezionamento incluso), il rispetto delle specifiche relative al prodotto finito e controlli della confezione finale finita. 
 
-6.4 Il personale addetto al Controllo Qualità dovrà poter accedere alle aree di produzione per eseguire le opportune operazioni di campionamento e d'indagine. 
+6.4 Il personale addetto al Controllo Qualità deve poter accedere alle aree di produzione per eseguire le opportune operazioni di campionamento e d'indagine. 
 
-Buone pratiche del Laboratorio di Controllo Qualità 
+**Buone pratiche del Laboratorio di Controllo Qualità **
 
-6.5 I locali e le attrezzature del laboratorio di controllo dovranno rispettare le prescrizioni, tanto a carattere generale che specifico applicabili alle aree di Controllo Qualità di cui al capitolo 3.
+6.5 I locali e le attrezzature del laboratorio di controllo devono rispettare i requisiti, tanto a carattere generale che specifico applicabili alle aree di Controllo Qualità di cui al Capitolo 3. Le apparecchiature di laboratorio non devono essere spostate di routine tra le aree ad alto rischio per evitare la contaminazione crociata accidentale. In particolare, il laboratorio microbiologico deve essere organizzato in modo da ridurre al minimo il rischio di contaminazione crociata.
 
-6.6 Personale, locali ed attrezzature dei laboratori dovranno risultare idonei ai compiti derivanti dalla natura e dalla portata delle operazioni di fabbricazione. L'utilizzo di laboratori esterni, nel rispetto dei principi esposti nel capitolo 7 "Analisi affidate a terzi", può essere accettato per ragioni particolari, ma ciò va dichiarato nella documentazione del Controllo Qualità. 
+6.6 Personale, locali ed attrezzature dei laboratori devono risultare idonei ai compiti derivanti dalla natura e dalla portata delle operazioni di produzione. L'utilizzo di laboratori esterni, nel rispetto dei principi esposti nel Capitolo 7, Analisi affidate a terzi, può essere accettato per ragioni particolari, ma ciò va dichiarato nella documentazione del Controllo Qualità. 
 
 **Documentazione **
 
-6.7 Per la documentazione del laboratorio si dovranno seguire i principi esposti nel capitolo 4. Una parte importante di tale documentazione riguarda il Controllo Qualità ed il reparto addetto a tale controllo dovrà poter disporre rapidamente dei seguenti documenti: 
+6.7 Per la documentazione di laboratorio si devono seguire i principi esposti nel Capitolo 4. Una parte importante di tale documentazione riguarda il Controllo Qualità ed il reparto addetto a tale controllo deve poter disporre rapidamente dei seguenti documenti: 
 
-\-specifiche; 
+\- Specifiche; 
 
-\-procedure di campionamento; 
+\- Procedure che descrivono campionamento, prove, record (inclusi fogli di lavoro di prova e/o quaderni di laboratorio), registrazioni e verifiche;
 
-\-procedure e rendiconti di esecuzione delle analisi (incluse schede delle analisi e/o quaderni di laboratorio);
+\- Procedure e registrazioni della calibrazione/qualifica degli strumenti e manutenzione delle attrezzature;
 
-\-rapporti e/o certificati delle analisi; 
+\- Una procedura per l'indagine dei risultati fuori specifica (out of specification) e fuori trend (out of trend);
 
 \-ove prescritto, dati del controllo ambientale; 
 
