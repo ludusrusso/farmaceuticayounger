@@ -80,7 +80,7 @@ ix. Le istruzioni per la pulizia e la conservazione delle attrezzature di campio
 
 **Analisi **
 
-6.15 I metodi analitici impiegati dovranno essere convalidati. Tutte le operazioni di controllo descritte nell'autorizzazione alla immissione in commercio dovranno essere effettuate conformemente ai metodi approvati. 
+6.15 I metodi analitici impiegati devono essere convalidati. Tutte le operazioni di controllo descritte nell'autorizzazione alla immissione in commercio dovranno essere effettuate conformemente ai metodi approvati. 
 
 6.16 I risultati ottenuti dovranno essere registrati e controllati al fine di verificarne l'attendibilità. Eventuali calcoli dovranno essere esaminati criticamente. 
 
