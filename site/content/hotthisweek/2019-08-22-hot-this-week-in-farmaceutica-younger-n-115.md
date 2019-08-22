@@ -1,12 +1,12 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.115
-date: '2019-08-22T14:00:56+02:00'
+date: '2019-08-25T08:00:56+02:00'
 ---
 La Food and Drug Administration statunitense ha approvato Xenleta (lefamulina), un nuovo antibiotico orale e endovenoso (IV) per il trattamento di adulti con polmonite batterica acquisita in comunità (CABP).
 
 La polmonite acquisita in comunità si verifica quando qualcuno sviluppa polmonite nella comunità (non in un ospedale). La polmonite è un tipo di infezione polmonare che può variare in gravità da malattia lieve a grave e può colpire persone di tutte le età. Secondo i dati dei Centri di controllo e prevenzione delle malattie, ogni anno negli Stati Uniti, circa un milione di persone sono ricoverate in ospedale con polmonite acquisita in comunità e 50.000 persone muoiono a causa della malattia.
 
-Lefamulin è un first-in class della sua categoria i quanto appartiene alla nuova classe di antibiotici semisintetici pleuromutiline indicati per CABP causata dai seguenti microrganismi sensibili: Streptococcus pneumoniae, Staphylococcus aureus (ceppi meticillina-sensibili), Haemophilus influenzae, Legionella, Mycoplasma pneumoniae e Chlamydophila pneumoniae.
+La lefamulina appartiene alla classe di antibiotici semisintetici derivati della pleuromutilina indicati per il trattamento della CABP causata dai seguenti microrganismi sensibili: Streptococcus pneumoniae, Staphylococcus aureus (ceppi meticillina-sensibili), Haemophilus influenzae, Legionella, Mycoplasma pneumoniae e Chlamydophila pneumoniae. Sebbene gli antibiotici della pleuromutilina siano stati sviluppati per la prima volta negli anni '50, **la lefamulina è la prima ad essere utilizzata per il trattamento sistemico delle infezioni batteriche nell'uomo**. La pleuromutilina e i suoi derivati ​​sono farmaci antibatterici che si legano alla componente peptidil transferasi della subunità 50S dei ribosomi inibendo così la sintesi proteica nei batteri.
 
 La sicurezza e l'efficacia di Xenleta sono state valutate in due studi clinici condotti su un totale di 1.289 pazienti con CABP. In questi studi, il trattamento con Xenleta è stato confrontato con un altro antibiotico, la moxifloxacina con o senza linezolid. Gli studi hanno dimostrato che i pazienti trattati con Xenleta hanno avuto tassi di successo clinico simili a quelli trattati con moxifloxacina con o senza linezolid. 
 
