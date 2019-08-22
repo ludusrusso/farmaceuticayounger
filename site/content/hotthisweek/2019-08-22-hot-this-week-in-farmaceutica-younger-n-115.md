@@ -2,7 +2,7 @@
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.115
 date: '2019-08-25T08:00:56+02:00'
 ---
-La Food and Drug Administration statunitense ha approvato [Xenleta (lefamulina)](https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibiotic-treat-community-acquired-bacterial-pneumonia), un nuovo antibiotico orale e endovenoso per il trattamento di adulti con polmonite batterica acquisita in comunità ([CABP](https://www.fda.gov/media/75149/download), community-acquired bacterial pneumonia).
+La Food and Drug Administration statunitense ha approvato [Xenleta (lefamulina)](https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibiotic-treat-community-acquired-bacterial-pneumonia), un antibiotico orale e endovenoso per il trattamento di adulti con polmonite batterica acquisita in comunità ([CABP](https://www.fda.gov/media/75149/download), community-acquired bacterial pneumonia).
 
 La polmonite batterica acquisita in comunità è un tipo di infezione polmonare associata a dolore toracico, tosse, produzione di espettorato, difficoltà respiratoria, brividi, rigidità, febbre o ipotensione. Alcuni batteri tipici che causano CABP sono: _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Staphylococcus aureus_, e _Moraxella catarrhalis_. Secondo i dati dei Centri di controllo e prevenzione delle malattie, ogni anno negli Stati Uniti circa un milione di persone sono ricoverate in ospedale con polmonite acquisita in comunità e 50.000 persone muoiono a causa della malattia.
 
