@@ -12,4 +12,6 @@ L'istradefillina è un antagonista del recettore dell'adenosina A2A. Il recettor
 
 L'efficacia di Nourianz nel trattamento di episodi "off" in pazienti con PD che sono già in trattamento con levodopa/carbidopa è stata dimostrata in quattro studi clinici della durata di 12 settimane controllati con placebo che hanno incluso un totale di 1.143 partecipanti. Sulla base dei dati di quattro studi clinici, l'istradefillina assunta in aggiunta alla levodopa ha migliorato significativamente i tempi di "off" e ha dimostrato un profilo di sicurezza ben tollerato.
 
+Il farmaco è stato approvato in Giappone nel 2013, ma è stato precedentemente respinto dalla FDA nel 2008. L'agenzia statunitense sollevò preoccupazioni sulla sua efficacia e chiese ulteriori dati a supporto.
+
 La FDA ha concesso l'approvazione di Nourianz a Kyowa Kirin, Inc.
