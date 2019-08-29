@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.116
-date: '2019-08-29T14:23:59+02:00'
+date: '2019-09-01T08:00:59+02:00'
 ---
 La Food and Drug Administration statunitense ha approvato Nourianz (istradefylline) sotto forma di compresse come trattamento aggiuntivo alla somministrazione di levodopa/carbidopa in pazienti adulti con malattia di Parkinson (PD) che manifestano episodi "off". Un episodio "off" è un momento in cui i farmaci di un paziente non funzionano bene, causando un aumento dei sintomi associati alla PD, come tremore e difficoltà a camminare.
 
