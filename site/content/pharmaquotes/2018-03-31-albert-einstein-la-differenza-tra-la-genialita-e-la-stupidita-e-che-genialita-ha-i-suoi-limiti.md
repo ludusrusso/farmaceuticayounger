@@ -3,7 +3,7 @@ title: >-
   ALBERT EINSTEIN - "La differenza tra la genialità e la stupidità è che la
   genialità ha i suoi limiti"
 date: 2018-03-31T15:35:14.000Z
-image: /img/53ae4279-a90a-43e2-a821-0e8496dfc5a2.png
+image: /img/b72a4a05-8f9e-4b47-a466-a3267cc8567b.png
 ---
 ![IMG_1386.JPG](/img/b72a4a05-8f9e-4b47-a466-a3267cc8567b.png)
 
