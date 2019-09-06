@@ -1,9 +1,12 @@
 ---
 title: 'GMP - Capitolo 4 '
 tags:
-  - articoli
+  - cgmp
 date: '2019-05-17T16:25:00+02:00'
+image: /img/thumbnail_img_8316.png
 ---
+![](/img/thumbnail_img_8316.png)
+
 ## Capitolo 4 - Documentazione
 
 **Principi**
@@ -18,7 +21,7 @@ Dovrebbero essere implementati controlli adeguati per garantire l'accuratezza, l
 
 **Site Master File:** documento che descrive le attività GMP relative al produttore. 
 
-_**Istruzioni (disposizioni, o requisiti): **_
+**_Istruzioni (disposizioni, o requisiti): _**
 
 **Specifiche:** descrivono in dettaglio i requisiti a cui i prodotti o materiali utilizzati o ottenuti durante la fabbricazione devono essere conformi. Essi servono come base per la valutazione della qualità. 
 
@@ -30,7 +33,7 @@ _**Istruzioni (disposizioni, o requisiti): **_
 
 **Technical Agreements: **sono accordi sottoscritti tra il committente e il fornitore che definiscono i termini di una attività affidata in conto terzi. 
 
-_**Record/Report: **_
+**_Record/Report: _**
 
 **Record:** forniscono la prova delle diverse azioni intraprese per dimostrare la conformità alle istruzioni, per es. attività, eventi, indagini, e nel caso della fabbricazione di lotti, la storia di ogni lotto di prodotto, compresa la sua distribuzione. Le registrazioni comprendono i dati grezzi (raw data) utilizzati per generare altri dati. Per dati registrati con sistemi informatici gli utenti autorizzati dovranno definire quali dati devono essere utilizzati come dati grezzi. Dovranno essere definiti dati grezzi almeno tutti i dati su cui si basano le decisioni che riguardano la qualità. 
 
@@ -74,7 +77,7 @@ La sezione seguente fornisce alcuni esempi dei documenti richiesti. l sistema di
 
 4.13 Per materie prime, materiali di confezionamento e per prodotti finiti si dovrà disporre di specifiche appropriatamente autorizzate e datate. 
 
-_**Specifiche di materie prime e di materiali di confezionamento **_
+**_Specifiche di materie prime e di materiali di confezionamento _**
 
 4.14 Le specifiche delle materie prime e dei materiali di confezionamento primario o stampato dovranno comprendere o fare riferimento a seconda dei casi: 
 
@@ -96,11 +99,11 @@ d) Condizioni e precauzioni per lo stoccaggio;
 
 e) Il periodo massimo di conservazione in magazzino prima che occorra riesaminarli. 
 
-_**Specifiche dei prodotti semilavorati e sfusi**_ 
+**_Specifiche dei prodotti semilavorati e sfusi_** 
 
 4.15 Le specifiche dei prodotti semilavorati e sfusi sono necessarie per le fasi critiche di lavorazione e nel caso in cui questi siano acquistati all'esterno o forniti a terzi. Le specifiche dovranno, essere simili a quelle delle materie prime o a quelle dei prodotti finiti, a seconda dei casi.
 
-_**Specifiche per i prodotti finiti **_
+**_Specifiche per i prodotti finiti _**
 
 4.16 Le specifiche dei prodotti finiti dovranno comprendere o fare riferimento a: 
 
@@ -144,7 +147,7 @@ d) istruzioni particolareggiate per ogni singola fase del processo di produzione
 
 e) istruzioni relative ai controlli durante il processo ed ai rispettivi valori limite; 
 
-f) all'occorrenza, i requisiti per lo stoccaggio dei prodotti sfusi tra cui le i nd icazion i riguardanti il recipiente, l'etichettatura ed eventuali condizioni di stoccaggio particolari. 
+f) all'occorrenza, i requisiti per lo stoccaggio dei prodotti sfusi tra cui le indicazioni riguardanti il recipiente, l'etichettatura ed eventuali condizioni di stoccaggio particolari. 
 
 g) ogni altra particolare precauzione da adottare. 
 
@@ -218,7 +221,7 @@ i) l'approvazione da parte del responsabile per le operazioni di confezionamento
 
 **Procedure e registrazioni **
 
-**_Entrata merce _**
+_**Entrata merce **_
 
 4.22 Dovranno essere previste procedure scritte e documenti per ricevere ogni fornitura di ogni materia prima (inclusi prodotti sfusi, semilavorati o finiti), materiali di confezionamento primario, secondario e stampati. 
 
