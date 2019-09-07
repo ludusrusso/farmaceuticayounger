@@ -17,7 +17,7 @@ image: /img/803620e9-b01d-4d38-a50d-902d2d85f087.png
 ---
 ![null](/img/803620e9-b01d-4d38-a50d-902d2d85f087.png)
 
-La Food and Drug Administration statunitense ha approvato [Ofev (nintedanib)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-patients-rare-type-lung-disease) come il primo e unico farmaco per rallentare il tasso di declino della funzione polmonare nei pazienti con malattia polmonare interstiziale associata a sclerosi sistemica (SSc-ILD, systemic sclerosis-associated interstitial lung disease).
+La Food and Drug Administration statunitense ha approvato [Ofev (nintedanib)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-patients-rare-type-lung-disease), il primo e unico farmaco per rallentare il tasso di declino della funzione polmonare nei pazienti con malattia polmonare interstiziale associata a sclerosi sistemica (SSc-ILD, systemic sclerosis-associated interstitial lung disease).
 
 La sclerosi sistemica (SSc), nota anche come sclerodermia, è una rara malattia autoimmune caratterizzata da ispessimento e cicatrici del tessuto connettivo in tutto il corpo. Si stima che la malattia colpisca circa 100.000 persone negli Stati Uniti e 2,5 milioni in tutto il mondo. La fibrosi, il segno distintivo della malattia, può colpire la pelle e gli organi interni, compresi i polmoni. La malattia polmonare interstiziale (ILD), una delle manifestazioni più frequenti della malattia, può essere debilitante e può diventare pericolosa per la vita. Circa il 25 percento dei pazienti sviluppa un significativo coinvolgimento polmonare entro tre anni dalla diagnosi. L'ILD è la principale causa di morte tra le persone con SSc.
 
