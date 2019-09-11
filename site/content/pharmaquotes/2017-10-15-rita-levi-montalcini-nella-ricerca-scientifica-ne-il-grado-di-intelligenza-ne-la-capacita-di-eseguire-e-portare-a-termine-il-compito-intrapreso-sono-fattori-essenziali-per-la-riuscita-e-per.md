@@ -13,9 +13,9 @@ socialDesc: >-
   della scienza e dell'impegno politico e sociale: affascinava per l'eleganza,
   incantava per l'intelligenza, la tenacia, lo slancio verso le generazioni
   future.
-image: /img/766cb91d-1b68-4c84-adf5-d5d064e37485.jpeg
+image: /img/thumbnail_cd6af931-1ea5-48cb-86e5-2ac5eff3dd4a.png
 ---
-![](/img/766cb91d-1b68-4c84-adf5-d5d064e37485.jpeg)
+![null](/img/thumbnail_cd6af931-1ea5-48cb-86e5-2ac5eff3dd4a.png)
 
 **Rita Levi Montalcini**, scienziata italiana, senatrice a vita, è stata una grande donna, la cui immagine e personalità rimangono parte integrante di un secolo di storia nei campi della cultura, della scienza e dell'impegno politico e sociale. Ha sempre affascinato per l'eleganza, per l'intelligenza, la tenacia e lo slancio verso le generazioni future.
 
@@ -23,4 +23,4 @@ Laureata in Medicina e Chirurgia a Torino nel 1936, ha dovuto affrontare gravi d
 
 Si è sempre preoccupata soltanto di trasmettere il suo sapere ai giovani, di formare una nuova generazione di scienziati, lottando contro nepotismi e pressioni politiche. **La sua figura ha sempre rappresentato un monito a continuare a investire energie e risorse nella ricerca scientifica.**
 
-> _Io diró che sono sempre stata contro i titoli e per il valore, né i titoli nobiliari, né i titoli accademici, né quelli di riconoscimento per me contano e neppure il Premio Nobel conta. Quello che conta è quello che ognuno di noi è, la propria capacità di far fronte alla vita._
+> Io diró che sono sempre stata contro i titoli e per il valore, né i titoli nobiliari, né i titoli accademici, né quelli di riconoscimento per me contano e neppure il Premio Nobel conta. Quello che conta è quello che ognuno di noi è, la propria capacità di far fronte alla vita.
