@@ -23,4 +23,4 @@ Laureata in Medicina e Chirurgia a Torino nel 1936, ha dovuto affrontare gravi d
 
 Si è sempre preoccupata soltanto di trasmettere il suo sapere ai giovani, di formare una nuova generazione di scienziati, lottando contro nepotismi e pressioni politiche. **La sua figura ha sempre rappresentato un monito a continuare a investire energie e risorse nella ricerca scientifica.**
 
-> _Io diró che sono sempre stata contro i titoli e per il valore, né i titoli nobiliari, né i titoli accademici, né quelli di riconoscimento per me contano e neppure il Premio Nobel conta. Quello che conta è quello che ognuno di noi è, la propria capacità di far fronte alla vita._
+> Io diró che sono sempre stata contro i titoli e per il valore, né i titoli nobiliari, né i titoli accademici, né quelli di riconoscimento per me contano e neppure il Premio Nobel conta. Quello che conta è quello che ognuno di noi è, la propria capacità di far fronte alla vita.
