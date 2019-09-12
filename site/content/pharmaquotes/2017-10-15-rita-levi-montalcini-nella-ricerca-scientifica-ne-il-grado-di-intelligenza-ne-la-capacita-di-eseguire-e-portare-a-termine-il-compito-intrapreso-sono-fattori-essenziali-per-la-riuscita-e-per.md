@@ -13,9 +13,9 @@ socialDesc: >-
   della scienza e dell'impegno politico e sociale: affascinava per l'eleganza,
   incantava per l'intelligenza, la tenacia, lo slancio verso le generazioni
   future.
-image: /img/thumbnail_cd6af931-1ea5-48cb-86e5-2ac5eff3dd4a.png
+image: /img/montalcini.png
 ---
-![null](/img/thumbnail_cd6af931-1ea5-48cb-86e5-2ac5eff3dd4a.png)
+![null](/img/montalcini.png)
 
 **Rita Levi Montalcini**, scienziata italiana, senatrice a vita, è stata una grande donna, la cui immagine e personalità rimangono parte integrante di un secolo di storia nei campi della cultura, della scienza e dell'impegno politico e sociale. Ha sempre affascinato per l'eleganza, per l'intelligenza, la tenacia e lo slancio verso le generazioni future.
 
