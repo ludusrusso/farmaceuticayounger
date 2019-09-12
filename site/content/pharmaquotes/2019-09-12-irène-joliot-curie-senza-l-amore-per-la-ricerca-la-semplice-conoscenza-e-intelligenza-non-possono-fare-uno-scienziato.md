@@ -28,3 +28,5 @@ Dopo aver ricevuto il premio Nobel, Joliot-Curie rivolse la sua attenzione anche
 La radioattività può salvare vite ma può anche uccidere. Come aveva fatto sua madre prima di lei, e suo marito solo due anni dopo, Irène morì di leucemia causata da una lunga esposizione alle radiazioni nel 1956. Aveva 58 anni.
 
 La sue scoperta aprirono la strada a innumerevoli progressi medici, in particolare nella lotta contro il cancro.
+
+> Without the love of research, mere knowledge and intelligence cannot make a scientist.
