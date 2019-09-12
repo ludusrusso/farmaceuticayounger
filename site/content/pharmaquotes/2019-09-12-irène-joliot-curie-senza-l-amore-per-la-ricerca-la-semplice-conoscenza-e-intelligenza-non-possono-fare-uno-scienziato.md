@@ -9,7 +9,10 @@ description: >-
 socialDesc: >-
   Irène Joliot-Curie, chimica, attivista, politico francese è la primogenita di
   due dei più famosi scienziati al mondo: Marie e Pierre Curie.
+image: /img/irene.png
 ---
+![](/img/irene.png)
+
 **Irène Joliot-Curie**, chimica, attivista, politico francese è la primogenita di due dei più famosi scienziati al mondo: Marie e Pierre Curie.
 
 Insieme a suo marito Frédéric, Irène arrivò alla scoperta dei primi atomi radioattivi creati artificialmente che gli valse il **Premio Nobel per la chimica nel 1935**.
