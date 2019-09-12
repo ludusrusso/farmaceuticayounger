@@ -2,7 +2,7 @@
 title: >-
   IRÈNE JOLIOT-CURIE - "Senza l'amore per la ricerca, la semplice conoscenza e
   intelligenza non possono fare uno scienziato"
-date: '2019-09-12T09:34:36+02:00'
+date: '2019-09-13T20:00:00+02:00'
 description: >-
   Irène Joliot-Curie, chimica, attivista, politico francese è la primogenita di
   due dei più famosi scienziati al mondo: Marie e Pierre Curie.
