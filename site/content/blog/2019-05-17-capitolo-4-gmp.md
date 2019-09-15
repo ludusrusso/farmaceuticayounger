@@ -2,7 +2,7 @@
 title: 'GMP - Capitolo 4 '
 tags:
   - cgmp
-date: '2019-05-17T16:25:00+02:00'
+date: '2019-09-15T16:25:00+02:00'
 image: /img/thumbnail_img_8316.png
 ---
 ![null](/img/thumbnail_img_8316.png)
@@ -11,7 +11,7 @@ image: /img/thumbnail_img_8316.png
 
 **Principi**
 
-Una buona documentazione costituisce una parte fondamentale del sistema di Assicurazione Qualità, indispensabile per operare in conformità con i requisiti GMP. Le diverse tipologie di documenti e supporti utilizzati devono essere definiti in modo completo nel Sistema di Gestione della Qualità del produttore. La documentazione potrà esistere in diverse forme, tra cui cartacea, elettronica o fotografica. L'obiettivo principale del sistema documentale utilizzato deve essere quello di definire, controllare, monitorare e registrare tutte le attività che direttamente o indirettamente hanno impatto su tutti gli aspetti della qualità del medicinale. Il Sistema di Gestione della Qualità deve includere istruzioni sufficientemente dettagliate per facilitare la comprensione dei requisiti, oltre che fornire un'adeguata registrazione dei diversi processi e la valutazione delle osservazioni, in modo da dimostrare la costante applicazione dei requisiti GMP. 
+Una buona documentazione costituisce una parte fondamentale del sistema di Assicurazione Qualità, indispensabile per operare in conformità con i requisiti [GMP](https://www.farmaceuticayounger.science/pharmacronimi/gmp--good-manufacturing-practice/). Le diverse tipologie di documenti e supporti utilizzati devono essere definiti in modo completo nel Sistema di Gestione della Qualità del produttore. La documentazione potrà esistere in diverse forme, tra cui cartacea, elettronica o fotografica. L'obiettivo principale del sistema documentale utilizzato deve essere quello di definire, controllare, monitorare e registrare tutte le attività che direttamente o indirettamente hanno impatto su tutti gli aspetti della qualità del medicinale. Il Sistema di Gestione della Qualità deve includere istruzioni sufficientemente dettagliate per facilitare la comprensione dei requisiti, oltre che fornire un'adeguata registrazione dei diversi processi e la valutazione delle osservazioni, in modo da dimostrare la costante applicazione dei requisiti GMP. 
 
 Esistono due tipi principali di documentazione utilizzata per gestire e registrare la conformità alle GMP: istruzioni (disposizioni, requisiti) e records/reports. È necessario applicare buone pratiche di documentazione adeguate al tipo di documento.
 
@@ -27,7 +27,7 @@ Dovrebbero essere implementati controlli adeguati per garantire l'accuratezza, l
 
 **Formule di produzione e istruzioni per il processo di produzione, per il confezionamento e per le analisi: **forniscono il dettaglio di tutte le materie prime, attrezzature e sistemi informatici (se presenti) da utilizzare e descrivono nello specifico tutte le istruzioni per il processo di produzione, il confezionamento, il campionamento e le analisi. Dovranno essere indicati inoltre i controlli di processo e le tecnologie di processo analitiche qualora rilevanti, unitamente ai criteri di accettazione. 
 
-**Procedure:** (altrimenti note come Procedure Operative Standard, o SOP), danno direttive per l'esecuzione di determinate operazioni. 
+**Procedure:** (altrimenti note come Procedure Operative Standard, o [SOP](https://www.farmaceuticayounger.science/pharmacronimi/sop--standard-operating-procedure/)), danno direttive per l'esecuzione di determinate operazioni. 
 
 **Protocolli:** danno istruzioni per l'esecuzione e la registrazione di determinate operazioni. 
 
@@ -163,7 +163,7 @@ c) dimensioni della confezione espresse con il numero di unità, il peso o il vo
 
 d) un elenco completo di tutti i materiali di confezionamento necessari per un lotto di dimensioni standard, compresi la quantità, le dimensioni ed i tipi nonché i numeri di codice o di riferimento che individuano le specifiche di ciascuno di essi; 
 
-e) all'occorrenza un campione o una riproduzione dei materiali di confezionamento stampati utilizzati per quel prodotto e alcuni facsimile che indichino dove apporre i riferimenti relativi al lotto e al periodo di validità del prodotto; 
+e) all'occorrenza un campione o una riproduzione dei materiali di confezionamento stampati utilizzati per quel prodotto inclusi esempi che indichino dove apporre i riferimenti relativi al numero di lotto e al periodo di validità del prodotto; 
 
 f) la verifica che le apparecchiature e la zona di lavorazione siano pulite e sgombre da qualsiasi prodotto, materiale e documento precedentemente utilizzato che non sia necessario per l'operazione di confezionamento da effettuare (pulizia della linea), e la verifica che l'apparecchiatura sia pulita e pronta all'uso; 
 
@@ -175,45 +175,47 @@ i) dettagli dei controlli durante la produzione ed istruzioni sul campionamento 
 
 **Record di lavorazione del lotto **
 
-4.20 Per ogni lotto prodotto andrà redatto un rendiconto di lavorazione che riprenda le parti salienti della formula di fabbricazione e delle istruzioni di lavorazione in vigore al momento. Tale rendiconto dovrà contenere le seguenti informazioni: 
+4.20 Per ogni lotto prodotto andrà redatto un rendiconto di lavorazione che riprenda le parti salienti della formula di fabbricazione e delle istruzioni di lavorazione in vigore al momento. Tale rendiconto deve contenere le seguenti informazioni: 
 
 a) denominazione del prodotto e numero di lotto; 
 
 b) data e orari di inizio, delle principali fasi intermedie e del completamento della produzione; 
 
-c) identificazione (sigla) dell'operatore/i che ha eseguito le fasi importanti della produzione ed all'occorrenza il nome della persona che ha verificato ciascuna di questa operazioni; 
+c) identificazione (sigla) dell'operatore/i che ha eseguito le fasi importanti della produzione ed all'occorrenza il nome della persona che ha verificato ciascuna di queste operazioni; 
 
-d) il numero del lotto e/o il numero del controllo analitico nonché la quantità delle materie prime effettivamente pesata (incluso il numero del lotto ed eventualmente la quantità di ciascun materiale recuperato ori-processato che sia stato aggiunto); 
+d) il numero del lotto e/o il numero del controllo analitico nonché la quantità delle materie prime effettivamente pesata (incluso il numero del lotto ed eventualmente la quantità di ciascun materiale recuperato o riprocessato che sia stato aggiunto); 
 
 e) operazioni od eventi significativi del processo di produzione e principali apparecchiature utilizzate; 
 
 f) documentazione dei controlli di processo con la sigla della persona o delle persone che li hanno effettuati e i risultati ottenuti; 
 
-g) la resa di prodotto ottenuta nelle varie fasi della fabbricazione opportunamente scelte; 
+g) la resa di prodotto ottenuta nelle varie fasi della fabbricazione pertinenti; 
 
-h) note relative a particolari problemi,compresi i dettagli (corredati di autorizzazione scritta) di eventuali scostamenti dalla formula di fabbricazione e dalle istruzioni del processo di produzione;
+h) note relative a particolari problemi, compresi i dettagli (corredati di autorizzazione scritta) di eventuali scostamenti dalla formula di fabbricazione e dalle istruzioni del processo di produzione;
 
 i) l'approvazione da parte della persona responsabile delle operazioni del processo. 
 
-**Nota:** Qualora il processo convalidato sia monitorato e controllato in continuo, i rendiconti generati automaticamente potranno essere limitati ad un rapporto riepilogativo di conformità e ad un rapporto delle deviazioni e fuori specifica (OOS). 
+**Nota:** Qualora il processo convalidato sia monitorato e controllato in continuo, i record generati automaticamente potranno essere limitati ad un rapporto riepilogativo di conformità e ad un rapporto delle deviazioni e fuori specifica (OOS). 
 
 **Record di confezionamento del lotto** 
 
-4.21 Un record di confezionamento del lotto anche parziale prodotto andrà redatto un rendiconto del confezionamento. Il documento dovrà riprendere le varie parti delle Istruzioni per Il confezionamento e dovrà contenere le seguenti Informazioni: 
+4.21 Un record di confezionamento del lotto deve essere tenuto per ogni Batch o per ogni parte del Batch processato. Il documento deve riprendere le varie parti delle Istruzioni di confezionamento.
+
+Il record di confezionamento del batch deve contenere le seguenti Informazioni: 
 
 a) Il numero di lotto e nome del prodotto; 
 
 b) data ed orario delle operazioni di confezionamento; 
 
-c) identificazione (sigla) dell'operatore/i che ha eseguito le fasi importanti della produzione ed all'occorrenza il nome della persona che ha verificato ciascuna di questa operazioni; 
+c) identificazione (sigla) dell'operatore/i che ha eseguito le fasi importanti della produzione ed all'occorrenza il nome della persona che ha verificato ciascuna di queste operazioni; 
 
 d) documentazione delle verifiche per l'identificazione e la conformità alle istruzioni per il confezionamento, compresi i risultati dei controlli durante il processo (in process control); 
 
 e) dettagli delle operazioni di confezionamento svolte, compresi i riferimenti alle attrezzature ed alle linee di confezionamento utilizzate; 
 
-f) ogni qualvolta ciò sia possibile campioni del materiale di confezionamento stampato impiegato, compresi facsimili del codice del lotto di produzione, della data di scadenza e di eventuali sovrastampe aggiuntive; 
+f) quando possibile campioni del materiale di confezionamento stampato impiegato, inclusi esempi del codice del lotto di produzione, della data di scadenza e di eventuali sovrastampe aggiuntive; 
 
-g) nota degli eventuali problemi particolari che possono presentarsi compresi i dettagli relativi ad eventuali deviazioni dalle istruzioni di confezionamento con l'autorizzazione scritta rilasciata a tale scopo da una persona abilitata; 
+g) nota degli eventuali problemi particolari che sI sono presentati compresi i dettagli relativi ad eventuali deviazioni dalle istruzioni di confezionamento con l'autorizzazione scritta rilasciata a tale scopo da una persona abilitata; 
 
 h) quantitativi e numero di riferimento o di identificazione di tutti i materiali di confezionamento stampati e dei prodotti sfusi consegnati al reparto, utilizzati, distrutti o rinviati al magazzino nonché il quantitativo di prodotto ottenuto, in modo da consentire un'adeguata riconciliazione. Nel caso in cui si utilizzino, durante le fasi di confezionamento, affidabili controlli elettronici sulla linea, è giustificato non includere nel rendiconto tale informazione. 
 
@@ -223,43 +225,43 @@ i) l'approvazione da parte del responsabile per le operazioni di confezionamento
 
 **_Entrata merce _**
 
-4.22 Dovranno essere previste procedure scritte e documenti per ricevere ogni fornitura di ogni materia prima (inclusi prodotti sfusi, semilavorati o finiti), materiali di confezionamento primario, secondario e stampati. 
+4.22 Devono essere previste procedure scritte e documenti per ricevere ogni fornitura di ogni materia prima (inclusi prodotti sfusi, semilavorati o finiti), materiali di confezionamento primario, secondario e stampati. 
 
-4.23 I documenti di ricevimento riporteranno: 
+4.23 I documenti di ricevimento devono includere: 
 
-a) la denominazione del materiale che figura sulla nota di consegna e sui recipienti; 
+a) la denominazione del materiale che figura sulla nota di consegna e sui container; 
 
-b) la denominazione e/o il codice specifici interni dell'azienda per tale materiale (qualora differiscano da quelli precedenti; 
+b) la denominazione e/o il codice specifici interni dell'azienda per tale materiale (qualora differiscano da quelli precedenti); 
 
 c) la data di ricevimento; 
 
-d) il nome del fornitore e, se possibile, del fabbricante; 
+d) il nome del fornitore e del produttore; 
 
-e) il numero del lotto o il numero di riferimento apposto dal fabbricante; 
+e) il numero del lotto o il numero di riferimento apposto dal produttore; 
 
-f) la quantità complessiva ed il numero di contenitori ricevuti; 
+f) la quantità complessiva ed il numero di container ricevuti; 
 
 g) il numero di lotto assegnato al momento del ricevimento; 
 
 h) eventuali commenti. 
 
-4.24 A seconda dei casi dovranno essere previste procedure scritte per l'etichettatura interna, la quarantena e lo stoccaggio delle materie prime, dei materiali di confezionamento e degli altri materiali. 
+4.24 A seconda dei casi devono essere previste procedure scritte per l'etichettatura interna, la quarantena e lo stoccaggio delle materie prime, dei materiali di confezionamento e degli altri materiali. 
 
 **Campionamento **
 
-4.25 Per il campionamento dovranno essere previste procedure scritte in cui siano specificate i metodi e le attrezzature da impiegare, le quantità da prelevare ed eventuali accorgimenti per evitare la contaminazione del materiale o qualunque deterioramento della sua qualità. 
+4.25 Per il campionamento devono essere previste procedure scritte in cui siano specificati i metodi e le attrezzature da impiegare, le quantità da prelevare ed eventuali accorgimenti per evitare la contaminazione del materiale o qualunque deterioramento della sua qualità. 
 
 **Analisi**
 
-4.26 Per le analisi sui materiali e sui prodotti nelle varie fasi della fabbricazione dovranno essere previste procedure scritte che descrivano i metodi e le attrezzature da impiegare. Le prove eseguite dovranno essere documentate. 
+4.26 Per le analisi sui materiali e sui prodotti nelle varie fasi della fabbricazione devono essere previste procedure scritte che descrivano i metodi e le attrezzature da impiegare. Le prove eseguite devono essere documentate. 
 
 **Altro**
 
-4.27 Si dovranno prevedere procedure scritte per l'approvazione o il rifiuto dei materiali o dei prodotti, in particolare per l'approvazione all'immissione in commercio del prodotto finito rilasciata dalle Persone Qualificate la quale dovrà avere accesso a tutti i documenti. Dovrà essere messo in atto un sistema in grado di indicare speciali osservazioni o ogni cambiamento nei dati critici. 
+4.27 Si devono prevedere procedure scritte per l'approvazione o il rifiuto dei materiali o dei prodotti, in particolare per l'approvazione all'immissione in commercio del prodotto finito rilasciata dalle Persone Qualificate. Tutti i record devono essere accessibili alla Persona/e Qualificata/e. Deve essere messo in atto un sistema in grado di indicare speciali osservazioni o ogni cambiamento nei dati critici. 
 
-4.28 Per la distribuzione del singolo lotto di un prodotto dovrà essere redatto un documento in modo da agevolare all'occorrenza il richiamo del lotto stesso. 
+4.28 Per la distribuzione del singolo lotto di un prodotto deve essere redatto un documento in modo da agevolare all'occorrenza il richiamo del lotto stesso. 
 
-4.29 All'occorrenza dovranno essere previste politiche aziendali, procedure, protocolli e rendiconti scritti con le relative documentazioni per gli interventi compiuti o le conclusioni raggiunte, in merito a: 
+4.29 All'occorrenza devono essere previste politiche aziendali, procedure, protocolli e record scritti con le relative documentazioni per gli interventi compiuti o le conclusioni raggiunte, in merito a: 
 
 \- convalida e qualifica di processi, apparecchiature e sistemi; 
 
@@ -269,9 +271,11 @@ h) eventuali commenti.
 
 \- manutenzione, pulizia e disinfezione; 
 
-\- questioni relative al personale tra cui lista delle firme, addestramento e formazione in GMP e aspetti tecnici, abbigliamento di lavoro, igiene e verifica dell'efficacia di addestramento e formazione; -controllo dell'ambiente; 
+\- questioni relative al personale tra cui lista delle firme, addestramento e formazione in GMP e aspetti tecnici, abbigliamento di lavoro, igiene e verifica dell'efficacia di addestramento e formazione; 
 
-\- disinfestazione; 
+\- controllo dell'ambiente; 
+
+\- disinfestazione (pest control); 
 
 \- reclami; 
 
@@ -285,14 +289,14 @@ h) eventuali commenti.
 
 \- verifiche interne sul sistema di qualità e sulla conformità alle GMP; 
 
-\- Riassunto dei record ove appropriato (ad es. Product Quality Review);
+\- Riassunto dei record ove appropriato (ad es. [Product Quality Review](https://www.farmaceuticayounger.science/pharmacronimi/pqr--product-quality-review/));
 
 \- Audit dei fornitori.
 
-4.30 Per le più importanti apparecchiature di fabbricazione e di controllo dovranno essere disponibili chiare istruzioni per l'uso. 
+4.30 Per le più importanti apparecchiature di fabbricazione e di controllo devono essere disponibili chiare istruzioni per l'uso. 
 
-4.31 Per le principali apparecchiature di analisi e produzione e per le aree d'importanza fondamentale in cui il prodotto è stato processato dovranno essere preparati dei registri (Logbook) in cui dovranno essere siano riportati in ordine cronologico, a seconda dei casi, ogni utilizzo dell'area, l'apparecchiatura/metodo, le tarature, gli interventi di manutenzione, la pulizia o riparazione con le rispettive date e il nome delle persone che hanno compiuto queste operazioni. 
+4.31 Per le principali apparecchiature di analisi e produzione e per le aree d'importanza fondamentale in cui il prodotto è stato processato devono essere preparati dei registri (Logbook) in cui devono essere riportati in ordine cronologico, a seconda dei casi, ogni utilizzo dell'area, l'apparecchiatura/metodo, le tarature, gli interventi di manutenzione, la pulizia o riparazione con le rispettive date e il nome delle persone che hanno compiuto queste operazioni. 
 
 4.32 Deve essere conservato un inventario dei documenti che fanno parte del Sistema di Gestione della Qualità.
 
-(1) In alternativa, la certificazione può essere basata, completamente o in parte, sulla valutazione dei dati in tempo reale (riassunti e rapporti straordinari) del lotto ottenuto da Tecnologia Analitica di Processo (PAl), o dei parametri secondo il dossier di Autorizzazione all'Immissione in Commercio approvato.
+(1) In alternativa la certificazione può essere basata, completamente o in parte, sulla valutazione dei dati in tempo reale (riassunti e rapporti sulle deviazioni) del lotto ottenuto da Tecnologia Analitica di Processo (PAT), o dei parametri secondo il dossier di Autorizzazione all'Immissione in Commercio approvato.
