@@ -2,7 +2,7 @@
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.119
 date: '2019-09-20T16:47:40+02:00'
 ---
-La Food and Drug Administration statunitense ha approvato [Rybelsus (semaglutide)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-glp-1-treatment-type-2-diabetes) sotto forma di compresse orali per migliorare il controllo della glicemia nei pazienti adulti con diabete di tipo 2, insieme a dieta ed esercizio fisico. Rybelsus è il primo trattamento con proteine ​​del recettore peptidico simile al glucagone (GLP-1) approvato per l'uso negli Stati Uniti che non necessita di iniezione. I farmaci GLP-1 sono trattamenti non insulinici per le persone con diabete di tipo 2.
+La Food and Drug Administration statunitense ha approvato [Rybelsus (semaglutide)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-glp-1-treatment-type-2-diabetes) sotto forma di compresse orali per migliorare il controllo della glicemia nei pazienti adulti con diabete di tipo 2. Rybelsus è il primo trattamento con proteine ​​del recettore peptidico simile al glucagone (GLP-1) approvato per l'uso negli Stati Uniti che non necessita di iniezione. I farmaci GLP-1 sono trattamenti non insulinici per le persone con diabete di tipo 2.
 
 Il diabete di tipo 2 è la forma più comune di diabete, che si verifica quando il pancreas non è in grado di produrre abbastanza insulina per mantenere lo zucchero nel sangue a livelli normali. Il GLP-1, che è un normale ormone del corpo, si trova spesso a livelli insufficienti nei pazienti con diabete di tipo 2. Come il GLP-1, Rybelsus rallenta la digestione, impedisce al fegato di produrre troppo zucchero e aiuta il pancreas a produrre più insulina quando necessario.
 
