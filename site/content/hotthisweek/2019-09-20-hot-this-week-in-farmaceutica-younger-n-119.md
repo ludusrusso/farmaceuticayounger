@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.119
-date: '2019-09-20T16:47:40+02:00'
+date: '2019-09-21T16:47:40+02:00'
 description: >-
   La Food and Drug Administration statunitense ha approvato Rybelsus
   (semaglutide) sotto forma di compresse orali per migliorare il controllo della
@@ -17,7 +17,10 @@ socialDesc: >-
   approvato per l'uso negli Stati Uniti che non necessita di iniezione. I
   farmaci GLP-1 sono trattamenti non insulinici per le persone con diabete di
   tipo 2.
+image: /img/dcf392f2-69a8-4a1b-b489-52e924c429da.png
 ---
+![](/img/dcf392f2-69a8-4a1b-b489-52e924c429da.png)
+
 La Food and Drug Administration statunitense ha approvato [Rybelsus (semaglutide)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-glp-1-treatment-type-2-diabetes) sotto forma di compresse orali per migliorare il controllo della glicemia nei pazienti adulti con diabete di tipo 2. Rybelsus è il primo agonista del recettore del GLP-1 approvato negli Stati Uniti che non necessita di iniezione. 
 
 Il diabete di tipo 2 è la forma più comune di diabete, che si verifica quando il pancreas non è in grado di produrre abbastanza insulina per mantenere lo zucchero nel sangue a livelli normali. Il GLP-1 (glucagon-like peptide 1), un ormone fisiologicamente prodotto dall'intestino che stimola la secrezione di insulina e inibisce la secrezione di glucagone da parte del pancreas, si trova spesso a livelli insufficienti nei pazienti con diabete di tipo 2. 
