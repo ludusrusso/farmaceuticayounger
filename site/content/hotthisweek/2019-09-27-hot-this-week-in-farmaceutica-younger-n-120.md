@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.120
-date: '2019-09-27T16:29:53+02:00'
+date: '2019-09-28T20:30:00+02:00'
 description: >-
   La Food and Drug Administration americana ha annunciato oggi l'approvazione
   Jynneos, un vaccino per la prevenzione del vaiolo e del monkeypox comunemente
