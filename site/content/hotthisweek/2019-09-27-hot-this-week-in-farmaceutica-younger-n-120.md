@@ -13,7 +13,10 @@ socialDesc: >-
   detto vaiolo delle scimmie, negli adulti di età pari o superiore a 18 anni, ad
   alto rischio di infezione da vaiolo o monkeypox. Jynneos è l'unico vaccino
   attualmente approvato dalla FDA per la prevenzione del vaiolo delle scimmie.
+image: /img/854296d4-ca3d-45db-9415-44d5d77b8266.png
 ---
+![HOT THIS WEEK IN FARMACEUTICA YOUNGER N.120](/img/854296d4-ca3d-45db-9415-44d5d77b8266.png)
+
 La Food and Drug Administration americana ha annunciato oggi l'approvazione di [Jynneos](https://www.fda.gov/news-events/press-announcements/fda-approves-first-live-non-replicating-vaccine-prevent-smallpox-and-monkeypox), un vaccino vivo non replicante per la prevenzione del vaiolo e del monkeypox comunemente detto vaiolo delle scimmie, negli adulti di età pari o superiore a 18 anni, ad alto rischio di infezione da vaiolo o monkeypox. **Jynneos è l'unico vaccino attualmente approvato dalla FDA per la prevenzione del vaiolo delle scimmie.**
 
 A seguito del Programma globale di eradicazione del vaiolo, l'Organizzazione mondiale della sanità ha certificato l'eradicazione della malattia da vaiolo nel 1980. La vaccinazione di routine dei cittadini americani è stata interrotta nel 1972 dopo l'eradicazione della malattia negli Stati Uniti e, di conseguenza, una grande percentuale degli Stati Uniti, così come la popolazione globale non ha immunità. Sebbene il vaiolo non sia più una minaccia globale, il rilascio intenzionale di questo virus altamente contagioso potrebbe avere un effetto devastante. 
