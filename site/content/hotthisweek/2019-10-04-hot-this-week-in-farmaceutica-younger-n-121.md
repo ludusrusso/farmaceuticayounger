@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.121
-date: '2019-10-05T20:30:22+02:00'
+date: '2019-10-05T19:30:22+02:00'
 description: >-
   La Food and Drug Administration statunitense ha approvato Descovy
   (emtricitabina 200 mg e tenofovir alafenamide 25 mg) in adulti e adolescenti a
