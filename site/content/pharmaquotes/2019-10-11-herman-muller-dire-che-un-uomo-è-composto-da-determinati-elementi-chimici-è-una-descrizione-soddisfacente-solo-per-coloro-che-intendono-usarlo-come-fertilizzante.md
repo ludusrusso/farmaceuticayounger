@@ -1,6 +1,6 @@
 ---
 title: >-
-  HERMAN PAUL MULLER - "Dire che un uomo è composto da determinati elementi
+  PAUL HERMAN MULLER - "Dire che un uomo è composto da determinati elementi
   chimici è una descrizione soddisfacente solo per coloro che intendono usarlo
   come fertilizzante"
 date: '2019-10-11T07:15:00+02:00'
