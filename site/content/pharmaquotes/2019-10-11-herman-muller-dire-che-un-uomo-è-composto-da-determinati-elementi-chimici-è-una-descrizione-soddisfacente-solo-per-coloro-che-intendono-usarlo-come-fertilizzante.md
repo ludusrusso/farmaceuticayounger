@@ -19,9 +19,7 @@ Dopo essersi laureato nel 1925 lavorò presso un'azienda chimica svizzera, dove 
 
 Nel 1935 si dedicò alla sintesi di un insetticida "ideale", dotato di una forte tossicità per il maggior numero di specie di insetti ma che avrebbe causato danni minimi o nulli alle piante e agli animali a sangue caldo. Quattro anni di intenso lavoro hanno portato alla sintesi del diclorodifeniltricloroetano, più conosciuto come DDT per il quale Muller ricevette il brevetto svizzero nel 1940.
 
-Il DDT risultò efficace contro un'ampia varietà di parassiti, tra cui il pidocchio, lo scarabeo del Colorado e la zanzara anofele. Questa formulazione fu portata all'attenzione degli entomologi britannici e americani in un momento, durante la seconda guerra mondiale, in cui le forniture di piretro, un’insetticida naturale, stavano rapidamente esaurendo.
-
-La produzione fu presto stabilita su entrambe le sponde dell'Atlantico e si dimostrarono di enorme valore nella lotta contro il tifo e la malaria. Nel gennaio 1944 il DDT fu usato per reprimere un focolaio di tifo a Napoli. Fu la prima volta che venne fermata un'epidemia di tifo.
+Il DDT risultò efficace contro un'ampia varietà di parassiti, tra cui il pidocchio, lo scarabeo del Colorado e la zanzara anofele. Questa formulazione fu portata all'attenzione degli entomologi britannici e americani in un momento, durante la seconda guerra mondiale, in cui le forniture di piretro, un’insetticida naturale, stavano rapidamente esaurendo. La produzione fu presto stabilita su entrambe le sponde dell'Atlantico e si dimostrarono di enorme valore nella lotta contro il tifo e la malaria. Nel gennaio 1944 il DDT fu usato per reprimere un focolaio di tifo a Napoli. Fu la prima volta che venne fermata un'epidemia di tifo.
 
 Grazie all’uso del DDT la malaria inoltre fu completamente eradicata dall’Europa e dal Nord America.
 
