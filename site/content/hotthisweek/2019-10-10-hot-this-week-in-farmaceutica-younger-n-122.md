@@ -27,6 +27,6 @@ L'efficacia di Scenesse è stata stabilita in due studi clinici in gruppi parall
 
 La FDA ha concesso a Scenesse la designazione di Priority Review e di farmaco orfano, che fornisce incentivi per assistere e incoraggiare lo sviluppo di farmaci per malattie rare. 
 
-L’AIFA è stata la prima agenzia regolatoria in Europa ad autorizzare Scenesse come farmaco per il trattamento terapeutico di cittadini italiani con manifestazioni dolorose dovute a fotosensibilità derivanti da EPP nel 2010.
+L’AIFA è stata la prima agenzia regolatoria in Europa ad autorizzare Scenesse come farmaco per il trattamento terapeutico di cittadini italiani con manifestazioni dolorose dovute a fotosensibilità derivanti da EPP nel 2016 dopo essere stato autorizzato con procedura centralizzata europea dalla Commissione  europea nel 2014.
 
 L'approvazione di Scenesse è stata concessa a Clinuvel.
