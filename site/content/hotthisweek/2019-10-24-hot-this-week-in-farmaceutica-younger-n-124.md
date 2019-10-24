@@ -32,35 +32,11 @@ Il CFTR è una proteina di membrana che svolge la funzione di canale ionico per 
 
 Trikafta è una combinazione di tre farmaci che prendono di mira la proteina CFTR difettosa. Aiuta le proteine ​​prodotte dalla mutazione del gene CFTR a funzionare in modo più efficace. Le terapie attualmente disponibili che colpiscono la proteina difettosa sono opzioni di trattamento per alcuni pazienti con fibrosi cistica, ma molti pazienti hanno mutazioni non incluse nel trattamento. 
 
+**Tezacaftor** è un correttore di CFTR selettivo, è in grado di aumentare la quantità di proteina CFTR portata alla superficie della cellula, con conseguente aumento del trasporto di cloruro in vitro. 
 
+**Ivacaftor** è un potenziatore di CFTR che incrementa la probabilità di apertura del canale di CFTR sulla superficie della cellula, aumentando il trasporto di cloruro. Perché ivacaftor funzioni, la proteina CFTR deve essere presente sulla superficie della cellula. Ivacaftor può potenziare la proteina CFTR portata alla superficie della cellula da tezacaftor, determinando un ulteriore potenziamento del trasporto di cloruro rispetto a ciascuno dei principi attivi da solo. 
 
-Tezacaftor è un correttore di CFTR selettivo, aumentare la quantità di proteina CFTR portata alla superficie della cellula, con conseguente aumento del trasporto di cloruro in vitro.
-
-Ivacaftor è un potenziatore di CFTR che incrementa la probabilità di apertura del canale (o gating) di
-
-CFTR sulla superficie della cellula, aumentando il trasporto di cloruro. Perché ivacaftor funzioni, la
-
-proteina CFTR deve essere presente sulla superficie della cellula. Ivacaftor può potenziare la proteina
-
-CFTR portata alla superficie della cellula da tezacaftor, determinando un ulteriore potenziamento del
-
-trasporto di cloruro rispetto a ciascuno dei principi attivi da solo. L’associazione ha come bersaglio la
-
-proteina CFTR anomala aumentando la quantità e la funzione di CFTR sulla superficie della cellula e,
-
-di conseguenza, aumentando l’altezza del liquido di superficie delle vie aeree e la frequenza del battito
-
-ciliare in vitro, in cellule umane dell’epitelio bronchiale (HBE) da pazienti affetti da FC omozigoti per
-
-la mutazione F508del. I meccanismi precisi attraverso i quali tezacaftor migliora l’elaborazione e il
-
-trafficking cellulare di F508del-CFTR, e ivacaftor potenzia F508del-CFTR non sono noti.
-
-
-
-
-
-
+L’associazione ha come bersaglio la proteina CFTR anomala aumentando la quantità e la funzione di CFTR sulla superficie della cellula e, di conseguenza, aumentando l’altezza del liquido di superficie delle vie aeree e la frequenza del battito ciliare in vitro, in cellule umane dell’epitelio bronchiale (HBE) da pazienti affetti da FC omozigoti per la mutazione F508del.
 
 L'efficacia di Trikafta nei pazienti con fibrosi cistica di età pari o superiore a 12 anni è stata dimostrata in due studi. Il primo studio della durata di 24 settimane, randomizzato, in doppio cieco, controllato con placebo ha coinvolto 403 pazienti con una mutazione F508del e una mutazione sul secondo allele che risultava in nessuna proteina CFTR o una proteina CFTR che non risponde a solo ivacaftor o tezacaftor/ ivacaftor. Il secondo studio di quattro settimane, randomizzato, in doppio cieco, a controllo attivo ha coinvolto invece 107 pazienti con due mutazioni identiche di F508del.
 
