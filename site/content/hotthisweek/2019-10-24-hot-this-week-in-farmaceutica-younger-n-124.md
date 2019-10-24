@@ -32,7 +32,7 @@ Il CFTR è una proteina di membrana che svolge la funzione di canale ionico per 
 
 Trikafta è una combinazione di tre farmaci che prendono di mira la proteina CFTR difettosa. Aiuta le proteine ​​prodotte dalla mutazione del gene CFTR a funzionare in modo più efficace. Le terapie attualmente disponibili che colpiscono la proteina difettosa sono opzioni di trattamento per alcuni pazienti con fibrosi cistica, ma molti pazienti hanno mutazioni non incluse nel trattamento. 
 
-**Tezacaftor** è un correttore di CFTR selettivo, è in grado di aumentare la quantità di proteina CFTR portata alla superficie della cellula, con conseguente aumento del trasporto di cloruro in vitro. 
+**Tezacaftor** e **elexacaftor **sono correttore di CFTR selettivi, in grado cioè di aumentare la quantità di proteina CFTR portata alla superficie della cellula, con conseguente aumento del trasporto di cloruro in vitro. 
 
 **Ivacaftor** è un potenziatore di CFTR che incrementa la probabilità di apertura del canale di CFTR sulla superficie della cellula, aumentando il trasporto di cloruro. Perché ivacaftor funzioni, la proteina CFTR deve essere presente sulla superficie della cellula. Ivacaftor può potenziare la proteina CFTR portata alla superficie della cellula da tezacaftor, determinando un ulteriore potenziamento del trasporto di cloruro rispetto a ciascuno dei principi attivi da solo. 
 
