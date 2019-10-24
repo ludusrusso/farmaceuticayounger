@@ -26,7 +26,7 @@ La Food and Drug Administration statunitense ha approvato [Trikafta (elexacaftor
 
 La fibrosi cistica è una malattia genetica cronica, progressiva e spesso fatale, che colpisce principalmente l'apparato respiratorio e digerente e provoca la formazione di muco denso che si accumula nei polmoni, nel tratto digestivo e in altre parti del corpo. Porta a gravi problemi respiratori e digestivi, nonché ad altre complicazioni come infezioni e diabete. 
 
-La fibrosi cistica è causata da una proteina difettosa legata a mutazioni del gene **CFTR** (Cystic fibrosis transmembrane conductance regulator). Ci sono circa 2.000 mutazioni conosciute del gene CFTR, ma la mutazione più comune è la mutazione _F508del_ che ha un'incidenza del 90% nei pazienti affetti da fibrosi cistica e che ad oggi rappresentano circa 27.000 persone negli Stati Uniti.
+La fibrosi cistica è causata da una proteina difettosa legata a mutazioni del gene **CFTR** (Cystic fibrosis transmembrane conductance regulator). Ci sono circa 2.000 mutazioni conosciute del gene CFTR, ma la mutazione più comune è la mutazione F508del che ha un'incidenza del 90% nei pazienti affetti da fibrosi cistica e che ad oggi rappresentano circa 27.000 persone negli Stati Uniti.
 
 Il CFTR è una proteina di membrana che svolge la funzione di canale ionico per lo ione cloruro nelle cellule dei vertebrati.  I difetti del gene che codifica per questa proteina portano ai tipici sintomi della fibrosi cistica. 
 
