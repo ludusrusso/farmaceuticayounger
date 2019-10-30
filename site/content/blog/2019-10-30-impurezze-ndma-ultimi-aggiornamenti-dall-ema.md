@@ -6,6 +6,8 @@ date: '2019-10-30T12:00:06+01:00'
 ---
 Nel 2018, la N-nitrosodimetilammina (NDMA), una impurezza derivata dal processo chimico di sintesi dell'API è stata rilevata in una classe di medicinali per la pressione sanguigna noti come "sartani". Ciò ha portato ad alcuni richiami dei prodotti e ad una revisione normativa, che ha fissato nuovi rigorosi requisiti di produzione per questi medicinali. Poco dopo, è stata rilevata la stessa impurezza in lotti di ranitidina, un medicinale usato per il trattamento di bruciori di stomaco e ulcere dello stomaco. Il Comitato per i medicinali per uso umano (CHMP) dell'Agenzia ha avviato una revisione in merito.
 
+I titolari dell'autorizzazione all'immissione in commercio di tutti i medicinali per uso umano contenenti ingredienti farmaceutici attivi (API) sintetizzati chimicamente dovrebbero collaborare con i produttori dei loro API e dei prodotti finiti al fine di valutare il rischio di presenza di nitrosammine nei loro prodotti e adottare adeguate misure di attenuazione dei rischi associati.
+
 L'NDMA appartiene alla classe delle nitrosammine, composti chimici classificati come probabili agenti cancerogeni per l'uomo sulla base di studi effettuati sugli animali. Esiste un rischio molto basso che le impurità di nitrosamina ai livelli rilevati nei medicinali incriminati possano causare il cancro nell'uomo.
 
 **L'EMA ha chiesto ai titolari di autorizzazioni all'immissione in commercio di adottare misure precauzionali per mitigare il rischio di formazione o presenza di nitrosamina durante la produzione di tutti i medicinali contenenti sostanze attive sintetizzate chimicamente.**
@@ -23,6 +25,8 @@ I titolari delle autorizzazioni all'immissione in commercio devono attenersi all
 **Fase 3:** richiedere eventuali modifiche necessarie al processo di produzione risultanti da questa revisione utilizzando le procedure normative stabilite.
 
 Ciascuna fase deve essere sottoscritta ed inviata, mediante dei moduli forniti sul portale all'Agenzia Europea.
+
+Al fine di intraprendere l'analisi dei medicinali identificati a rischio, i titolari dell'autorizzazione all'immissione in commercio possono anche utilizzare strumenti come Analisi degli effetti della modalità di fallimento (FMEA) e Analisi della modalità di fallimento, Analisi degli effetti e della criticità (FMECA) come indicato nelle linee guida ICH Q9 sulla gestione del rischio di qualità 
 
 L'EMA ha previsto una tempistica per il completamento di queste valutazioni fissato per il 26 settembre 2022. Questa data potrebbe essere abbreviata in caso di risultati che indicano un rischio più elevato per la salute pubblica.
 
