@@ -27,3 +27,5 @@ Ciascuna fase deve essere sottoscritta ed inviata, mediante dei moduli forniti s
 L'EMA ha previsto una tempistica per il completamento di queste valutazioni fissato per il 26 settembre 2022. Questa data potrebbe essere abbreviata in caso di risultati che indicano un rischio più elevato per la salute pubblica.
 
 L'EMA ha pubblicato un documento di domande e risposte per i titolari di autorizzazioni all'immissione in commercio che stanno attualmente rivedendo i loro medicinali per la possibile presenza di nitrosammine e testando i prodotti a rischio. Il documento elenca le  potenziali fonti di contaminazione da nitrosamina  finora identificate. Queste informazioni sono state fornite dall'Agenzia per supportare le aziende nella revisione dei loro processi di produzione.
+
+Fonte: https://www.ema.europa.eu/en/human-regulatory/post-authorisation/referral-procedures/nitrosamine-impurities-overview
