@@ -32,4 +32,22 @@ L'EMA ha previsto una tempistica per il completamento di queste valutazioni fiss
 
 L'EMA ha pubblicato un documento di domande e risposte per i titolari di autorizzazioni all'immissione in commercio che stanno attualmente rivedendo i loro medicinali per la possibile presenza di nitrosammine e testando i prodotti a rischio. Il documento elenca le  potenziali fonti di contaminazione da nitrosamina  finora identificate. Queste informazioni sono state fornite dall'Agenzia per supportare le aziende nella revisione dei loro processi di produzione.
 
+Le potenziali fonti di impurità alla nitrosamina attualmente identificate sono elencate di seguito:
+
+1. Uso di nitrito di sodio (NaNO2) o altri agenti nitrosanti, in presenza di terziario secondario ammine o sali di ammonio quaternario nell'ambito delle stesse o diverse fasi del processo (se riporto può si verificano).
+
+2. Uso di nitrito di sodio (NaNO2) o altri agenti nitrosanti, in combinazione con reagenti, solventi e catalizzatori, che sono sensibili al degrado delle ammine secondarie o terziarie, all'interno della fasi del processo uguali o diverse (in caso di riporto).
+
+3. Uso di materie prime contaminate nel processo di produzione API (ad esempio solventi, reagenti e catalizzatori).
+
+4. Uso di materiali recuperati (ad esempio solventi, reagenti e catalizzatori), compreso il recupero esternalizzato a terzi che non sono a conoscenza del contenuto dei materiali che stanno elaborando e di routine processi di recupero effettuati in apparecchiature non dedicate.
+
+5. Utilizzo di materiali di partenza e prodotti intermedi contaminati forniti dai fornitori che utilizzano i processi o materie prime che possono consentire la formazione di nitrosamina.
+
+6. Le contaminazioni incrociate dovute a processi diversi si svolgono sulla stessa linea e sono correlate all'operatore errori come inadeguate separazioni di fase.
+
+7. Processi di degradazione di materie prime, sostanze intermedie e sostanze farmaceutiche, comprese quelle indotta dalla reattività intrinseca in combinazione con il riporto di nitrito di sodio (NaNO2) o altro agenti nitrosanti. Ciò potrebbe verificarsi potenzialmente anche durante la formulazione o lo stoccaggio del prodotto finito.
+
+8. Utilizzo di determinati materiali di imballaggio. La contaminazione da nitrosamina è stata osservata da un titolare dell'autorizzazione all'immissione in commercio in un prodotto finito conservato in blister. Il titolare dell'autorizzazione all'immissione in commercio ha ipotizzato che la pellicola protettiva contenente il primer per stampa nitrocellulosica possa reagire con le ammine nell'inchiostro di stampa per generare nitrosammine, che verrebbero trasferite al prodotto in determinate condizioni del processo di confezionamento.
+
 Fonte: https://www.ema.europa.eu/en/human-regulatory/post-authorisation/referral-procedures/nitrosamine-impurities-overview
