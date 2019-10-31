@@ -3,10 +3,13 @@ title: 'Impurezze NDMA: ultimi aggiornamenti dall''EMA'
 tags:
   - articoli
 date: '2019-10-30T12:00:06+01:00'
+image: /img/xx.png
 ---
-Nel 2018, la N-nitrosodimetilammina (NDMA), una impurezza derivata dal processo chimico di sintesi dell'API è stata rilevata in una classe di medicinali per la pressione sanguigna noti come "sartani". Ciò ha portato ad alcuni richiami dei prodotti e ad una revisione normativa, che ha fissato nuovi rigorosi requisiti di produzione per questi medicinali. Poco dopo, è stata rilevata la stessa impurezza in lotti di ranitidina, un medicinale usato per il trattamento di bruciori di stomaco e ulcere dello stomaco. Il Comitato per i medicinali per uso umano (CHMP) dell'Agenzia ha avviato una revisione in merito.
+![](/img/xx.png)
 
-I titolari dell'autorizzazione all'immissione in commercio di tutti i medicinali per uso umano contenenti ingredienti farmaceutici attivi (API) sintetizzati chimicamente dovrebbero collaborare con i produttori dei loro API e dei prodotti finiti al fine di valutare il rischio di presenza di nitrosammine nei loro prodotti e adottare adeguate misure di attenuazione dei rischi associati.
+Nel 2018, la N-nitrosodimetilammina (NDMA), una impurezza derivata dal processo chimico di sintesi di API (principi attivi) è stata rilevata in una classe di medicinali per la pressione sanguigna noti come sartani. Ciò ha portato ad alcuni richiami dei prodotti e ad una revisione normativa, che ha fissato nuovi rigorosi requisiti di produzione per questi medicinali. Poco dopo, è stata rilevata la stessa impurezza in lotti di ranitidina, un medicinale usato per il trattamento di bruciori di stomaco e ulcere dello stomaco. Il Comitato per i medicinali per uso umano (CHMP) dell'Agenzia ha avviato una revisione in merito.
+
+I titolari dell'autorizzazione all'immissione in commercio di tutti i medicinali per uso umano contenenti API sintetizzati chimicamente dovrebbero collaborare con i produttori dei loro API e dei prodotti finiti al fine di valutare il rischio di presenza di nitrosammine nei loro prodotti e adottare adeguate misure di attenuazione dei rischi associati.
 
 L'NDMA appartiene alla classe delle nitrosammine, composti chimici classificati come probabili agenti cancerogeni per l'uomo sulla base di studi effettuati sugli animali. Esiste un rischio molto basso che le impurità di nitrosamina ai livelli rilevati nei medicinali incriminati possano causare il cancro nell'uomo.
 
