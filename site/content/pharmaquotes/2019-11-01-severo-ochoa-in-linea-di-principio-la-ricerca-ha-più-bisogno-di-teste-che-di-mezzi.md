@@ -3,6 +3,16 @@ title: >-
   SEVERO OCHOA - "In linea di principio, la ricerca ha più bisogno di teste che
   di mezzi."
 date: '2019-11-01T13:48:02+01:00'
+description: >-
+  Il 1 novembre 1993 moriva a Madrid, Severo Ochoa de Albornoz, biochimico
+  spagnolo naturalizzato statunitense insignito assieme allo statunitense Arthur
+  Kornberg del Premio Nobel per la medicina nel 1959 per le ricerche effettuate
+  nella sintesi dell'RNA.
+socialDesc: >-
+  Il 1 novembre 1993 moriva a Madrid, Severo Ochoa de Albornoz, biochimico
+  spagnolo naturalizzato statunitense insignito assieme allo statunitense Arthur
+  Kornberg del Premio Nobel per la medicina nel 1959 per le ricerche effettuate
+  nella sintesi dell'RNA.
 image: /img/805eda0b-8a92-451a-a975-64324df79551.png
 ---
 ![](/img/805eda0b-8a92-451a-a975-64324df79551.png)
