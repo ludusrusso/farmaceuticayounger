@@ -2,7 +2,7 @@
 title: >-
   SEVERO OCHOA - "In linea di principio, la ricerca ha più bisogno di teste che
   di mezzi."
-date: '2019-11-01T13:48:02+01:00'
+date: '2019-11-01T08:48:02+01:00'
 description: >-
   Il 1 novembre 1993 moriva a Madrid, Severo Ochoa de Albornoz, biochimico
   spagnolo naturalizzato statunitense insignito assieme allo statunitense Arthur
