@@ -1,5 +1,5 @@
 ---
-title: 'Impurezze NDMA: ultimi aggiornamenti dall’EMA e dalla FDA'
+title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.125
 date: '2019-11-02T19:03:07+01:00'
 image: /img/032a7db3-f526-4726-9eec-8c972eefc030.png
 ---
