@@ -34,7 +34,7 @@ L'EMA ha pubblicato un documento dal titolo **Questions and answers on “Inform
 Le potenziali fonti di impurità di nitrosamina attualmente identificate sono state elencate in questo documento e sono riportate di seguito:
 
 1. Uso di nitrito di sodio (NaNO2) o altri agenti nitrosanti, in presenza di ammine secondarie, terziarie
-    o sali di ammonio quaternario all'interno delle stesse o diverse fasi del processo.
+   o sali di ammonio quaternario all'interno delle stesse o diverse fasi del processo.
 2. Uso di nitrito di sodio (NaNO2) o altri agenti nitrosanti, in combinazione con reagenti, solventi
    e catalizzatori, che sono sensibili alla degradazione delle ammine secondarie o terziarie, all'interno delle stesse o diverse fasi del processo.
 3. Uso di materie prime contaminate nel processo di produzione API (ad esempio solventi, reagenti e
@@ -47,15 +47,15 @@ Le potenziali fonti di impurità di nitrosamina attualmente identificate sono st
 
 Fonte: https://www.ema.europa.eu/en/human-regulatory/post-authorisation/referral-procedures/nitrosamine-impurities-overview
 
-![](/img/e515e6db-b9d3-4ccd-959d-dbd4d9c08197.png)
+![null](/img/e515e6db-b9d3-4ccd-959d-dbd4d9c08197.png)
 
-Nel corso delle ultime settimane, la FDA ha studiato dal suo canto l’impurezza N-nitrosodimetilammina (NDMA) nei farmaci contenenti ranitidina, comunemente noto con il marchio Zantac.
+Nel corso delle ultime settimane, la FDA ha studiato dal suo canto l’impurezza N-nitrosodimetilammina (NDMA) nei farmaci contenenti ranitidina, comunemente noti con il marchio Zantac.
 
-L'agenzia statunitense ha testato numerosi prodotti contenenti ranitidina negli ultimi mesi e ha pubblicato sul sito ufficiale un riepilogo dei risultati condotti ad oggi. Attraverso i test finora condotti l’Agenzia ha dichiarato di aver trovato livelli di NDMA nella ranitidina simili ai livelli a cui una persona sarebbe esposto se avesse mangiato cibi comuni come carni grigliate o affumicate. Altri test sono stati condotti per simulare cosa succede alla ranitidina all’interno dell’ambiente acido dello stomaco e i risultati hanno mostrato che l'NDMA non si forma all’interno dello stomaco, ne nell'intestino tenue. Tuttavia, ulteriori studi dovranno essere condotti per testare i farmaci nel corpo umano nel tentativo di capire fino in fondo se la ranitidina una volta ingerita possa portare alla formazione di NDMA.
+L'Agenzia statunitense ha testato numerosi prodotti contenenti ranitidina e ha pubblicato sul sito ufficiale un riepilogo dei risultati condotti ad oggi. Attraverso i test finora condotti l’Agenzia ha dichiarato di aver trovato livelli di NDMA nella ranitidina simili ai livelli a cui una persona sarebbe esposta se avesse mangiato cibi comuni come carni grigliate o affumicate. Altri test sono stati condotti per simulare cosa succede alla ranitidina all’interno dell’ambiente acido dello stomaco e nell’intestino tenue e i risultati hanno mostrato che l'NDMA non si forma all’interno dello stomaco, ne nell'intestino tenue. Tuttavia, ulteriori studi dovranno essere condotti per testare i farmaci nel corpo umano nel tentativo di capire fino in fondo se la ranitidina una volta ingerita possa portare alla formazione di NDMA.
 
-L'assunzione accettabile calcolata per NDMA nei farmaci si basa sui metodi descritti nella valutazione ICH Guidance M7 (R1) del 2018 e controllo delle impurità reattive (mutagene) del DNA nei prodotti farmaceutici per limitare il potenziale rischio cancerogeno. Qualora i produttori di ranitidina e nizatidina rilevino livelli di NDMA superiori ai limiti accettabili (96 nanogrammi al giorno o 0,32 ppm), dovranno provvedere volontariamente al richiamo dal mercato di ranitidina.
+L'assunzione accettabile calcolata per NDMA nei farmaci si basa sui metodi descritti nella valutazione ICH Guidance M7 (R1) del 2018 e controllo delle impurità reattive (mutagene) del DNA nei prodotti farmaceutici per limitare il potenziale rischio cancerogeno. Qualora i produttori di ranitidina e nizatidina rilevino livelli di NDMA superiori ai limiti accettabili (96 nanogrammi al giorno o 0,32 ppm), dovranno provvedere volontariamente al richiamo dal mercato dei farmaci in questione.
 
-La FDA ha chiesto, in questa ultima nota pubblicata sul sito ufficiale, ai produttori di continuare a condurre test di laboratorio per esaminare i livelli di NDMA nella ranitidina e nella nizatidina, nonché di inviare campioni alla FDA per essere testati dai nostri scienziati. 
+La FDA ha chiesto, in questa ultima nota pubblicata sul sito ufficiale, ai produttori di continuare a condurre test di laboratorio per esaminare i livelli di NDMA nella ranitidina e nella nizatidina, nonché di inviare campioni alla FDA per essere testati. 
 
 La FDA sta tutt’ora lavorando con i produttori per capire la vera fonte di NDMA presente nei farmaci.
 
