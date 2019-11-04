@@ -1,9 +1,11 @@
 ---
-title: 'LEWIS THOMAS - “La capacità di commettere piccoli errori è la vera meraviglia del DNA. Senza questa capacità speciale, saremmo ancora batteri anaerobici e non esisterebbe la musica "'
-date: 2018-07-07T07:30:24+00:00
-draft: false
-image: /img/lewis-thomas-la-capacita-di-commettere-piccoli-errori-e-la-vera-meraviglia-del-dna-senza-questa-capacita-speciale-saremmo-ancora-batteri-anaerobici-e-non-esisterebbe-la-musica.md/img_2516.jpg
-tags: [PharmaQuotes]
+title: >-
+  THOMAS LEWIS - “La capacità di commettere piccoli errori è la vera meraviglia
+  del DNA. Senza questa capacità speciale, saremmo ancora batteri anaerobici e
+  non esisterebbe la musica "
+date: 2018-07-07T07:30:24.000Z
+image: >-
+  /img/lewis-thomas-la-capacita-di-commettere-piccoli-errori-e-la-vera-meraviglia-del-dna-senza-questa-capacita-speciale-saremmo-ancora-batteri-anaerobici-e-non-esisterebbe-la-musica.md/img_2516.jpg
 ---
 
 ![IMG_2516.JPG](/img/lewis-thomas-la-capacita-di-commettere-piccoli-errori-e-la-vera-meraviglia-del-dna-senza-questa-capacita-speciale-saremmo-ancora-batteri-anaerobici-e-non-esisterebbe-la-musica.md/img_2516.jpg)
