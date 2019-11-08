@@ -12,15 +12,15 @@ socialDesc: >-
   farmaci del virus dell'immunodeficienza umana (HIV) di tipo 1. utilizzando la
   tecnologia di sequenziamento di nuova generazione (NGS).
 ---
-La Food and Drug Administration statunitense ha autorizzato la commercializzazione di un test per rilevare le mutazioni della resistenza ai farmaci del virus dell'immunodeficienza umana (HIV) di tipo 1. utilizzando la tecnologia di sequenziamento di nuova generazione (NGS). 
+La Food and Drug Administration statunitense ha autorizzato la commercializzazione di un test per rilevare le mutazioni della resistenza ai farmaci del virus dell'immunodeficienza umana (HIV) di tipo 1. utilizzando la tecnologia di sequenziamento di nuova generazione (NGS, next generation sequencing). 
 
 Il test di genotipizzazione HIV Sentosa SQ è il primo test di resistenza ai farmaci per l'HIV che utilizza la tecnologia NGS.
 
-Secondo un recente rapporto dei Centers for Disease Control and Prevention e dell'Organizzazione mondiale della sanità, la percentuale di persone che vivono con l'HIV in tutto il mondo che hanno resistenza ad alcuni farmaci per l'HIV è aumentata dall'11% al 29% dal 2001.
+Secondo un recente rapporto dei Centers for Disease Control and Prevention e dell'Organizzazione mondiale della sanità, la percentuale di persone che vivono con l'HIV in tutto il mondo e che manifestano resistenza ad alcuni farmaci per l'HIV è aumentata dall'11% al 29% dal 2001.
 
-Se non trattata, l'infezione da HIV può portare alla sindrome da immunodeficienza acquisita (AIDS). La malattia viene trasmessa attraverso il contatto diretto con fluidi corporei infetti da HIV come il sangue e la maggior parte delle infezioni da HIV negli Stati Uniti provengono dall'HIV-1. Secondo il CDC, nel 2016 oltre 1 milione di americani convivevano con l'HIV.
+La malattia viene trasmessa attraverso il contatto diretto con fluidi corporei infetti da HIV come il sangue e la maggior parte delle infezioni da HIV negli Stati Uniti provengono dall'HIV-1. Se non trattata, l'infezione da HIV può portare alla sindrome da immunodeficienza acquisita (AIDS). Secondo il CDC, nel 2016 oltre 1 milione di americani convivevano con l'HIV.
 
-L'attuale standard di cura per i pazienti con HIV-1 è la terapia antiretrovirale, nota anche come ART, l'uso quotidiano di una combinazione di farmaci per trattare l'HIV sopprimendo il virus. Secondo il National Institutes of Health, è un trattamento salvavita che può consentire ai pazienti con HIV di condurre una vita lunga e sana ma non è una cura.
+L'attuale standard di cura per i pazienti con HIV-1 è la terapia antiretrovirale, nota anche come ART (antiretroviral therapy), che prevede l'uso quotidiano di una combinazione di farmaci per trattare l'HIV sopprimendo il virus. Secondo il National Institutes of Health, è un trattamento salvavita che può consentire ai pazienti con HIV di condurre una vita lunga e sana ma non rappresenta una cura.
 
 Tradizionalmente, il monitoraggio della carica virale di un paziente è stato fatto per valutare l'efficacia dei trattamenti. L'aumento delle cariche virali indica che il virus potrebbe essere mutato e che l'attuale regime di un paziente non è più efficace nel sopprimerlo. Una volta che il virus è mutato e si sviluppa la resistenza ai farmaci, in genere una persona deve cambiare farmaci per evitare che il virus si moltiplichi.
 
