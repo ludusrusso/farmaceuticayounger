@@ -22,7 +22,7 @@ La malattia viene trasmessa attraverso il contatto diretto con fluidi corporei i
 
 L'attuale standard di cura per i pazienti con HIV-1 è la terapia antiretrovirale, nota anche come ART (antiretroviral therapy), che prevede l'uso quotidiano di una combinazione di farmaci per trattare l'HIV sopprimendo il virus. Secondo il National Institutes of Health, è un trattamento salvavita che può consentire ai pazienti con HIV di condurre una vita lunga e sana ma non rappresenta una cura.
 
-Tradizionalmente, il monitoraggio della carica virale di un paziente è stato fatto per valutare l'efficacia dei trattamenti. L'aumento delle cariche virali indica che il virus potrebbe essere mutato e che l'attuale regime di un paziente non è più efficace nel sopprimerlo. Una volta che il virus è mutato e si sviluppa la resistenza ai farmaci, in genere una persona deve cambiare farmaci per evitare che il virus si moltiplichi.
+Il monitoraggio della carica virale di un paziente viene fatto per valutare l'efficacia dei trattamenti. L'aumento delle cariche virali indica che il virus potrebbe essere mutato e che l'attuale regime di un paziente non è più efficace nel sopprimerlo. Una volta che il virus è mutato e si sviluppa la resistenza ai farmaci, in genere una persona deve cambiare farmaci per evitare che il virus si moltiplichi.
 
 Questa diagnostica offre un nuovo modo per selezionare opzioni di trattamento efficaci. 
 
