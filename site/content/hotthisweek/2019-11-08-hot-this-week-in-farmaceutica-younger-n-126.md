@@ -2,7 +2,7 @@
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.126
 date: '2019-11-08T11:24:19+01:00'
 ---
-La Food and Drug Administration statunitense ha autorizzato la commercializzazione di un test per rilevare le mutazioni della resistenza ai farmaci di tipo 1 del virus dell'immunodeficienza umana (HIV) utilizzando la tecnologia di sequenziamento di nuova generazione (NGS). 
+La Food and Drug Administration statunitense ha autorizzato la commercializzazione di un test per rilevare le mutazioni della resistenza ai farmaci del virus dell'immunodeficienza umana (HIV) di tipo 1. utilizzando la tecnologia di sequenziamento di nuova generazione (NGS). 
 
 Il test di genotipizzazione HIV Sentosa SQ è il primo test di resistenza ai farmaci per l'HIV che utilizza la tecnologia NGS.
 
