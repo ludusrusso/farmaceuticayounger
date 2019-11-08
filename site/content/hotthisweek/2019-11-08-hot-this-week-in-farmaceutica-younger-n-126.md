@@ -6,9 +6,9 @@ La Food and Drug Administration statunitense ha autorizzato la commercializzazio
 
 Il test di genotipizzazione HIV Sentosa SQ è il primo test di resistenza ai farmaci per l'HIV che utilizza la tecnologia NGS.
 
-La giusta combinazione di antivirali può ridurre le cariche virali o la quantità di virus nel flusso sanguigno e aiutare a mantenere sani i pazienti con HIV per molti anni. Tuttavia, secondo un recente rapporto dei Centers for Disease Control and Prevention e dell'Organizzazione mondiale della sanità, la percentuale di persone che vivono con l'HIV in tutto il mondo che hanno resistenza ad alcuni farmaci per l'HIV è aumentata dall'11% al 29% dal 2001.
+Secondo un recente rapporto dei Centers for Disease Control and Prevention e dell'Organizzazione mondiale della sanità, la percentuale di persone che vivono con l'HIV in tutto il mondo che hanno resistenza ad alcuni farmaci per l'HIV è aumentata dall'11% al 29% dal 2001.
 
-Se non trattata, l'infezione da HIV può portare alla sindrome da immunodeficienza acquisita (AIDS). Viene trasmesso attraverso il contatto diretto con fluidi corporei infetti da HIV come il sangue e la maggior parte delle infezioni da HIV negli Stati Uniti provengono dall'HIV-1. Secondo il CDC, nel 2016 c'erano oltre 1 milione di americani che vivevano con l'HIV.
+Se non trattata, l'infezione da HIV può portare alla sindrome da immunodeficienza acquisita (AIDS). La malattia viene trasmessa attraverso il contatto diretto con fluidi corporei infetti da HIV come il sangue e la maggior parte delle infezioni da HIV negli Stati Uniti provengono dall'HIV-1. Secondo il CDC, nel 2016 oltre 1 milione di americani convivevano con l'HIV.
 
 L'attuale standard di cura per i pazienti con HIV-1 è la terapia antiretrovirale, nota anche come ART, l'uso quotidiano di una combinazione di farmaci per trattare l'HIV sopprimendo il virus. Secondo il National Institutes of Health, è un trattamento salvavita che può consentire ai pazienti con HIV di condurre una vita lunga e sana ma non è una cura.
 
