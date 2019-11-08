@@ -11,7 +11,10 @@ socialDesc: >-
   commercializzazione di un test per rilevare le mutazioni della resistenza ai
   farmaci del virus dell'immunodeficienza umana (HIV) di tipo 1. utilizzando la
   tecnologia di sequenziamento di nuova generazione (NGS).
+image: /img/x.png
 ---
+![](/img/x.png)
+
 La Food and Drug Administration statunitense ha autorizzato la commercializzazione di [HIV Sentosa SQ](https://www.fda.gov/news-events/press-announcements/fda-authorizes-marketing-first-next-generation-sequencing-test-detecting-hiv-1-drug-resistance), un test per rilevare le mutazioni della resistenza ai farmaci del virus dell'immunodeficienza umana (HIV) di tipo 1. utilizzando la tecnologia di sequenziamento di nuova generazione (NGS, next generation sequencing). 
 
 Il test di genotipizzazione HIV Sentosa SQ è il primo test di resistenza ai farmaci per l'HIV che utilizza la tecnologia NGS.
