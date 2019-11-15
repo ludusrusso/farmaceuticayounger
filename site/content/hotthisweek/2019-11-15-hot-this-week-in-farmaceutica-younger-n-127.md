@@ -1,0 +1,15 @@
+---
+title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.127
+date: '2019-11-15T10:15:58+01:00'
+---
+La Food and Drug Administration statunitense ha approvato [Fetroja (cefiderocol)](https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibacterial-drug-treat-complicated-urinary-tract-infections-part-ongoing-efforts), farmaco antibatterico per il trattamento di pazienti di età pari o superiore a 18 anni con complicate infezioni del tratto urinario (cUTI), comprese le infezioni renali causate da microrganismi Gram-negativi sensibili, che hanno limitato o nessuna opzione di trattamento alternativa.
+
+"L'approvazione odierna fornisce un'opzione di trattamento aggiuntiva per i pazienti con cUTI che hanno opzioni di trattamento alternative limitate o assenti", ha affermato John Farley, MD, MPH, direttore ad interim dell'Office of Infectious Diseases nel Centro di valutazione e ricerca sui farmaci della FDA. "Una sfida globale chiave che la FDA affronta come agenzia di sanità pubblica sta affrontando la minaccia di infezioni resistenti agli antimicrobici, come i cUTI. Questa approvazione rappresenta un ulteriore passo avanti negli sforzi complessivi della FDA per garantire che i farmaci antimicrobici sicuri ed efficaci siano disponibili per i pazienti per il trattamento delle infezioni. "
+
+La sicurezza e l'efficacia di Fetroja sono state dimostrate in uno studio su 448 pazienti con cUTI. Dei pazienti a cui è stato somministrato Fetroja, il 72,6% ha avuto una risoluzione dei sintomi e l'eradicazione dei batteri circa sette giorni dopo il completamento del trattamento, rispetto al 54,6% nei pazienti che hanno ricevuto un antibiotico alternativo. I tassi di risposta clinica erano simili tra i due gruppi di trattamento.
+
+L'etichettatura per Fetroja include un avvertimento riguardante il più alto tasso di mortalità per tutte le cause osservato nei pazienti trattati con Fetroja rispetto a quelli trattati con altri antibiotici in uno studio su pazienti in condizioni critiche con infezioni batteriche Gram-negative multiresistenti. La causa dell'aumento della mortalità non è stata stabilita. Alcune delle morti erano il risultato di un peggioramento o complicanze dell'infezione o di comorbilità sottostanti. Il più alto tasso di mortalità per tutte le cause è stato osservato nei pazienti trattati per polmonite acquisita in ospedale / associata al ventilatore (polmonite ienosocomiale), infezioni del flusso sanguigno o sepsi. La sicurezza e l'efficacia di Fetroja non sono state stabilite per il trattamento di questi tipi di infezione.
+
+Fetroja ha ricevuto la designazione di QIDP (Qualified Infectious Disease Product) della FDA . La designazione QIDP viene data ai prodotti antibatterici e antifungini destinati a trattare infezioni gravi o potenzialmente letali. Come parte della designazione QIDP, a Fetroja è stata concessa la revisione prioritaria in base alla quale l'obiettivo della FDA è quello di agire su un'iter regolatorio con tempistiche accelerate.
+
+La FDA ha concesso l'approvazione di Fetroja a Shionogi & Co., Ltd.
