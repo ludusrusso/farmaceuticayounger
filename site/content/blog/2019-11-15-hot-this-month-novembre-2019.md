@@ -28,4 +28,4 @@ Il CHMP si è espressa sui rischi che _Xeljanz_ (tofacitinib) potrebbe causare n
 
 Le domande di autorizzazione all'immissione in commercio per _Linhaliq_ (ciprofloxacina) e _Luxceptar_ (cellule T vitali) sono state ritirate. Linhaliq era destinato al trattamento e alla prevenzione di riacutizzazioni di bronchiectasie per fibrosi non cistica in pazienti con infezione polmonare a lungo termine causata da batteri Pseudomonas aeruginosa. Luxceptar è stato progettato per il trattamento di pazienti con tumori del sangue sottoposti a un tipo di trapianto di cellule staminali del sangue.
 
-È stata anche ritirata l'applicazione per estendere l'uso di _Opsumit_ (macitentan) per il trattamento dell'ipertensione polmonare tromboembolica cronica, una condizione che provoca la pressione alta nei polmoni.
+È stata anche ritirata l'applicazione per estendere l'uso di _Opsumit_ (macitentan) per il trattamento dell'ipertensione polmonare tromboembolica cronica, una condizione che provoca pressione alta nei polmoni.
