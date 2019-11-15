@@ -34,6 +34,6 @@ La sicurezza e l'efficacia di Fetroja rispetto a imipenem/cilastatina (IPM/CS) s
 
 Fetroja ha ricevuto la designazione di **QIDP** (Qualified Infectious Disease Product) della FDA . La designazione QIDP viene data ai prodotti antibatterici e antifungini destinati a trattare infezioni gravi o potenzialmente letali. Come parte della designazione QIDP, a Fetroja è stata concessa la revisione prioritaria in base alla quale la FDA garantirà un'iter regolatorio accelarato. 
 
-Shionogi prevede di rendere disponibile sul mercato statunitense Fetroja all'inizio del 2020. Shionogi ha inoltre presentato una domanda di autorizzazione all'immissione in commercio di cefiderocol all'EMA ad Aprile 2019.
+Shionogi prevede di rendere disponibile sul mercato statunitense Fetroja all'inizio del 2020. Shionogi ha inoltre presentato una domanda di autorizzazione all'immissione in commercio di Fetroja all'EMA ad Aprile 2019.
 
 La FDA ha concesso l'approvazione di Fetroja a Shionogi & Co., Ltd.
