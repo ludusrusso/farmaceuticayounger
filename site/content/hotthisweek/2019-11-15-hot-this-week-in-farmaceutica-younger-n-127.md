@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.127
-date: '2019-11-15T10:15:58+01:00'
+date: '2019-11-16T10:15:58+01:00'
 description: >-
   La Food and Drug Administration statunitense ha approvato Fetroja
   (cefiderocol), un farmaco antibatterico dotato di un nuovo meccanismo d'azione
@@ -17,7 +17,11 @@ socialDesc: >-
   di trattamento disponibile, inclusa la pielonefrite, causate da microrganismi
   Gram-negativi sensibili: Escherichia coli , Klebsiella pneumoniae , Proteus
   mirabilis , Pseudomonas aeruginosa , e Enterobacter cloacae.
+image: /img/05e74556-0735-4b7d-987d-8f2add0f74dd.png
 ---
+![](/img/05e74556-0735-4b7d-987d-8f2add0f74dd.png)
+
+\
 La Food and Drug Administration statunitense ha approvato [Fetroja (cefiderocol)](https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibacterial-drug-treat-complicated-urinary-tract-infections-part-ongoing-efforts), un farmaco antibatterico dotato di un nuovo meccanismo d'azione nel trattamento di pazienti di età pari o superiore a 18 anni con complicate infezioni del tratto urinario (cUTI), che hanno una limitata o nessuna opzione di trattamento disponibile, inclusa la pielonefrite, causate da microrganismi Gram-negativi sensibili: Escherichia coli , Klebsiella pneumoniae , Proteus mirabilis , Pseudomonas aeruginosa , e Enterobacter cloacae. 
 
 Oltre 2,8 milioni di infezioni resistenti agli antibiotici si verificano ogni anno negli Stati Uniti. Le morti accertate sono di oltre 35.000 persone negli Stati Uniti e circa 25.000 nell'Unione Europea. L'Organizzazione Mondiale della Sanità e i Centri per il controllo e la prevenzione delle malattie hanno identificato i ceppi di Enterobacteriaceae, P. aeruginosa e A.baumannii resistenti ai carbapenemi come la massima priorità nella ricerca e nello sviluppo di nuovi antibiotici. 
