@@ -3,7 +3,10 @@ title: HOT THIS MONTH - Novembre 2019
 tags:
   - hotthismonth
 date: '2019-11-15T14:50:20+01:00'
+image: /img/ea98622d-a8a7-4926-9eef-0d9ae52445ba.png
 ---
+![](/img/ea98622d-a8a7-4926-9eef-0d9ae52445ba.png)
+
 Il comitato per i medicinali per uso umano dell'EMA (CHMP) ha raccomandato l'approvazione di 7 medicinali durante la [riunione di novembre 2019](https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2019).
 
 Il CHMP ha raccomandato il rilascio dell'autorizzazione all'immissione in commercio per **Isturisa **(osilodrostat) per il trattamento della sindrome di Cushing, un raro disturbo dovuto all'eccessiva produzione di ormoni corticosteroidi. 
