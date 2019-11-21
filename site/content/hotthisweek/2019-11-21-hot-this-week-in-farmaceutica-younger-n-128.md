@@ -12,8 +12,8 @@ Prima dell'approvazione di oggi, le opzioni di trattamento fornivano al parziale
 
 Givosiran è un farmaco basato sulla RNAi (RNA interference), con target specifico per l’ALAS1 (acido aminolevulinico sintasi 1), una proteina responsabile della formazione dell’acido aminolevulinico (ALA), coinvolto nella sintesi dell’eme. La somministrazione di givosiran porta alla riduzione dei livelli di ALAS1 nel fegato, di conseguenza, porta i precursori neurotossici dell’eme, l’acido aminolevulinico (ALA) e il porfobilinogeno (PBG), a livelli quasi normali. 
 
-L'approvazione di Givlaari si basava sui risultati di uno studio clinico condotto su 94 pazienti con porfiria epatica acuta trattati con placebo e Givlaari. Le prestazioni di Givlaari sono state misurate dal tasso di attacchi di porfiria che hanno richiesto ricoveri, visite sanitarie urgenti o infusione endovenosa di hemin. I pazienti che hanno ricevuto Givlaari hanno avuto il 70% in meno di attacchi rispetto ai pazienti che hanno ricevuto il placebo.
+L'approvazione di Givlaari si basava sui risultati di uno studio clinico condotto su 94 pazienti con porfiria epatica acuta trattati con placebo e Givlaari. Le prestazioni di Givlaari sono state misurate dal tasso di attacchi di porfiria che hanno richiesto ricoveri, visite sanitarie urgenti o infusione endovenosa di emina, una molecola inibitrice derivata dall'emoglobina. I pazienti che hanno ricevuto Givlaari hanno avuto il 70% in meno di attacchi rispetto ai pazienti che hanno ricevuto il placebo.
 
-La FDA ha concesso a Givlaari la designazione di Breakthrough Therapy e di Priority Review. Givlaari ha anche ricevuto la designazione di farmaco orfano, che fornisce incentivi per assistere e incoraggiare lo sviluppo di farmaci per le malattie rare. 
+La FDA ha concesso a Givlaari la designazione di [Breakthrough Therapy ](https://www.farmaceuticayounger.science/blog/2018/12/breakthrough-therapy/)e di Priority Review. Givlaari ha anche ricevuto la designazione di farmaco orfano, che fornisce incentivi per assistere e incoraggiare lo sviluppo di farmaci per le malattie rare. 
 
 La FDA ha concesso l'approvazione di Givlaari a Alnylam Pharmaceuticals.
