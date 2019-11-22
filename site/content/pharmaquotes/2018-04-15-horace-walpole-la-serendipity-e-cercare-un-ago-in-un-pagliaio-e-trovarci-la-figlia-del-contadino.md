@@ -23,9 +23,9 @@ socialDesc: >-
   impatto ma racchiude in sé intuizione, fantasia e acume pratico. La
   serendipity racchiude in sè il tipico elemento della ricerca scientifica,
   quando spesso scoperte importanti avvengono mentre si stava ricercando altro. 
-image: /img/horace.png
+image: /img/f9bd119a-c2cd-44e7-b8d4-0cec16529de9.png
 ---
-![null](/img/horace.png)
+![null](/img/f9bd119a-c2cd-44e7-b8d4-0cec16529de9.png)
 
 Il termine [**Serendipity**](https://www.farmaceuticayounger.science/blog/2017/03/serendipity/) deriva da _Serendip,_ l’antico nome persiano dello Sri Lanka e indica lo scoprire una cosa non cercata mentre se ne sta cercando un’altra. Il neologismo fu coniato nel XVIII secolo dallo scrittore Horace Walpole che lo usò per la prima volta in una lettera a un suo amico, ispirato dalla fiaba persiana dei “Tre principi di Serendippo” scritta da Cristoforo Armeno. Non è pura e mera casualità, come potrebbe portarci a pensare di prima impatto ma racchiude in sé intuizione, fantasia e acume pratico. La serendipity racchiude in sè il tipico elemento della ricerca scientifica, quando spesso scoperte importanti avvengono mentre si stava ricercando altro. 
 
