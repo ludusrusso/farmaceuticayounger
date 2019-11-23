@@ -32,3 +32,7 @@ Il termine [**Serendipity**](https://www.farmaceuticayounger.science/blog/2017/0
 Per meglio comprendere l’acume che si cela dietro il termine calza a pennello la definizione che ne diede il ricercatore biomedico americano **Julius H. Comroe**: “La Serendipity è cercare un ago in un pagliaio e trovarci la figlia del contadino“. 
 
 > Serendipity is looking in a haystack for a needle and discovering a farmer's daughter.
+>
+> Illustrazione: Francesco Montesanti (www.rivistamicron.it)
+>
+>
