@@ -11,7 +11,10 @@ socialDesc: >-
   Il concetto di biologico, quando si parla di farmaci, non ha niente a che fare
   con il concetto di “bio” a cui ci riferiamo quando parliamo di pomodori, uova
   o cotone.
+image: /img/ea1c4173-b36e-42b2-b188-8aeec211df9a.png
 ---
+![](/img/ea1c4173-b36e-42b2-b188-8aeec211df9a.png)
+
 Il concetto di biologico, quando si parla di farmaci, non ha niente a che fare con il concetto di “bio” a cui ci riferiamo quando parliamo di pomodori, uova o cotone. 
 
 I **farmaci biologici** sono composti estremamente complessi che, per essere prodotti, hanno bisogno di sofisticate biotecnologie che si basano sulla manipolazione del DNA. In realtà, le biotecnologie applicate al campo farmaceutico esistono dai tempi dei primi farmaci prodotti per sintesi, come l’aspirina. Ovviamente la tecnologia per produrli all’epoca non era poi così sofisticata. 
