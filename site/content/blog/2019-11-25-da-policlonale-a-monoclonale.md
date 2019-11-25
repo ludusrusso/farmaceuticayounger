@@ -42,4 +42,4 @@ Le biotecnologie fecero così un passo avanti enorme. Successivamente vennero sv
 
 Ad oggi gli anticorpi, e in generale i farmaci biologici, sono una classe di farmaci dall’enorme impatto clinico e ci si attende che nei prossimi anni lo saranno sempre di più.
 
-A cura di Emiliano Cappello
+_A cura di Emiliano Cappello_
