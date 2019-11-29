@@ -1,6 +1,6 @@
 ---
 title: LOUIS PASTEUR - "La fortuna favorisce le menti preparate"
-date: '2019-11-29T15:24:48+01:00'
+date: '2019-11-29T08:24:48+01:00'
 description: >-
   Louis Pasteur, chimico e biologo francese, è considerato il padre della
   microbiologia.
