@@ -23,7 +23,7 @@ socialDesc: >-
   della sua vita.
 image: /img/a070373b-fb21-4450-bf31-10ccd9b16bfe.png
 ---
-![](/img/a070373b-fb21-4450-bf31-10ccd9b16bfe.png)
+![null](/img/a070373b-fb21-4450-bf31-10ccd9b16bfe.png)
 
 **Louis Pasteur**, chimico e biologo francese, è considerato il padre della microbiologia. 
 
@@ -47,9 +47,9 @@ Era totalmente assorbito dal problema scientifico e tormentato dal problema etic
 
 Pasteur aveva messo a punto una tecnica che consisteva nel prelievo del midollo spinale da conigli infettati dal virus della rabbia; poi trattato per attenuare la virulenza del patogeno e iniettato in cani ammalati a dosi sempre crescenti, per indurre immunità. La metodologia, che concettualmente ricalcava quella messa a punto dallo stesso Pasteur per il carbonchio dei bovini, consentì di ottenere un preparato che si dimostrò efficace nei cani nel contenimento della malattia.
 
-Ma il grande passo era la vaccinazione di un essere umano, problema che tormentava Pasteur schiacciato fra il terrore di inoculare un vaccino che avrebbe potuto accelerare il decesso il paziente e l'urgenza di contrastare la terribile malattia.
+Ma il grande passo era provare il vaccino su un essere umano, problema che tormentava Pasteur schiacciato fra il terrore di inoculare un vaccino che avrebbe potuto accelerare il decesso il paziente e l'urgenza di contrastare la terribile malattia.
 
-Pasteur decise di iniziare il 6 luglio del 1885 con un ciclo di 12 iniezioni su un bambino di 9 anni, _Joseph Meister_ che era stato morso da un cane rabbioso. Dopo il trattamento Joseph non ebbe reazioni avverse, guarì dalla malattia, diventando l'emblema dell'efficacia e dell'innocuità del trattamento.
+Il 6 luglio del 1885, Pasteur iniziò a somministrare il vaccino, con un ciclo di 12 iniezioni, su un bambino di 9 anni, _Joseph Meister_ che era stato morso da un cane rabbioso. Dopo il trattamento Joseph non ebbe reazioni avverse, guarì dalla malattia, diventando l'emblema dell'efficacia e dell'innocuità del trattamento.
 
 Nel corso dei mesi successivi Pasteur trattò con esito positivo 350 persone infette, registrando un solo decesso; questi risultati furono presentati alla Académie des sciences il 1° marzo 1886. 
 
