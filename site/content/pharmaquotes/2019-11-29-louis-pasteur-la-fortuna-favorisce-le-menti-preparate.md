@@ -49,7 +49,7 @@ Pasteur aveva messo a punto una tecnica che consisteva nel prelievo del midollo 
 
 Ma il grande passo era provare il vaccino su un essere umano, problema che tormentava Pasteur schiacciato fra il terrore di inoculare un vaccino che avrebbe potuto accelerare il decesso il paziente e l'urgenza di contrastare la terribile malattia.
 
-Pasteur decise di iniziare il 6 luglio del 1885 con un ciclo di 12 iniezioni su un bambino di 9 anni, _Joseph Meister_ che era stato morso da un cane rabbioso. Dopo il trattamento Joseph non ebbe reazioni avverse, guarì dalla malattia, diventando l'emblema dell'efficacia e dell'innocuità del trattamento.
+Il 6 luglio del 1885, Pasteur iniziò a somministrare il vaccino, con un ciclo di 12 iniezioni, su un bambino di 9 anni, _Joseph Meister_ che era stato morso da un cane rabbioso. Dopo il trattamento Joseph non ebbe reazioni avverse, guarì dalla malattia, diventando l'emblema dell'efficacia e dell'innocuità del trattamento.
 
 Nel corso dei mesi successivi Pasteur trattò con esito positivo 350 persone infette, registrando un solo decesso; questi risultati furono presentati alla Académie des sciences il 1° marzo 1886. 
 
