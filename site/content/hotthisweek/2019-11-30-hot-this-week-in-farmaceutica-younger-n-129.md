@@ -2,13 +2,13 @@
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.129
 date: '2019-11-30T17:51:32+01:00'
 ---
-La Food and Drug Administration degli Stati Uniti ha concesso un'approvazione accelerata a O[xbryta (voxelotor)](https://www.fda.gov/news-events/press-announcements/fda-approves-novel-treatment-target-abnormality-sickle-cell-disease) per il trattamento dell'anemia falciforme (SCD, sickle cell disease) negli adulti e nei pazienti pediatrici di età pari o superiore a 12 anni.
+La Food and Drug Administration degli Stati Uniti ha concesso un'approvazione accelerata a [Oxbryta (voxelotor)](https://www.fda.gov/news-events/press-announcements/fda-approves-novel-treatment-target-abnormality-sickle-cell-disease) per il trattamento dell'anemia falciforme (SCD, sickle cell disease) negli adulti e nei pazienti pediatrici di età pari o superiore a 12 anni.
 
-L'approvazione di oggi offre ulteriori speranze alle 100.000 persone negli Stati Uniti e agli oltre 20 milioni in tutto il mondo, che convivono con questo debilitante disturbo del sangue.
+L'approvazione di oggi offre ulteriori speranze alle 100.000 persone negli Stati Uniti e agli oltre 20 milioni in tutto il mondo, che convivono con questo debilitante disturbo.
 
 L'anemia falciforme è una malattia del sangue ereditaria in cui i globuli rossi assumono una forma anomala (a forma di mezzaluna o "falce"), che limita il flusso nei vasi sanguigni e il rilascio di ossigeno ai tessuti del corpo, causando un forte dolore e danni diffusi agli organi del corpo. I globuli rossi anomali possono causare anche l’ostruzione di capillari e piccoli vasi sanguigni che, di conseguenza, provoca attacchi dolorosi e improvvisi dovuti ad un blocco della circolazione sanguigna nei vari organi.
 
-Voxelotor è una piccola molecola che si lega all'emoglobina e aumenta l'affinità della proteina con l'ossigeno. Aiutando l'emoglobina a rimanere nello stato ossigenato, Oxbryta inibisce la polimerizzazione dell'emoglobina e previene la deformazione dei globuli rossi. Studi non clinici hanno dimostrato che migliorando la deformabilità dei globuli rossi migliora così la capacità del sangue di fluire. 
+Voxelotor è una piccola molecola che si lega all'emoglobina e aumenta l'affinità della proteina con l'ossigeno. Aiutando l'emoglobina a rimanere nello stato ossigenato, voxelotor inibisce la polimerizzazione dell'emoglobina e previene la deformazione dei globuli rossi. Studi non clinici hanno dimostrato che migliorando la deformabilità dei globuli rossi migliora così la capacità del sangue di fluire. 
 
 Oxbryta è un inibitore della polimerizzazione dell'emoglobina della falce deossigenata, che è l'anomalia centrale nella malattia delle cellule falciformi. Con Oxbryta, le cellule falciformi hanno meno probabilità di legarsi insieme e formare la forma della falce, che può causare bassi livelli di emoglobina a causa della distruzione dei globuli rossi. Questa terapia offre una nuova opzione terapeutica per i pazienti con questa condizione grave e potenzialmente letale. 
 
