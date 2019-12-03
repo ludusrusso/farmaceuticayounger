@@ -14,8 +14,6 @@ La darobactina ha una struttura insolita con due anelli fusi che si formano post
 
 
 
-
-
 L'Organizzazione mondiale della sanità ha recentemente lanciato l'allarme sulla necessità di nuovi antibiotici che agiscono contro un folto gruppo di agenti patogeni chiamati batteri gram-negativi. Di conseguenza, l'ultima classe di antibiotici che agiscono contro i batteri Gram-negativi è stata sviluppata negli anni '60. Una nuova classe di tali farmaci non è stata approvata per circa mezzo secolo e questi batteri stanno diventando sempre più resistenti agli antibiotici esistenti. I batteri Gram-negativi, un gruppo di agenti patogeni che includono Escherichia coli , Pseudomonas aeruginosa e Klebsiella pneumoniae , sono particolarmente difficili da eradicare con nuovi antibiotici perché la loro doppia membrana esterna impedisce ai farmaci di penetrare.
 
 Kim Lewis, che gestisce l'antimicrobial Discovery Center presso la Northeastern University, e i suoi colleghi hanno portato la loro ricerca di nuovi antibiotici in un posto insolito: l'intestino di un nematode. Il suo laboratorio si è concentrato su un batterio chiamato Photorhabdus , che vive nel microbioma intestinale di un nematode. Photorhabdus e il suo host worm collaborano per fare un lavoro di successo sulla loro preda. I nematodi infettano le larve di insetti, quindi rilasciano i batteri. Quindi i batteri entrano per uccidere, vomitando tossine. È anche nell'interesse di Photorhabdus proteggere la sua quota del pasto. Per impedire ad altri batteri presenti nell'intestino nematode di sottrarre il bottino degli insetti, Photorhabdus produce composti che uccidono i batteri rivali, molti dei quali sono gram negativi.
