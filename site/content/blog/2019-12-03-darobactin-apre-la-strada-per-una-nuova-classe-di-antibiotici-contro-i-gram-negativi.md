@@ -6,7 +6,7 @@ tags:
   - articoli
 date: '2019-12-03T17:12:20+01:00'
 ---
-E' recente la scoperta di un composto antibiotico, la darobactina, che dotato di un meccanismo d'azione insolito, si è dimostrato attivo nei confronti dei più pericolosi batteri Gram-negativi. La darobactina viene prodotta da batteri del genere _Photorhabdus_ che vivono parassiti nell'intestino di piccoli vermi parassiti noti come nematodi. 
+E' recente la scoperta di un composto antibiotico, la darobactina, che dotato di un meccanismo d'azione insolito, si è dimostrato attivo nei confronti dei più pericolosi batteri Gram-negativi. La darobactina viene prodotta da batteri del genere _Photorhabdus_ che vivono parassiti nell'intestino di piccoli vermi parassiti noti come nematodi. La ricerca è stata pubblicata su [Nature](https://www.nature.com/articles/s41586-019-1791-1).
 
 La darobactina ha una struttura insolita con due anelli fusi. Il composto è attivo contro importanti agenti patogeni Gram-negativi sia in vitro che in modelli animali di infezione. I mutanti resistenti alla darobactina si associano al BamA, un chaperone essenziale e traslocatore che piega le proteine ​​della membrana esterna. Il nostro studio suggerisce che i simbionti batterici degli animali contengono antibiotici che sono particolarmente adatti per lo sviluppo in terapie.
 
@@ -29,5 +29,3 @@ Il composto non inibisce la crescita di tutti i batteri gram-negativi a basse co
 Fonte: 
 
 https://cen.acs.org/pharmaceuticals/antibiotics/Novel-antibiotic-discovered-guts-worms/97/web/2019/11
-
-https://www.nature.com/articles/s41586-019-1791-1
