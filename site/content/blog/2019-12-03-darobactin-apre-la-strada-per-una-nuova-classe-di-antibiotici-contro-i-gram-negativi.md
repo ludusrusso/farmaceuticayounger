@@ -33,7 +33,9 @@ Per identificare dei composti promettenti, i ricercatori hanno sviluppato grandi
 
 La darobactina ha una struttura chimica insolita. Ha due anelli fusi e uno di questi è costituito da un legame carbonio-carbonio non attivato. Non era mai stato osservato prima quel tipo di legame o struttura nei comuni antibiotici.
 
-La darobactina è anche insolitamente grande per essere un antibiotico, con una dimensione di 965 Dalton. È troppo grande per penetrare nelle membrane batteriche dei Gram-negativi, quindi non è risultato chiaro immediatamente quale fosse il suo meccanismo d'azione. Per scoprirlo, i ricercatori hanno esposto ripetutamente E. coli al composto fino a quando non sono emersi batteri resistenti. Quei batteri trasportavano mutazioni in un gene che codificava per una molecola chiamata _BamA_, che si trova sulla superficie della membrana esterna dei batteri. Pertanto, la darobactina non ha bisogno di attraversare la membrana per poter espletare il suo meccanismo d'azione. 
+La darobactina è anche insolitamente grande per essere un antibiotico, con una dimensione di 965 Dalton. È troppo grande per penetrare nelle membrane batteriche dei Gram-negativi, quindi non è risultato chiaro immediatamente quale fosse il suo meccanismo d'azione. Per scoprirlo, i ricercatori hanno esposto ripetutamente E. coli al composto fino a quando non sono emersi batteri resistenti. Quei batteri trasportavano mutazioni in un gene che codificava per una molecola chiamata _BamA_, che si trova sulla superficie della membrana esterna dei batteri. BamA è uno chaperone essenziale e un traslocatore che piega le proteine ​​della membrana esterna.
+
+Pertanto, la darobactina non ha bisogno di attraversare la membrana per poter espletare il suo meccanismo d'azione. 
 
 La nuova molecola antibiotica uccide diversi batteri Gram-negativi in ​​vitro, tra cui E. coli, Klebsiella, Shigella e Salmonella. I ricercatori hanno testato il composto anche nei topi. Topi protetti dall'antibiotico infettati da E. coli, K. pneumoniae e P. aeruginosa sono guariti mentre gli animali non trattati sono morti entro 24 ore.
 
