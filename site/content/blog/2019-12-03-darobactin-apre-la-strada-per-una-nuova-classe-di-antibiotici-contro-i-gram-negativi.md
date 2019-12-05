@@ -6,7 +6,7 @@ tags:
   - articoli
 date: '2019-12-03T17:12:20+01:00'
 ---
-E' recente la scoperta di un antibiotico, la darobactina, che dotato di un meccanismo d'azione insolito, si è dimostrato attivo nei confronti dei più pericolosi batteri Gram-negativi. La darobactina viene prodotta da batteri del genere _Photorhabdus_ che vivono parassiti nell'intestino di piccoli vermi parassiti noti come nematodi. La ricerca è stata pubblicata su [Nature](https://www.nature.com/articles/s41586-019-1791-1).
+E' recente la scoperta di un nuovo antibiotico, la darobactina, che dotato di un meccanismo d'azione particolare, si è dimostrato attivo nei confronti dei più pericolosi batteri Gram-negativi. La darobactina viene prodotta da batteri del genere _Photorhabdus_ che vivono nell'intestino di piccoli vermi parassiti noti come nematodi. La ricerca ad opera di un gruppo di ricercatori statunitensi è stata pubblicata su [Nature](https://www.nature.com/articles/s41586-019-1791-1).
 
 L'Organizzazione mondiale della sanità ha recentemente lanciato l'allarme sulla necessità di nuovi antibiotici che agiscono contro un folto gruppo di agenti patogeni chiamati batteri gram-negativi. L'ultima classe di antibiotici che agiscono contro i batteri Gram-negativi è stata sviluppata negli anni '60 e questi batteri stanno diventando sempre più resistenti agli antibiotici esistenti. I batteri Gram-negativi, un gruppo di agenti patogeni che includono Escherichia coli, Pseudomonas aeruginosa e Klebsiella pneumoniae, sono particolarmente difficili da eradicare con gli antibiotici attualmente disponibile perché la loro doppia membrana esterna impedisce ai farmaci di penetrare.
 
