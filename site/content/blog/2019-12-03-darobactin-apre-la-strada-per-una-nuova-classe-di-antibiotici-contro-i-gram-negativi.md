@@ -23,13 +23,15 @@ image: /img/download-1-.jpg
 ---
 ![null](/img/download-1-.jpg)
 
-E' recente la scoperta di un nuovo antibiotico, la **darobactina**, che dotato di un meccanismo d'azione particolare, si è dimostrato attivo nei confronti dei più pericolosi batteri Gram-negativi. La darobactina viene prodotta da batteri del genere _Photorhabdus_ che vivono nell'intestino di piccoli vermi parassiti noti come nematodi. 
+E' recente la scoperta di un nuovo antibiotico, la **darobactina**, che, dotato di un meccanismo d'azione particolare, si è dimostrato attivo nei confronti dei più pericolosi batteri Gram-negativi. La darobactina viene prodotta da batteri del genere _Photorhabdus_ che vivono nell'intestino di piccoli vermi parassiti noti come nematodi. 
 
-La ricerca ad opera di un gruppo di ricercatori statunitensi è stata pubblicata su [Nature](https://www.nature.com/articles/s41586-019-1791-1).
+La ricerca condotta da un gruppo di ricercatori statunitensi è stata pubblicata su [Nature](https://www.nature.com/articles/s41586-019-1791-1).
 
 L'Organizzazione Mondiale della Sanità (OMS) ha recentemente lanciato l'allarme sulla crescente necessità di nuovi antibiotici che agiscono contro un folto gruppo di agenti patogeni, i batteri Gram-negativi, in quanto questi batteri stanno diventando sempre più resistenti agli antibiotici esistenti. L'ultima classe di antibiotici individuata contro i batteri Gram-negativi è stata sviluppata negli anni '60 con i flurochinoloni. I batteri Gram-negativi, che includono Escherichia coli, Pseudomonas aeruginosa e Klebsiella pneumoniae, sono particolarmente difficili da eradicare con gli antibiotici attualmente disponibili perché la loro doppia membrana esterna impedisce ai farmaci di penetrare.
 
-Tuttavia un gruppo di ricercatori dell'Antimicrobial Discovery Center della Northeastern University ha iniziato ad indagare su nuovi antibiotici e lo ha fatto in un posto insolito: l'intestino di un nematode. Il team si è concentrato su un batterio chiamato _Photorhabdus_, che vive nel microbioma intestinale dei nematodi. I nematodi hanno attirato l'attenzione dei ricercatori per la loro capacità di nutrirsi di insetti, colpendo le loro larve e rilasciando batteri che combattono patogeni simili a quelli presenti nell'intestino umano. Isolando i batteri intestinali del nematode, i ricercatori sono stati quindi in grado di isolare una molecola, la darobactina che, si è visto essere dotata di una buona farmacocinetica in quanto non tossica per il nematode e in grado di viaggiare attraverso i tessuti larvali. 
+Tuttavia un gruppo di ricercatori dell'Antimicrobial Discovery Center della Northeastern University ha iniziato ad indagare su nuovi antibiotici e lo ha fatto partendo da un posto insolito: l'intestino dei nematodi. 
+
+I nematodi hanno attirato l'attenzione dei ricercatori per la loro capacità di nutrirsi di insetti, attaccando le loro larve e rilasciando batteri che combattono patogeni simili a quelli presenti nell'intestino umano. Il team si è concentrato su un batterio chiamato _Photorhabdus_, che vive nel microbioma intestinale dei nematodi. Isolando i batteri intestinali dei nematodi, i ricercatori sono stati quindi in grado di isolare una molecola, la darobactina che, si è visto essere dotata di una buona farmacocinetica in quanto non tossica per il nematode e in grado di viaggiare attraverso i tessuti larvali. 
 
 La darobactina ha una struttura chimica insolita. Ha due anelli fusi e uno di questi è costituito da un legame carbonio-carbonio non attivato. Non era mai stato osservato prima quel tipo di legame o struttura nei comuni antibiotici.
 
