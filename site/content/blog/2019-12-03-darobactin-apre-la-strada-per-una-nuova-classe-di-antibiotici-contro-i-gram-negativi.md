@@ -5,10 +5,13 @@ title: >-
 tags:
   - articoli
 date: '2019-12-03T17:12:20+01:00'
+image: /img/download-1-.jpg
 ---
+![](/img/download-1-.jpg)
+
 E' recente la scoperta di un nuovo antibiotico, la darobactina, che dotato di un meccanismo d'azione particolare, si è dimostrato attivo nei confronti dei più pericolosi batteri Gram-negativi. La darobactina viene prodotta da batteri del genere _Photorhabdus_ che vivono nell'intestino di piccoli vermi parassiti noti come nematodi. La ricerca ad opera di un gruppo di ricercatori statunitensi è stata pubblicata su [Nature](https://www.nature.com/articles/s41586-019-1791-1).
 
-L'Organizzazione mondiale della sanità ha recentemente lanciato l'allarme sulla necessità di nuovi antibiotici che agiscono contro un folto gruppo di agenti patogeni chiamati batteri gram-negativi. L'ultima classe di antibiotici che agiscono contro i batteri Gram-negativi è stata sviluppata negli anni '60 e questi batteri stanno diventando sempre più resistenti agli antibiotici esistenti. I batteri Gram-negativi, un gruppo di agenti patogeni che includono Escherichia coli, Pseudomonas aeruginosa e Klebsiella pneumoniae, sono particolarmente difficili da eradicare con gli antibiotici attualmente disponibile perché la loro doppia membrana esterna impedisce ai farmaci di penetrare.
+L'Organizzazione mondiale della sanità ha recentemente lanciato l'allarme sulla necessità di nuovi antibiotici che agiscono contro un folto gruppo di agenti patogeni chiamati batteri gram-negativi. L'ultima classe di antibiotici che agiscono contro i batteri Gram-negativi è stata sviluppata negli anni '60 in quanto questi batteri stanno diventando sempre più resistenti agli antibiotici esistenti. I batteri Gram-negativi, un gruppo di agenti patogeni che includono Escherichia coli, Pseudomonas aeruginosa e Klebsiella pneumoniae, sono particolarmente difficili da eradicare con gli antibiotici attualmente disponibile perché la loro doppia membrana esterna impedisce ai farmaci di penetrare.
 
 Tutto è iniziato all'_Antimicrobial Discovery Center_ presso la Northeastern University. Qui un team di ricercatori ha iniziato ad indagare nella ricerca di nuovi antibiotici in un posto insolito: l'intestino di un nematode. Il team si è concentrato su un batterio chiamato Photorhabdus, che vive nel microbioma intestinale di un nematode. Per impedire ad altri batteri presenti nell'intestino del nematode di sottrarre il bottino degli insetti, Photorhabdus produce composti che uccidono i batteri rivali, molti dei quali sono gram-negativi.
 
