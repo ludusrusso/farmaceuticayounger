@@ -39,7 +39,7 @@ La commissione che conferì loro il premio affermò che «la loro sintesi di gli
 
 Nell'estate del 1957 Gerty, ormai malata, pubblicò una review sul deficit di sintesi del glicogeno nei bambini.
 
-Questo fu il suo ultimo articolo scientifico.
+Fu il suo ultimo articolo scientifico.
 
 Dopo la morte di sua moglie, Carl Cori dedicò i suoi sforzi alla ricerca sull'azione fisico-chimica degli enzimi coinvolti nella scomposizione del glicogeno nell'acido lattico.
 
