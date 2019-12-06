@@ -15,7 +15,7 @@ socialDesc: >
   fisiologo argentino Bernardo Houssay “for their discovery of the course of the
   catalytic conversion of glycogen”.
 ---
-**Carl Ferdinand Cori** fu un biochimico ceco naturalizzato statunitense, premio Nobel per la medicina nel 1947, insieme alla moglie Gerty Theresa Cori e al fisiologo argentino Bernardo Houssay _“for their discovery of the course of the catalytic conversion of glycogen”. _
+**Carl Ferdinand Cori** fu un biochimico ceco naturalizzato statunitense, premio Nobel per la medicina nel 1947, insieme alla moglie Gerty Theresa Cori e al fisiologo argentino Bernardo Houssay _“for their discovery of the course of the catalytic conversion of glycogen”. _
 
 I coniugi Cori, inseparabili tanto nella vita quanto nell’amore per il loro lavoro, focalizzarono i loro studi sul metabolismo dei carboidrati, scoprendo alla fine il processo mediante il quale il glucosio viene metabolizzato nel corpo umano. 
 
@@ -35,9 +35,11 @@ Il 24 ottobre del 1947 i coniugi Cori vinsero il Premio Nobel per la medicina.
 
 Carl Cori nel corso dell’assegnazione del Premio Nobel.
 
-La commissione che conferì loro il premio affermò che «la loro sintesi di glicogeno nel test tube è senza dubbio uno dei più brillanti raggiungimenti della biochimica moderna».
+La commissione che conferì loro il premio affermò che «la loro sintesi di glicogeno nel test tube è senza dubbio uno dei più brillanti raggiungimenti della biochimica moderna».
 
-Nell'estate del 1957 Gerty, ormai malata, pubblicò una review sul deficit di sintesi del glicogeno nei bambini e questo fu il suo ultimo articolo scientifico.
+Nell'estate del 1957 Gerty, ormai malata, pubblicò una review sul deficit di sintesi del glicogeno nei bambini.
+
+Questo fu il suo ultimo articolo scientifico.
 
 Dopo la morte di sua moglie, Carl Cori dedicò i suoi sforzi alla ricerca sull'azione fisico-chimica degli enzimi coinvolti nella scomposizione del glicogeno nell'acido lattico.
 
