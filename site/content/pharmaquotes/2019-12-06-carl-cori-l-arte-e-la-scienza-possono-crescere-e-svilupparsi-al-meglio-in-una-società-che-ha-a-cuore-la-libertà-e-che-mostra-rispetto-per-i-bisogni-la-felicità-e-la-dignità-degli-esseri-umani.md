@@ -14,7 +14,10 @@ socialDesc: >
   Nobel per la medicina nel 1947, insieme alla moglie Gerty Theresa Cori e al
   fisiologo argentino Bernardo Houssay “for their discovery of the course of the
   catalytic conversion of glycogen”.
+image: /img/4298c2c4-14d9-4dc6-a76a-0c22d672d000.png
 ---
+![](/img/4298c2c4-14d9-4dc6-a76a-0c22d672d000.png)
+
 **Carl Ferdinand Cori** fu un biochimico ceco naturalizzato statunitense, premio Nobel per la medicina nel 1947, insieme alla moglie Gerty Theresa Cori e al fisiologo argentino Bernardo Houssay _“for their discovery of the course of the catalytic conversion of glycogen”. _
 
 I coniugi Cori, inseparabili tanto nella vita quanto nell’amore per il loro lavoro, focalizzarono i loro studi sul metabolismo dei carboidrati, scoprendo alla fine il processo mediante il quale il glucosio viene metabolizzato nel corpo umano. 
