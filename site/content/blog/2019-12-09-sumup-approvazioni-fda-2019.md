@@ -24,6 +24,18 @@ la prima terapia con glucagone che può essere somministrata senza iniezione, pe
 
 Turalio è la prima terapia approvata dalla FDA per il trattamento di pazienti adulti con tumore sintomatico a cellule giganti tenosinoviali (TGCT), una rara forma di neoplasia, generalmente non metastatica, che colpisce le membrane sinoviali, le borse e le guaine dei tendini. Pexidartinib è un potente inibitore orale del recettore del cosiddetto “fattore stimolante le colonie-1” (CSF-1), una proteina che svolge un ruolo chiave nel processo di proliferazione di cellule anomale nella membrana sinoviale responsabili di TGCT. 
 
+**NOURIANZ** (istradefylline)
+
+Nourianz sotto forma di compresse rappresenta un nuovo approccio farmacologico non dopaminergico aggiuntivo alla somministrazione di levodopa/carbidopa per il trattamento di episodi “off” in pazienti con malattia di Parkinson (PD). L’istradefillina è un antagonista del recettore dell’adenosina A2A che svolge un ruolo importante nella regolazione del rilascio di glutammato e dopamina, rendendolo un potenziale bersaglio terapeutico per il trattamento di condizioni come insonnia, dolore, depressione e morbo di Parkinson.
+
+**OFEV** (nintedanib) 
+
+il primo e unico farmaco per rallentare il tasso di declino della funzione polmonare nei pazienti con malattia polmonare interstiziale associata a sclerosi sistemica (SSc-ILD, systemic sclerosis-associated interstitial lung disease).
+
+
+
+
+
 **POLIVY** - Roche
 
 Polivy, un coniugato anticorpo-farmaco, è stato approvato a giugno per il trattamento del linfoma a cellule B che non ha risposto o è tornato dopo altri trattamenti. La parte anticorpale della terapia si lega a una proteina specifica sulle cellule B cancerose e quindi rilascia un potente farmaco chemioterapico chiamato monometil auristatina E, che uccide le cellule.
