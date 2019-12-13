@@ -1,8 +1,7 @@
 ---
 title: 'GMP Capitolo 4 Documentazione - “If it isn’t written down, it’s just a rumor”'
 date: 2018-03-03T09:00:52.000Z
-image: >-
-  /img/gmp-capitolo-4-documentazione-if-it-isnt-written-down-its-just-a-rumor.md/img_0763-1.jpg
+image: /img/9619a1bd-04f5-431e-93fc-740326798be0.png
 ---
 ![null](/img/9619a1bd-04f5-431e-93fc-740326798be0.png)
 
