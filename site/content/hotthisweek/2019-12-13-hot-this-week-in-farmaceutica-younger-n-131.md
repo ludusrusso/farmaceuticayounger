@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.131
-date: '2019-12-13T11:08:47+01:00'
+date: '2019-12-14T11:08:47+01:00'
 description: >-
   La US Food and Drug Administration ha concesso un'approvazione accelerata per
   Vyondys 53 (golodirsen), il primo trattamento per pazienti con distrofia
