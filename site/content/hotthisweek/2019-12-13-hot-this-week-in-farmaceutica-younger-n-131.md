@@ -13,7 +13,11 @@ socialDesc: >-
   muscolare di Duchenne (DMD) con una mutazione del gene della distrofina con
   salto dell'esone 53. Si stima che circa l'8% dei pazienti con DMD abbia questo
   tipo di mutazione.
+image: /img/e9d7a6cf-0da0-43bb-ae1e-a3b96034da6f.png
 ---
+![](/img/e9d7a6cf-0da0-43bb-ae1e-a3b96034da6f.png)
+
+\
 La US Food and Drug Administration ha concesso un'approvazione accelerata per [Vyondys 53 (golodirsen)](https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-first-targeted-treatment-rare-duchenne-muscular-dystrophy-mutation), **il primo trattamento per pazienti con distrofia muscolare di Duchenne (DMD)** con una mutazione del gene della distrofina con salto dell'esone 53. Si stima che circa l'8% dei pazienti con DMD abbia questo tipo di mutazione.
 
 La DMD è una rara malattia genetica causata da una mutazione o errore nel gene DMD, che codifica per la _distrofina_, una proteina essenziale coinvolta nell'integrità delle cellule muscolari. È il tipo più comune di distrofia muscolare e si verifica in circa uno su 3.600 bambini maschi nati in tutto il mondo in quanto il difetto è localizzato sul cromosoma X. La DMD colpisce in modo specifico il tessuto muscolare scheletrico, compresi i muscoli respiratori e il cuore, ed è caratterizzata da una progressiva distruzione del tessuto muscolare che viene progressivamente sostituito da tessuto fibrotico e adiposo. I soggetti affetti da tale patologia in genere non arrivano ai 20 o 30 anni, seppure la gravità della malattia e l'aspettativa di vita variano da persona a persona.
