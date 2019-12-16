@@ -60,13 +60,9 @@ Ecco alcune delle straordinarie approvazioni del 2019:
 
 [Victoza](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.106/) è il primo farmaco non insulinico approvato per il trattamento del diabete di tipo 2 in pazienti pediatrici. Liraglutide agisce come agonista del recettore del GLP-1. Il GLP-1 è un peptide che promuove la secrezione d’insulina da parte delle cellule β del pancreas. 
 
+**POLIVY** (polatuzumab vedotin)
 
-
-
-
-**POLIVY** - Roche
-
-Polivy, un coniugato anticorpo-farmaco, è stato approvato a giugno per il trattamento del linfoma a cellule B che non ha risposto o è tornato dopo altri trattamenti. La parte anticorpale della terapia si lega a una proteina specifica sulle cellule B cancerose e quindi rilascia un potente farmaco chemioterapico chiamato monometil auristatina E, che uccide le cellule.
+[Polivy](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.105/), un coniugato anticorpo-farmaco, approvato a giugno per il trattamento del linfoma diffuso a grandi cellule B recidivante o refrattario. Polatuzumab vedotin è un anticorpo coniugato a un farmaco chemioterapico. La parte anticorpale si lega a una proteina specifica sulle cellule B cancerose rilasciando un potente farmaco chemioterapico chiamato monometil auristatina E, che uccide le cellule.
 
 **PRETOMANID **- TB Alliance
 
