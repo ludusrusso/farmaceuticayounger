@@ -4,7 +4,7 @@ tags:
   - articoli
 date: '2019-12-09T16:37:31+01:00'
 ---
-Dopo un anno prolifico, stiamo parlando del 2018, che ha visto l'approvazione da parte dell'agenzia statunitense di ben 59 farmaci, il 2019 sta per chiudersi in maniera con numeri più bassi. L'ultima approvazione da parte della FDA risale al 13 dicembre. A quella data 42 sono le nuove terapie approvate per essere immesse sul mercato, alcune offrono trattamenti cosidetti "first in class" e altre si lanciano in un panorama già competitivo.
+Dopo un anno prolifico, stiamo parlando del 2018, che ha visto l'approvazione da parte dell'agenzia statunitense di ben 59 farmaci, il 2019 sta per chiudersi in maniera con numeri più bassi. L'ultima approvazione da parte della FDA risale al 12 dicembre. A quella data 42 sono le nuove terapie approvate per essere immesse sul mercato, alcune offrono trattamenti cosidetti "first in class" e altre si lanciano in un panorama già competitivo.
 
 "Innovation drives progress", ovvero l'innovazione guida il progresso. 
 
