@@ -64,6 +64,14 @@ Ecco alcune delle straordinarie approvazioni del 2019:
 
 [Polivy](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.105/), un coniugato anticorpo-farmaco, approvato a giugno per il trattamento del linfoma diffuso a grandi cellule B recidivante o refrattario. Polatuzumab vedotin è un anticorpo coniugato a un farmaco chemioterapico. La parte anticorpale si lega a una proteina specifica sulle cellule B cancerose rilasciando un potente farmaco chemioterapico chiamato monometil auristatina E, che uccide le cellule.
 
+**ZOLGENSMA **- Novartis
+
+Zolgensma è una terapia genica approvata a maggio per il trattamento dell'atrofia muscolare spinale (SMA), una malattia neurodegenerativa causata da mutazioni in un gene chiamato neurone motorio di sopravvivenza 1 (SMN1). L'iniezione di un virus che trasportava una versione normale del gene è stata ampiamente anticipata dalle famiglie colpite dalla SMA, ma Zolgensma è stato anche impantanato in controversie sulla manipolazione preclinica dei dati e sul suo prezzo, più di $ 2 milioni per la singola dose.
+
+
+
+
+
 **PRETOMANID **- TB Alliance
 
 Pretomanid è stato approvato ad agosto come parte di un trattamento combinato per combattere la tubercolosi, che secondo la TB senza scopo di lucro Alleanza è oggi la malattia infettiva più mortale al mondo. L'antibatterico nitroimidazolo, sviluppato dall'associazione no profit, viene utilizzato con due trattamenti TB esistenti. È il secondo farmaco approvato nell'ambito di un programma speciale nell'ambito del 21st Century Cures Act dedicato a nuovi trattamenti per le malattie infettive.
@@ -72,9 +80,7 @@ Pretomanid è stato approvato ad agosto come parte di un trattamento combinato p
 
 Trikafta è una tripla terapia per la fibrosi cistica (CF), una rara malattia genetica in cui un trasportatore ionico mal ripiegato non riesce a raggiungere la superficie delle cellule polmonari, portando all'accumulo di muco nei polmoni. Due dei tre farmaci in Trikafta, elexacaftor e tezacaftor, aiutano ad accompagnare il trasportatore ionico sulla superficie cellulare e il farmaco rimanente, ivacaftor, aiuta a mantenere il canale ionico aperto più a lungo del normale. La terapia, approvata in ottobre , dovrebbe aiutare fino al 90% delle persone con FC.
 
-**ZOLGENSMA **- Novartis
 
-Zolgensma è una terapia genica approvata a maggio per il trattamento dell'atrofia muscolare spinale (SMA), una malattia neurodegenerativa causata da mutazioni in un gene chiamato neurone motorio di sopravvivenza 1 ( SMN1 ). L'iniezione di un virus che trasportava una versione normale del gene è stata ampiamente anticipata dalle famiglie colpite dalla SMA, ma Zolgensma è stato anche impantanato in controversie sulla manipolazione preclinica dei dati e sul suo prezzo, più di $ 2 milioni per la singola dose.
 
 **ZULRESSO - **Sage Therapeutics
 
