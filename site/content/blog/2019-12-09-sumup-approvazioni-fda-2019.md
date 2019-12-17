@@ -21,7 +21,7 @@ image: /img/cattura.jpg
 ---
 ![null](/img/cattura.jpg)
 
-> Innovation drives progress, ovvero l'innovazione guida il progresso. 
+> Innovation drives progress
 
 Queste sono le parole che aprono le sezione delle [Novel Drug Approvals for 2019](https://www.fda.gov/drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products/novel-drug-approvals-2019) dal sito ufficiale della FDA statunitense. Il Center for Drug Evaluation and Research (CDER) della FDA, quando si tratta di innovazione nello sviluppo di nuovi farmaci e prodotti biologici terapeutici, supporta l'industria farmaceutica in ogni fase del suo processo. Con le sue competenze scientifiche e normative, il CDER fornisce il supporto necessario per portare sul mercato e nel più breve tempo possibile nuove terapie che possano apportare un beneficio alla salute del paziente.
 
