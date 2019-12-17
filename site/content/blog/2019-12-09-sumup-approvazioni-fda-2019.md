@@ -21,7 +21,7 @@ image: /img/cattura.jpg
 ---
 ![null](/img/cattura.jpg)
 
-> Innovation drives progress
+> Innovation drives progress ovvero l'innovazione guida il progresso
 
 Queste sono le parole che aprono le sezione delle [Novel Drug Approvals for 2019](https://www.fda.gov/drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products/novel-drug-approvals-2019) dal sito ufficiale della FDA statunitense. Il Center for Drug Evaluation and Research (CDER) della FDA, quando si tratta di innovazione nello sviluppo di nuovi farmaci e prodotti biologici terapeutici, supporta l'industria farmaceutica in ogni fase del suo processo. Con le sue competenze scientifiche e normative, il CDER fornisce il supporto necessario per portare sul mercato e nel più breve tempo possibile nuove terapie che possano apportare un beneficio alla salute del paziente.
 
@@ -31,7 +31,7 @@ Se questo anno non si appresta a chiudersi con numeri strepitosi sta di fatto ch
 
 Ecco alcune delle straordinarie approvazioni del 2019:
 
-**BAQSIMI **(glucagone) - Eli Lilly
+**BAQSIMI** (glucagone) - Eli Lilly
 
 [Baqsimi](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.111/) è la prima terapia con glucagone che può essere somministrata senza iniezione, per il trattamento dell’ipoglicemia grave nelle persone con diabete di età pari o superiore a quattro anni. Baqsimi aumenta i livelli di zucchero nel sangue stimolando il fegato a rilasciare glucosio immagazzinato nel flusso sanguigno. ha ottenuto l'approvazione dalla FDA statunitense a Luglio di quest'anno.
 
@@ -47,7 +47,7 @@ Ecco alcune delle straordinarie approvazioni del 2019:
 
 [Givlaari](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.128/) è il primo trattamento per pazienti adulti con porfiria epatica acuta (AHP), un disturbo genetico raro appartenente alla famiglie delle porfirie che ha come conseguenza l’accumulo di molecole tossiche di porfirina che si formano durante la produzione dell’eme. Givosiran agisce riducendo i livelli di ALAS1 nel fegato, una proteina responsabile della formazione dell’acido aminolevulinico (ALA) coinvolta nella sintesi dell’eme con riduzione dei precursori neurotossici dell’eme.
 
-**NOURIANZ **(istradefylline) - Kyowa Kirin
+**NOURIANZ** (istradefylline) - Kyowa Kirin
 
 [Nourianz](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.116/) sotto forma di compresse rappresenta un nuovo approccio farmacologico non dopaminergico aggiuntivo alla somministrazione di levodopa/carbidopa per il trattamento di episodi “off” in pazienti con malattia di Parkinson (PD). L’istradefillina è un antagonista del recettore dell’adenosina A2A che svolge un ruolo importante nella regolazione del rilascio di glutammato e dopamina, rendendolo un potenziale bersaglio terapeutico per il trattamento di condizioni come insonnia, dolore, depressione e morbo di Parkinson.
 
@@ -71,7 +71,7 @@ Ecco alcune delle straordinarie approvazioni del 2019:
 
 [Trikafta](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.124/) è la prima terapia a tripla combinazione per il trattamento di pazienti con la più comune mutazione della fibrosi cistica. Trikafta è una combinazione di tre farmaci che prendono di mira la proteina CFTR difettosa, una proteina di membrana che svolge la funzione di canale ionico per lo ione cloruro nelle cellule dei vertebrati, aiutando le proteine ​​prodotte dalla mutazione del gene CFTR a funzionare in modo più efficace.
 
-**TURALIO **(pexidartinib) - Daiichi Sankyo
+**TURALIO** (pexidartinib) - Daiichi Sankyo
 
 [Turalio](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.112/) è la prima terapia approvata dalla FDA per il trattamento di pazienti adulti con tumore sintomatico a cellule giganti tenosinoviali (TGCT), una rara forma di neoplasia, generalmente non metastatica, che colpisce le membrane sinoviali, le borse e le guaine dei tendini. Pexidartinib è un potente inibitore orale del recettore del cosiddetto “fattore stimolante le colonie-1” (CSF-1), una proteina che svolge un ruolo chiave nel processo di proliferazione di cellule anomale nella membrana sinoviale responsabili di TGCT. 
 
@@ -79,10 +79,10 @@ Ecco alcune delle straordinarie approvazioni del 2019:
 
 [Victoza](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.106/) è il primo farmaco non insulinico approvato per il trattamento del diabete di tipo 2 in pazienti pediatrici. Liraglutide agisce come agonista del recettore del GLP-1, un peptide che promuove la secrezione d’insulina da parte delle cellule β del pancreas. Victoza è stato approvato a giugno 2019 dall'agenzia statunitense.
 
-**ZOLGENSMA **(onasemnogene abeparvovec-xioi) - Novartis
+**ZOLGENSMA** (onasemnogene abeparvovec-xioi) - Novartis
 
 [Zolgensma](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.102/) è una terapia genica approvata a maggio per il trattamento dell'atrofia muscolare spinale (SMA), una malattia neurodegenerativa causata da mutazioni in un gene chiamato neurone motorio di sopravvivenza 1 (SMN1). Zolgensma è una terapia genica basata su virus adeno-associato (AAV, chiamato AAV9) che viene utilizzato per fornire una copia completamente funzionante del gene SMN umano nelle cellule del motoneurone del paziente affetto da SMA. A differenza di molti altri capsidi, quello di AAV9 attraversa la barriera emato-encefalica, consentendone la somministrazione endovenosa. 
 
-**ZULRESSO **(brexanolone) - Sage Therapeutics
+**ZULRESSO** (brexanolone) - Sage Therapeutics
 
 [Zulresso](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.93/), approvato a marzo, è il primo farmaco per il trattamento della depressione post partum. Il brexanolone è la versione sintetica dell’allopregnanolone, un prodotto di degradazione del progesterone, ormone sessuale prodotto nel cervello e nelle ovaie, così come nella placenta durante la gravidanza. Il principio attivo agisce sui recettori del GABA nel cervello.  Si pensa che le fluttuazioni nei livelli dello steroide possano contribuire alla depressione e all’ansia in alcune donne affette da depressione post partum.
