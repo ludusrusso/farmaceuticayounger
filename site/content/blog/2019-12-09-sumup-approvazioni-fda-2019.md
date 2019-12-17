@@ -2,35 +2,50 @@
 title: Sumup approvazioni - FDA 2019
 tags:
   - articoli
-date: '2019-12-09T16:37:31+01:00'
+date: '2019-12-17T01:37:31+01:00'
+description: >-
+  Dopo un anno prolifico, stiamo parlando del 2018, che ha visto l'approvazione
+  da parte dell'agenzia statunitense di ben 59 farmaci, il 2019 sta per
+  chiudersi con numeri più bassi. L'ultima approvazione da parte della FDA
+  risale al 12 dicembre. Fino a quella data sono state approvate 42 nuove
+  terapie, alcune delle quali offrono trattamenti cosiddetti "first in class" e
+  altre si lanciano in un panorama già competitivo.
+socialDesc: >-
+  Dopo un anno prolifico, stiamo parlando del 2018, che ha visto l'approvazione
+  da parte dell'agenzia statunitense di ben 59 farmaci, il 2019 sta per
+  chiudersi con numeri più bassi. L'ultima approvazione da parte della FDA
+  risale al 12 dicembre. Fino a quella data sono state approvate 42 nuove
+  terapie, alcune delle quali offrono trattamenti cosiddetti "first in class" e
+  altre si lanciano in un panorama già competitivo.
+image: /img/cattura.jpg
 ---
-Dopo un anno prolifico, stiamo parlando del 2018, che ha visto l'approvazione da parte dell'agenzia statunitense di ben 59 farmaci, il 2019 sta per chiudersi in maniera con numeri più bassi. L'ultima approvazione da parte della FDA risale al 12 dicembre. A quella data 42 sono le nuove terapie approvate per essere immesse sul mercato, alcune offrono trattamenti cosidetti "first in class" e altre si lanciano in un panorama già competitivo.
+![](/img/cattura.jpg)
 
-"Innovation drives progress", ovvero l'innovazione guida il progresso. 
+Dopo un anno prolifico, stiamo parlando del 2018, che ha visto l'approvazione da parte dell'agenzia statunitense di ben **59 farmaci**, il 2019 sta per chiudersi con numeri più bassi. L'ultima approvazione da parte della FDA risale al 12 dicembre. Fino a quella data sono state approvate **42 nuove terapie**, alcune delle quali offrono trattamenti cosiddetti "first in class" e altre si lanciano in un panorama già competitivo.
 
-Queste sono le parole che aprono le sezione delle [Novel Drug Approvals for 2019](https://www.fda.gov/drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products/novel-drug-approvals-2019) dal sito ufficiale della FDA. Il Center for Drug Evaluation and Research (CDER) della FDA, quando si tratta di innovazione nello sviluppo di nuovi farmaci e prodotti biologici terapeutici, supporta l'industria farmaceutica in ogni fase del suo processo. Con le sue competenze scientifiche e normative, il CDER fornisce il supporto necessario per portare sul mercato e nel più breve tempo possibile nuove terapie che possano giovare alla salute del paziente.
+> Innovation drives progress, ovvero l'innovazione guida il progresso. 
 
-Le approvazioni del 2019 si sono rivolte circa per il 25% al trattamento di disturbi neurologici, tra cui il morbo di Parkinson e l'atrofia muscolare spinale. E un altro 25%, incluso un coniugato anticorpo-farmaco, nella lotta contro vari tipi di tumore.
+Queste sono le parole che aprono le sezione delle [Novel Drug Approvals for 2019](https://www.fda.gov/drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products/novel-drug-approvals-2019) dal sito ufficiale della FDA statunitense. Il Center for Drug Evaluation and Research (CDER) della FDA, quando si tratta di innovazione nello sviluppo di nuovi farmaci e prodotti biologici terapeutici, supporta l'industria farmaceutica in ogni fase del suo processo. Con le sue competenze scientifiche e normative, il CDER fornisce il supporto necessario per portare sul mercato e nel più breve tempo possibile nuove terapie che possano apportare un beneficio alla salute del paziente.
 
-Se questo anno non si appresta a chiudersi con numeri strepitosi sta di fatto che è stato un anno fiorente nell'ottica di ampliare il trattamento di malattie debilitanti rare poco conosciute e poco fino ad ora esporate da un punto di vista farmacologico, sottolineando così l'impegno della FDA per l'innovazione.
+Se questo anno non si appresta a chiudersi con numeri strepitosi sta di fatto che è stato comunque un anno ricco di approvazioni di farmaci nell'ottica di ampliare il pool di farmaci a disposizione per trattare malattie debilitanti rare poco conosciute e poco fino ad ora esplorate da un punto di vista farmacologico.
 
 Ecco alcune delle straordinarie approvazioni del 2019:
 
 **BAQSIMI **(glucagone) - Eli Lilly
 
-[Baqsimi](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.111/) è la prima terapia con glucagone che può essere somministrata senza iniezione, per il trattamento dell’ipoglicemia grave nelle persone con diabete di età pari o superiore a quattro anni. Baqsimi aumenta i livelli di zucchero nel sangue stimolando il fegato a rilasciare glucosio immagazzinato nel flusso sanguigno. Ha l’effetto opposto dell’insulina, che abbassa i livelli di zucchero nel sangue.
+[Baqsimi](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.111/) è la prima terapia con glucagone che può essere somministrata senza iniezione, per il trattamento dell’ipoglicemia grave nelle persone con diabete di età pari o superiore a quattro anni. Baqsimi aumenta i livelli di zucchero nel sangue stimolando il fegato a rilasciare glucosio immagazzinato nel flusso sanguigno. ha ottenuto l'approvazione dalla FDA statunitense a Luglio di quest'anno.
 
 **DUPIXENT** (dupilumab) - Regeneron Pharmaceuticals
 
-[Dupixent](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.107/) è il primo trattamento approvato per la rinosinusite cronica inadeguatamente controllata con polipi nasale (CRSwNP, controlled chronic rhinosinusitis with nasal polyposis) e l’unica terapia approvata per ridurre la dimensione del polipo nasale e migliorare i sintomi della rinosinusite cronica associata. Dupilumab è un anticorpo monoclonale che inibisce il segnale di interleuchina-4 e interleuchina-13, due proteine ​​che svolgono un ruolo centrale nell’infiammazione di tipo 2. 
+[Dupixent](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.107/) è il primo trattamento approvato per la rinosinusite cronica con polipi nasale (CRSwNP, controlled chronic rhinosinusitis with nasal polyposis) e l’unica terapia approvata per ridurre la dimensione del polipo nasale e migliorare i sintomi della rinosinusite cronica associata. Dupilumab è un anticorpo monoclonale che inibisce il segnale di interleuchina-4 e interleuchina-13, due proteine ​​che svolgono un ruolo centrale nell’infiammazione di tipo 2. 
 
 **FETROJA** (cefiderocol) - Shionogi & Co.
 
-[Fetroja](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.127/) è un farmaco antibatterico dotato di un nuovo meccanismo d’azione nel trattamento di pazienti con complicate infezioni del tratto urinario (cUTI), che hanno una limitata o nessuna opzione di trattamento disponibile, inclusa la pielonefrite, causate da microrganismi Gram-negativi sensibili. Cefiderocol è un antibiotico cefalosporinico con un nuovo meccanismo d’azione in grado cioè di penetrare la membrana cellulare esterna dei Gram-negativi agendo come un sideroforo, una piccola molecola con elevata affinità per il ferro. Questo meccanismo d’azione consente a cefiderocolo di raggiungere concentrazioni più elevate nello spazio periplasmatico dove può legarsi alle proteine ​​leganti la penicillina e inibire la sintesi della parete cellulare nelle cellule batteriche.
+[Fetroja](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.127/) è un farmaco antibatterico dotato di un nuovo meccanismo d’azione per il trattamento di pazienti con complicate infezioni del tratto urinario (cUTI), che hanno una limitata o nessuna opzione di trattamento disponibile. Cefiderocol è un antibiotico cefalosporinico con un nuovo meccanismo d’azione in grado cioè di penetrare la membrana cellulare esterna dei Gram-negativi agendo come un sideroforo, una piccola molecola con elevata affinità per il ferro. Questo meccanismo d’azione consente a cefiderocol di raggiungere concentrazioni più elevate nello spazio periplasmatico dove può legarsi alle proteine ​​leganti la penicillina e inibire la sintesi della parete cellulare nelle cellule batteriche.
 
 **GIVLAARI** (givosiran) - Alnylam Pharmaceuticals
 
-[Givlaari](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.128/) è il primo trattamento per pazienti adulti con porfiria epatica acuta (AHP), un disturbo genetico raro appartenente alla famiglie delle porfirie che ha come conseguenza l’accumulo di molecole tossiche di porfirina che si formano durante la produzione dell’eme. Givosiran agisce riducendo i livelli di ALAS1 nel fegato, una proteina responsabile della formazione dell’acido aminolevulinico (ALA) coinvolta nella sintesi dell’eme e di conseguenza, porta i precursori neurotossici dell’eme a livelli quasi normali.
+[Givlaari](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.128/) è il primo trattamento per pazienti adulti con porfiria epatica acuta (AHP), un disturbo genetico raro appartenente alla famiglie delle porfirie che ha come conseguenza l’accumulo di molecole tossiche di porfirina che si formano durante la produzione dell’eme. Givosiran agisce riducendo i livelli di ALAS1 nel fegato, una proteina responsabile della formazione dell’acido aminolevulinico (ALA) coinvolta nella sintesi dell’eme con riduzione dei precursori neurotossici dell’eme.
 
 **NOURIANZ **(istradefylline) - Kyowa Kirin
 
@@ -38,19 +53,19 @@ Ecco alcune delle straordinarie approvazioni del 2019:
 
 **OFEV** (nintedanib) - Boehringer Ingelheim 
 
-[Ofev](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.117/) è il primo farmaco per rallentare il tasso di declino della funzione polmonare nei pazienti con malattia polmonare interstiziale associata a sclerosi sistemica (SSc-ILD, systemic sclerosis-associated interstitial lung disease), una rara malattia autoimmune caratterizzata da ispessimento e cicatrici del tessuto connettivo in tutto il corpo. Nintedanib inibisce l’attività dei recettori tirosin-chinasici per il fattore di crescita derivato dalle piastrine (PDGFR) α e ß, il fattore di crescita dei fibroblasti (FGFR) 1-3 e il VEGFR 1-3 inibendo così l’attivazione delle cascate di segnali FGFR e PDGFR che sono coinvolte in modo cruciale nella proliferazione, migrazione e differenziazione dei fibroblasti/miofibroblasti polmonari.
+[Ofev](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.117/) è il primo farmaco utile per rallentare il tasso di declino della funzione polmonare nei pazienti con malattia polmonare interstiziale associata a sclerosi sistemica (SSc-ILD, systemic sclerosis-associated interstitial lung disease), una rara malattia autoimmune caratterizzata da ispessimento e cicatrici del tessuto connettivo in tutto il corpo. Nintedanib inibisce l’attività dei recettori tirosin-chinasici per il fattore di crescita derivato dalle piastrine (PDGFR) α e ß, il fattore di crescita dei fibroblasti (FGFR) 1-3 e il VEGFR 1-3 inibendo così l’attivazione delle cascate di segnali FGFR e PDGFR che sono coinvolte in modo cruciale nella proliferazione, migrazione e differenziazione dei fibroblasti/miofibroblasti polmonari.
 
 **POLIVY** (polatuzumab vedotin) - Roche
 
-[Polivy](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.105/), un coniugato anticorpo-farmaco, approvato a giugno per il trattamento del linfoma diffuso a grandi cellule B recidivante o refrattario. Polatuzumab vedotin è un anticorpo coniugato a un farmaco chemioterapico. La parte anticorpale si lega a una proteina specifica sulle cellule B cancerose rilasciando un potente farmaco chemioterapico chiamato monometil auristatina E, che uccide le cellule.
+[Polivy](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.105/) è un coniugato anticorpo-farmaco (ADC), approvato a giugno per il trattamento del linfoma diffuso a grandi cellule B recidivante o refrattario. Polatuzumab vedotin è un anticorpo coniugato a un farmaco chemioterapico. La parte anticorpale si lega a una proteina specifica sulle cellule B cancerose rilasciando un potente farmaco chemioterapico chiamato monometil auristatina E, che uccide le cellule.
 
 **RYBELSUS** (semaglutide) - Novo Nordisk
 
-[Rybelsus](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.119/) è il primo agonista del recettore del GLP-1 approvato per migliorare il controllo della glicemia nei pazienti adulti con diabete di tipo 2 che non necessita di iniezione. Semaglutide è un analogo del GLP-1 che agisce da agonista recettoriale del GLP-1. Il GLP-1 è un ormone fisiologico che svolge molteplici azioni nella regolazione del glucosio e dell’appetito, nonché nel sistema cardiovascolare.
+[Rybelsus](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.119/) è il primo agonista del recettore del GLP-1 approvato per migliorare il controllo della glicemia nei pazienti adulti con diabete di tipo 2 che non necessita di iniezione. Semaglutide è un analogo del GLP-1 che agisce da agonista recettoriale del GLP-1, un ormone fisiologico coinvolto nella regolazione del glucosio e dell’appetito, nonché nel sistema cardiovascolare.
 
 **SCENESSE** (afamelanotide) - Clinuvel
 
-[Scenesse](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.122/) rappresenta il primo trattamento approvato dalla FDA per aumentare l’esposizione indolore alla luce nei pazienti affeti da protoporfiria eritropoietica (EPP). Afamelanotide, un agonista del recettore della melanocortina-1 (MC1-R), aumenta la produzione della sostanza endogena, l’eumelanina nella pelle che contribuisce alla fotoprotezione attraverso diversi meccanismi.
+[Scenesse](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.122/) rappresenta il primo trattamento approvato dalla FDA per aumentare l’esposizione indolore alla luce nei pazienti affetti da protoporfiria eritropoietica (EPP). Afamelanotide, un agonista del recettore della melanocortina-1 (MC1-R), aumenta la produzione della sostanza endogena, l’eumelanina nella pelle che contribuisce alla fotoprotezione attraverso diversi meccanismi.
 
 **TRIKAFTA** (elexacaftor/ivacaftor/tezacaftor) - Vertex Pharmaceuticals
 
@@ -62,7 +77,7 @@ Ecco alcune delle straordinarie approvazioni del 2019:
 
 **VICTOZA** (liraglutide) - Novo Nordisk
 
-[Victoza](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.106/) è il primo farmaco non insulinico approvato per il trattamento del diabete di tipo 2 in pazienti pediatrici. Liraglutide agisce come agonista del recettore del GLP-1. Il GLP-1 è un peptide che promuove la secrezione d’insulina da parte delle cellule β del pancreas. 
+[Victoza](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.106/) è il primo farmaco non insulinico approvato per il trattamento del diabete di tipo 2 in pazienti pediatrici. Liraglutide agisce come agonista del recettore del GLP-1, un peptide che promuove la secrezione d’insulina da parte delle cellule β del pancreas. Victoza è stato approvato a giugno 2019 dall'agenzia statunitense.
 
 **ZOLGENSMA **(onasemnogene abeparvovec-xioi) - Novartis
 
@@ -70,6 +85,4 @@ Ecco alcune delle straordinarie approvazioni del 2019:
 
 **ZULRESSO **(brexanolone) - Sage Therapeutics
 
-[Zulresso](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.93/), approvato a marzo, è il primo farmaco ad essere approvato dalla FDA specificamente per il trattamento della depressione post partum. Il brexanolone è la versione sintetica dell’allopregnanolone, un prodotto di degradazione del progesterone, ormone sessuale prodotto nel cervello e nelle ovaie, così come nella placenta durante la gravidanza. Il principio attivo agisce sui recettori del GABA nel cervello.  Si pensa che le fluttuazioni nei livelli dello steroide possano contribuire alla depressione e all’ansia in alcune donne affette da depressione post partum. 
-
-_Fonte:_ https://cen.acs.org/pharmaceuticals/drug-development/CENs-Year-in-Pharma-2019/97/i47#A-quieter-year-for-new-drug-approvals
+[Zulresso](https://www.farmaceuticayounger.science/hotthisweek/hot-this-week-in-farmaceutica-younger-n.93/), approvato a marzo, è il primo farmaco per il trattamento della depressione post partum. Il brexanolone è la versione sintetica dell’allopregnanolone, un prodotto di degradazione del progesterone, ormone sessuale prodotto nel cervello e nelle ovaie, così come nella placenta durante la gravidanza. Il principio attivo agisce sui recettori del GABA nel cervello.  Si pensa che le fluttuazioni nei livelli dello steroide possano contribuire alla depressione e all’ansia in alcune donne affette da depressione post partum.
