@@ -1,5 +1,5 @@
 ---
-title: Sumup approvazioni - FDA 2019
+title: Sum up approvazioni - FDA 2019
 tags:
   - articoli
 date: '2019-12-17T01:37:31+01:00'
