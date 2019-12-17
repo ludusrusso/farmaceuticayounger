@@ -19,15 +19,15 @@ socialDesc: >-
   altre si lanciano in un panorama già competitivo.
 image: /img/cattura.jpg
 ---
-![](/img/cattura.jpg)
+![null](/img/cattura.jpg)
 
-> Innovation drives progress, ovvero l'innovazione guida il progresso. 
+> Innovation drives progress
 
 Queste sono le parole che aprono le sezione delle [Novel Drug Approvals for 2019](https://www.fda.gov/drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products/novel-drug-approvals-2019) dal sito ufficiale della FDA statunitense. Il Center for Drug Evaluation and Research (CDER) della FDA, quando si tratta di innovazione nello sviluppo di nuovi farmaci e prodotti biologici terapeutici, supporta l'industria farmaceutica in ogni fase del suo processo. Con le sue competenze scientifiche e normative, il CDER fornisce il supporto necessario per portare sul mercato e nel più breve tempo possibile nuove terapie che possano apportare un beneficio alla salute del paziente.
 
-Se questo anno non si appresta a chiudersi con numeri strepitosi sta di fatto che è stato comunque un anno ricco di approvazioni di farmaci nell'ottica di ampliare il pool di farmaci a disposizione per trattare malattie debilitanti rare poco conosciute e poco fino ad ora esplorate da un punto di vista farmacologico.
-
 Dopo un anno prolifico, stiamo parlando del 2018, che ha visto l'approvazione da parte dell'agenzia statunitense di ben **59 farmaci**, il 2019 sta per concludersi con numeri più bassi in fatto di approvazioni. L'ultima, da parte della FDA, risale al 12 dicembre. Fino a quella data sono state approvate **42 nuove terapie**, alcune delle quali offrono trattamenti cosiddetti "first in class" e altre invece si lanciano in un panorama già ampiamente navigato e competitivo.
+
+Se questo anno non si appresta a chiudersi con numeri strepitosi sta di fatto che è stato comunque un anno ricco di approvazioni di farmaci nell'ottica di ampliare il pool di farmaci a disposizione per trattare malattie debilitanti rare poco conosciute e poco fino ad ora esplorate da un punto di vista farmacologico.
 
 Ecco alcune delle straordinarie approvazioni del 2019:
 
