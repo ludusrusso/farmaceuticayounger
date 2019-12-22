@@ -82,7 +82,7 @@ xi. Riduzione al minimo del rischio di contaminazione causata dal ricircolo o da
 
 xii. Utilizzo di sistemi automatici di pulizia (“clean in place”) di efficacia validata;
 
-xiii. Per aree di lavaggio generali comuni, tenere separati gli strumenti di lavaggio, asciugatura e .
+xiii. Per aree di lavaggio generali comuni, tenere separati gli strumenti di lavaggio, asciugatura e le aree di stoccaggio.
 
 _Misure organizzative_
 
