@@ -12,7 +12,7 @@ Le operazioni di produzione devono seguire procedure definite chiaramente; devon
 
 **Aspetti generali **
 
-5.1 La Produzione deve essere rappresentata e supervisionata da persone competenti. 
+5.1 La Produzione deve essere portata a termine e supervisionata da persone competenti. 
 
 5.2 Ogni operazione di gestione dei materiali e dei prodotti, come il ricevimento e la quarantena, il campionamento, lo stoccaggio, l'etichettatura, la distribuzione, la lavorazione, il confezionamento e la distribuzione deve essere fatta in accordo a procedure o istruzioni scritte ed all'occorrenza essere documentata. 
 
@@ -20,49 +20,49 @@ Le operazioni di produzione devono seguire procedure definite chiaramente; devon
 
 5.4 I danni subiti dai contenitori e qualunque altro eventuale problema che possa influire negativamente sulla qualità di un materiale devono essere esaminati, documentati e riportati al reparto Controllo Qualità.
 
-5.5 Le materie prime ed i prodotti finiti dovranno essere posti in quarantena, fisicamente o amministrativamente, immediatamente dopo essere stati ricevuti o lavorati fino alla loro approvazione per l'uso o la distribuzione. 
+5.5 Le materie prime ed i prodotti finiti devono essere posti in quarantena, fisicamente o amministrativamente, immediatamente dopo essere stati ricevuti o processati fino alla loro approvazione per l'uso o la distribuzione. 
 
-5.6 Prodotti semilavorati e sfusi acquistati in quanto tali dovranno essere gestiti al loro ricevimento come se si trattasse di materie prime. 
+5.6 Prodotti semilavorati e prodotti bulk acquistati in quanto tali dovranno essere gestiti al loro ricevimento come se si trattasse di materie prime. 
 
-5.7 Tutti i materiali ed i prodotti devono essere immagazzinati nelle condizioni più opportune stabilite dal fabbricante ed in modo ordinato al fine di consentire la separazione per lotti e la rotazione delle scorte.  
+5.7 Tutti i materiali e i prodotti devono essere immagazzinati nelle condizioni più opportune stabilite dal fabbricante ed in modo ordinato al fine di consentire la suddivisione per lotti e la rotazione degli stock.  
 
 5.8 Controlli sui resi, e la riconciliazione delle quantità, devono essere condotti se necessario al fine di garantire che le discrepanze non superino i limiti accettabili.
 
 5.9 Nello stesso locale non si devono eseguire simultaneamente o consecutivamente operazioni su prodotti diversi a meno che non vi sia alcun rischio di frammischiamento (mix-up) o di contaminazione crociata (cross-contamination).
 
-5.10 Prodotti e materiali devono essere protetti dai vari tipi di contaminazione, compresa quella microbica, in ogni fase del processo di produzione. 
+5.10 Prodotti e materiali devono essere protetti dalla contaminazione microbica e dagli altri tipi di contaminazione, in ogni fase del processo di produzione. 
 
 5.11 Quando si utilizzano sostanze e prodotti allo stato secco si devono prendere speciali precauzioni per prevenire la produzione e la propagazione di polveri. Ciò riguarda in particolare la manipolazione di materiali estremamente attivi o sensibilizzanti. 
 
-5.12 In ogni momento della produzione, tutti i materiali, i contenitori per le sostanze allo stato sfuso, le principali apparecchiature e quando appropriati i locali impiegati dovranno essere contrassegnati con etichette o altrimenti identificati indicando il prodotto o materiale in lavorazione, il dosaggio (quando applicabile) e il numero di lotto. A seconda dei casi, questa indicazione dovrà anche menzionare la fase di produzione.
+5.12 In ogni momento della produzione, tutti i materiali, i contenitori per le sostanze allo stato sfuso, le principali apparecchiature e quando appropriati i locali impiegati, devono essere contrassegnati con etichette o altrimenti identificati indicando il prodotto o materiale in lavorazione, il dosaggio (quando applicabile) e il numero di lotto. A seconda dei casi, questa indicazione dovrà anche menzionare la fase di produzione.
 
 5.13 Le etichette applicate ai contenitori, alle apparecchiature o ai locali devono essere chiare, univoche e conformi al formato approvato dall'azienda. Sulle etichette è spesso utile, oltre alle scritte, impiegare anche i colori per indicare un determinato stato (ad es.: in quarantena, accettato, respinto, pulito). 
 
 5.14 Si devono eseguire verifiche per garantire che le tubazioni e le altre parti di attrezzature utilizzate per trasportare i prodotti da una zona all'altra siano collegate in modo corretto.
 
-5.15 Nei limiti del possibile dovrà essere evitata qualunque deviazione dalle istruzioni o dalle procedure. Qualora si verifichi una deviazione, essa dovrà essere approvata per iscritto da una persona competente, se opportuno chiamando in causa il reparto Controllo Qualità.
+5.15 Nei limiti del possibile deve essere evitata qualunque deviazione dalle istruzioni o dalle procedure. Qualora si verifichi una deviazione, essa deve essere approvata per iscritto da una persona competente, se opportuno coinvolgendo il reparto Controllo Qualità.
 
 5.16 L'accesso ai locali adibiti alla produzione deve essere consentito soltanto alle persone autorizzate.
 
 **Prevenzione della contaminazione crociata in produzione**
 
-5.17 Di norma, la produzione di prodotti non medicinali deve essere evitata nelle aree destinate alla produzione di medicinali e con le apparecchiature adibite a tale produzione ma, ove giustificato, potrebbe essere consentito laddove le misure per prevenire la contaminazione crociata con medicinali descritti di seguito e nel capitolo 3 possano essere applicato. La produzione e/o lo stoccaggio di veleni tecnici, come i pesticidi (tranne nei casi in cui sono utilizzati per la fabbricazione di medicinali) e gli erbicidi, non dovrebbero essere consentiti nelle aree utilizzate per la fabbricazione e/o lo stoccaggio di medicinali.
+5.17 Di norma, la produzione di prodotti non medicinali deve essere evitata nelle aree e con le apparecchiature destinate alla produzione di prodotti medicinali ma, ove giustificato, può essere consentito quando si possono applicare le misure per prevenire la contaminazione crociata con prodotti medicinali descritti di seguito e nel capitolo 3. La produzione e/o lo stoccaggio di sostanze velenose, come i pesticidi (tranne nei casi in cui sono utilizzati per la fabbricazione di medicinali) e gli erbicidi, non devono essere consentiti nelle aree utilizzate per la fabbricazione e/o lo stoccaggio di medicinali.
 
-5.18 La contaminazione di una materia prima o di un prodotto da parte di un altro materiale o prodotto deve essere evitata. Questo rischio di contaminazione crociata accidentale deriva dal rilascio non controllato di polveri, gas, vapori, aerosol o organismi provenienti da sostanze e prodotti del processo di produzione, da residui presenti nelle attrezzature e dagli indumenti degli operatori. L'entità del rischio varia a seconda dei tipi di contaminante e di prodotto in questione; tra i contaminanti più pericolosi vi sono sostanze dotate di elevato potere sensibilizzante, preparati biologici quali quelli contenenti organismi vivi, alcuni ormoni, sostanze citotossiche ed altre sostanze fortemente attive. I prodotti per i quali è probabile che la contaminazione crociata sia più significativa sono quelli somministrati per iniezione e quelli somministrati per un lungo Periodo di tempo. Tuttavia, la contaminazione di tutti i prodotti costituisce un rischio per la sicurezza del paziente a seconda della natura e dell'entità della contaminazione.
+5.18 La contaminazione di una materia prima o di un prodotto da parte di un altro materiale o prodotto deve essere evitata. Questo rischio di contaminazione crociata accidentale deriva dal rilascio non controllato di polveri, gas, vapori, aerosol, materiale genetico o organismi provenienti da sostanze e prodotti del processo di produzione, da residui presenti nelle attrezzature e dagli indumenti degli operatori. L'entità del rischio varia a seconda dei tipi di contaminante e di prodotto in questione. I prodotti per i quali è probabile che la contaminazione crociata sia più significativa sono quelli somministrati per iniezione e quelli somministrati per un lungo periodo di tempo. Tuttavia, la contaminazione di tutti i prodotti costituisce un rischio per la sicurezza del paziente a seconda della natura e dell'entità della contaminazione.
 
-5.19 La contaminazione crociata deve essere prevenuta dall'attenzione alla progettazione dei locali e delle attrezzature come descritto nel capitolo 3. Ciò dovrebbe essere supportato dall'attenzione alla progettazione del processo e all'attuazione di eventuali misure tecniche o organizzative pertinenti, compresi processi di pulizia efficaci e riproducibili per controllare il rischio di contaminazione crociata.
+5.19 La contaminazione crociata deve essere evitata dalla progettazione dei locali e delle attrezzature come descritto nel capitolo 3. Ciò deve essere supportato dalla progettazione del processo e dall’implementazione di ogni misura tecnica e organizzativa pertinente, compresi processi di pulizia efficaci e riproducibili per controllare il rischio di contaminazione crociata.
 
-5.20 Un processo di gestione del rischio di qualità, che comprende una valutazione della potenza e della tossicologia, deve essere usato per valutare e controllare i rischi di contaminazione crociata presentati dai prodotti fabbricati. Fattori inclusi; devono essere presi in considerazione anche la progettazione e l'uso delle strutture/attrezzature, il flusso di personale e materiali, i controlli microbiologici, le caratteristiche fisico-chimiche della sostanza attiva, le caratteristiche del processo, i processi di pulizia e le capacità analitiche relative ai limiti pertinenti stabiliti dalla valutazione dei prodotti. Il risultato del processo di gestione del rischio di qualità devono essere la base per determinare la necessità e la misura in cui locali e attrezzature devono essere dedicati a un determinato prodotto o famiglia di prodotti. Ciò può includere parti specifiche che vengono a contatto con il prodotto o l’intera struttura produttiva. Può essere accettabile confinare le attività di produzione in un'area di produzione separata e autonoma all'interno di un impianto multiprodotto, ove giustificato.
+5.20 Un processo di gestione del rischio di qualità, che comprende una valutazione della potenza e della tossicologia, deve essere usato per valutare e controllare i rischi di contaminazione crociata presentati dai prodotti fabbricati. Questo include la progettazione e l'uso delle strutture/attrezzature, il flusso di personale e materiali, i controlli microbiologici, le caratteristiche fisico-chimiche della sostanza attiva, le caratteristiche del processo, i processi di pulizia e le capacità analitiche relative ai limiti pertinenti stabiliti dalla valutazione dei prodotti. Il risultato del processo di gestione del rischio di qualità deve essere la base per determinare la necessità e la misura in cui locali e attrezzature devono essere dedicati a un determinato prodotto o famiglia di prodotti. Ciò può includere parti specifiche che vengono a contatto con il prodotto o l’intera linea produttiva. Può essere accettabile confinare le attività di produzione in un'area di produzione separata e autonoma all'interno di un impianto multiprodotto, ove giustificato.
 
-5.21 Il risultato del processo di gestione del rischio di qualità deve essere la base per determinare l'estensione delle misure tecniche e organizzative necessarie per controllare i rischi di contaminazione crociata. Questi potrebbero includere, a titolo esemplificativo, i seguenti:
+5.21 Il risultato del processo di gestione del rischio di qualità deve essere la base per determinare l'estensione delle misure tecniche e organizzative necessarie per controllare i rischi di contaminazione crociata. Questi potrebbero includere, a titolo esemplificativo, le seguenti:
 
 _Misure tecniche_
 
 i. Stabilimento di produzione dedicato (locali e attrezzature);
 
-ii. Zone di produzione autosufficienti con apparecchiature di elaborazione separate e sistemi di riscaldamento, ventilazione e condizionamento dell'aria (HVAC) separati. Può anche essere desiderabile isolare determinate attrezzature da quelle utilizzate in altre aree;
+ii. Zone di produzione autosufficienti con apparecchiature di produzione separate e sistemi di riscaldamento, ventilazione e condizionamento dell'aria (HVAC) separati. Può anche essere utile isolare determinate attrezzature da quelle utilizzate in altre aree;
 
-iii. Progettazione di processi produttivi, locali e attrezzature per ridurre al minimo le opportunità di contaminazione crociata durante la lavorazione, la manutenzione e la pulizia;
+iii. Progettazione di processi produttivi, locali e attrezzature per ridurre al minimo le possibilità di contaminazione crociata durante la lavorazione, la manutenzione e la pulizia;
 
 iv. Utilizzo di "sistemi chiusi" per il processamento e il trasferimento di materiale/prodotto tra apparecchiature;
 
@@ -76,13 +76,13 @@ viii. Utilizzo di tecnologie monouso;
 
 ix. Utilizzo di apparecchiature progettate per facilitare la pulizia;
 
-X. Uso appropriato di air-lock e cascate di pressione per confinare potenziali contaminanti presenti nell'aria all'interno di un'area specifica;
+x. Uso appropriato di air-lock e cascate di pressione per confinare potenziali contaminanti all'interno di un'area specifica;
 
 xi. Riduzione al minimo del rischio di contaminazione causata dal ricircolo o dal ritorno di aria non trattata o insufficientemente trattata;
 
 xii. Utilizzo di sistemi automatici di pulizia (“clean in place”) di efficacia validata;
 
-xiii. Per aree di lavaggio generali comuni, separazione delle aree di lavaggio, asciugatura e conservazione delle attrezzature.
+xiii. Per aree di lavaggio generali comuni, tenere separati gli strumenti di lavaggio, asciugatura e .
 
 _Misure organizzative_
 
