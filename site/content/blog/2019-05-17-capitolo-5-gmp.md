@@ -86,19 +86,19 @@ xiii. Per aree di lavaggio generali comuni, tenere separati gli strumenti di lav
 
 _Misure organizzative_
 
-i. Dedicando l'intera struttura produttiva o un'area di produzione autonoma su base campagna (dedicata alla separazione nel tempo) seguita da un processo di pulizia di efficacia convalidata;
+i. Dedicare l'intera struttura produttiva o un'area di produzione autonoma a produzioni campagna (separando la produzione nel tempo) seguita da un processo di pulizia di efficacia convalidata;
 
-ii. Mantenimento di indumenti protettivi specifici all'interno di aree in cui vengono trattati prodotti ad alto rischio di contaminazione incrociata;
+ii. Usare indumenti protettivi specifici all'interno di aree in cui vengono trattati prodotti ad alto rischio di contaminazione crociata;
 
-iii. La verifica della pulizia dopo ogni campagna di prodotto dovrebbe essere considerata come uno strumento di rilevazione per supportare l'efficacia dell'approccio di gestione del rischio di qualità per i prodotti che si ritiene presentino un rischio più elevato;
+iii. La verifica della pulizia dopo ogni campagna di produzione deve essere considerata come uno strumento di rilevazione per supportare l'efficacia dell'approccio di gestione del rischio di qualità per i prodotti a rischio elevato;
 
-iv. A seconda del rischio di contaminazione, verifica della pulizia delle superfici non a contatto con i prodotti e monitoraggio dell'aria all'interno dell'area di produzione e / o delle aree adiacenti al fine di dimostrare l'efficacia delle misure di controllo contro la contaminazione nell'aria o la contaminazione mediante trasferimento meccanico;
+iv. A seconda del rischio di contaminazione, verificare la pulizia delle superfici non a contatto con i prodotti e monitorare l'aria all'interno dell'area di produzione e/o delle aree adiacenti al fine di dimostrare l'efficacia delle misure di controllo contro la contaminazione dell'aria o la contaminazione mediante trasferimento meccanico;
 
-v. misure specifiche per la gestione dei rifiuti, acqua di risciacquo contaminata e camici sporchi;
+v. Misure specifiche per la gestione dei rifiuti, acqua di risciacquo contaminata e camici sporchi;
 
 vi. Registrazione di sversamenti, eventi accidentali o deviazioni dalle procedure;
 
-vii. Progettazione di processi di pulizia per locali e attrezzature in modo tale che i processi di pulizia in sé non presentino un rischio di contaminazione incrociata;
+vii. Progettazione di processi di pulizia per locali e attrezzature in modo tale che i processi di pulizia in sé non presentino un rischio di contaminazione crociata;
 
 viii. Progettazione di registri dettagliati per i processi di pulizia per assicurare il completamento della pulizia in conformità con le procedure approvate e l'uso di etichette di stato di pulizia su attrezzature e aree di produzione;
 
@@ -106,39 +106,21 @@ ix. Utilizzo di aree di lavaggio generali comuni su base campagna;
 
 x. Supervisione del comportamento lavorativo per garantire l'efficacia della formazione e il rispetto dei relativi controlli procedurali.
 
-5.22 Le misure per prevenire la contaminazione incrociata e la loro efficacia devono essere riviste periodicamente secondo le procedure stabilite.
-
-5.19 La contaminazione crociata deve essere evitata ricorrendo a idonee misure di carattere tecnico o organizzativo quali ad esempio: 
-
-a) fabbricare i prodotti a rischio in aree separate (obbligatorio nel caso di prodotti quali penicillina, vaccini vivi, preparati contenenti batteri vivi ed alcuni altri preparati biologici) oppure operare una produzione a campagne (separazione nel tempo) intervallate da un'adeguata pulizia delle apparecchiature; 
-
-b) installare un adeguato sistema di compartimenti dei locali a tenuta d'aria e di estrazione dell'aria 
-
-c) minimizzare il rischio di contaminazione provocato dal ricircolo o dal riutilizzo di aria non trattata o trattata non a sufficienza; 
-
-d) mantenere gli indumenti protettivi all'interno delle aree nelle quali vengono lavorati i prodotti che presentano particolari rischi di contaminazione crociata; 
-
-e) utilizzare procedure di pulizia e di decontaminazione di provata efficacia, visto che una pulizia insufficiente delle attrezzature costituisce una comune fonte di contaminazione crociata; 
-
-f) ricorrere a sistemi chiusi di produzione; 
-
-g) effettuare prove per individuare la presenza di residui ed apporre sulle attrezzature etichette che ne indichino lo stato di pulizia. 
-
-5.20 Le misure volte ad impedire la contaminazione crociata e la loro efficacia devono essere verificate periodicamente conformemente a procedure stabilite. 
+5.22 Le misure per prevenire la contaminazione crociata e la loro efficacia devono essere riviste periodicamente secondo le procedure stabilite.
 
 **Convalida **
 
-5.21 Gli studi di convalida devono consolidare le Norme di Buona Fabbricazione e svolgersi conformemente a procedure ben definite; i risultati e le conclusioni di tali studi andranno O documentati.
+5.23 Gli studi di convalida devono consolidare le Norme di Buona Fabbricazione e svolgersi conformemente a procedure ben definite; i risultati e le conclusioni di tali studi devono essere documentati.
 
-5.22 Al momento di adottare una nuova formula di fabbricazione o un nuovo metodo di preparazione se ne deve dimostrarne l'idoneità per una lavorazione ripetitiva: si deve cioè dimostrare che il processo in questione, per il quale si impiegano i materiali e le attrezzature specificati, è in grado di fornire costantemente il prodotto con la qualità richiesta. 
+5.24 Al momento di adottare una nuova formula di fabbricazione o un nuovo metodo di preparazione se ne deve dimostrare l'idoneità per una lavorazione ripetitiva: si deve cioè dimostrare che il processo in questione, per il quale si impiegano i materiali e le attrezzature specificati, è in grado di fornire costantemente il prodotto con la qualità richiesta. 
 
-5.23 Devono essere convalidate le modifiche significative del processo di fabbricazione, inclusi eventuali cambiamenti dell'attrezzatura o dei materiali, che siano potenzialmente in grado d'influenzare la qualità del prodotto e/o la riproducibilità del processo. 
+5.25 Devono essere convalidate le modifiche significative del processo di fabbricazione, inclusi eventuali cambiamenti dell'attrezzatura o dei materiali, che siano potenzialmente in grado d'influenzare la qualità del prodotto e/o la riproducibilità del processo. 
 
-5.24 Processi e procedure devono essere sottoposti ad una rivalutazione critica periodica per garantire che consentano sempre di conseguire i risultati desiderati.
+5.26 Processi e procedure devono essere sottoposti ad una rivalutazione critica periodica per garantire che consentano sempre di conseguire i risultati desiderati.
 
 **Materie prime **
 
-5.25 L'approvigionamento delle materie prime costituisce una importante operazione e deve essere affidata a persone che abbiano una conoscenza specifica ed approfondita dei fornitori. 
+5.27 L'approvigionamento delle materie prime costituisce una importante operazione e deve essere affidata a persone che abbiano una conoscenza specifica ed approfondita dei fornitori. 
 
 5.26. Le materie prime devono essere acquistate unicamente da fornitori approvati citati nella specifica del prodotto in questione e, se possibile, direttamente dal fabbricante. E' pratica raccomandata discutere con i fornitori le specifiche redatte dal fabbricante per le materie prime. E' parimenti utile discutere con il fabbricante e il fornitore dei materiali in questione tutti gli aspetti della produzione e del controllo dei materiali stessi, manipolazione, etichettatura e prescrizioni in materia di confezionamento compresi i reclami e le procedure per materiali respinti. 
 
