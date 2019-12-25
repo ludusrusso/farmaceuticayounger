@@ -26,35 +26,35 @@ Nel caso di attività esternalizzate, un contratto deve descrivere il ruolo e le
 
 **Procedure per la gestione e l'indagine dei reclami, inclusi possibili difetti di qualità**
 
-8.5 Dovrebbero essere previste procedure scritte che descrivono le azioni da intraprendere al ricevimento di un reclamo. Tutti i reclami devono essere documentati e valutati per stabilire se rappresentano un potenziale difetto di qualità o altro problema.
+8.5 Devono essere previste procedure scritte che descrivono le azioni da intraprendere al ricevimento di un reclamo. Tutti i reclami devono essere documentati e valutati per stabilire se sono causati da un potenziale difetto di qualità o un altro problema.
 
-8.6 Particolare attenzione dovrebbe essere prestata a stabilire se un reclamo o un sospetto difetto di qualità si riferisce alla falsificazione.
+8.6 Particolare attenzione deve essere prestata a stabilire se un reclamo o un sospetto difetto di qualità é associato alla falsificazione.
 
 8.7 Dal momento che non tutti i reclami ricevuti da un'azienda possono rappresentare veri e propri difetti di qualità, i reclami che non indicano un potenziale difetto di qualità devono essere adeguatamente documentati e comunicati al gruppo o alla persona competente responsabile dell'indagine e della gestione dei reclami di tale natura, come ad esempio sospetti eventi avversi.
 
-8.8 Dovrebbero essere predisposte procedure per facilitare una richiesta di indagine sulla qualità di un lotto di un medicinale al fine di supportare un'indagine su un sospetto evento avverso segnalato.
+8.8 Devono essere predisposte procedure per facilitare una richiesta di indagine sulla qualità di un lotto di un medicinale al fine di supportare un'indagine su un sospetto evento avverso segnalato.
 
 8.9 Quando viene avviata un'indagine sui difetti di qualità, devono essere predisposte procedure per affrontare almeno quanto segue:
 
-io. La descrizione del difetto di qualità segnalato.
+i. La descrizione del difetto di qualità segnalato.
 
-ii. La determinazione dell'entità del difetto di qualità. Il controllo o la prova di campioni di riferimento e / o di conservazione dovrebbero essere considerati come parte di questo, e in alcuni casi, una revisione del registro di produzione in lotti, del registro di certificazione del lotto e dei registri di distribuzione del lotto (specialmente per i prodotti sensibili alla temperatura) dovrebbe essere eseguito.
+ii. La determinazione dell'entità del difetto di qualità. Il controllo o i test eseguiti su campioni di riferimento e/o di conservazione devono essere considerati come parte del processo di investigazione, e in alcuni casi, é necessario eseguire una revisione dei batch record di produzione, di certificazione e di distribuzione del lotto (specialmente per i prodotti sensibili alla temperatura).
 
 iii. La necessità di richiedere un campione o la restituzione del prodotto difettoso al denunciante e, qualora venga fornito un campione, la necessità di effettuare una valutazione adeguata.
 
-iv. La valutazione del rischio o dei rischi posti dal difetto di qualità, in base alla gravità e all'entità del difetto di qualità.
+iv. La valutazione del rischio o dei rischi associati al difetto di qualità, in base alla gravità e all'entità del difetto di qualità.
 
 v. Il processo decisionale da utilizzare in merito alla potenziale necessità di azioni di riduzione del rischio da intraprendere nella rete di distribuzione, come richiami di lotti o prodotti, o altre azioni.
 
-VI. La valutazione dell'impatto che qualsiasi azione di richiamo può avere sulla disponibilità del medicinale per pazienti / animali in qualsiasi mercato interessato e la necessità di notificare alle autorità competenti tale impatto.
+vi. La valutazione dell'impatto che qualsiasi azione di richiamo può avere sulla disponibilità del medicinale per pazienti/animali in qualsiasi mercato interessato e la necessità di notificare alle autorità competenti tale impatto.
 
-vii. Le comunicazioni interne ed esterne che dovrebbero essere fatte in relazione a un difetto di qualità e alla sua indagine.
+vii. Le comunicazioni interne ed esterne che devono essere fatte in relazione a un difetto di qualità e alla sua indagine.
 
 viii. L'identificazione delle potenziali cause alla radice del difetto di qualità.
 
-ix. Necessità di individuare e attuare adeguate azioni correttive e preventive (CAPA) per la questione e di valutare l'efficacia di tali CAPA.
+ix. Necessità di individuare e attuare adeguate azioni correttive e preventive (CAPA) e di valutare l'efficacia di tali CAPA.
 
-Indagine e processo decisionale
+**Indagine e processo decisionale**
 
 8.10 Le informazioni riportate in relazione a possibili difetti di qualità devono essere registrate, inclusi tutti i dettagli originali. La validità e l'estensione di tutti i difetti di qualità segnalati devono essere documentate e valutate in conformità con i principi di gestione del rischio di qualità al fine di supportare le decisioni relative al grado di indagine e alle azioni intraprese.
 
@@ -77,3 +77,29 @@ Indagine e processo decisionale
 8.18 I CAPA appropriati devono essere identificati e presi in risposta a un difetto di qualità. L'efficacia di tali azioni dovrebbe essere monitorata e valutata.
 
 8.19 I registri dei difetti di qualità dovrebbero essere rivisti e le analisi delle tendenze dovrebbero essere eseguite regolarmente per qualsiasi indicazione di problemi specifici o ricorrenti che richiedono attenzione.
+
+**Richiami sui prodotti e altre potenziali azioni di riduzione del rischio**
+
+8.20 Dovrebbero essere stabilite procedure scritte, periodicamente riviste e aggiornate quando necessario, al fine di intraprendere qualsiasi attività di richiamo o attuare qualsiasi altra azione di riduzione del rischio.
+
+8.21 Dopo che un prodotto è stato immesso sul mercato, qualsiasi recupero di esso dalla rete di distribuzione a seguito di un difetto di qualità dovrebbe essere considerato e gestito come un richiamo. (Questa disposizione non si applica al recupero (o alla restituzione) di campioni del prodotto dalla rete di distribuzione per facilitare un'indagine su un problema / rapporto sui difetti di qualità.)
+
+8.22 Le ricallo- lazioni devono poter essere avviate tempestivamente e in qualsiasi momento. In alcuni casi potrebbe essere necessario avviare operazioni di richiamo per proteggere la salute pubblica o degli animali prima di stabilire le cause alla radice e la piena estensione del difetto di qualità
+
+8.23 I registri di distribuzione di lotti / prodotti devono essere prontamente disponibili alle persone responsabili dei richiami e devono contenere informazioni sufficienti sui grossisti e sui clienti forniti direttamente (con indirizzi, numeri di telefono e / o fax all'interno e all'esterno dell'orario di lavoro, lotti e importi consegnati) , compresi quelli per prodotti esportati e campioni medici.
+
+8.24 Nel caso di prodotti medicinali commerciali, devono essere indicati tutti i materiali che devono essere identificati e i paesi di destinazione. Nel caso di un medicinale sperimentale per il quale è stata rilasciata un'autorizzazione all'immissione in commercio, il produttore del medicinale sperimentale dovrebbe, in collaborazione con lo sponsor, informare il titolare dell'autorizzazione all'immissione in commercio di qualsiasi difetto di qualità che potrebbe essere correlato al medicinale autorizzato . Lo sponsor dovrebbe attuare una procedura per il rapido sbloccaggio dei prodotti in cieco, laddove ciò sia necessario per un rapido richiamo. Lo sponsor dovrebbe garantire che la procedura divulga l'identità del prodotto in cieco solo nella misura necessaria.
+
+8.25 Occorre prendere in considerazione, previa consultazione delle autorità competenti interessate, quanto alla portata della rete di distribuzione debba estendersi un'azione di richiamo, tenendo conto del rischio potenziale per la salute pubblica o animale e di qualsiasi impatto che l'azione di richiamo proposta potrebbe avere. Le autorità competenti dovrebbero inoltre essere informate in situazioni in cui non viene proposta alcuna azione di richiamo per un lotto difettoso poiché il lotto è scaduto (ad esempio con prodotti a breve scadenza).
+
+8.26 Tutte le autorità competenti interessate devono essere informate in anticipo nei casi in cui i prodotti devono essere richiamati. Per questioni molto gravi (vale a dire quelle con il potenziale di incidere gravemente sulla salute dei pazienti o degli animali), potrebbe essere necessario intraprendere azioni rapide di riduzione del rischio (come un richiamo del prodotto) prima di informare le autorità competenti. Ove possibile, si dovrebbero tentare di concordare tali accordi prima della loro esecuzione con le autorità competenti interessate
+
+8.27 Occorre inoltre valutare se l'azione di richiamo proposta possa interessare mercati diversi in modi diversi e, in tal caso, dovrebbero essere sviluppate e discusse le opportune azioni di riduzione del rischio specifiche del mercato e discusse con le autorità competenti interessate. Tenuto conto del suo uso terapeutico, è necessario considerare il rischio di carenza di un medicinale che non ha alternative autorizzate prima di decidere un'azione di riduzione del rischio come un richiamo. Qualsiasi decisione di non eseguire un'azione di riduzione del rischio che sarebbe altrimenti necessaria dovrebbe essere concordata preventivamente con l'autorità competente.
+
+8.28 I prodotti richiamati devono essere identificati e conservati separatamente in un'area sicura in attesa di una decisione sul loro destino. È necessario effettuare e documentare una disposizione formale di tutti i lotti richiamati. La logica di qualsiasi decisione di rielaborare i prodotti richiamati deve essere documentata e discussa con l'autorità competente pertinente. Dovrebbe essere presa in considerazione anche l'estensione del periodo di validità rimanente per i lotti rielaborati che vengono considerati per l'immissione sul mercato.
+
+8.29 L'avanzamento del processo di richiamo deve essere registrato fino alla chiusura e alla pubblicazione di una relazione finale, compresa una riconciliazione tra le quantità consegnate e recuperate dei prodotti / lotti interessati.
+
+8.30 L'efficacia delle disposizioni in loco deve essere valutata periodicamente per confermare che rimangono robuste e idonee all'uso. Tali valutazioni dovrebbero estendersi sia alle situazioni di orario di ufficio sia a quelle di fuori sede e, durante l'esecuzione di tali valutazioni, si dovrebbe prendere in considerazione l'opportunità di eseguire azioni di richiamo simulato. Questa valutazione dovrebbe essere documentata e giustificata.
+
+8.31 Oltre ai richiami, esistono altre potenziali azioni di riduzione del rischio che possono essere prese in considerazione per gestire i rischi presentati da difetti di qualità. Tali azioni possono includere l'emissione di comunicazioni cautelative agli operatori sanitari in relazione al loro uso di un lotto potenzialmente difettoso. Questi dovrebbero essere considerati su un caso
