@@ -56,27 +56,27 @@ ix. Necessità di individuare e attuare adeguate azioni correttive e preventive 
 
 **Indagine e processo decisionale**
 
-8.10 Le informazioni riportate in relazione a possibili difetti di qualità devono essere registrate, inclusi tutti i dettagli originali. La validità e l'estensione di tutti i difetti di qualità segnalati devono essere documentate e valutate in conformità con i principi di gestione del rischio di qualità al fine di supportare le decisioni relative al grado di indagine e alle azioni intraprese.
+8.10 Le informazioni riportate in relazione a possibili difetti di qualità devono essere registrate, inclusi tutti i dettagli originali. La validità e l'estensione di tutti i difetti di qualità segnalati devono essere documentati e valutati in conformità con i principi di gestione del rischio di qualità al fine di supportare le decisioni relative al grado di indagine e alle azioni intraprese.
 
-8.11 Se viene rilevato o sospettato un difetto di qualità in un lotto, si dovrebbe prendere in considerazione la verifica di altri lotti e in alcuni casi di altri prodotti, al fine di determinare se anche questi sono interessati. In particolare, dovrebbero essere studiati altri lotti che possono contenere porzioni del lotto difettoso o componenti difettosi.
+8.11 Se viene rilevato o sospettato un difetto di qualità in un lotto, si devono prendere in considerazione la verifica di altri lotti e in alcuni casi di altri prodotti, al fine di determinare se anche questi sono interessati. In particolare, devono essere studiati altri lotti che possano contenere porzioni del lotto difettoso o componenti difettosi.
 
-8.12 Le indagini sui difetti di qualità dovrebbero includere una revisione delle precedenti relazioni sui difetti di qualità o qualsiasi altra informazione pertinente per qualsiasi indicazione di problemi specifici o ricorrenti che richiedono attenzione e possibilmente ulteriori azioni normative.
+8.12 Le indagini sui difetti di qualità devono includere una revisione delle precedenti relazioni sui difetti di qualità o qualsiasi altra informazione pertinente per qualsiasi indicazione di problemi specifici o ricorrenti che richiedono attenzione e possibilmente ulteriori azioni regolatorie.
 
-8.13 Le decisioni che vengono prese durante e in seguito alle indagini sui difetti di qualità dovrebbero riflettere il livello di rischio presentato dal difetto di qualità, nonché la gravità di qualsiasi non conformità rispetto ai requisiti dell'autorizzazione all'immissione in commercio / file delle specifiche del prodotto o GMP . Tali decisioni dovrebbero essere tempestive per garantire il mantenimento della sicurezza dei pazienti e degli animali, in modo commisurato al livello di rischio presentato da tali problemi.
+8.13 Le decisioni che vengono prese durante e in seguito alle indagini sui difetti di qualità devono riflettere il livello di rischio presentato dal difetto di qualità, nonché la gravità di qualsiasi non conformità rispetto ai requisiti dell'autorizzazione all'immissione in commercio/specifiche del prodotto o GMP. Tali decisioni devono essere tempestive per garantire il mantenimento della sicurezza dei pazienti e degli animali, in modo commisurato al livello di rischio presentato da tali problemi.
 
-8.14 Dato che informazioni complete sulla natura e l'entità del difetto di qualità potrebbero non essere sempre disponibili nelle prime fasi di un'indagine, i processi decisionali dovrebbero comunque garantire che vengano intraprese adeguate azioni di riduzione del rischio in un momento opportuno durante tale indagini. Tutte le decisioni e le misure prese a seguito di un difetto di qualità devono essere documentate.
+8.14 Dato che informazioni complete sulla natura e l'entità del difetto di qualità potrebbero non essere sempre disponibili nelle prime fasi di un'indagine, i processi decisionali devono comunque garantire che vengano intraprese adeguate azioni di riduzione del rischio in un momento opportuno durante tali indagini. Tutte le decisioni e le misure prese in seguito ad un difetto di qualità devono essere documentate.
 
-8.15 I difetti di qualità devono essere segnalati in modo tempestivo dal produttore al titolare / sponsor dell'autorizzazione all'immissione in commercio e a tutte le autorità competenti interessate nei casi in cui il difetto di qualità può comportare il richiamo del prodotto o una restrizione anormale nella fornitura del prodotto .
+8.15 I difetti di qualità devono essere segnalati in modo tempestivo dal produttore al titolare dell'autorizzazione all'immissione in commercio/sponsor e a tutte le autorità competenti interessate nei casi in cui il difetto di qualità può comportare il richiamo del prodotto o una restrizione anormale nella fornitura del prodotto.
 
 **Analisi della causa principale e azioni correttive e preventive**
 
-8.16 Durante lo studio dei difetti di qualità dovrebbe essere applicato un livello adeguato di analisi delle cause alla radice. Nei casi in cui non è possibile determinare le vere cause alla radice del difetto di qualità, si dovrebbe prendere in considerazione l'identificazione delle cause alla radice più probabili e di affrontarle.
+8.16 Durante lo studio dei difetti di qualità deve essere applicato un livello adeguato di analisi delle cause principali (root causes). Nei casi in cui non è possibile determinare la vera root cause del difetto di qualità, si devono prendere in considerazione l'identificazione delle roots causes più probabili e gestirle.
 
-8.17 Laddove si sospetti o identifichi un errore umano come causa di un difetto di qualità, questo dovrebbe essere formalmente giustificato e si dovrebbe prestare attenzione in modo da garantire che eventuali errori o problemi di processo, procedurali o basati sul sistema non siano trascurati, se presenti.
+8.17 Laddove si sospetti o identifichi un errore umano come causa di un difetto di qualità, questo deve essere formalmente giustificato e deve essere prestata attenzione in modo da garantire che eventuali errori o problemi di processo, procedurali o basati sul sistema non siano trascurati, se presenti.
 
-8.18 I CAPA appropriati devono essere identificati e presi in risposta a un difetto di qualità. L'efficacia di tali azioni dovrebbe essere monitorata e valutata.
+8.18 Le CAPA appropriate devono essere identificate e prese in risposta a un difetto di qualità. L'efficacia di tali azioni deve essere monitorata e valutata.
 
-8.19 I registri dei difetti di qualità dovrebbero essere rivisti e le analisi delle tendenze dovrebbero essere eseguite regolarmente per qualsiasi indicazione di problemi specifici o ricorrenti che richiedono attenzione.
+8.19 I record dei difetti di qualità devono essere rivisti e le analisi dei trend devono essere eseguite regolarmente per qualsiasi indicazione di problemi specifici o ricorrenti che richiedono attenzione.
 
 **Richiami sui prodotti e altre potenziali azioni di riduzione del rischio**
 
