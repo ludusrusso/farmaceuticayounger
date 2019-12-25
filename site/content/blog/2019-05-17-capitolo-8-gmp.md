@@ -4,11 +4,15 @@ tags:
   - articoli
 date: '2019-05-17T14:50:08+02:00'
 ---
-## Capitolo 8 - Reclami e Ritiro del Prodotto 
+## Capitolo 8 - Reclami, Difetti di Qualità e Ritiro del Prodotto
 
 **Principi **
 
-Ogni reclamo o altro tipo di segnalazione relativo a prodotti potenzialmente difettosi dovrà essere esaminato con cura conformemente a procedure scritte. Al fine di poter far fronte ad ogni eventualità e nel rispetto dell'articolo 117 della Direttiva 2001/83/EC e articolo 84 della direttiva 2001/82/EC dovrà essere previsto un sistema che consenta all'occorrenza di ritirare dal mercato in modo rapido ed efficace prodotti di cui si sappia o si sospetti la presenza di difetti. 
+Al fine di proteggere la salute pubblica e degli animali, devono essere istituiti un sistema e procedure appropriate per registrare, valutare, indagare e riesaminare i reclami, compresi potenziali difetti di qualità e, se necessario, richiamare in modo efficace e tempestivo i medicinali per uso umano o veterinario e i farmaci per la sperimentazione clinica dalla rete di distribuzione. I principi di gestione del rischio di qualità devono essere applicati alle indagini e alla valutazione dei difetti di qualità e al processo decisionale in relazione ai richiami di prodotti alle azioni correttive e preventive e ad altre azioni di riduzione del rischio. Una guida in relazione a questi principi è fornita nel Capitolo 1.
+
+Tutte le autorità competenti interessate devono essere informate tempestivamente in caso di un difetto di qualità confermato (fabbricazione difettosa, deterioramento del prodotto, rilevazione di falsificazione, non conformità con l'autorizzazione all'immissione in commercio o con le specifiche del prodotto o qualsiasi altro grave problema di qualità) su ogni prodotto medicinale o sperimentale sottoposto a richiamo o restrizione anormale della fornitura. In situazioni in cui il prodotto sul mercato risulta non conforme all'autorizzazione all'immissione in commercio, non è necessario informare le autorità competenti interessate a condizione che il grado di non conformità soddisfi le restrizioni dell'allegato 16 relative alla gestione delle deviazioni non pianificate.
+
+Nel caso di attività esternalizzate, un contratto deve descrivere il ruolo e le responsabilità del produttore, del titolare dell'autorizzazione all'immissione in commercio e/o dello sponsor e di qualsiasi altra terza parte rilevante in relazione alla valutazione, al processo decisionale e alla diffusione delle informazioni e all'implementazione delle azioni per ridurre il rischio di un prodotto difettoso. Nel capitolo 7 vengono fornite indicazioni in merito ai contratti. Tali contratti devono inoltre comprendere come contattare i responsabili di ciascuna parte per la gestione dei difetti di qualità e le questioni di richiamo.
 
 **Reclami **
 
