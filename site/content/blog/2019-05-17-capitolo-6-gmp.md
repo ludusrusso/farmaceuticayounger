@@ -127,15 +127,15 @@ ix. Riferimento all'apparecchiatura utilizzata.
 
 6.26 Dopo la commercializzazione, la stabilità del prodotto medicinale deve essere monitorata in accordo con un programma continuo ed appropriato che sia in grado di rilevare ogni problema di stabilità (es. modifiche nel livello di impurezze o del profilo di dissoluzione) associate alla formulazione nella confezione di vendita. 
 
-6.27 Lo scopo del programma di monitoraggio della stabilità è di monitorare il prodotto durante tutta la sua validità e di determinare che il prodotto adeguatamente conservato nelle condizioni riportate in etichetta rimanga, e ci si aspetta che rimanga, entro le specifiche. 
+6.27 Lo scopo del programma di monitoraggio della stabilità è di monitorare il prodotto durante tutta la sua validità e di determinare che il prodotto adeguatamente conservato nelle condizioni riportate in etichetta rimanga, e che ci si possa aspettare che rimanga, entro le specifiche. 
 
-6.28 Questo si applica principalmente ai prodotti medicinali nella confezione di vendita ma si dovrà considerare l'inserimento nel programma anche di prodotti sfusi (bulk). Per esempio, quando un prodotto sfuso è stoccato per un lungo periodo prima di essere confezionato e/o inviato da un sito di produzione ad un sito di confezionamento, deve essere valutato e studiato l'impatto sulla stabilità del prodotto confezionato delle condizioni ambientali. In aggiunta, si devono considerare gli intermedi che sono stoccati e utilizzati per periodi prolungati. Gli studi di stabilità di prodotti ricostituiti sono effettuati durante il periodo di sviluppo del prodotto e non devono essere monitorati in modo continuativo. Tuttavia, se necessario, può essere monitorata anche la stabilità di un prodotto ricostituito. 
+6.28 Questo si applica principalmente ai prodotti medicinali nella confezione di vendita ma si deve considerare l'inserimento nel programma anche di prodotti sfusi (bulk). Per esempio, quando un prodotto sfuso è stoccato per un lungo periodo prima di essere confezionato e/o inviato da un sito di produzione ad un sito di confezionamento, deve essere valutato e studiato l'impatto sulla stabilità del prodotto confezionato sotto le condizioni ambientali. In aggiunta, si devono considerare gli intermedi che sono stoccati e utilizzati per periodi prolungati. Gli studi di stabilità di prodotti ricostituiti sono effettuati durante il periodo di sviluppo del prodotto e non devono essere monitorati in modo continuativo. Tuttavia, se necessario, può essere monitorata anche la stabilità di un prodotto ricostituito. 
 
-6.29 Il programma di stabilità on-going deve essere descritto in un protocollo scritto e seguire le normative del Capitolo 4; i risultati devono essere formalizzati in una rapporto. Gli strumenti utilizzati per il programma continuativo di stabilità (le camere di stabilità oltre ad altri) devono essere qualificati e mantenuti in buone condizioni secondo le regole generali del Capitolo 3 e dell'Annex 15. 
+6.29 Il programma di stabilità on-going deve essere descritto in un protocollo scritto che segue le normative del Capitolo 4; i risultati devono essere formalizzati in un report. Gli strumenti utilizzati per il programma continuativo di stabilità (le camere di stabilità oltre ad altri) devono essere qualificati e mantenuti in buone condizioni secondo le regole generali del Capitolo 3 e dell'Annex 15. 
 
 6.30 Il protocollo per un programma continuativo di stabilità deve estendersi fino a coprire tutto il periodo di validità del prodotto e deve includere, ma non limitarsi, ai seguenti parametri: 
 
-i. Numero di lotto/i per potenza e differenti dimensioni dei lotti, ove applicabile;
+i. Numero di lotto/i per dosaggio e differenti dimensioni dei lotti, ove applicabile;
 
 ii. Metodi applicabili di analisi fisica, chimica, microbiologica e biologica;
 
@@ -147,27 +147,25 @@ v. Descrizione del/i sistema/i di chiusura dei contenitori;
 
 vi. Intervalli di analisi (tempi);
 
-vii. Descrizione delle condizioni di stoccaggio (si devono usare condizioni standard definite dalle ICH/VICH per analisi a lungo termine, in accordo con quanto riportato sull'etichetta del prodotto) 
+vii. Descrizione delle condizioni di stoccaggio (si devono usare condizioni standard definite dalle ICH/VICH per analisi a lungo termine, in accordo con quanto riportato sull'etichetta del prodotto);
 
 viii. Altri parametri applicabili specifici del prodotto medicinale. 
 
 6.31 Il protocollo per il programma di monitoraggio della stabilità può essere diverso da quello presentato inizialmente nel dossier per la richiesta di Autorizzazione all'Immissione in Commercio per gli studi di stabilità a lungo termine, ammesso che ciò sia giustificato e documentato nel protocollo stesso (per esempio, la frequenza di analisi o modifiche per l'aggiornamento alle raccomandazioni delle ICH/VICH). 
 
-6.32 Il numero dei lotti e la frequenza delle analisi devono essere tali da garantire una numero di dati sufficiente per l'analisi dell'andamento. Se non diversamente giustificato, si dovrà includere nel programma di monitoraggio della stabilità almeno un lotto all'anno di prodotto fabbricato per ogni dosaggio e per ogni tipologia di confezionamento primario, se rilevante, (a meno che, nell'anno in esame, non ne siano stati prodotti nessuno). Per i prodotti per i quali il monitoraggio della stabilità richiederebbe normalmente test sugli animali e non sono disponibili alternative appropriate o tecniche convalidate, la frequenza delle analisi può tener conto del rapporto rischi-benefici. Il principio di progetti ad accorpamenti (bracketing) e "a matrici" (matrixing) può essere applicato se scientificamente giustificato nel protocollo. 
+6.32 Il numero dei lotti e la frequenza delle analisi devono essere tali da garantire un numero di dati sufficienti per l'analisi del trend. Se non diversamente giustificato, si deve includere nel programma di monitoraggio della stabilità almeno un lotto all'anno di prodotto fabbricato per ogni dosaggio e per ogni tipologia di confezionamento primario, se rilevante, (a meno che, nell'anno in esame, non ne siano stati prodotti nessuno). Per i prodotti per i quali il monitoraggio della stabilità on-going richiederebbe normalmente test sugli animali e non siano disponibili alternative appropriate o tecniche convalidate, la frequenza delle analisi può tener conto del rapporto rischi-benefici. Il principio di progetti ad accorpamenti (bracketing) e "a matrici" (matrixing) può essere applicato se scientificamente giustificato nel protocollo. 
 
-6.33 In certe situazioni, lotti aggiuntivi devono essere inclusi nel programma di monitoraggio della stabilità alcuni lotti aggiuntivi. Per esempio, deve essere fatto uno studio di monitoraggio della stabilità dopo ogni cambio rilevante o dopo ogni importante deviazione al processo o al confezionamento. Ogni operazione di rilavorazione, riprocesso o recupero deve essere presa in considerazione per l'inclusione nel programma di monitoraggio. 
+6.33 In certe situazioni, lotti aggiuntivi devono essere inclusi nel programma di monitoraggio della stabilità on-going. Per esempio, deve essere fatto uno studio di stabilità on-going dopo ogni cambio rilevante o dopo ogni importante deviazione al processo o al confezionamento. Ogni operazione di rilavorazione, riprocesso o recupero deve essere presa in considerazione per l'inclusione nel programma di monitoraggio. 
 
-6.34 I risultati degli studi di stabilità on-going devono essere resi disponibili ai responsabili dell'azienda e in particolare, alla/e Persona/e Qualificata/e. Nel caso in cui gli studi di stabilità siano condotti in un sito diverso da quello di produzione del prodotto sfuso o del prodotto finito ci deve essere un accordo scritto tra le parti. I risultati degli studi di monitoraggio devono essere disponibili al sito di produzione per un riesame da parte dell'autorità competente. 
+6.34 I risultati degli studi di stabilità on-going devono essere resi disponibili ai responsabili dell'azienda e in particolare, alla/e Persona/e Qualificata/e. Nel caso in cui gli studi di stabilità on-going siano condotti in un sito diverso da quello di produzione del prodotto sfuso o del prodotto finito ci deve essere un accordo scritto tra le parti interessate. I risultati degli studi di stabilità on-going devono essere disponibili al sito di produzione per un revisione da parte dell'autorità competente. 
 
-6.35 I risultati fuori specifiche o evidenti andamenti anomali, devono essere indagati. Ogni risultato fuori specifiche che sia confermato o ogni importante andamento negativo deve essere riportato all'autorità competente. Deve essere considerato il possibile impatto sui lotti in commercio in accordo al Capitolo 8 delle GMP e le autorità competenti devono essere consultate al riguardo. 
+6.35 I risultati fuori specifica o evidenti andamenti anomali, devono essere indagati. Ogni risultato fuori specifica che sia confermato o ogni importante andamento negativo deve essere riportato all'autorità competente. Deve essere considerato il possibile impatto sui lotti in commercio in accordo al Capitolo 8 delle GMP e le autorità competenti devono essere consultate a riguardo.
 
-6.36 Un riassunto di tutti i dati generati, inclusa ogni conclusione interinale sul programma, dovrà essere messo in forma scritta e conservato. Tale rapporto dovrà essere sottoposto a revisione periodica.
+6.36 Un rapporto di tutti i dati generati, incluse eventuali conclusioni intermedie sul programma, deve essere messo in forma scritta e conservato. Tale rapporto deve essere sottoposto a revisione periodica.
 
-**Trasferimento tecnico dei metodi di prova
-**
+**Trasferimento tecnico dei metodi di prova**
 
-6.37 Prima di trasferire un metodo di prova, il sito di trasferimento deve verificare che i metodi di prova siano conformi a quelli descritti nell'autorizzazione all'immissione in commercio o nel relativo fascicolo tecnico.
- La convalida originale dei metodi di prova deve essere rivista per garantire la conformità con gli attuali requisiti ICH/VICH. Una gap analisi deve essere eseguita e documentata per identificare qualsiasi convalida supplementare che dovrebbe essere eseguita, prima di iniziare il processo di trasferimento tecnico.
+6.37 Prima di trasferire un metodo di prova, il sito di trasferimento deve verificare che i metodi di prova siano conformi a quelli descritti nell'autorizzazione all'immissione in commercio o nel relativo fascicolo tecnico. La convalida originale dei metodi di prova deve essere rivista per garantire la conformità con gli attuali requisiti ICH/VICH. Una gap analisi deve essere eseguita e documentata per identificare qualsiasi convalida supplementare che deve essere eseguita, prima di iniziare il processo di trasferimento tecnico.
 
 6.38 Il trasferimento di metodi di prova da un laboratorio (laboratorio di trasferimento) a un altro laboratorio (laboratorio ricevente) deve essere descritto in un protocollo dettagliato.
 
@@ -181,7 +179,7 @@ iii. Individuazione di standard e campioni da testare;
 
 iv. Identificazione di eventuali condizioni speciali di trasporto e conservazione degli articoli di prova;
 
-v. I criteri di accettazione devono essere basati sull'attuale studio di validazione della metodologia e rispetto ai requisiti ICH/VICH.
+v. I criteri di accettazione devono essere basati sull'attuale studio di validazione della metodologia e rispettare i requisiti ICH/VICH.
 
 6.40 Deviazioni dal protocollo devono essere esaminate prima della chiusura del processo di trasferimento tecnico. Il rapporto sul trasferimento tecnico deve documentare l'esito comparativo del processo e deve identificare le aree che richiedono un'ulteriore riconvalida del metodo di prova, se applicabile.
 
