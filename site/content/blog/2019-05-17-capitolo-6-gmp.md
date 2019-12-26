@@ -8,15 +8,17 @@ date: '2019-05-17T11:58:04+02:00'
 
 **Principi **
 
-Il Controllo Qualità riguarda le procedure di campionamento, di definizione delle specifiche e di esecuzione delle prove nonché quelle relative all'organizzazione, alla documentazione ed all'approvazione del prodotto volte a garantire che vengano eseguite le prove necessarie ed opportune ed inoltre che nessun materiale venga posto in lavorazione e nessun prodotto destinato alla distribuzione o alla vendita se la sua qualità non sia stata giudicata soddisfacente. Il Controllo Qualità non si limita alle operazioni di laboratorio, ma deve entrare in tutte le decisioni che possono riguardare la qualità del prodotto. L'indipendenza del Controllo Qualità dalla Produzione viene ritenuta di fondamentale importanza per il soddisfacente funzionamento del Controllo Qualità stesso. 
+Questo capitolo deve essere letto insieme a tutte le sezioni importanti della guida GMP.
+
+Il Controllo Qualità riguarda le procedure di campionamento, di definizione delle specifiche e di esecuzione delle prove nonché quelle relative all'organizzazione, alla documentazione e all'approvazione del prodotto volte a garantire che vengano eseguite le prove necessarie ed opportune ed inoltre che nessun materiale venga posto in lavorazione e nessun prodotto venga destinato alla distribuzione o alla vendita se la sua qualità non sia stata giudicata soddisfacente. Il Controllo Qualità non si limita alle operazioni di laboratorio, ma deve entrare in tutte le decisioni che possono riguardare la qualità del prodotto. L'indipendenza del Controllo Qualità dalla Produzione viene ritenuta di fondamentale importanza per il soddisfacente funzionamento del Controllo Qualità stesso. 
 
 **Aspetti generali **
 
-6.1 Ogni titolare di un'autorizzazione alla fabbricazione dovrà disporre di un Reparto Controllo Qualità. Tale reparto dovrà essere indipendente da altri servizi e fare capo ad una persona dotata delle qualifiche e dell'esperienza appropriate la quale possa avere a disposizione uno o più laboratori di controllo. Adeguate risorse dovranno essere disponibili per garantire che tutte le disposizioni pertinenti al Controllo Qualità siano applicate in modo efficace ed affidabile. 
+6.1 Ogni titolare di un'autorizzazione alla fabbricazione deve disporre di un Reparto Controllo Qualità. Tale reparto deve essere indipendente da altri reparti e fare capo ad una persona dotata delle qualifiche e dell'esperienza appropriate la quale possa avere a disposizione uno o più laboratori di controllo. Adeguate risorse devono essere disponibili per garantire che tutte le disposizioni pertinenti al Controllo Qualità siano applicate in modo efficace ed affidabile. 
 
 6.2 I compiti principali del responsabile del Controllo Qualità sono riepilogati nel Capitolo 2. Al dipartimento Controllo Qualità nel suo insieme spetteranno anche altri compiti quali quelli di definire, convalidare ed attuare tutte le procedure di Controllo Qualità, custodire i campioni di riferimento di materiali e di prodotti, garantire la corretta etichettatura dei contenitori di materiali e di prodotti, garantire il controllo della stabilità dei prodotti, partecipare alle indagini provocate da reclami relativi alla qualità del prodotto, ecc. Tutte queste operazioni devono essere svolte conformemente a procedure scritte e, se necessario, devono essere documentate. 
 
-6.3 La valutazione del prodotto finito deve contenere tutti i fattori significativi, inclusi le condizioni di produzione, i risultati delle analisi eseguite durante il processo, una revisione della documentazione di produzione (confezionamento incluso), il rispetto delle specifiche relative al prodotto finito e controlli della confezione finale finita. 
+6.3 La valutazione del prodotto finito deve considerare tutti i fattori significativi, inclusi le condizioni di produzione, i risultati delle analisi eseguite durante il processo, una revisione della documentazione di produzione (confezionamento incluso), il rispetto delle specifiche relative al prodotto finito e controlli del confezionamento finale. 
 
 6.4 Il personale addetto al Controllo Qualità deve poter accedere alle aree di produzione per eseguire le opportune operazioni di campionamento e d'indagine. 
 
@@ -26,7 +28,7 @@ Il Controllo Qualità riguarda le procedure di campionamento, di definizione del
 
 6.6 Personale, locali ed attrezzature dei laboratori devono risultare idonei ai compiti derivanti dalla natura e dalla portata delle operazioni di produzione. L'utilizzo di laboratori esterni, nel rispetto dei principi esposti nel Capitolo 7, Analisi affidate a terzi, può essere accettato per ragioni particolari, ma ciò va dichiarato nella documentazione del Controllo Qualità. 
 
-**Documentazione **
+**_Documentazione_ **
 
 6.7 Per la documentazione di laboratorio si devono seguire i principi esposti nel Capitolo 4. Una parte importante di tale documentazione riguarda il Controllo Qualità ed il reparto addetto a tale controllo deve poter disporre rapidamente dei seguenti documenti: 
 
@@ -51,7 +53,7 @@ vii. Record di convalida dei metodi di prova, ove applicabile.
 
 6.10 Oltre alle informazioni facenti parte della documentazione di un dato lotto devono essere archiviati e rapidamente disponibili anche altri dati originali quali i quaderni e/o le note di laboratorio. 
 
-**Campionamento **
+**_Campionamento_ **
 
 6.11 Le operazioni di campionamento devono svolgersi conformemente a procedure scritte debitamente approvate che descrivano: 
 
@@ -77,13 +79,13 @@ ix. Le istruzioni per la pulizia e la conservazione delle attrezzature di campio
 
 6.13 I contenitori utilizzati per i campioni devono riportare un'etichetta su cui sia indicato il contenuto, corredato del numero del lotto di produzione, la data del campionamento ed i recipienti da cui sono stati prelevati i campioni. Devono essere gestiti in modo da ridurre al minimo il rischio di frammischiamento e proteggere i campioni da condizioni di conservazione sfavorevoli.
 
-6.14 Ulteriori linee-guida su campioni di riferimento e controcampioni si trovano nell'Annex 19. 
+6.14 Ulteriori linee guida su campioni di riferimento e controcampioni si trovano nell'Annex 19. 
 
-**Analisi **
+**_Analisi_ **
 
-6.15 I metodi analitici impiegati devono essere convalidati. Un laboratorio che utilizza un metodo di prova e che non ha eseguito la convalida originale, deve verificare l'adeguatezza del metodo di prova. Tutte le operazioni di controllo descritte nell'autorizzazione alla immissione in commercio devono essere effettuate conformemente ai metodi approvati. 
+6.15 I metodi analitici impiegati devono essere convalidati. Un laboratorio che utilizza un metodo di prova e che non ha eseguito la convalida originale, deve verificare l'adeguatezza del metodo di prova. Tutte le operazioni di controllo descritte nell'autorizzazione all’immissione in commercio e nei dossier di registrazione devono essere effettuate conformemente ai metodi approvati. 
 
-6.16 I risultati ottenuti devono essere registrati. I risultati dei parametri identificati come attributi di qualità o come critici devono essere controllati per assicurare che siano coerenti tra loro. Eventuali calcoli devono essere esaminati criticamente.
+6.16 I risultati ottenuti devono essere registrati. I risultati dei parametri identificati come attributi di qualità o come critici devono essere controllati per assicurare che siano coerenti tra loro. Eventuali calcoli devono essere esaminati criticamente.
 
 6.17 Le analisi effettuate devono essere registrate e i relativi documenti devono comprendere almeno i seguenti dati: 
 
@@ -109,15 +111,15 @@ ix. Riferimento all'apparecchiatura utilizzata.
 
 6.19 Si deve prestare particolare attenzione alla qualità dei reagenti, della vetreria volumetrica e delle soluzioni impiegate in laboratorio nonché degli standard di riferimento e dei terreni di coltura che devono essere preparati in accordo a procedure scritte. Il livello dei controlli deve essere commisurato al loro uso e ai dati di stabilità disponibili.
 
-6.20 Gli standard di laboratorio devono essere stabiliti come idonei all'uso previsto. La loro qualifica e certificazione in quanto tale deve essere chiaramente dichiarata e documentata. Ogniqualvolta esistano norme di riferimento complementari da una fonte ufficialmente riconosciuta, queste devono preferibilmente essere utilizzate come norme di riferimento primarie a meno che non siano pienamente giustificate (l'uso di norme secondarie è consentito una volta che la loro tracciabilità alle norme primarie è stata dimostrata e documentata). Questi materiali complementari devono essere utilizzati per lo scopo descritto nella monografia appropriata, salvo diversa autorizzazione dell'autorità nazionale competente.
+6.20 Gli standard di laboratorio devono essere stabiliti come idonei all'uso previsto. La loro qualifica e certificazione in quanto tale deve essere dichiarata e documentata in modo chiaro. Ogniqualvolta esistano norme di riferimento complementari da una fonte ufficialmente riconosciuta, queste devono preferibilmente essere utilizzate come norme di riferimento primarie in assenza di piena giustificazione di un’alternativa (l'uso di norme secondarie è consentito una volta che la loro tracciabilità alle norme primarie è stata dimostrata e documentata). Questi materiali complementari devono essere utilizzati per lo scopo descritto nella monografia appropriata, salvo diversa autorizzazione dell'autorità nazionale competente.
 
 6.21 I reagenti di laboratorio, le soluzioni, gli standard di riferimento e i terreni di coltura devono essere contrassegnati con la data di preparazione e di apertura e la firma della persona che li ha preparati. La data di scadenza dei reagenti e dei terreni di coltura deve essere indicata sull'etichetta, insieme alle condizioni di conservazione specifiche. Inoltre, per le soluzioni volumetriche, devono essere indicate l'ultima data di standardizzazione e l'ultimo fattore corrente.
 
-6.22 Se necessario, la data di ricezione di qualsiasi sostanza utilizzata per le operazioni di test (ad es. reagenti, soluzioni e standard di riferimento) deve essere indicata sul contenitore. Le istruzioni per l'uso e la conservazione devono essere seguite. In alcuni casi potrebbe essere necessario eseguire un test di identificazione e/o altri test sui materiali reagenti al momento del ricevimento o prima dell'uso.
+6.22 Se necessario, la data di ricezione di qualsiasi sostanza utilizzata per le operazioni di test (ad es. reagenti, soluzioni e standard di riferimento) deve essere indicata sul contenitore. Le istruzioni per l'uso e la conservazione devono essere seguite. In alcuni casi potrebbe essere necessario eseguire un test di identificazione e/o altri test sui reagenti al momento del ricevimento o prima dell'uso.
 
-6.23 I terreni di coltura devono essere preparati in conformità con i requisiti del produttore dei terreni, a meno che non siano scientificamente giustificati. Le prestazioni di tutti i terreni di coltura devono essere verificate prima dell'uso.
+6.23 I terreni di coltura devono essere preparati in conformità con i requisiti del produttore dei terreni, a meno che non sia scientificamente giustificato. Le prestazioni di tutti i terreni di coltura devono essere verificate prima dell'uso.
 
-6.24 I terreni e i ceppi microbiologici usati devono essere decontaminati secondo una procedura standard e smaltiti in modo da prevenire la contaminazione incrociata e la ritenzione di residui. La durata di conservazione dei terreni microbiologici in uso deve essere stabilita, documentata e scientificamente giustificata.
+6.24 I terreni e i ceppi microbiologici usati devono essere decontaminati secondo una procedura standard e smaltiti in modo da prevenire la contaminazione crociata e la ritenzione di residui. La durata di conservazione dei terreni microbiologici in uso deve essere stabilita, documentata e scientificamente giustificata.
 
 6.25 Gli animali impiegati per controllare componenti, sostanze o prodotti devono all'occorrenza essere messi in quarantena prima di essere utilizzati. Devono essere mantenuti e controllati in modo da garantirne l'idoneità all'impiego previsto. Devono essere identificati e devono essere conservati in modo adeguato e mostrare in ordine cronologico il loro utilizzo.
 
@@ -161,9 +163,11 @@ viii. Altri parametri applicabili specifici del prodotto medicinale.
 
 6.36 Un riassunto di tutti i dati generati, inclusa ogni conclusione interinale sul programma, dovrà essere messo in forma scritta e conservato. Tale rapporto dovrà essere sottoposto a revisione periodica.
 
-**Trasferimento tecnico dei metodi di prova**
+**Trasferimento tecnico dei metodi di prova
+**
 
-6.37 Prima di trasferire un metodo di prova, il sito di trasferimento deve verificare che i metodi di prova siano conformi a quelli descritti nell'autorizzazione all'immissione in commercio o nel relativo fascicolo tecnico. La convalida originale dei metodi di prova deve essere rivista per garantire la conformità con gli attuali requisiti ICH/VICH. Una gap analisi deve essere eseguita e documentata per identificare qualsiasi convalida supplementare che dovrebbe essere eseguita, prima di iniziare il processo di trasferimento tecnico.
+6.37 Prima di trasferire un metodo di prova, il sito di trasferimento deve verificare che i metodi di prova siano conformi a quelli descritti nell'autorizzazione all'immissione in commercio o nel relativo fascicolo tecnico.
+ La convalida originale dei metodi di prova deve essere rivista per garantire la conformità con gli attuali requisiti ICH/VICH. Una gap analisi deve essere eseguita e documentata per identificare qualsiasi convalida supplementare che dovrebbe essere eseguita, prima di iniziare il processo di trasferimento tecnico.
 
 6.38 Il trasferimento di metodi di prova da un laboratorio (laboratorio di trasferimento) a un altro laboratorio (laboratorio ricevente) deve essere descritto in un protocollo dettagliato.
 
