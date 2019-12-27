@@ -269,3 +269,11 @@ I campioni prelevati dalla linea di confezionamento non devono essere restituiti
 **Carenza di prodotto dovuta a problemi di produzione**
 
 5.71 Il produttore deve riferire al titolare dell'autorizzazione all'immissione in commercio qualsiasi problema nelle operazioni di produzione che può comportare una riduzione anomala nella fornitura. Ciò deve essere fatto in modo tempestivo per facilitare la comunicazione della riduzione nella fornitura da parte del titolare dell'autorizzazione all'immissione in commercio, alle autorità competenti interessate, conformemente ai suoi obblighi legali 4.
+
+1 Requisiti specifici si applicano all'importazione di sostanze attive da utilizzare nella fabbricazione di medicinali prodotti per uso umano nell'articolo 46 b della direttiva 2001/83/CE.
+
+2 Un approccio simile deve applicarsi ai materiali di confezionamento come indicato nella sezione 5.45.
+
+3 Le analisi di identificazione delle materie prime devono essere eseguite secondo i metodi e le specifiche del relativo fascicolo di autorizzazione all'immissione in commercio.
+
+4 Articoli 23a e 81 della direttiva 2001/83/CE
