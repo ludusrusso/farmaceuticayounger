@@ -137,3 +137,89 @@ Gli audit devono essere effettuati presso i produttori e i distributori di sosta
 Gli audit devono avere una durata e una portata adeguata per garantire che sia effettuata una valutazione completa e chiara delle GMP; si deve prendere in considerazione l'eventuale contaminazione crociata da altri materiali in loco. Il report deve riportare pienamente ciò che è stato fatto e visto nell'audit con eventuali carenze chiaramente identificate. Eventuali azioni correttive e preventive richieste devono essere attuate.
 
 Ulteriori audit devono essere effettuati a intervalli definiti dal processo di gestione del rischio di qualità per garantire il mantenimento degli standard e l'uso continuato della catena di approvvigionamento approvata.
+
+_Eccipienti_
+
+Gli eccipienti e i fornitori di eccipienti devono essere controllati in modo appropriato sulla base dei risultati di una valutazione formale del rischio di qualità in conformità con le "Guidelines on the formalised risk assessment for ascertaining the appropriate Good Manufacturing Practice for excipients of medicinal products for human use".
+
+5.30 Ad ogni consegna di materia prima, l’integrità del packaging dei contenitori deve essere controllata, incluso l'eventuale sigillo antimanomissione e la corrispondenza tra la bolla di consegna, l'ordine di acquisto, le etichette del fornitore e le informazioni approvate dal produttore e dal fornitore detenute dal produttore del medicinale. I controlli su ciascuna consegna devono essere documentati.
+
+5.31 Se una consegna di materiale è composta da lotti diversi, ogni lotto deve essere considerato separato per il campionamento, test e rilascio.
+
+5.32 Le materie prime nell'area di stoccaggio devono essere opportunamente etichettate (vedere la sezione 13). Le etichette devono contenere almeno le seguenti informazioni:
+
+i. Il nome designato del prodotto e il riferimento del codice interno ove applicabile;
+
+ii. Un numero di lotto assegnato alla ricezione;
+
+iii. Dove applicabile, lo stato dei materiali contenuti (ad esempio in quarantena, in analisi, rilasciato, rigettato);
+
+iv. Dove applicabile, una data di scadenza o una data oltre la quale è necessario ripetere l’analisi.
+
+Quando si utilizzano sistemi di archiviazione completamente informatizzati, tutte le informazioni di cui sopra non devono necessariamente essere in una forma leggibile sull'etichetta.
+
+
+
+5.33 Dovrebbero essere previste procedure o misure appropriate per garantire l'identità del contenuto di ciascun contenitore di materiale di partenza. È necessario identificare i contenitori alla rinfusa da cui sono stati prelevati i campioni (vedere il capitolo 6).
+
+
+
+5.34 Devono essere utilizzati solo materiali di partenza che sono stati rilasciati dal dipartimento Controllo qualità e che sono nel loro periodo di prova.
+
+
+
+5.35 I fabbricanti di prodotti finiti sono responsabili di eventuali prove sui materiali di partenza2 come descritto nel fascicolo di autorizzazione all'immissione in commercio. Possono utilizzare i risultati delle prove parziali o complete dal produttore del materiale di partenza approvato, ma devono almeno eseguire prove di identificazione3 di ciascun lotto conformemente all'allegato 8.
+
+
+
+5.36 Le motivazioni alla base dell'esternalizzazione di questi test devono essere giustificate e documentate e devono essere soddisfatti i seguenti requisiti:
+
+io. Particolare attenzione dovrebbe essere prestata ai controlli di distribuzione (trasporto, vendita all'ingrosso, stoccaggio e consegna) al fine di mantenere le caratteristiche di qualità dei materiali di partenza e garantire che i risultati dei test rimangano applicabili al materiale consegnato;
+
+ii. Il produttore del medicinale deve eseguire audit, da solo o tramite terzi, a intervalli appropriati in base al rischio nei siti che effettuano le prove (incluso il campionamento) dei materiali di partenza al fine di garantire la conformità con le buone prassi di fabbricazione e con le specifiche e i metodi di prova descritti nel fascicolo di autorizzazione all'immissione in commercio;
+
+iii. Il certificato di analisi fornito dal produttore / fornitore del materiale di partenza deve essere firmato da una persona designata con qualifiche ed esperienza adeguate. La firma assicura che ogni lotto è stato verificato per la conformità con le specifiche del prodotto concordate a meno che questa garanzia non sia fornita separatamente;
+
+iv. Il produttore del medicinale deve avere un'esperienza adeguata nel trattare con il produttore del materiale di partenza (compresa l'esperienza tramite un fornitore) compresa la valutazione dei lotti precedentemente ricevuti e la storia della conformità prima di ridurre i test interni. Dovrebbero essere considerati eventuali cambiamenti significativi nei processi di produzione o collaudo;
+
+v. Il produttore del medicinale deve anche eseguire (o tramite un laboratorio contrattuale approvato separatamente) un'analisi completa a intervalli appropriati in base al rischio e confrontare i risultati con il produttore del materiale o il certificato di analisi del fornitore al fine di verificare l'affidabilità di quest'ultimo. Se questo test dovesse identificare eventuali discrepanze, è necessario eseguire un'indagine e adottare le misure appropriate. L'accettazione dei certificati di analisi da parte del produttore o fornitore del materiale deve essere interrotta fino al completamento di tali misure.
+
+
+
+5.37 I materiali di partenza devono essere dispensati solo da persone designate, seguendo una procedura scritta, per garantire che i materiali corretti siano accuratamente pesati o misurati in contenitori puliti e adeguatamente etichettati.
+
+5.38 Ogni materiale erogato e il suo peso o volume devono essere controllati in modo indipendente e il controllo deve essere registrato.
+
+5.39 I materiali distribuiti per ogni lotto devono essere tenuti insieme e chiaramente etichettati come tali.
+
+
+
+Operazioni di lavorazione: prodotti intermedi e sfusi
+
+5.40 Prima di iniziare qualsiasi operazione di elaborazione, è necessario adottare misure per garantire che l'area di lavoro e le attrezzature siano pulite e prive di materiali di partenza, prodotti, residui di prodotto o documenti non necessari per l'operazione corrente.
+
+5.41 I prodotti intermedi e sfusi devono essere mantenuti in condizioni adeguate.
+
+5.42 I processi critici devono essere validati (vedi "Convalida" in questo capitolo).
+
+5.43 Eventuali controlli in-process e controlli ambientali necessari devono essere effettuati e registrati.
+
+5.44 Qualunque deviazione significativa dal rendimento atteso deve essere registrata e investigata.
+
+
+
+Materiali da imballaggio
+
+5.45 La selezione, la qualificazione, l'approvazione e la manutenzione dei fornitori di materiali di imballaggio primari e stampati devono ricevere un'attenzione simile a quella data ai materiali di partenza.
+
+
+
+5.46 Particolare attenzione dovrebbe essere prestata ai materiali stampati. Devono essere conservati in condizioni adeguatamente sicure tali da escludere l'accesso non autorizzato. Le etichette tagliate e altri materiali stampati sfusi devono essere conservati e trasportati in contenitori chiusi separati per evitare confusioni. I materiali di imballaggio devono essere emessi per essere utilizzati solo da personale autorizzato secondo una procedura approvata e documentata.
+
+
+
+5.47 A ogni consegna o lotto di materiale di imballaggio stampato o primario deve essere assegnato un numero di riferimento o un marchio di identificazione specifico.
+
+
+
+5.48 Il materiale da imballaggio primario o obsoleto o obsoleto deve essere distrutto e questo smaltimento deve essere registrato.
