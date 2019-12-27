@@ -158,21 +158,13 @@ iv. Dove applicabile, una data di scadenza o una data oltre la quale è necessar
 
 Quando si utilizzano sistemi di archiviazione completamente informatizzati, tutte le informazioni di cui sopra non devono necessariamente essere in una forma leggibile sull'etichetta.
 
+5.33 Devono essere previste procedure o misure appropriate per garantire l'identità del contenuto di ciascun contenitore di materia prima. È necessario identificare i contenitori dei prodotti sfusi da cui sono stati prelevati i campioni (vedere il capitolo 6).
 
+5.34 Devono essere utilizzate solo materie prime che sono state approvate dal dipartimento Controllo qualità e che sono nel loro periodo di validità.
 
-5.33 Dovrebbero essere previste procedure o misure appropriate per garantire l'identità del contenuto di ciascun contenitore di materiale di partenza. È necessario identificare i contenitori alla rinfusa da cui sono stati prelevati i campioni (vedere il capitolo 6).
+5.35 I produttori di prodotti finiti sono responsabili di analizzare le materie prime come descritto nel fascicolo di autorizzazione all'immissione in commercio. Possono utilizzare i risultati delle analisi parziali o complete effettuate dal produttore della materia prima, ma devono almeno eseguire analisi di identificazione di ciascun lotto conformemente all'Annex 8.
 
-
-
-5.34 Devono essere utilizzati solo materiali di partenza che sono stati rilasciati dal dipartimento Controllo qualità e che sono nel loro periodo di prova.
-
-
-
-5.35 I fabbricanti di prodotti finiti sono responsabili di eventuali prove sui materiali di partenza2 come descritto nel fascicolo di autorizzazione all'immissione in commercio. Possono utilizzare i risultati delle prove parziali o complete dal produttore del materiale di partenza approvato, ma devono almeno eseguire prove di identificazione3 di ciascun lotto conformemente all'allegato 8.
-
-
-
-5.36 Le motivazioni alla base dell'esternalizzazione di questi test devono essere giustificate e documentate e devono essere soddisfatti i seguenti requisiti:
+5.36 Le motivazioni alla base dell'esternalizzazione di queste analisi devono essere giustificate e documentate e devono essere soddisfatti i seguenti requisiti:
 
 io. Particolare attenzione dovrebbe essere prestata ai controlli di distribuzione (trasporto, vendita all'ingrosso, stoccaggio e consegna) al fine di mantenere le caratteristiche di qualità dei materiali di partenza e garantire che i risultati dei test rimangano applicabili al materiale consegnato;
 
