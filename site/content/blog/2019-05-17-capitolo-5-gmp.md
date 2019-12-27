@@ -203,3 +203,69 @@ v. Il produttore del medicinale deve anche eseguire (o tramite un laboratorio ap
 5.47 A ogni consegna o lotto di materiale di imballaggio stampato o primario deve essere assegnato un numero di riferimento o un simbolo di identificazione specifico.
 
 5.48 Il materiale da imballaggio primario obsoleto o non più in vigore deve essere distrutto e questo smaltimento deve essere registrato.
+
+**Operazioni di imballaggio**
+
+5.49 Quando si configura un programma per le operazioni di confezionamento, è necessario prestare particolare attenzione a ridurre al minimo il rischio di contaminazione crociata, mix-up o sostituzioni.  Prodotti diversi non devono essere imballati nelle immediate vicinanze a meno che non vi sia una segregazione fisica.
+
+5.50 Prima di iniziare le operazioni di imballaggio, è necessario adottare misure per garantire che l'area di lavoro, le linee di imballaggio, le macchine da stampa e le altre attrezzature siano pulite e prive di prodotti, materiali o documenti precedentemente utilizzati, se questi non sono richiesti per l'operazione corrente. La line clearence deve essere eseguita secondo una lista di controllo appropriata.
+
+5.51 Il nome e il numero di lotto del prodotto da lavorare devono essere visualizzati in ogni stazione o linea di confezionamento.
+
+5.52 Tutti i prodotti e i materiali di imballaggio da utilizzare devono essere controllati al momento della consegna al reparto di confezionamento per verificare la quantità, l'identità e la conformità alle procedure di confezionamento.
+
+5.53 I contenitori per il riempimento devono essere puliti prima dell’uso. Si deve prestare attenzione nell’ evitare e rimuovere eventuali contaminanti come frammenti di vetro e particelle di metallo.
+
+5.54 Normalmente, il riempimento e il confezionamento primario devono essere seguiti il ​​più rapidamente possibile dall’etichettatura. In caso contrario, devono essere applicate le procedure appropriate per garantire che non si verifichino mix-up o errori di etichettatura.
+
+5.55 È necessario controllare e registrare la corretta esecuzione di qualsiasi operazione di stampa (ad esempio numeri di codice, date di scadenza) da eseguire separatamente o nel corso del confezionamento. Si deve prestare attenzione alla stampa a mano che deve essere ricontrollata a intervalli regolari.
+
+5.56 Prestare particolare attenzione quando si utilizzano etichette tagliate e quando la sovrastampa viene eseguita offline. Le etichette in rotolo sono normalmente preferibili alle etichette in fogli, per evitare mix-up.
+
+5.57 È necessario effettuare controlli per accertarsi che eventuali lettori di codici elettronici, contatori di etichette o dispositivi simili funzionino correttamente.
+
+5.58 Le informazioni stampate e in rilievo sui materiali di imballaggio devono essere distinte e resistenti allo sbiadimento o alla cancellazione.
+
+5.59 Il controllo in linea del prodotto durante l'imballaggio deve includere almeno il controllo di quanto segue:
+
+i. Aspetto generale del confezionamento;
+
+ii. La completezza del confezionamento;
+
+iii. Se vengono utilizzati i prodotti e i materiali di confezionamento corretti;
+
+iv. Se una sovrastampa è corretta;
+
+v. Corretto funzionamento dei monitor di linea.
+
+I campioni prelevati dalla linea di confezionamento non devono essere restituiti.
+
+5.60 I prodotti che sono stati coinvolti in un evento insolito devono essere reintrodotti nel processo solo dopo un'ispezione, un'indagine e un'approvazione speciale da parte del personale autorizzato. È necessario tenere un registro dettagliato di questa operazione.
+
+5.61 Eventuali discrepanze significative o insolite osservate durante la riconciliazione della quantità di prodotto sfuso e materiali di confezionamento stampati e il numero di unità prodotte devono essere investigate e contabilizzate in modo soddisfacente prima del rilascio.
+
+5.62 Al termine di un'operazione di confezionamento, tutti i materiali di confezionamento inutilizzati codificati in lotti devono essere distrutti e la distruzione registrata. È necessario seguire una procedura documentata qualora i materiali stampati non codificati vengono restituiti a magazzino.
+
+**Prodotti finiti**
+
+5.63 I prodotti finiti devono essere tenuti in quarantena fino al loro rilascio finale alle condizioni stabilite dal produttore.
+
+5.64 La valutazione dei prodotti finiti e della documentazione necessaria prima della commercializzazione del prodotto è descritta nel capitolo 6 (Controllo qualità).
+
+5.65 Dopo il rilascio, i prodotti finiti devono essere immagazzinati come scorta utilizzabile alle condizioni stabilite dal produttore.
+
+**Materiali respinti, recuperati e restituiti**
+
+5.66 I materiali e i prodotti respinti devono essere chiaramente contrassegnati come tali e immagazzinati separatamente in aree in quarantena. Devono essere restituiti ai fornitori o, ove appropriato, rilavorati o distrutti. Qualsiasi azione intrapresa deve essere approvata e registrata da personale autorizzato.
+
+5.67 La rilavorazione dei prodotti respinti deve rappresentare un caso eccezionale. È consentito solo se la qualità del prodotto finale non è compromessa, se le specifiche sono soddisfatte e se è fatto secondo una procedura definita e autorizzata dopo la valutazione dei rischi. È necessario tenere traccia della rilavorazione.
+
+5.68 Il recupero di tutti o parte dei lotti precedenti conformi alla qualità richiesta tramite incorporazione in un lotto dello stesso prodotto in una fase definita di produzione deve essere preventivamente autorizzato. Tale recupero deve essere effettuato secondo una procedura definita dopo la valutazione dei rischi connessi, compresi eventuali effetti sulla data di scadenza (shelf life). Il recupero deve essere registrato.
+
+5.69 La necessità di ulteriori test per qualsiasi prodotto finito che è stato rielaborato o in cui è stato incorporato un prodotto recuperato, deve essere decisa dal dipartimento di controllo qualità.
+
+5.70 I prodotti restituiti dal mercato e che non più sotto il controllo del produttore devono essere distrutti a meno che la loro qualità non sia soddisfacente senza alcun dubbio; possono essere presi in considerazione per la rivendita, la rietichettatura o il recupero in un lotto successivo solo dopo che sono stati valutati criticamente dal dipartimento di controllo qualità secondo una procedura scritta. La natura del prodotto, le eventuali condizioni particolari di conservazione richieste, le sue condizioni e la sua storia e il tempo trascorso da quando è stato rilasciato devono essere presi in considerazione in questa valutazione. In caso di dubbi sulla qualità del prodotto, non deve essere considerato idoneo per il rilascio o il riutilizzo, sebbene possano essere possibili trattamenti chimici di base per recuperare il principio attivo. Qualsiasi azione intrapresa deve essere opportunamente registrata.
+
+**Carenza di prodotto dovuta a problemi di produzione**
+
+5.71 Il produttore deve riferire al titolare dell'autorizzazione all'immissione in commercio qualsiasi problema nelle operazioni di produzione che può comportare una riduzione anomala nella fornitura. Ciò deve essere fatto in modo tempestivo per facilitare la comunicazione della riduzione nella fornitura da parte del titolare dell'autorizzazione all'immissione in commercio, alle autorità competenti interessate, conformemente ai suoi obblighi legali 4.
