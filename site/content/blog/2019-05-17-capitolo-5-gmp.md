@@ -118,6 +118,26 @@ x. Supervisione del comportamento lavorativo per garantire l'efficacia della for
 
 5.26 Processi e procedure devono essere sottoposti ad una rivalutazione critica periodica per garantire che consentano sempre di conseguire i risultati desiderati.
 
+**Materie Prime**
+
+5.27 La selezione, la qualificazione, l'approvazione e la manutenzione dei fornitori di materie prime, unitamente al loro acquisto e accettazione, devono essere documentati come parte del sistema di qualità farmaceutica. Il livello di supervisione deve essere proporzionato ai rischi presentati dai singoli materiali, tenendo conto della loro fonte, del processo di fabbricazione, della complessità della catena di approvvigionamento e dell'uso finale a cui il materiale è destinato nel produrre il medicinale. È necessario conservare le prove a sostegno di ogni approvazione del fornitore/materiale. Il personale coinvolto in queste attività deve avere una conoscenza attuale dei fornitori, della catena di approvvigionamento e dei rischi associati. Ove possibile, i materiali di partenza devono essere acquistati direttamente dal produttore di materie prime.
+
+5.28 I requisiti di qualità stabiliti dal produttore per i materiali di partenza devono essere discussi e concordati con i fornitori. Gli aspetti appropriati della produzione, dei test e dei controlli, inclusi i requisiti di manipolazione, etichettatura, imballaggio e distribuzione, reclami, richiami e procedure di rifiuto devono essere documentati in un accordo o specifica formale di qualità.
+
+5.29 Per l'approvazione e la manutenzione dei fornitori di sostanze attive ed eccipienti, è necessario:
+
+_Sostanze attive 1_
+
+Deve essere stabilita la tracciabilità della catena di approvvigionamento e i rischi associati, dalle materie prime delle sostanze attive al medicinale finito, questa deve essere valutata formalmente e verificata periodicamente. Devono essere messe in atto misure appropriate per ridurre i rischi per la qualità della sostanza attiva.
+
+La documentazione relativa alla catena di approvvigionamento e alla tracciabilità per ciascuna sostanza attiva (compresi le materie prime delle sostanze attive) devono essere disponibili ed essere conservati dal produttore o importatore con sede nel EEA (European Economic Area) o dall’importatore del medicinale.
+
+Gli audit devono essere effettuati presso i produttori e i distributori di sostanze attive per confermare che rispettano le pertinenti buone prassi di fabbricazione e le buone prassi di distribuzione. Il titolare dell'autorizzazione di fabbricazione deve verificare tale conformità da solo o attraverso un'entità che agisce per suo conto ai sensi di un contratto. Per i medicinali veterinari, gli audit devono essere condotti in base al rischio.
+
+Gli audit dovrebbero avere una durata e una portata adeguate per garantire che sia effettuata una valutazione completa e chiara delle GMP; si dovrebbe prendere in considerazione l'eventuale contaminazione incrociata da altri materiali in loco. La relazione dovrebbe riflettere pienamente ciò che è stato fatto e visto nell'audit con eventuali carenze chiaramente identificate. Eventuali azioni correttive e preventive richieste devono essere attuate.
+
+Ulteriori audit dovrebbero essere effettuati a intervalli definiti dal processo di gestione del rischio di qualità per garantire il mantenimento degli standard e l'uso continuato della catena di approvvigionamento approvata.
+
 **Materie prime **
 
 5.27 L'approvigionamento delle materie prime costituisce una importante operazione e deve essere affidata a persone che abbiano una conoscenza specifica ed approfondita dei fornitori. 
