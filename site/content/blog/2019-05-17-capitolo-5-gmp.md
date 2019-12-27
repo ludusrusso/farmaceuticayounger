@@ -166,29 +166,25 @@ Quando si utilizzano sistemi di archiviazione completamente informatizzati, tutt
 
 5.36 Le motivazioni alla base dell'esternalizzazione di queste analisi devono essere giustificate e documentate e devono essere soddisfatti i seguenti requisiti:
 
-io. Particolare attenzione dovrebbe essere prestata ai controlli di distribuzione (trasporto, vendita all'ingrosso, stoccaggio e consegna) al fine di mantenere le caratteristiche di qualità dei materiali di partenza e garantire che i risultati dei test rimangano applicabili al materiale consegnato;
+i. Particolare attenzione deve essere prestata ai controlli di distribuzione (trasporto, vendita all'ingrosso, stoccaggio e consegna) al fine di mantenere le caratteristiche di qualità delle materie prime e garantire che i risultati delle analisi rimangano applicabili al materiale consegnato;
 
-ii. Il produttore del medicinale deve eseguire audit, da solo o tramite terzi, a intervalli appropriati in base al rischio nei siti che effettuano le prove (incluso il campionamento) dei materiali di partenza al fine di garantire la conformità con le buone prassi di fabbricazione e con le specifiche e i metodi di prova descritti nel fascicolo di autorizzazione all'immissione in commercio;
+ii. Il produttore del medicinale deve eseguire audit, da solo o tramite terzi, a intervalli appropriati in base al rischio nei siti che effettuano le analisi (incluso il campionamento) delle materie prime al fine di garantire la conformità con le GMP e con le specifiche e i metodi di analisi descritti nel fascicolo di autorizzazione all'immissione in commercio;
 
-iii. Il certificato di analisi fornito dal produttore / fornitore del materiale di partenza deve essere firmato da una persona designata con qualifiche ed esperienza adeguate. La firma assicura che ogni lotto è stato verificato per la conformità con le specifiche del prodotto concordate a meno che questa garanzia non sia fornita separatamente;
+iii. Il certificato di analisi fornito dal produttore/fornitore delle materie prime deve essere firmato da una persona designata con qualifiche ed esperienza adeguate. La firma assicura che ogni lotto è stato verificato per la conformità con le specifiche del prodotto concordate a meno che questa garanzia non sia fornita separatamente;
 
-iv. Il produttore del medicinale deve avere un'esperienza adeguata nel trattare con il produttore del materiale di partenza (compresa l'esperienza tramite un fornitore) compresa la valutazione dei lotti precedentemente ricevuti e la storia della conformità prima di ridurre i test interni. Dovrebbero essere considerati eventuali cambiamenti significativi nei processi di produzione o collaudo;
+iv. Il produttore del medicinale deve avere un'esperienza adeguata nel trattare con il produttore della materia prima (compresa l'esperienza tramite un fornitore) compresa la valutazione dei lotti precedentemente ricevuti e la storia della conformità degli stessi prima di ridurre le analisi interne. Devono essere considerati eventuali cambiamenti significativi nei processi di produzione o analisi;
 
-v. Il produttore del medicinale deve anche eseguire (o tramite un laboratorio contrattuale approvato separatamente) un'analisi completa a intervalli appropriati in base al rischio e confrontare i risultati con il produttore del materiale o il certificato di analisi del fornitore al fine di verificare l'affidabilità di quest'ultimo. Se questo test dovesse identificare eventuali discrepanze, è necessario eseguire un'indagine e adottare le misure appropriate. L'accettazione dei certificati di analisi da parte del produttore o fornitore del materiale deve essere interrotta fino al completamento di tali misure.
+v. Il produttore del medicinale deve anche eseguire (o tramite un laboratorio approvato separatamente) un'analisi completa a intervalli appropriati in base al rischio e confrontare i risultati con il produttore del materiale o il certificato di analisi del fornitore al fine di verificare l'affidabilità di quest'ultimo. Se questa analisi dovesse identificare eventuali discrepanze, è necessario eseguire un'indagine e adottare le misure appropriate. L'accettazione dei certificati di analisi da parte del produttore o fornitore del materiale deve essere interrotta fino al completamento di tali misure.
 
-
-
-5.37 I materiali di partenza devono essere dispensati solo da persone designate, seguendo una procedura scritta, per garantire che i materiali corretti siano accuratamente pesati o misurati in contenitori puliti e adeguatamente etichettati.
+5.37 Le materie prime devono essere dispensate solo da persone designate, seguendo una procedura scritta, per garantire che i materiali corretti siano accuratamente pesati o misurati in contenitori puliti e adeguatamente etichettati.
 
 5.38 Ogni materiale erogato e il suo peso o volume devono essere controllati in modo indipendente e il controllo deve essere registrato.
 
 5.39 I materiali distribuiti per ogni lotto devono essere tenuti insieme e chiaramente etichettati come tali.
 
+**Operazioni di lavorazione: prodotti intermedi e sfusi**
 
-
-Operazioni di lavorazione: prodotti intermedi e sfusi
-
-5.40 Prima di iniziare qualsiasi operazione di elaborazione, è necessario adottare misure per garantire che l'area di lavoro e le attrezzature siano pulite e prive di materiali di partenza, prodotti, residui di prodotto o documenti non necessari per l'operazione corrente.
+5.40 Prima di iniziare qualsiasi operazione di elaborazione, è necessario adottare misure per garantire che l'area di lavoro e le attrezzature siano pulite e prive di materie prime, prodotti, residui di prodotto o documenti non necessari per l'operazione corrente.
 
 5.41 I prodotti intermedi e sfusi devono essere mantenuti in condizioni adeguate.
 
@@ -198,20 +194,12 @@ Operazioni di lavorazione: prodotti intermedi e sfusi
 
 5.44 Qualunque deviazione significativa dal rendimento atteso deve essere registrata e investigata.
 
+**Materiali da imballaggio**
 
+5.45 La selezione, la qualificazione, l'approvazione e la manutenzione dei fornitori di materiali di imballaggio primari e stampati devono ricevere un'attenzione simile a quella data alle materie prime.
 
-Materiali da imballaggio
+5.46 Particolare attenzione deve essere prestata ai materiali stampati. Devono essere conservati in condizioni adeguatamente sicure tali da escludere l'accesso non autorizzato. Le etichette tagliate e altri materiali stampati sfusi devono essere conservati e trasportati in contenitori chiusi separati per evitare mix-up. I materiali di imballaggio devono essere emessi per essere utilizzati solo da personale autorizzato secondo una procedura approvata e documentata.
 
-5.45 La selezione, la qualificazione, l'approvazione e la manutenzione dei fornitori di materiali di imballaggio primari e stampati devono ricevere un'attenzione simile a quella data ai materiali di partenza.
+5.47 A ogni consegna o lotto di materiale di imballaggio stampato o primario deve essere assegnato un numero di riferimento o un simbolo di identificazione specifico.
 
-
-
-5.46 Particolare attenzione dovrebbe essere prestata ai materiali stampati. Devono essere conservati in condizioni adeguatamente sicure tali da escludere l'accesso non autorizzato. Le etichette tagliate e altri materiali stampati sfusi devono essere conservati e trasportati in contenitori chiusi separati per evitare confusioni. I materiali di imballaggio devono essere emessi per essere utilizzati solo da personale autorizzato secondo una procedura approvata e documentata.
-
-
-
-5.47 A ogni consegna o lotto di materiale di imballaggio stampato o primario deve essere assegnato un numero di riferimento o un marchio di identificazione specifico.
-
-
-
-5.48 Il materiale da imballaggio primario o obsoleto o obsoleto deve essere distrutto e questo smaltimento deve essere registrato.
+5.48 Il materiale da imballaggio primario obsoleto o non più in vigore deve essere distrutto e questo smaltimento deve essere registrato.
