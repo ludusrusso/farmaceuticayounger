@@ -100,7 +100,7 @@ vi. Registrazione di sversamenti, eventi accidentali o deviazioni dalle procedur
 
 vii. Progettazione di processi di pulizia per locali e attrezzature in modo tale che i processi di pulizia in sé non presentino un rischio di contaminazione crociata;
 
-viii. Progettazione di registri dettagliati per i processi di pulizia per assicurare il completamento della pulizia in conformità con le procedure approvate e l'uso di etichette di stato di pulizia su attrezzature e aree di produzione;
+viii. Progettazione di record dettagliati per i processi di pulizia per assicurare il completamento della pulizia in conformità con le procedure approvate e l'uso di etichette di stato di pulizia su attrezzature e aree di produzione;
 
 ix. Utilizzo di aree di lavaggio generali comuni su base campagna;
 
@@ -110,7 +110,7 @@ x. Supervisione del comportamento lavorativo per garantire l'efficacia della for
 
 **Convalida **
 
-5.23 Gli studi di convalida devono consolidare le Norme di Buona Fabbricazione e svolgersi conformemente a procedure ben definite; i risultati e le conclusioni di tali studi devono essere documentati.
+5.23 Gli studi di convalida devono supportare le Norme di Buona Fabbricazione e svolgersi conformemente a procedure ben definite; i risultati e le conclusioni di tali studi devono essere documentati.
 
 5.24 Al momento di adottare una nuova formula di fabbricazione o un nuovo metodo di preparazione se ne deve dimostrare l'idoneità per una lavorazione ripetitiva: si deve cioè dimostrare che il processo in questione, per il quale si impiegano i materiali e le attrezzature specificati, è in grado di fornire costantemente il prodotto con la qualità richiesta. 
 
