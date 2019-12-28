@@ -17,23 +17,23 @@ Esistono due tipi principali di documentazione utilizzata per gestire e registra
 
 Dovrebbero essere implementati controlli adeguati per garantire l'accuratezza, l'integrità, la disponibilità e la leggibilità dei documenti. I documenti che riguardano le istruzioni operative devono essere privi di errori e disponibili in forma scritta. Il termine "scritto" significa registrato o documentato su supporti dai quali i dati devono essere resi in una forma leggibile dall'uomo.
 
-**Documentazione GMP necessaria (per tipologia): **
+**Documentazione GMP necessaria (per tipologia):**
 
-**Site Master File:** documento che descrive le attività del produttore relative allle GMP. 
+**Site Master File:** documento che descrive le attività del produttore relative alle GMP. 
 
-**_Tipi di istruzioni (disposizioni o requisiti): _**
+**_Tipi di istruzioni (disposizioni o requisiti):_**
 
 **Specifiche:** descrivono in dettaglio i requisiti a cui i prodotti o materiali utilizzati o ottenuti durante la fabbricazione devono essere conformi. Essi servono come base per la valutazione della qualità. 
 
-**Formule di produzione e istruzioni per il processo di produzione, per il confezionamento e per le analisi: **forniscono il dettaglio di tutte le materie prime, attrezzature e sistemi informatici (se presenti) da utilizzare e descrivono nello specifico tutte le istruzioni per il processo di produzione, il confezionamento, il campionamento e le analisi. Dovranno essere indicati inoltre i controlli di processo e le tecnologie di processo analitiche qualora rilevanti, unitamente ai criteri di accettazione. 
+**Formule di produzione e istruzioni per il processo di produzione, per il confezionamento e per le analisi:** forniscono il dettaglio di tutte le materie prime, attrezzature e sistemi informatici (se presenti) da utilizzare e descrivono nello specifico tutte le istruzioni per il processo di produzione, il confezionamento, il campionamento e le analisi. Dovranno essere indicati inoltre i controlli di processo e le tecnologie di processo analitiche qualora rilevanti, unitamente ai criteri di accettazione. 
 
 **Procedure:** (altrimenti note come Procedure Operative Standard, o [SOP](https://www.farmaceuticayounger.science/pharmacronimi/sop--standard-operating-procedure/)), danno direttive per l'esecuzione di determinate operazioni. 
 
 **Protocolli:** danno istruzioni per l'esecuzione e la registrazione di determinate operazioni. 
 
-**Technical Agreements: **sono accordi sottoscritti tra il committente e il fornitore che definiscono i termini di una attività affidata in conto terzi. 
+**Technical Agreements:** sono accordi sottoscritti tra il committente e il fornitore che definiscono i termini di una attività affidata in conto terzi. 
 
-**_Tipi di Record/Report: _**
+**_Tipi di Record/Report:_**
 
 **Record:** forniscono la prova delle diverse azioni intraprese per dimostrare la conformità alle istruzioni, per es. attività, eventi, indagini, e nel caso della fabbricazione di lotti, la storia di ogni lotto di prodotto, compresa la sua distribuzione. Le registrazioni comprendono i dati grezzi (raw data) utilizzati per generare altri record. Per dati registrati con sistemi informatici gli utenti autorizzati dovranno definire quali dati devono essere utilizzati come dati grezzi. Devono essere definiti come dati grezzi almeno tutti i dati su cui si basano le decisioni che riguardano la qualità. 
 
@@ -41,7 +41,7 @@ Dovrebbero essere implementati controlli adeguati per garantire l'accuratezza, l
 
 **Report:** documenti che contengono la descrizione dello svolgimento di particolari esercizi, progetti o indagini, unitamente ai risultati, alle conclusioni e alle raccomandazioni. 
 
-**Generazione e Controllo della Documentazione **
+**Generazione e Controllo della Documentazione**
 
 4.1 Tutti i tipi di documentazione devono essere definiti e rispettati. I requisiti si applicano allo stesso modo ai documenti in tutti i possibili tipi di supporti. I sistemi complessi devono essere conosciuti, ben documentati, convalidati e per essi devono essere messi in piedi adeguati controlli. Molti documenti (istruzioni e/o record) possono esistere in forme ibride, per es. alcuni dati possono essere in formato elettronico e altri cartaceo. Sia per i sistemi ibridi, sia per quelli omogenei devono essere definite le relazioni e le misure di controllo per i documenti originali, le copie ufficiali, la gestione dei dati e delle registrazioni. Si devono attuare adeguate verifiche per la documentazione in formato elettronico come modelli, moduli e documenti master. Devono essere messi in atto adeguati controlli per assicurare l'integrità dei documenti durante tutto il periodo della loro conservazione. 
 
@@ -49,13 +49,13 @@ Dovrebbero essere implementati controlli adeguati per garantire l'accuratezza, l
 
 4.3 I documenti che contengono le istruzioni devono essere approvati, firmati e datati da persone competenti ed autorizzate. Il contenuto non deve essere ambiguo e i documenti devono essere univocamente identificabili. Deve essere definita la data per la loro entrata in vigore. 
 
-4.4 I documenti contenenti istruzioni deveono essere predisposti in modo ordinato ed agevole da verificare. Lo stile e il linguaggio utilizzati devono essere adeguati per l'uso cui sono destinati. Le Procedure Operative Standard, le Istruzioni di Lavoro e i Metodi devono essere redatti utilizzando una forma imperativa. 
+4.4 I documenti contenenti istruzioni devono essere predisposti in modo ordinato ed agevole da verificare. Lo stile e il linguaggio utilizzati devono essere adeguati per l'uso cui sono destinati. Le Procedure Operative Standard, le Istruzioni di Lavoro e i Metodi devono essere redatti utilizzando una forma imperativa. 
 
 4.5 I documenti che fanno parte del Sistema di Gestione della Qualità devono essere regolarmente riesaminati e tenuti aggiornati. 
 
 4.6 I documenti non devono essere scritti a mano; sebbene, quando i documenti richiedano l'inserimento di dati manualmente, deve essere previsto un sufficiente spazio per tale scopo. 
 
-**Buone Pratiche di Documentazione **
+**Buone Pratiche di Documentazione**
 
 4.7 La compilazione manuale di documenti deve essere fatta con una scrittura chiara, leggibile ed indelebile. 
 
@@ -63,7 +63,7 @@ Dovrebbero essere implementati controlli adeguati per garantire l'accuratezza, l
 
 4.9 Eventuali modifiche a dati o note registrate su un documento devono essere firmate e datate; le modifiche devono consentire di leggere le informazioni originalmente riportate. Quando appropriato, si dovrà registrare anche il motivo della modifica. 
 
-**Conservazione dei documenti **
+**Conservazione dei documenti**
 
 4.10 E' necessario che sia chiaramente definita a quale attività di produzione si riferisce un determinato record e dove questo è situato. Adeguati controlli di sicurezza devono essere messi in atto per assicurare l'integrità del documento durante tutto il suo periodo di conservazione e convalidati quando appropriato. 
 
@@ -73,11 +73,11 @@ Dovrebbero essere implementati controlli adeguati per garantire l'accuratezza, l
 
 La sezione seguente fornisce alcuni esempi dei documenti richiesti. ll sistema di gestione della qualità deve descrivere tutti i documenti necessari per garantire la qualità del prodotto e la sicurezza del paziente. 
 
-**Specifiche **
+**Specifiche**
 
 4.13 Per materie prime, materiali di confezionamento e per prodotti finiti si deve disporre di specifiche appropriatamente autorizzate e datate. 
 
-_**Specifiche di materie prime e di materiali di confezionamento **_
+_**Specifiche di materie prime e di materiali di confezionamento**_
 
 4.14 Le specifiche delle materie prime e dei materiali di confezionamento primario o stampato devono comprendere o fare riferimento a seconda dei casi: 
 
@@ -103,7 +103,7 @@ _**Specifiche dei prodotti semilavorati e sfusi**_
 
 4.15 Le specifiche dei prodotti semilavorati e sfusi sono necessarie per le fasi critiche di lavorazione e nel caso in cui questi siano acquistati o inviati. Le specifiche devono essere simili a quelle delle materie prime o a quelle dei prodotti finiti, a seconda dei casi.
 
-_**Specifiche per i prodotti finiti **_
+_**Specifiche per i prodotti finiti**_
 
 4.16 Le specifiche dei prodotti finiti devono comprendere o fare riferimento a: 
 
@@ -173,7 +173,7 @@ h) una descrizione delle operazioni di confezionamento, incluse le operazioni su
 
 i) dettagli dei controlli durante la produzione ed istruzioni sul campionamento e sui limiti di accettazione. 
 
-**Record di lavorazione del lotto **
+**Record di lavorazione del lotto**
 
 4.20 Per ogni lotto prodotto andrà redatto un rendiconto di lavorazione che riprenda le parti salienti della formula di fabbricazione e delle istruzioni di lavorazione in vigore al momento. Tale rendiconto deve contenere le seguenti informazioni: 
 
@@ -221,9 +221,9 @@ h) quantitativi e numero di riferimento o di identificazione di tutti i material
 
 i) l'approvazione da parte del responsabile per le operazioni di confezionamento. 
 
-**Procedure e registrazioni **
+**Procedure e registrazioni**
 
-**_Entrata merce _**
+**_Entrata merce_**
 
 4.22 Devono essere previste procedure scritte e documenti per ricevere ogni fornitura di ogni materia prima (inclusi prodotti sfusi, semilavorati o finiti), materiali di confezionamento primario, secondario e stampati. 
 
@@ -247,7 +247,7 @@ h) eventuali commenti.
 
 4.24 A seconda dei casi devono essere previste procedure scritte per l'etichettatura interna, la quarantena e lo stoccaggio delle materie prime, dei materiali di confezionamento e degli altri materiali. 
 
-**Campionamento **
+**Campionamento**
 
 4.25 Per il campionamento devono essere previste procedure scritte in cui siano specificati i metodi e le attrezzature da impiegare, le quantità da prelevare ed eventuali accorgimenti per evitare la contaminazione del materiale o qualunque deterioramento della sua qualità. 
 
