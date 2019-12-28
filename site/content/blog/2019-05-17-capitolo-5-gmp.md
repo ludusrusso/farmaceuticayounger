@@ -6,11 +6,11 @@ date: '2019-05-17T11:18:19+02:00'
 ---
 ## Capitolo 5 - Produzione
 
-**Principi **
+**Principi**
 
 Le operazioni di produzione devono seguire procedure definite chiaramente; devono essere conformi ai principi delle Good Manufacturing Practice al fine di ottenere prodotti della qualità richiesta e conformi alle autorizzazioni alla produzione ed all'immissione in commercio.
 
-**Aspetti generali **
+**Aspetti generali**
 
 5.1 La Produzione deve essere portata a termine e supervisionata da persone competenti. 
 
@@ -108,7 +108,7 @@ x. Supervisione del comportamento lavorativo per garantire l'efficacia della for
 
 5.22 Le misure per prevenire la contaminazione crociata e la loro efficacia devono essere riviste periodicamente secondo le procedure stabilite.
 
-**Convalida **
+**Convalida**
 
 5.23 Gli studi di convalida devono supportare le Norme di Buona Fabbricazione e svolgersi conformemente a procedure ben definite; i risultati e le conclusioni di tali studi devono essere documentati.
 
