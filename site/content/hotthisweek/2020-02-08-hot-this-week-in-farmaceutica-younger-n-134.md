@@ -12,16 +12,10 @@ Il trattamento con Palforzia prevede tre fasi: escalation della dose iniziale, u
 
 Palforzia è una polvere prodotta con arachidi e confezionata in capsule a colori codificate per l'escalation della dose e l'up-dosaggio, e in una bustina per il trattamento di mantenimento. 
 
-L'efficacia di Palforzia è supportata da uno studio randomizzato, in doppio cieco, controllato con placebo, condotto negli Stati Uniti, in Canada e in Europa in circa 500 soggetti allergici alle arachidi. L'efficacia è stata testata valutando la percentuale di partecipanti allo studio che tollerano una sfida orale con una singola dose da 600 mg di proteina di arachidi (due volte la dose di mantenimento giornaliera di Palforzia) con non più di lievi sintomi allergici dopo 6 mesi di trattamento di mantenimento. I risultati hanno mostrato che il 67,2% dei destinatari di Palforzia ha tollerato una dose di 600 mg di proteine ​​di arachidi nella sfida, rispetto al 4,0% dei destinatari del placebo. 
+L'efficacia di Palforzia è supportata da uno studio randomizzato, in doppio cieco, controllato con placebo, condotto negli Stati Uniti, in Canada e in Europa in circa 500 soggetti allergici alle arachidi. L'efficacia è stata testata valutando la percentuale di partecipanti allo studio che tollerano una singola dose orale da 600 mg di proteina di arachidi (due volte la dose di mantenimento giornaliera di Palforzia) con lievi sintomi allergici dopo 6 mesi di trattamento di mantenimento. I risultati hanno mostrato che il 67,2% dei destinatari di Palforzia ha tollerato una dose di 600 mg di proteine ​​di arachidi, rispetto al 4,0% trattati con placebo. 
 
+La sicurezza di Palforzia è stata valutata in due studi in doppio cieco, controllati con placebo, su circa 700 soggetti allergici alle arachidi. 
 
-
-La sicurezza di Palforzia è stata valutata in due studi in doppio cieco, controllati con placebo, su circa 700 soggetti allergici alle arachidi. Gli effetti indesiderati più comuni di Palforzia sono stati dolore addominale, vomito, nausea, formicolio in bocca, prurito (anche in bocca e nelle orecchie), tosse, naso che cola, irritazione della gola e senso di oppressione, orticaria, respiro sibilante e respiro corto e anafilassi . Palforzia non deve essere somministrato a persone con asma incontrollato.
-
-
-
-Per mitigare il rischio di anafilassi associato a Palforzia, la FDA richiede una strategia di valutazione e mitigazione del rischio (REMS) con questa approvazione, che includa elementi per garantire un uso sicuro. Palforzia sarà disponibile solo attraverso fornitori di assistenza sanitaria, strutture sanitarie e farmacie appositamente certificati per i pazienti che sono iscritti al programma REMS. La FDA richiede che gli operatori sanitari che prescrivono Palforzia - e le strutture sanitarie che dispensano e amministrano Palforzia - siano istruiti sul rischio di anafilassi associata al suo uso. Inoltre, la fase di escalation della dose iniziale e la prima dose di ciascun livello di Up-Dosing devono essere somministrate solo ai pazienti in un ambiente sanitario certificato attrezzato per monitorare i pazienti e identificare e gestire l'anafilassi.
-
-
+Per mitigare il rischio di anafilassi associato a Palforzia, la FDA richiede una strategia di valutazione e mitigazione del rischio (REMS) con questa approvazione, che includa elementi per garantire un uso sicuro. Palforzia sarà disponibile solo attraverso fornitori di assistenza sanitaria, strutture sanitarie e farmacie appositamente certificati per i pazienti che sono iscritti al programma REMS. 
 
 La FDA ha concesso l'approvazione di Palforzia ad Aimmune Therapeutics.
