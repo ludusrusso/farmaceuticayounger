@@ -15,11 +15,11 @@ socialDesc: >-
   per i soggetti di età pari o superiore a 4 anni. 
 image: /img/1f7cb87b-68dd-4858-9bd3-701f458e7bc4.png
 ---
-![](/img/1f7cb87b-68dd-4858-9bd3-701f458e7bc4.png)
+![null](/img/1f7cb87b-68dd-4858-9bd3-701f458e7bc4.png)
 
-La Food and Drug Administration statunitense ha approvato [Palforzia \[Polvere di allergeni di arachidi (Arachis hypogaea) - dnfp]](https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treatment-peanut-allergy-children) per mitigare le reazioni allergiche, inclusa l'anafilassi, che possono verificarsi con un'esposizione accidentale alle arachidi. Il trattamento con Palforzia è stato autorizzato per i soggetti di età pari o superiore ai 4 anni. 
+La Food and Drug Administration statunitense ha approvato [Palforzia](https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treatment-peanut-allergy-children) \[Polvere di allergeni di arachidi (Arachis hypogaea) - dnfp] per mitigare le reazioni allergiche, inclusa l'anafilassi, che possono verificarsi con un'esposizione accidentale alle arachidi. Il trattamento con Palforzia è stato autorizzato per i soggetti di età pari o superiore ai 4 anni. 
 
-Se utilizzato in combinazione con l'eliminazione delle arachidi, **Palforzia fornisce un'opzione di trattamento approvata dalla FDA per aiutare a ridurre il rischio di queste reazioni allergiche nei bambini con allergia alle arachidi. **
+Se utilizzato in combinazione con l'eliminazione delle arachidi, **Palforzia fornisce un'opzione di trattamento approvata dalla FDA per aiutare a ridurre il rischio di queste reazioni allergiche nei bambini con allergia alle arachidi.**
 
 L'allergia alle arachidi colpisce circa 1 milione di bambini negli Stati Uniti e solo 1 su 5 di questi bambini riesce a superare l'allergia. Poiché non esiste una cura, le persone allergiche devono evitare rigorosamente l'esposizione per prevenire reazioni gravi e potenzialmente letali. Anche con l'eliminazione dalla dieta delle arachidi, si possono e si verificano esposizioni involontarie. L'allergia alle arachidi è una condizione in cui il sistema immunitario identifica erroneamente anche piccole quantità di arachidi come dannose. I sintomi fisici possono svilupparsi entro pochi secondi dall'esposizione e possono includere reazioni cutanee (ad es. orticaria, arrossamento o gonfiore), disturbi digestivi o reazioni più pericolose, come costrizione della gola e delle vie aeree e perdita di un flusso sanguigno adeguato verso gli organi vitali del nostro organismo. Gli antistaminici e l'epinefrina possono essere usati per trattare le reazioni allergiche, ma le reazioni gravi possono essere fatali anche con un trattamento appropriato e tempestivo. Palforzia non può essere usato per il trattamento di emergenza di reazioni allergiche, inclusa l'anafilassi. 
 
