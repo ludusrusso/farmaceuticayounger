@@ -33,9 +33,9 @@ socialDesc: >-
   non richiedono quindi la ricetta medica.
 image: /img/878ac521-b09a-4aac-8f0e-eafbcf7974f5.png
 ---
-![](/img/878ac521-b09a-4aac-8f0e-eafbcf7974f5.png)
+![null](/img/878ac521-b09a-4aac-8f0e-eafbcf7974f5.png)
 
-L'US Food and Drug Administration ha approvato tre farmaci per uso non soggetto a prescrizione, attraverso un processo chiamato _"prescription (Rx)-to-OTC switch"_. 
+L'US Food and Drug Administration ha [approvato tre farmaci](https://www.fda.gov/news-events/press-announcements/fda-approves-three-drugs-nonprescription-use-through-rx-otc-switch-process) per uso non soggetto a prescrizione, attraverso un processo chiamato _"prescription (Rx)-to-OTC switch"_. 
 
 **Voltaren Arthritis Pain** (gel topico di diclofenac sodico, 1%) per il sollievo temporaneo del dolore da artrite, **Pataday Twice Daily Relief** (soluzione oftalmica HCl olopatadina/gocce, 0,1%) per il sollievo temporaneo da prurito e occhi rossi dovuti a polline, ambrosia, erba, peli di animali, e **Pataday Once Daily Relief** (soluzione oftalmica HCl olopatadina/gocce, 0,2%) per il sollievo temporaneo da prurito agli occhi a causa di polline, ambrosia, erba, peli di animali, grazie a questa approvazione sono passati dall'essere dei farmaci somministrati solo dietro prescrizione medica a farmaci da banco o OTC, che non richiedono quindi la ricetta medica.
 
