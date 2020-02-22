@@ -10,7 +10,7 @@ La parte del virus nell'immagine, chiamata proteina spike, aiuta il virus ad att
 
 2019-nCoV utilizza una proteina spike (S) densamente glicosilata per ottenere l'ingresso nelle cellule ospiti. 
 
-Dopo aver ottenuto la sequenza genomica del virus, il team ha impiegato due settimane per progettare e produrre campioni della proteina spike stabilizzata. Dopo aver raccolto i dati sui loro campioni stabilizzati di proteina spike utilizzando un microscopio crioelettronico, i ricercatori hanno trascorso 12 giorni a ricostruire la struttura 3D. Hanno pubblicato i risultati su bioRXiv il 15 febbraio e il documento è stato sottoposto a revisione paritaria prima di essere pubblicato da Science il 19 febbraio (DOI: 10.1126 / science.abb2507 ).
+Dopo aver ottenuto la sequenza genomica del virus, il team ha impiegato due settimane per progettare e produrre campioni della proteina spike stabilizzata. Dopo aver raccolto i dati sui loro campioni stabilizzati di proteina spike utilizzando un microscopio crioelettronico, i ricercatori hanno trascorso 12 giorni a ricostruire la sua struttura in 3D. Hanno pubblicato i risultati su bioRXiv il 15 febbraio e il documento è stato sottoposto a revisione paritaria prima di essere pubblicato da [Science](https://science.sciencemag.org/content/early/2020/02/19/science.abb2507) il 19 febbraio.
 
 "Questo è un lavoro straordinario, che illustra il potere della biologia molecolare in combinazione con cryoEM", afferma Alice Clark, biologa strutturale dell'Università di Wolverhampton. "La rapidità con cui questo lavoro è stato possibile è un credito sia per gli scienziati coinvolti in questa struttura, sia per i recenti progressi di cryoEM come tecnica".
 
