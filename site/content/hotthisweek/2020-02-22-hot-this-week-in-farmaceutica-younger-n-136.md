@@ -23,9 +23,9 @@ socialDesc: >-
   sviluppare vaccini contro il virus.
 image: /img/3c92e2dc-14f3-4491-9534-08726c855c26.png
 ---
-![](/img/3c92e2dc-14f3-4491-9534-08726c855c26.png)
+![null](/img/3c92e2dc-14f3-4491-9534-08726c855c26.png)
 
-Una ricerca condotta da scienziati dell'Università del Texas ad Austin e del National Institutes of Health ha rivelato la struttura al microscopio crioelettronico (Cryo-EM) di una proteina chiave di SARS-CoV-2, la proteina spike (S) che ha un ruolo fondamentale nel nuovo coronavirus che ad oggi conta 78823 casi e 2468 morti in tutto il mondo.
+Una ricerca condotta da scienziati dell'Università del Texas ad Austin e del National Institutes of Health ha rivelato la struttura al microscopio crioelettronico (Cryo-EM) di una proteina chiave di SARS-CoV-2, la proteina spike (S) che ha un ruolo fondamentale nel nuovo coronavirus che ad oggi conta 77794 casi in tutto il mondo e 2348 morti in Cina (Dati WHO aggiornati al 22 Febbraio 2020 - Situation Report 33).
 
 La struttura Cryo-EM della proteina chiave del coronavirus potrebbe aiutare a sviluppare vaccini contro il virus.
 
