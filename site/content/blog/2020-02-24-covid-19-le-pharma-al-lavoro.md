@@ -4,7 +4,7 @@ tags:
   - articoli
 date: '2020-02-24T10:10:30+01:00'
 ---
-**COVID-19** ovvero "CO" sta per corona, "VI" per virus, "D" per disease e "19" indica l'anno in cui si è manifestata, è questo il nome dato alla patologia causata dal nuovo Coronavirus (ora denominato SARS-CoV-2, precedentemente noto come 2019-nCoV) l'11 febbraio 2020, nel briefing con la stampa durante una pausa del Forum straordinario dedicato al virus, il Direttore generale dell’Oms Tedros Adhanom Ghebreyesus.
+**COVID-19** ovvero "CO" corona, "VI" virus, "D" disease, "19" l'anno in cui si è manifestata, è questo il nome dato alla patologia causata dal nuovo Coronavirus (ora denominato SARS-CoV-2, precedentemente noto come 2019-nCoV) l'11 febbraio 2020, nel briefing con la stampa durante una pausa del Forum straordinario dedicato al virus, il Direttore generale dell’Oms Tedros Adhanom Ghebreyesus.
 
 **SARS-CoV-2** è un nuovo ceppo di coronavirus non è mai stato identificato prima di essere segnalato a Wuhan, Cina, a dicembre 2019.
 
@@ -33,3 +33,11 @@ Per accelerare l'accesso ai trattamenti, i ricercatori stanno riproponendo una s
 In Cina si stanno testando anche il farmaco **Kaletra** contro l’HIV di AbbVie, progettato per impedire al virus di replicarsi nelle persone. Mentre **Favipiravir**, della giapponese Toyama Chemical, sviluppato contro i virus a RNA come il COVID-19, si è mostrato efficace in uno studio preliminare su 70 pazienti. Inoltre il farmaco antimalarico **clorochina fosfato** è stato testato in 10 ospedali in Cina in oltre 100 pazienti. Risultati preliminari suggeriscono che darebbe qualche beneficio nei pazienti con polmonite.
 
 Alcuni scienziati cinesi stanno anche trattando alcuni pazienti con plasma proveniente da pazienti sopravvissuti al coronavirus, una tecnica più antica che è stata utilizzata per combattere la rabbia, la difterite e altre infezioni. Finora, 11 pazienti con polmonite grave hanno mostrato un miglioramento significativo con il trattamento, senza riportare effetti collaterali gravi.
+
+_Fonti: _
+
+http://www.salute.gov.it/portale/malattieInfettive/dettaglioFaqMalattieInfettive.jsp?lingua=italiano&id=228
+
+https://www.who.int/news-room/detail/12-02-2020-world-experts-and-funders-set-priorities-for-covid-19-research
+
+https://www.gsk.com/en-gb/media/resource-centre/our-contribution-to-the-fight-against-2019-ncov/
