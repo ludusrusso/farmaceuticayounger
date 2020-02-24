@@ -35,6 +35,8 @@ I principali esperti di salute di tutto il mondo si sono riuniti presso la sede 
 
 La scoperta della sequenza genetica del nuovo coronavirus ha permesso a diversi gruppi di ricerca e aziende di iniziare rapidamente lo sviluppo di vaccini senza bisogno di campioni di virus vivi. Le ricerche infatti si stanno attuando con piattaforme ‘plug-and-play’ che usano materiale genetico, RNA o DNA.
 
+Ecco una lista, non esaustiva degli sforzi messi in atto a livello globale per la lotta al nuovo coronavirus.
+
 Il National Institutes of Health ha iniziato a lavorare usando una piattaforma sviluppata dall’azienda biotech **Maderna** all’Università del Queensland, in Australia. Il lavoro è supportato dalla _Coalition for Epidemic Preparedness Innovations_ (CEPI), una partnership innovativa tra organizzazioni pubbliche, private, filantropiche e civili, avviata a Davos nel 2017, per sviluppare vaccini per fermare le future epidemie. Anche **Novavax**, che a suo tempo aveva creato un vaccino candidato per Ebola in 90 giorni, ha annunciato di essere al lavoro.
 
 Anche le Big del Pharma, tra cui **Sanofi** e **Johnson & Johnson**, stanno lavorando su vaccini contro il coronavirus, con il sostegno della US Biomedical Advanced Research and Development Authority (BARDA).
@@ -63,7 +65,7 @@ Ha commentato Giovanni Rezza, dirigente dell'Istituto Superiore di Sanità ed ep
 
 > Occorre essere certi della sicurezza e dell'efficacia del preparato. Una volta superati i test sugli animali si passa alla fase 1, che serve a verificare, in genere su pochi soggetti sani, che il vaccino non dia effetti collaterali gravi. Poi c'è la fase 2, che valuta la risposta immunitaria, e infine la fase 3 che è quella che determina l'efficacia. E' possibile che le istituzioni di controllo dei farmaci possano giudicare sufficiente la fase 2 per dare il via all'impiego del vaccino. Ma non sarà domani. Nel caso del vaccino per l'Ebola, che è stato messo a punto in tempi record, ci è voluto comunque un anno.
 
-_Fonti:_
+_Fonti: _
 
 _https://www.reuters.com/article/us-china-health-treatments-factbox/factbox-global-efforts-to-develop-vaccines-drugs-to-fight-the-coronavirus-idUSKBN20D2QX_
 
