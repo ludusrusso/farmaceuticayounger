@@ -29,7 +29,7 @@ L'_International Committee on Taxonomy of Viruses_ (ICTV) che si occupa della de
 
 I Coronavirus sono una vasta famiglia di virus a RNA a filamento positivo, con aspetto simile a una corona al microscopio elettronico. Identificati a metà degli anni '60, sono noti per infettare l'uomo ed alcuni animali, inclusi uccelli e mammiferi. Le cellule bersaglio primarie sono quelle epiteliali del tratto respiratorio e gastrointestinale.
 
-Ad oggi, non esiste un vaccino e nessun medicinale antivirale approvato per prevenire o curare COVID-2019.
+**Ad oggi, non esiste un vaccino e nessun medicinale antivirale approvato per prevenire o curare COVID-2019.**
 
 I principali esperti di salute di tutto il mondo si sono riuniti presso la sede centrale dell'Organizzazione mondiale della sanità di Ginevra per valutare l'attuale livello di conoscenza della nuova malattia COVID-19, identificare lacune e lavorare insieme per accelerare e finanziare la ricerca che diventa di priorità assoluta per aiutare a fermare questo focolaio e prepararsi per eventuali focolai futuri. Sono state prese in esame anche le strategie per lo sviluppo di farmaci e vaccini prima delle epidemie e per accelerarne la ricerca e lo sviluppo quando sono già attivi i focolai.
 
