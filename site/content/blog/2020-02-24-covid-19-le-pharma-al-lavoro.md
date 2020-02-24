@@ -9,9 +9,9 @@ image: /img/cattura.jpg
 
 **COVID-19** ovvero "CO" corona, "VI" virus, "D" disease, "19" l'anno in cui si è manifestata, è questo il nome dato alla patologia causata dal nuovo Coronavirus (ora denominato **SARS-CoV-2**, precedentemente noto come 2019-nCoV) l'11 febbraio 2020, nel briefing con la stampa durante il Forum straordinario dedicato al virus, dal Direttore generale dell’Oms, Tedros Adhanom Ghebreyesus.
 
-SARS-CoV-2 è un nuovo ceppo di coronavirus mai stato identificato prima di essere segnalato a Wuhan, in Cina, a dicembre 2019.
+SARS-CoV-2 è un nuovo ceppo di coronavirus mai stato identificato prima di dicembre 2019 nella città di Wuhan, in Cina.
 
-L'_International Committee on Taxonomy of Viruses_ (ICTV) che si occupa della designazione e della denominazione dei virus (ovvero specie, genere, famiglia, ecc.) lo ha ribattezzato SARS-CoV-2 il cui acronimo sta per "Sindrome respiratoria acuta grave coronavirus 2". Secondo questo pool di scienziati il nuovo coronavirus è fratello di quello che ha provocato la Sars (SARS-CoVs). La SARS è però più mortale ma molto meno contagiosa di COVID-19. 
+L'_International Committee on Taxonomy of Viruses_ (ICTV) che si occupa della designazione e della denominazione dei virus (ovvero specie, genere, famiglia, ecc.) lo ha ribattezzato SARS-CoV-2 il cui acronimo sta per "Sindrome respiratoria acuta grave coronavirus 2". Secondo questo pool di scienziati il nuovo coronavirus è fratello di quello che ha provocato la Sars (SARS-CoVs), più mortale ma molto meno contagiosa di COVID-19. 
 
 I Coronavirus sono una vasta famiglia di virus a RNA a filamento positivo, con aspetto simile a una corona al microscopio elettronico. Sono stati identificati a metà degli anni '60 e sono noti per infettare l'uomo ed alcuni animali (inclusi uccelli e mammiferi). Le cellule bersaglio primarie sono quelle epiteliali del tratto respiratorio e gastrointestinale.
 
