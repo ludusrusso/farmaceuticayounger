@@ -3,6 +3,20 @@ title: 'COVID-19, le Pharma al lavoro'
 tags:
   - articoli
 date: '2020-02-24T10:10:30+01:00'
+description: >-
+  COVID-19 ovvero "CO" corona, "VI" virus, "D" disease, "19" l'anno in cui si è
+  manifestata, è questo il nome dato alla patologia causata dal nuovo
+  Coronavirus (ora denominato SARS-CoV-2, precedentemente noto come 2019-nCoV)
+  l'11 febbraio 2020, nel briefing con la stampa durante il Forum straordinario
+  dedicato al virus, dal Direttore generale dell’Oms, Tedros Adhanom
+  Ghebreyesus.
+socialDesc: >-
+  COVID-19 ovvero "CO" corona, "VI" virus, "D" disease, "19" l'anno in cui si è
+  manifestata, è questo il nome dato alla patologia causata dal nuovo
+  Coronavirus (ora denominato SARS-CoV-2, precedentemente noto come 2019-nCoV)
+  l'11 febbraio 2020, nel briefing con la stampa durante il Forum straordinario
+  dedicato al virus, dal Direttore generale dell’Oms, Tedros Adhanom
+  Ghebreyesus.
 image: /img/cattura.jpg
 ---
 ![](/img/cattura.jpg)
