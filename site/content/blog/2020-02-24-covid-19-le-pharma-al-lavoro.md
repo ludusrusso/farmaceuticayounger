@@ -20,7 +20,9 @@ La scoperta della sequenza genetica del nuovo coronavirus ha permesso a diversi 
 
 Il National Institutes of Health ha iniziato a lavorare usando una piattaforma sviluppata dall’azienda biotech Maderna all’Università del Queensland, in Australia, mentre Inovio Pharmaceuticals sta usando una piattaforma diversa. Il lavoro è supportato dalla Coalition for Epidemic Preparedness Innovations (CEPI). Anche Novavax, che a suo tempo aveva creato un vaccino candidato per Ebola in 90 giorni, ha annunciato di essere al lavoro.
 
-Anche le Big del Pharma, tra cui Sanofi e Johnson & Johnson, stanno lavorando ai vaccini contro il coronavirus, con il sostegno della US Biomedical Advanced Research and Development Authority (BARDA).
+Anche le Big del Pharma, tra cui **Sanofi** e **Johnson & Johnson**, stanno lavorando ai vaccini contro il coronavirus, con il sostegno della US Biomedical Advanced Research and Development Authority (BARDA).
+
+**Gsk** ha annunciato all'inizio di febbraio una collaborazione con CEPI, una partnership innovativa tra organizzazioni pubbliche, private, filantropiche e civili, avviata a Davos nel 2017, per sviluppare vaccini per fermare le future epidemie. Gsk fornirà a CEPI una tecnologia che consente di utilizzare solo piccole quantità dell'antigene del vaccino per la produzione di più dosi del vaccino stesso, un vantaggio cruciale in una pandemia.
 
 Per accelerare l'accesso ai trattamenti, i ricercatori stanno riproponendo una serie di farmaci esistenti nella speranza di trovare qualcosa che funzioni contro il nuovo virus.
 
