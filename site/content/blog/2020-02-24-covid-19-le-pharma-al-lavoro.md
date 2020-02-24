@@ -3,12 +3,15 @@ title: 'COVID-19, le Pharma al lavoro'
 tags:
   - articoli
 date: '2020-02-24T10:10:30+01:00'
+image: /img/cattura.jpg
 ---
-**COVID-19** ovvero "CO" corona, "VI" virus, "D" disease, "19" l'anno in cui si è manifestata, è questo il nome dato alla patologia causata dal nuovo Coronavirus (ora denominato SARS-CoV-2, precedentemente noto come 2019-nCoV) l'11 febbraio 2020, nel briefing con la stampa durante una pausa del Forum straordinario dedicato al virus, il Direttore generale dell’Oms Tedros Adhanom Ghebreyesus.
+![](/img/cattura.jpg)
 
-**SARS-CoV-2** è un nuovo ceppo di coronavirus non è mai stato identificato prima di essere segnalato a Wuhan, Cina, a dicembre 2019.
+**COVID-19** ovvero "CO" corona, "VI" virus, "D" disease, "19" l'anno in cui si è manifestata, è questo il nome dato alla patologia causata dal nuovo Coronavirus (ora denominato **SARS-CoV-2**, precedentemente noto come 2019-nCoV) l'11 febbraio 2020, nel briefing con la stampa durante il Forum straordinario dedicato al virus, dal Direttore generale dell’Oms, Tedros Adhanom Ghebreyesus.
 
-L'_International Committee on Taxonomy of Viruses_ (ICTV) che si occupa della designazione e della denominazione dei virus (ovvero specie, genere, famiglia, ecc.) lo ha ribattezzato SARS-CoV-2 il cui acronimo sta per "Sindrome respiratoria acuta grave coronavirus 2". Secondo questo pool di scienziati il nuovo coronavirus è fratello di quello che ha provocato la Sars (SARS-CoVs). La SARS è più mortale ma molto meno contagiosa di COVID-19. 
+SARS-CoV-2 è un nuovo ceppo di coronavirus mai stato identificato prima di essere segnalato a Wuhan, in Cina, a dicembre 2019.
+
+L'_International Committee on Taxonomy of Viruses_ (ICTV) che si occupa della designazione e della denominazione dei virus (ovvero specie, genere, famiglia, ecc.) lo ha ribattezzato SARS-CoV-2 il cui acronimo sta per "Sindrome respiratoria acuta grave coronavirus 2". Secondo questo pool di scienziati il nuovo coronavirus è fratello di quello che ha provocato la Sars (SARS-CoVs). La SARS è però più mortale ma molto meno contagiosa di COVID-19. 
 
 I Coronavirus sono una vasta famiglia di virus a RNA a filamento positivo, con aspetto simile a una corona al microscopio elettronico. Sono stati identificati a metà degli anni '60 e sono noti per infettare l'uomo ed alcuni animali (inclusi uccelli e mammiferi). Le cellule bersaglio primarie sono quelle epiteliali del tratto respiratorio e gastrointestinale.
 
@@ -36,7 +39,17 @@ In Cina si stanno testando anche il farmaco **Kaletra** contro l’HIV di AbbVie
 
 Alcuni scienziati cinesi stanno anche trattando alcuni pazienti con plasma proveniente da pazienti sopravvissuti al coronavirus, una tecnica più antica che è stata utilizzata per combattere la rabbia, la difterite e altre infezioni. Finora, 11 pazienti con polmonite grave hanno mostrato un miglioramento significativo con il trattamento, senza riportare effetti collaterali gravi.
 
+Anche se si dovesse arrivare ad un vaccino, quello che è certo è che non sarà disponibile in tempi brevi. 
+
+> Ad essere ottimisti non ci arriveremo prima di un anno.
+
+Ha commentato Giovanni Rezza, dirigente dell'Istituto Superiore di Sanità ed epidemologo. 
+
+> Occorre essere certi della sicurezza e dell'efficacia del preparato. Una volta superati i test sugli animali si passa alla fase 1, che serve a verificare, in genere su pochi soggetti sani, che il vaccino non dia effetti collaterali gravi. Poi c'è la fase 2, che valuta la risposta immunitaria, e infine la fase 3 che è quella che determina l'efficacia. E' possibile che le istituzioni di controllo dei farmaci possano giudicare sufficiente la fase 2 per dare il via all'impiego del vaccino. Ma non sarà domani. Nel caso del vaccino per l'Ebola, che è stato messo a punto in tempi record, ci è voluto comunque un anno.
+
 _Fonti: _
+
+_https://www.reuters.com/article/us-china-health-treatments-factbox/factbox-global-efforts-to-develop-vaccines-drugs-to-fight-the-coronavirus-idUSKBN20D2QX_
 
 http://www.salute.gov.it/portale/malattieInfettive/dettaglioFaqMalattieInfettive.jsp?lingua=italiano&id=228
 
