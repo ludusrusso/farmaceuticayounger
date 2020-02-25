@@ -65,9 +65,9 @@ Ha commentato Giovanni Rezza, dirigente dell'Istituto Superiore di Sanità ed ep
 
 > Occorre essere certi della sicurezza e dell'efficacia del preparato. Una volta superati i test sugli animali si passa alla fase 1, che serve a verificare, in genere su pochi soggetti sani, che il vaccino non dia effetti collaterali gravi. Poi c'è la fase 2, che valuta la risposta immunitaria, e infine la fase 3 che è quella che determina l'efficacia. E' possibile che le istituzioni di controllo dei farmaci possano giudicare sufficiente la fase 2 per dare il via all'impiego del vaccino. Ma non sarà domani. Nel caso del vaccino per l'Ebola, che è stato messo a punto in tempi record, ci è voluto comunque un anno.
 
-_Fonti: _
+_Fonti:_
 
-_https://www.reuters.com/article/us-china-health-treatments-factbox/factbox-global-efforts-to-develop-vaccines-drugs-to-fight-the-coronavirus-idUSKBN20D2QX_
+https://www.reuters.com/article/us-china-health-treatments-factbox/factbox-global-efforts-to-develop-vaccines-drugs-to-fight-the-coronavirus-idUSKBN20D2QX_
 
 https://www.who.int/news-room/detail/12-02-2020-world-experts-and-funders-set-priorities-for-covid-19-research
 
