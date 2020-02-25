@@ -25,7 +25,7 @@ image: /img/cattura.jpg
 
 SARS-CoV-2 è un nuovo ceppo di coronavirus mai stato identificato prima del dicembre 2019 nella città di Wuhan, in Cina.
 
-L'_International Committee on Taxonomy of Viruses_ (ICTV) che si occupa della designazione e della denominazione dei virus (ovvero specie, genere, famiglia, ecc.) lo ha ribattezzato SARS-CoV-2 il cui acronimo sta per "Sindrome respiratoria acuta grave coronavirus 2". Secondo questo pool di scienziati il nuovo coronavirus è fratello di quello che ha provocato la Sars (SARS-CoVs), più mortale ma molto meno contagiosa di COVID-19. 
+L'_International Committee on Taxonomy of Viruses_ (ICTV) che si occupa della designazione e della denominazione dei virus (ovvero specie, genere, famiglia, ecc.) lo ha ribattezzato SARS-CoV-2 il cui acronimo sta per "Sindrome respiratoria acuta grave coronavirus 2". Secondo questo pool di scienziati il nuovo coronavirus è fratello di quello che ha provocato la Sars (SARS-CoVs), più mortale ma molto meno contagiosa di SARS-CoV-2. 
 
 I Coronavirus sono una vasta famiglia di virus a RNA a filamento positivo, con aspetto simile a una corona al microscopio elettronico. Identificati a metà degli anni '60, sono noti per infettare l'uomo ed alcuni animali, inclusi uccelli e mammiferi. Le cellule bersaglio primarie sono quelle epiteliali del tratto respiratorio e gastrointestinale.
 
@@ -33,7 +33,7 @@ I Coronavirus sono una vasta famiglia di virus a RNA a filamento positivo, con a
 
 I principali esperti di salute di tutto il mondo si sono riuniti presso la sede centrale dell'Organizzazione mondiale della sanità di Ginevra per valutare l'attuale livello di conoscenza della nuova malattia COVID-19, identificare lacune e lavorare insieme per accelerare e finanziare la ricerca che diventa di priorità assoluta per aiutare a fermare questo focolaio e prepararsi per eventuali focolai futuri. Sono state prese in esame anche le strategie per lo sviluppo di farmaci e vaccini prima delle epidemie e per accelerarne la ricerca e lo sviluppo quando sono già attivi i focolai.
 
-La scoperta della sequenza genetica del nuovo coronavirus ha permesso a diversi gruppi di ricerca e aziende di iniziare rapidamente lo sviluppo di vaccini senza bisogno di campioni di virus vivi. Le ricerche infatti si stanno attuando con piattaforme ‘plug-and-play’ che usano materiale genetico, RNA o DNA.
+La corsa ad un vaccino che possa contrastare il nuovo coronavirus è stata accelerata dalla scoperta della sequenza genetica di SARS-CoV-2, che ha permesso a diversi gruppi di ricerca e aziende di iniziare rapidamente lo sviluppo di vaccini senza bisogno di campioni di virus vivi. Le ricerche infatti si stanno attuando con piattaforme ‘plug-and-play’ che usano materiale genetico, RNA o DNA.
 
 Ecco una lista, non esaustiva degli sforzi messi in atto a livello globale per la lotta al nuovo coronavirus.
 
@@ -55,7 +55,7 @@ In Cina si stanno testando anche il farmaco **Kaletra** contro l’HIV di AbbVie
 
 Alcuni scienziati cinesi stanno anche trattando alcuni pazienti con plasma proveniente da pazienti sopravvissuti al coronavirus, una tecnica più antica che è stata utilizzata per combattere la rabbia, la difterite e altre infezioni. Finora, 11 pazienti con polmonite grave hanno mostrato un miglioramento significativo con il trattamento, senza riportare effetti collaterali gravi.
 
-Una delle ultime notizie in materia di vaccini arriva dalla Cina. In una conferenza stampa riportata dal [China Daily](https://www.chinadailyasia.com/article/122095) del 23 Febbraio scorso, è stato annunciato l’inizio dei test sugli animali dei primi vaccini contro il coronavirus. Si tratterebbe del primo lotto di vaccini messi a punto contro il coronavirus. 
+Una delle ultime notizie in materia di vaccini arriva dalla Cina. In una conferenza stampa riportata dal [China Daily](https://www.chinadailyasia.com/article/122095) del 23 Febbraio scorso, è stato annunciato l’inizio dei test sugli animali dei primi vaccini contro il nuovo coronavirus. Si tratterebbe del primo lotto di vaccini messi a punto contro il SARS-CoV-2. 
 
 Anche se si dovesse arrivare ad un vaccino, quello che è certo è che non sarà disponibile in tempi brevi. 
 
