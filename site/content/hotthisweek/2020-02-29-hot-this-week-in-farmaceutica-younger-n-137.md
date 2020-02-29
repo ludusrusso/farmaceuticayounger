@@ -7,7 +7,10 @@ description: >-
 socialDesc: >-
   La US Food and Drug Administration ha approvato il primo generico di Daraprim
   (pirimetamina) per il trattamento della toxoplasmosi.
+image: /img/d2d0c076-78c5-4e2f-a245-2fdf30879211.png
 ---
+![](/img/d2d0c076-78c5-4e2f-a245-2fdf30879211.png)
+
 La US Food and Drug Administration ha approvato **il primo generico di **[**Daraprim (pirimetamina)**](https://www.fda.gov/news-events/press-announcements/fda-approves-first-generic-daraprim)** per il trattamento della toxoplasmosi.**
 
 Daraprim è balzato alle cronache nel 2015, dopo che il CEO della società farmaceutica che aveva acquistato i diritti della molecola, la Turing Pharmaceuticals, ha aumentato il prezzo del farmaco da $ 13,50 a $ 750 per pillola, con un aumento di 5555%. Una mossa che fece guadagnare a Martin Shkreli (è lui il fondatore della Turing Pharmaceuticals) l’appellativo di “uomo più cattivo d’America”, scatenando le ire di pazienti, scienziati e politici. Una protesta che fortunatamente ha ottenuto un rapido dietro front.
