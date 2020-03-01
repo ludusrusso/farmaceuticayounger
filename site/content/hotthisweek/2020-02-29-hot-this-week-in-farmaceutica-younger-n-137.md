@@ -9,7 +9,7 @@ socialDesc: >-
   (pirimetamina) per il trattamento della toxoplasmosi.
 image: /img/d2d0c076-78c5-4e2f-a245-2fdf30879211.png
 ---
-![](/img/d2d0c076-78c5-4e2f-a245-2fdf30879211.png)
+![null](/img/d2d0c076-78c5-4e2f-a245-2fdf30879211.png)
 
 La US Food and Drug Administration ha approvato **il primo generico di **[**Daraprim (pirimetamina)**](https://www.fda.gov/news-events/press-announcements/fda-approves-first-generic-daraprim)** per il trattamento della toxoplasmosi.**
 
