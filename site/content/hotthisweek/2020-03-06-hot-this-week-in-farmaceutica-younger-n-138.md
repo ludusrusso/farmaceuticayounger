@@ -19,7 +19,10 @@ socialDesc: >-
   In alcuni pazienti Covid-19 provoca una sindrome da rilascio di citochine, una
   reazione eccessiva del sistema immunitario, considerata un fattore importante
   nello sviluppo dell'insufficienza di organi grave e la morte.
+image: /img/6d4bbb09-5c12-4e38-a0b9-b1aedca06434.png
 ---
+![](/img/6d4bbb09-5c12-4e38-a0b9-b1aedca06434.png)
+
 La National Health Commission cinese ha incluso nelle linee guida [Actemra (tocilizumab)](https://www.reuters.com/article/us-health-coronavirus-china-roche-hldg/china-approves-use-of-roche-arthritis-drug-for-coronavirus-patients-idUSKBN20R0LF), un noto farmaco utilizzato per l'artrite reumatoide, per il trattamento di gravi casi di Covid-19. 
 
 In alcuni pazienti Covid-19 provoca una sindrome da rilascio di citochine, una reazione eccessiva del sistema immunitario, che porta ad una grave insufficienza di organi fino alla morte. 
