@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.138
-date: '2020-03-07T09:39:18+01:00'
+date: '2020-03-07T16:39:00+01:00'
 description: >-
   La National Health Commission cinese ha incluso nelle linee guida Actemra
   (tocilizumab), un noto farmaco utilizzato per l'artrite reumatoide, per il
