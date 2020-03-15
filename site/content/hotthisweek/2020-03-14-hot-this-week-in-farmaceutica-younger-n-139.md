@@ -13,7 +13,7 @@ socialDesc: >-
   affetti da COVID-19.
 image: /img/99744b06-41fb-4a73-8c63-50d2e050d7f3.png
 ---
-![](/img/99744b06-41fb-4a73-8c63-50d2e050d7f3.png)
+![null](/img/99744b06-41fb-4a73-8c63-50d2e050d7f3.png)
 
 [AIFA](https://www.aifa.gov.it/web/guest/-/aifa-e-gilead-annunciano-che-l-italia-e-tra-i-paesi-che-testeranno-l-antivirale-remdesivir-per-il-trattamento-del-covid-19) e Gilead hanno annunciato in data 12 Marzo 2020 che l’Italia parteciperà a due studi clinici di fase 3 promossi da Gilead Sciences per valutare l’efficacia e la sicurezza della molecola sperimentale **remdesivir** negli adulti ricoverati affetti da COVID-19.
 
@@ -27,7 +27,7 @@ Per l'Organizzazione mondiale della sanità, l'antivirale della Gilead è attual
 
 Ha detto Bruce Aylward, vicedirettore generale della WHO, durante una [conferenza stampa](https://www.who.int/docs/default-source/coronaviruse/transcripts/joint-mission-press-conference-script-english-final.pdf?sfvrsn=51c90b9e_2) tenutasi il 24 Febbraio scorso a Pechino. 
 
-Remdesivir è stato utilizzato sul [primo paziente statunitense](https://www.nejm.org/doi/10.1056/NEJMoa2001191) colpito dal nuovo coronavirus, le cui condizioni sono migliorate notevolmente il giorno successivo al tratamento. Remdesivir è inoltre stato impiegato come terapia antivirale sperimentale allo Istituto nazionale per le malattie infettive Lazzaro Spallanzani di Roma per curare la coppia di turisti cinesi colpita da COVID-19.
+Remdesivir è stato utilizzato sul [primo paziente statunitense](https://www.nejm.org/doi/10.1056/NEJMoa2001191) colpito dal nuovo coronavirus, le cui condizioni sono migliorate notevolmente il giorno successivo al trattamento. Remdesivir è inoltre stato impiegato come terapia antivirale sperimentale allo Istituto nazionale per le malattie infettive Lazzaro Spallanzani di Roma per curare la coppia di turisti cinesi colpita da COVID-19.
 
 Remdesivir ha dimostrato attività in vitro e in vivo in modelli animali contro i patogeni virali MERS e SARS, appartenenti anche loro alla famiglia dei coronavirus e strutturalmente simili al COVID-19. I dati preclinici limitati su remdesivir in MERS e SARS indicano che remdesivir potrebbe avere una potenziale attività contro COVID-19.
 
