@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.139
-date: '2020-03-14T21:43:13+01:00'
+date: '2020-03-15T09:43:13+01:00'
 description: >-
   AIFA e Gilead hanno annunciato in data 12 Marzo 2020 che l’Italia parteciperà
   ai due studi di fase 3 promossi da Gilead Sciences per valutare l’efficacia e
@@ -15,11 +15,11 @@ image: /img/99744b06-41fb-4a73-8c63-50d2e050d7f3.png
 ---
 ![](/img/99744b06-41fb-4a73-8c63-50d2e050d7f3.png)
 
-L'[AIFA](https://www.aifa.gov.it/web/guest/-/aifa-e-gilead-annunciano-che-l-italia-e-tra-i-paesi-che-testeranno-l-antivirale-remdesivir-per-il-trattamento-del-covid-19), L'Agenzia Italiana del Farmaco e [Gilead](https://www.gilead.com/purpose/advancing-global-health/covid-19) hanno annunciato in data 12 Marzo 2020 che l’Italia parteciperà a due studi clinici di fase 3 promossi da Gilead Sciences per valutare l’efficacia e la sicurezza della molecola sperimentale remdesivir negli adulti ricoverati affetti da COVID-19.
+[AIFA](https://www.aifa.gov.it/web/guest/-/aifa-e-gilead-annunciano-che-l-italia-e-tra-i-paesi-che-testeranno-l-antivirale-remdesivir-per-il-trattamento-del-covid-19) e Gilead hanno annunciato in data 12 Marzo 2020 che l’Italia parteciperà a due studi clinici di fase 3 promossi da Gilead Sciences per valutare l’efficacia e la sicurezza della molecola sperimentale **remdesivir** negli adulti ricoverati affetti da COVID-19.
 
-Gilead Sciences, a fine febbraio, aveva annunciato che gli studi clinici avrebbero coinvolto circa mille pazienti in Asia e successivamente si sarbbero estesi in altri Paesi tra cui anche l'Italia. Gli studi in Italia saranno inizialmente condotti presso l’Ospedale Sacco di Milano, il Policlinico di Pavia, l’Azienda Ospedaliera di Padova, l’Azienda Ospedaliera Universitaria di Parma e l’Istituto Nazionale di Malattie Infettive Lazzaro Spallanzani. Altri centri con alta incidenza dell’infezione da coronavirus saranno identificati in collaborazione con la nostra Agenzia del farmaco per l’inclusione negli studi.
+[Gilead Sciences](https://www.gilead.com/purpose/advancing-global-health/covid-19), a fine febbraio, aveva annunciato che gli studi clinici avrebbero coinvolto circa mille pazienti in Asia e successivamente si sarebbero estesi in altri Paesi tra cui anche l'Italia. Gli studi in Italia saranno inizialmente condotti presso l’Ospedale Sacco di Milano, il Policlinico di Pavia, l’Azienda Ospedaliera di Padova, l’Azienda Ospedaliera Universitaria di Parma e l’Istituto Nazionale di Malattie Infettive Lazzaro Spallanzani. Altri centri con alta incidenza dell’infezione da coronavirus saranno identificati in collaborazione con la nostra Agenzia del farmaco per l’inclusione negli studi.
 
-Remdesivir è un analogo nucleotidico sperimentale con attività antivirale ad ampio spettro sviluppato inizialmente da Gilead Sciences come trattamento per la malattia da virus Ebola. 
+Remdesivir è un analogo nucleotidico sperimentale con attività antivirale ad ampio spettro sviluppato inizialmente da Gilead Sciences come trattamento per la malattia da virus Ebola. Remdesivir è un profarmaco, ciò significa che una volta metabolizzato, la sua forma attiva GS-441524, un analogo nucleotidico dell'adenosina, è in grado di inibire l'RNA polimerasi virale causando una diminuzione della produzione di RNA del virus. 
 
 Per l'Organizzazione mondiale della sanità, l'antivirale della Gilead è attualmente il miglior candidato per combattere il coronavirus SARS-CoV-2. 
 
@@ -27,7 +27,7 @@ Per l'Organizzazione mondiale della sanità, l'antivirale della Gilead è attual
 
 Ha detto Bruce Aylward, vicedirettore generale della WHO, durante una [conferenza stampa](https://www.who.int/docs/default-source/coronaviruse/transcripts/joint-mission-press-conference-script-english-final.pdf?sfvrsn=51c90b9e_2) tenutasi il 24 Febbraio scorso a Pechino. 
 
-Remdesivir è stato utilizzato sul primo paziente americano colpito dal nuovo coronavirus, il cui risultato è stato riportato su [Lancet](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30141-9/fulltext). Remdesivir è inoltre stato impiegato come terapia antivirale sperimentale allo Istituto nazionale per le malattie infettive "Lazzaro Spallanzani" di Roma per curare la coppia di turisti cinesi colpita da COVID-19.
+Remdesivir è stato utilizzato sul [primo paziente statunitense](https://www.nejm.org/doi/10.1056/NEJMoa2001191) colpito dal nuovo coronavirus, le cui condizioni sono migliorate notevolmente il giorno successivo al tratamento. Remdesivir è inoltre stato impiegato come terapia antivirale sperimentale allo Istituto nazionale per le malattie infettive Lazzaro Spallanzani di Roma per curare la coppia di turisti cinesi colpita da COVID-19.
 
 Remdesivir ha dimostrato attività in vitro e in vivo in modelli animali contro i patogeni virali MERS e SARS, appartenenti anche loro alla famiglia dei coronavirus e strutturalmente simili al COVID-19. I dati preclinici limitati su remdesivir in MERS e SARS indicano che remdesivir potrebbe avere una potenziale attività contro COVID-19.
 
