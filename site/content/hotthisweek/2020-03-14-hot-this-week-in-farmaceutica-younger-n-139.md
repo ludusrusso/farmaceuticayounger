@@ -19,14 +19,18 @@ L'[AIFA](https://www.aifa.gov.it/web/guest/-/aifa-e-gilead-annunciano-che-l-ital
 
 Gilead Sciences, a fine febbraio, aveva annunciato che gli studi clinici avrebbero coinvolto circa mille pazienti in Asia e successivamente si sarbbero estesi in altri Paesi tra cui anche l'Italia. Gli studi in Italia saranno inizialmente condotti presso l’Ospedale Sacco di Milano, il Policlinico di Pavia, l’Azienda Ospedaliera di Padova, l’Azienda Ospedaliera Universitaria di Parma e l’Istituto Nazionale di Malattie Infettive Lazzaro Spallanzani. Altri centri con alta incidenza dell’infezione da coronavirus saranno identificati in collaborazione con la nostra Agenzia del farmaco per l’inclusione negli studi.
 
-Remdesivir è un analogo nucleotidico sperimentale con attività antivirale ad ampio spettro sviluppato da Gilead Sciences come trattamento per la malattia da virus Ebola. 
+Remdesivir è un analogo nucleotidico sperimentale con attività antivirale ad ampio spettro sviluppato inizialmente da Gilead Sciences come trattamento per la malattia da virus Ebola. 
 
-Per l'Organizzazione mondiale della sanità, l'antivirale della Gilead è il miglior candidato per combattere il coronavirus SARS-CoV-2. Remdesivir è "l'unico farmaco in questo momento che pensiamo possa essere efficace", ha detto Bruce Aylward, vicedirettore generale dell'Organizzazione Mondiale della Sanità, durante un briefing a Pechino. 
+Per l'Organizzazione mondiale della sanità, l'antivirale della Gilead è attualmente il miglior candidato per combattere il coronavirus SARS-CoV-2. 
 
-Remdesivir è stato utilizzato sul primo paziente americano colpito dal nuovo coronavirus, riportato su [Lancet](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30141-9/fulltext). Remdesivir è stato impiegato come terapia antivirale sperimentale allo Istituto nazionale per le malattie infettive "Lazzaro Spallanzani" di Roma per curare la coppia di turisti cinesi colpita da COVID-19.
+> There’s only one drug right now that we think may have real efficacy.
 
-Remdesivir ha dimostrato attività in vitro e in vivo in modelli animali contro i patogeni virali MERS e SARS, appartenenti anche loro alla famiglia dei coronavirus e strutturalmente simili al COVID-19. I dati preclinici limitati su remdesivir in MERS e SARS indicano che remdesivir può avere una potenziale attività contro COVID-19.
+Ha detto Bruce Aylward, vicedirettore generale della WHO, durante una [conferenza stampa](https://www.who.int/docs/default-source/coronaviruse/transcripts/joint-mission-press-conference-script-english-final.pdf?sfvrsn=51c90b9e_2) tenutasi il 24 Febbraio scorso a Pechino. 
 
-Questo è un farmaco sperimentale che fino ad oggi è stato utilizzato solo in un piccolo numero di pazienti con COVID-19, quindi Gilead non ha una comprensione adeguatamente solida dell'effetto di questo farmaco per giustificare un ampio utilizzo in questo momento.
+Remdesivir è stato utilizzato sul primo paziente americano colpito dal nuovo coronavirus, il cui risultato è stato riportato su [Lancet](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30141-9/fulltext). Remdesivir è inoltre stato impiegato come terapia antivirale sperimentale allo Istituto nazionale per le malattie infettive "Lazzaro Spallanzani" di Roma per curare la coppia di turisti cinesi colpita da COVID-19.
 
-Remdesivir non è ancora approvato dalle autorità regolatorie per uso terapeutico e viene fornito per uso compassionevole, al di fuori degli studi clinici, per il trattamento in emergenza dei pazienti affetti da COVID-19 in gravi condizioni e senza valide alternative terapeutiche.
+Remdesivir ha dimostrato attività in vitro e in vivo in modelli animali contro i patogeni virali MERS e SARS, appartenenti anche loro alla famiglia dei coronavirus e strutturalmente simili al COVID-19. I dati preclinici limitati su remdesivir in MERS e SARS indicano che remdesivir potrebbe avere una potenziale attività contro COVID-19.
+
+Remdesivir non è approvato dalle autorità regolatorie per uso terapeutico per COVID-19 e attualmente viene fornito per uso compassionevole, cioè al di fuori degli studi clinici, per il trattamento in emergenza dei pazienti affetti da COVID-19 in gravi condizioni e che non hanno valide alternative terapeutiche.
+
+Gilead Science ci tiene a precisare che remdesivir è un farmaco sperimentale che fino ad oggi è stato utilizzato solo in un piccolo numero di pazienti con COVID-19, quindi saranno necessari ulteriori studi su una più ampia fetta di pazienti per poter dimostrare la sua sicurezza ed efficacia nei casi di COVID-19.
