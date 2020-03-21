@@ -1,7 +1,18 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.140
 date: '2020-03-21T20:49:11+01:00'
+description: >-
+  La Food and Drug Administration statunitense ha concesso l'autorizzazione
+  all'uso in emergenza (EUA, Emergency Use Authorization) al test molecolare di
+  Abbott per l'identificazione dell'infezione da virus SARS-CoV-2.
+socialDesc: >-
+  La Food and Drug Administration statunitense ha concesso l'autorizzazione
+  all'uso in emergenza (EUA, Emergency Use Authorization) al test molecolare di
+  Abbott per l'identificazione dell'infezione da virus SARS-CoV-2.
+image: /img/e02f3e4e-fe57-4b5c-b00c-e3fc66077640.png
 ---
+![](/img/e02f3e4e-fe57-4b5c-b00c-e3fc66077640.png)
+
 La Food and Drug Administration statunitense ha concesso l'autorizzazione all'uso in emergenza ([EUA](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations#coronavirus2019), Emergency Use Authorization) al [test molecolare di Abbott](https://www.abbott.com/corpnewsroom/product-and-innovation/abbott-launches-novel-coronavirus-test.html) per l'identificazione dell'infezione da virus SARS-CoV-2.
 
 Il test _RealTime SARS-C0V-2_ utilizza la tecnologia di reazione a catena della polimerasi (PCR) in real time per il rilevamento qualitativo di acidi nucleici del virus SARS-CoV-2. ll test può essere utilizzato sullo strumento molecolare di Abbott, il sistema _m2000 RealTime_ da laboratori autorizzati negli Stati Uniti. 
