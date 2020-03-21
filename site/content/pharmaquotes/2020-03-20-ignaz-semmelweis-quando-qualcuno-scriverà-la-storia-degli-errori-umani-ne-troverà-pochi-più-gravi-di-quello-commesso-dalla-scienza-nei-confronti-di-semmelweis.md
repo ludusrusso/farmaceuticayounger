@@ -30,10 +30,10 @@ Una corretta disinfezione delle mani era la soluzione banale quanto risolutiva a
 
 I dati gli diedero immediatamente ragione. Era il maggio del 1847.
 
-Venne deriso e schernito dai medici dell'epoca per le sue scoperte. Fu solo nel 1879 che gli studi di Louis Pasteur e successivamente di Joseph Lister dimostrarono la grandezza delle intuizioni di Semmelweis. Schiacciato sempre di più dai complessi d'inferiorità e dallo spirito di persecuzione, nel 1865 fu rinchiuso in un’ospedale psichiatrico. Morì per infezione setticemica contratta durante un intervento chirurgico.
+Deriso e schernito dai medici dell'epoca per le sue scoperte, fu solo nel 1879 che gli studi di Louis Pasteur e successivamente di Joseph Lister dimostrarono la grandezza delle sue intuizioni. Schiacciato sempre di più dai complessi d'inferiorità e dallo spirito di persecuzione, nel 1865 fu rinchiuso in un’ospedale psichiatrico. Morì per infezione setticemica contratta durante un intervento chirurgico.
 
 Le sue intuizioni gli valsero il soprannome di “salvatore di madri” nonché aprirono la strada alla corretta igiene nella pratica medica.
 
 > Quando qualcuno scriverà la storia degli errori umani ne troverà pochi più gravi di quello commesso dalla scienza nei confronti di Semmelweis.
 
-Ferdinand von Hebra, con queste dure parole le ingiustizie subite dal suo caro amico Ignaz.
+_Ferdinand von Hebra_, con queste dure parole descrive le ingiustizie subite dal suo caro amico Ignaz.
