@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.140
-date: '2020-03-21T20:49:11+01:00'
+date: '2020-03-21T07:47:11+01:00'
 description: >-
   La Food and Drug Administration statunitense ha concesso l'autorizzazione
   all'uso in emergenza (EUA, Emergency Use Authorization) al test molecolare di
