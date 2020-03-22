@@ -17,9 +17,9 @@ socialDesc: >-
   risale al 12 dicembre. Fino a quella data sono state approvate 42 nuove
   terapie, alcune delle quali offrono trattamenti cosiddetti "first in class" e
   altre si lanciano in un panorama già competitivo.
-image: /img/cattura.jpg
+image: /img/1832316.jpg
 ---
-![null](/img/cattura.jpg)
+![null](/img/1832316.jpg)
 
 > Innovation drives progress ovvero l'innovazione guida il progresso
 
