@@ -1,6 +1,6 @@
 ---
 title: HOT THIS WEEK IN FARMACEUTICA YOUNGER N.142
-date: '2020-04-04T22:15:42+02:00'
+date: '2020-04-04T08:15:42+02:00'
 description: >-
   I ricercatori della University of Pittsburgh School of Medicine (Upmc) hanno
   annunciato i primi test su topi di un vaccino anti Sars-CoV-2, somministrato
