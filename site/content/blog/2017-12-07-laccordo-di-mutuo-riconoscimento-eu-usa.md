@@ -1,8 +1,8 @@
 ---
-title: L'accordo di mutuo riconoscimento EU-USA
-date: 2017-12-07T12:27:18+00:00
+title: L'accordo di mutuo riconoscimento EU-USA nell'ambito delle Ispezioni GMP
 tags:
- - articoli
+  - articoli
+date: 2017-12-07T12:27:18.000Z
 description: >-
   Il 1° Novembre 2017 segna l'entrata in vigore effettivo dell'accordo di mutuo
   riconoscimento tra l'Unione Europea (UE) e gli Stati Uniti (USA), che aggiorna
