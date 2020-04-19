@@ -11,7 +11,7 @@ socialDesc: >-
   pazienti con colangiocarcinoma, un tumore dei dotti biliari.
 image: /img/4952cd1a-644b-4ba0-9738-f0fdd7f66fe0.png
 ---
-![](/img/4952cd1a-644b-4ba0-9738-f0fdd7f66fe0.png)
+![null](/img/4952cd1a-644b-4ba0-9738-f0fdd7f66fe0.png)
 
 La Food and Drug Administration statunitense ha concesso l'approvazione accelerata a [Pemazyre (pemigatinib)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-targeted-treatment-patients-cholangiocarcinoma-cancer-bile-ducts), **il primo trattamento mirato per i pazienti con colangiocarcinoma**, un tumore dei dotti biliari.
 
@@ -21,7 +21,7 @@ Richard Pazdur, MD, direttore del _Oncology Center of Excellence_ e del _Oncolog
 
 Il colangiocarcinoma è una rara forma di cancro che coinvolge i dotti biliari, sottili canali che trasportano la bile dal fegato alla cistifellea e all'intestino tenue. L'approvazione odierna riguarda i pazienti con colangiocarcinoma localmente avanzato (quando il cancro è cresciuto fuori dall'organo in cui ha avuto origine, ma non si è diffuso in parti distanti del corpo) o metastatico (quando le cellule tumorali si diffondono in altre parti del corpo) e che hanno tumori caratterizzati da una fusione o altro riarrangiamento di un gene chiamato recettore del fattore di crescita dei fibroblasti isoforma 2 (**FGFR2**). Fusioni di FGFR2 sono state trovate in circa il 9% - 14% dei pazienti con colangiocarcinoma.
 
-Alla diagnosi, la maggior parte dei pazienti con colangiocarcinoma ha una malattia avanzata, il che significa che la malattia non è più curabile con un intervento chirurgico e fino ad oggi, non esistevano terapie approvate.  
+Alla diagnosi, la maggior parte dei pazienti con colangiocarcinoma è già in uno stadio avanzato della malattia, il che significa che è troppo tardi per un intervento chirurgico e fino ad oggi, non esistevano terapie approvate.  
 
 Pemazyre è un inibitore selettivo del recettore del fattore di crescita dei fibroblasti maggiormente per le isoforme 1, 2 e 3. I recettori del fattore di crescita dei fibroblasti (FGFR) rivestono un ruolo importante nella proliferazione, sopravvivenza e migrazione delle cellule tumorali, oltre che nell’angiogenesi (la formazione di nuovi vasi sanguigni). 
 
