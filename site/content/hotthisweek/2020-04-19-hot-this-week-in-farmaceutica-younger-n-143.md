@@ -9,18 +9,21 @@ socialDesc: >-
   La Food and Drug Administration statunitense ha concesso l'approvazione
   accelerata a Pemazyre (pemigatinib), il primo trattamento mirato per i
   pazienti con colangiocarcinoma, un tumore dei dotti biliari.
+image: /img/4952cd1a-644b-4ba0-9738-f0fdd7f66fe0.png
 ---
+![](/img/4952cd1a-644b-4ba0-9738-f0fdd7f66fe0.png)
+
 La Food and Drug Administration statunitense ha concesso l'approvazione accelerata a [Pemazyre (pemigatinib)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-targeted-treatment-patients-cholangiocarcinoma-cancer-bile-ducts), **il primo trattamento mirato per i pazienti con colangiocarcinoma**, un tumore dei dotti biliari.
 
 > Questa approvazione dimostra che mentre continuiamo a concentrare i nostri sforzi per affrontare la pandemia di COVID-19, la FDA rimane impegnata nell'importante lavoro di revisione dei trattamenti per i pazienti con cancro e altre gravi condizioni.
 
 Richard Pazdur, MD, direttore del _Oncology Center of Excellence_ e del _Oncologic Diseases Office_ della FDA. 
 
-Il colangiocarcinoma è una rara forma di cancro che coinvolge i dotti biliari, sottili canali che trasportano la bile dal fegato alla cistifellea e all'intestino tenue. L'approvazione odierna riguarda i pazienti con colangiocarcinoma localmente avanzato (quando il cancro è cresciuto fuori dall'organo in cui ha avuto origine, ma non si è diffuso in parti distanti del corpo) o metastatico (quando le cellule tumorali si diffondono in altre parti del corpo) e che hanno tumori caratterizzati da una fusione o altro riarrangiamento di un gene chiamato recettore del fattore di crescita dei fibroblasti (**FGFR2**). Fusioni di FGFR2 sono state trovate in circa il 9% - 14% dei pazienti con colangiocarcinoma.
+Il colangiocarcinoma è una rara forma di cancro che coinvolge i dotti biliari, sottili canali che trasportano la bile dal fegato alla cistifellea e all'intestino tenue. L'approvazione odierna riguarda i pazienti con colangiocarcinoma localmente avanzato (quando il cancro è cresciuto fuori dall'organo in cui ha avuto origine, ma non si è diffuso in parti distanti del corpo) o metastatico (quando le cellule tumorali si diffondono in altre parti del corpo) e che hanno tumori caratterizzati da una fusione o altro riarrangiamento di un gene chiamato recettore del fattore di crescita dei fibroblasti isoforma 2 (**FGFR2**). Fusioni di FGFR2 sono state trovate in circa il 9% - 14% dei pazienti con colangiocarcinoma.
 
 Alla diagnosi, la maggior parte dei pazienti con colangiocarcinoma ha una malattia avanzata, il che significa che la malattia non è più curabile con un intervento chirurgico e fino ad oggi, non esistevano terapie approvate.  
 
-Pemazyre è un inibitore selettivo del recettore del fattore di crescita dei fibroblasti. I recettori del fattore di crescita dei fibroblasti (FGFR) rivestono un ruolo importante nella proliferazione, sopravvivenza e migrazione delle cellule tumorali, oltre che nell’angiogenesi (la formazione di nuovi vasi sanguigni). 
+Pemazyre è un inibitore selettivo del recettore del fattore di crescita dei fibroblasti maggiormente per le isoforme 1, 2 e 3. I recettori del fattore di crescita dei fibroblasti (FGFR) rivestono un ruolo importante nella proliferazione, sopravvivenza e migrazione delle cellule tumorali, oltre che nell’angiogenesi (la formazione di nuovi vasi sanguigni). 
 
 L'approvazione di Pemazyre si basava sui risultati di uno studio clinico che ha arruolato 107 pazienti con colangiocarcinoma localmente avanzato o metastatico con una fusione o riarrangiamento di FGFR2 che avevano ricevuto un precedente trattamento. Durante la sperimentazione clinica, i pazienti hanno ricevuto Pemazyre una volta al giorno per 14 giorni consecutivi, seguiti da 7 giorni di riposo, in cicli di 21 giorni. Per valutare l'efficacia di Pemazyre durante lo studio, i pazienti sono stati sottoposti a scansione ogni otto settimane. Lo studio ha utilizzato criteri stabiliti per misurare il numero di pazienti che hanno manifestato una regressione completa o parziale del tumore durante il trattamento (tasso di risposta globale). Il tasso di risposta complessivo è stato del 36%, con il 2,8% dei pazienti che hanno avuto una risposta completa e il 33% con una risposta parziale. 
 
