@@ -7,7 +7,7 @@ image: /img/img_2556.png
 ---
 > Nella vita tutto è mistero.
 
-_René Magritte, Intervista di Maurice Bots, 2 luglio 1951 _
+_René Magritte, Intervista di Maurice Bots, 2 luglio 1951_
 
 ![https://www.youtube.com/channel/UCBzcNd6Z480lWkchyanC4_A](/img/img_2556.png)
 
