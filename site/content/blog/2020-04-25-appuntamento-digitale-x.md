@@ -25,7 +25,7 @@ _Pazzi!!! Come ci è venuto in mente?_
 
 La risposta ce la dà _René François Ghislain Magritte_, pittore belga che ha fatto del mistero la chiave di lettura più affascinante delle sue opere d'arte che ogni giorno seducono milioni di persone in tutto il mondo! Qualche giorno fa riflettevo su ciò che più mi manca in questo periodo di **LOCKDOWN...**
 
-**... **la bellissima sensazione di perdermi nelle immense sale dei musei, io e le mie cuffiette, con cui ogni volta mi immergo nel mondo misterioso dell'arte. E sto li a rimirare ogni quadro, ad osservarlo da ogni possibile prospettiva, cercando di completare la sua incompletezza e dare un significato tutto mio al senso dell'ignoto che si cela in ognuno di loro! Solo così riesco ad uscire da ogni mostra ogni volta più completa, più piena di me!
+...la bellissima sensazione di perdermi nelle immense sale dei musei, io e le mie cuffiette, con cui ogni volta mi immergo nel mondo misterioso dell'arte. E sto li a rimirare ogni quadro, ad osservarlo da ogni possibile prospettiva, cercando di completare la sua incompletezza e dare un significato tutto mio al senso dell'ignoto che si cela in ognuno di loro! Solo così riesco ad uscire da ogni mostra ogni volta più completa, più piena di me!
 
 E allora perchè no, lasciandoci ispirare dall'arte 🎨, da ciò che non conosciamo o conosciamo a metà, non partiamo per questa avventura verso l'**IGNOTO**? Ma questa volta non voglio farlo **DA SOLA**!
 
@@ -36,7 +36,5 @@ _Come devo fare per visualizzare i contenuti video che mi sono perso fin'ora?_
 📺 https://www.youtube.com/channel/UCBzcNd6Z480lWkchyanC4_A 📺
 
 Ti aspetto al prossimo appuntamento del sabato in compagnia di Farmaceutica Younger!
-
-... al prossimo!
 
 ✨Silvia di Farmaceutica Younger✨
