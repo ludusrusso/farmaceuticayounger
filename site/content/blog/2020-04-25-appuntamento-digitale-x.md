@@ -3,6 +3,7 @@ title: Appuntamento Digitale X
 tags:
   - articoli
 date: '2020-04-25T13:37:51+02:00'
+image: /img/img_2556.png
 ---
 > Nella vita tutto è mistero.
 
