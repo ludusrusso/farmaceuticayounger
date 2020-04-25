@@ -11,7 +11,10 @@ socialDesc: >-
   contro il nuovo coronavirus su volontari sani per determinarne l'efficacia, la
   sicurezza e l'immunogenicità (capacità del vaccino di attivare una risposta
   anticorpale) contro la malattia COVID-19.
+image: /img/763d01ce-e1d4-454f-b307-60a7185a6681.png
 ---
+![](/img/763d01ce-e1d4-454f-b307-60a7185a6681.png)
+
 Nel Regno Unito è iniziato uno studio clinico di fase I per testare un vaccino contro il nuovo coronavirus su volontari sani per determinarne l'efficacia, la sicurezza e l'immunogenicità (capacità del vaccino di produrre una risposta anticorpale) contro la malattia COVID-19.
 
 Il nuovo vaccino vettoriale chiamato [ChAdOx1 nCoV-19](http://www.ox.ac.uk/news/2020-04-23-oxford-covid-19-vaccine-begins-human-trial-stage), frutto del lavoro di squadra dell'Advent-Irbm di Pomezia e dello Jenner Institute della Oxford University, si basa su un adenovirus (prodotto a Pomezia) e sulla proteina spike (prodotta a Oxford) di SARS-CoV-2.
