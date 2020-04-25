@@ -7,9 +7,9 @@ description: "Ebbene si, noi di Farmaceutica Younger abbiamo deciso di tenerti c
 socialDesc: "Ebbene si, noi di Farmaceutica Younger abbiamo deciso di tenerti compagnia in questo lungo periodo di quarantena forzata con degli \"Appuntamenti Digitali\", un momento digitale in cui poterci vedere virtualmente (per ora \U0001F61C!), fare quattro chiacchiere con dei giovani afferenti dal mondo dell'industria farmaceutica su varie tematiche, poter condividere idee, riflessioni attraverso una piattaforma di LIVE CHAT con cui sentirci meno distanti!"
 image: /img/img_2556.png
 ---
-> Nella vita tutto è mistero. La mente ama l'ignoto. Ama le immagini il cui significato è ignoto, poichè il significato della mente stessa è sconosciuto.
+> Nella vita tutto è mistero.
 
-_René Magritte_
+_René Magritte, Intervista di Maurice Bots, 2 luglio 1951_
 
 ![https://www.youtube.com/channel/UCBzcNd6Z480lWkchyanC4_A](/img/img_2556.png)
 
@@ -19,7 +19,7 @@ E' ormai un mese che è iniziata quasi per gioco questa nuova avventura di Farma
 
 Ogni **SABATO** abbiamo deciso di programmare sul [**NUOVO canale di YouTube**](https://www.youtube.com/channel/UCBzcNd6Z480lWkchyanC4_A) di Farmaceutica Younger ( se non lo hai ancora fatto ti invito a visitarlo e ad iscriverti qualora ti tornino utili i contenuti video che pubblichiamo!)
 
-**Abbiamo programmato questo sabato 25 Aprile un Appuntamento Digitale X**, ovvero al buio!
+Abbiamo programmato questo sabato 25 Aprile un** Appuntamento Digitale X**, ovvero al buio!
 
 _Pazzi!!! Come ci è venuto in mente?_
 
