@@ -9,7 +9,7 @@ image: /img/img_2556.png
 ---
 > Nella vita tutto è mistero. La mente ama l'ignoto. Ama le immagini il cui significato è ignoto, poichè il significato della mente stessa è sconosciuto.
 
-_René Magritte_
+\    _René Magritte_
 
 ![https://www.youtube.com/channel/UCBzcNd6Z480lWkchyanC4_A](/img/img_2556.png)
 
