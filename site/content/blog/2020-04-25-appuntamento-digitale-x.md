@@ -37,6 +37,4 @@ _Come devo fare per visualizzare i contenuti video che mi sono perso fin'ora?_
 
 Ti aspetto al prossimo appuntamento del sabato in compagnia di Farmaceutica Younger!
 
-... al prossimo!
-
 ✨Silvia di Farmaceutica Younger✨
