@@ -3,7 +3,22 @@ title: >-
   MARGARET SANGER - "Il controllo delle nascite è il primo passo verso la
   libertà"
 date: '2020-05-11T08:21:54+02:00'
+description: >-
+  Margaret Sanger, infermiera e scrittrice statunitense, attivista instancabile
+  dedicò tutta la sua vita a difendere e garantire i diritti umani. Il diritto
+  di ogni donna di controllare la sua fertilità, il diritto dei genitori di
+  essere liberi di decidere insieme il momento del concepimento e il diritto di
+  ogni bambino di essere desiderato. 
+socialDesc: >-
+  Margaret Sanger, infermiera e scrittrice statunitense, attivista instancabile
+  dedicò tutta la sua vita a difendere e garantire i diritti umani. Il diritto
+  di ogni donna di controllare la sua fertilità, il diritto dei genitori di
+  essere liberi di decidere insieme il momento del concepimento e il diritto di
+  ogni bambino di essere desiderato. 
+image: /img/19fffac1-6a25-4066-9846-8e7316c37eae.png
 ---
+![](/img/19fffac1-6a25-4066-9846-8e7316c37eae.png)
+
 **Margaret Sanger**, infermiera e scrittrice statunitense, attivista instancabile dedicò tutta la sua vita a difendere e garantire i diritti umani. Il diritto di ogni donna di controllare la sua fertilità, il diritto dei genitori di essere liberi di decidere insieme il momento del concepimento e il diritto di ogni bambino di essere desiderato. 
 
 Sesta di undici figli, Margaret ha sedici anni quando vede sua madre, Anne Purcell, morire affetta dalla tubercolosi e da un tumore uterino. Margaret dovette assistere inerme al lento processo di indebolimento fisico di sua madre che la portarono alla morte all’età di appena 49 anni. Anne condusse 18 gravidanze (con 11 nascite vive) in un lasso di tempo di 22 anni.
