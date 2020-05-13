@@ -55,3 +55,7 @@ Gli attori coinvolti in uno studio clinico sono i seguenti:
 * **Study Coordinator/Data Manager**: Una persona che supporta tutto lo staff coinvolto in uno studio clinico, sia nella logistica correlata alle procedure di uno studio clinico (e.g: gestione campioni biologici e loro spedizione ai laboratori analitici, approvvigionamento del farmaco sperimentale, spedizione di immagini, etc.), sia nella compilazione delle schede di raccolta dati cartacee ed elettroniche (eCRF) che nei rapporti con gli Sponsors, in particolare con i Clinical Monitors.
 * **Infermiere di Ricerca**: Infermiere esclusivamente dedicato all’ espletamento delle procedure di uno studio clinico sui pazienti arruolati, inclusa la raccolta dei relativi dati (es. raccolta segni vitali, raccolta eventi avversi, etc.)
 * **Clinical Monitor**: Una persona che lavora per lo Sponsor o per la CRO incaricata, coinvolta nella supervisione dell’andamento di uno studio clinico verificandone la compliance al protocollo di studio, alle procedure Operative Standard (SOP) utilizzate, alle Norme di Buona Pratica Clinica (GCP) ed alle disposizioni normative applicabili (ICH GCP E6 R2 1.38).
+
+Link in basso per guardare la video intervista completa sul canale YouTube di Farmaceutica Younger 
+
+📺 https://www.youtube.com/watch?v=Rfcq3b-Cek8&t=12s
