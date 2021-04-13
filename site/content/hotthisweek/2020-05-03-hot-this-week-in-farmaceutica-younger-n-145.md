@@ -13,8 +13,10 @@ socialDesc: >-
   sperimentale remdesivir per il trattamento di gravi casi di COVID-19 (pazienti
   con bassi livelli di ossigeno nel sangue o che necessitano di ossigenoterapia
   o supporto respiratorio) in adulti e bambini ricoverati in ospedale. 
-image: /img/b117c23e-ce19-4e1e-8005-d00588e2a436.png
+image: /img/bf3b65b6-9d33-410f-a7dc-c06644f1f898.png
 ---
+![](/img/bf3b65b6-9d33-410f-a7dc-c06644f1f898.png)
+
 La Food and Drug Administration degli Stati Uniti ha rilasciato un'Autorizzazione all'Uso d'Emergenza (EUA) per il farmaco antivirale sperimentale [remdesivir](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-emergency-use-authorization-potential-covid-19-treatment) per il trattamento di gravi casi di COVID-19 (pazienti con bassi livelli di ossigeno nel sangue o che necessitano di ossigenoterapia o supporto respiratorio) in adulti e bambini ricoverati in ospedale. 
 
 L'ente regolatorio statunitense nella nota rilasciata il 1 Maggio sul suo sito ufficiale ha precisato che "Sebbene siano note informazioni limitate sulla sicurezza e l'efficacia dell'uso di remdesivir per il trattamento delle persone ospedalizzate con COVID-19, in uno studio clinico è stato dimostrato che il farmaco sperimentale riduce i tempi di recupero in alcuni pazienti."
@@ -29,6 +31,6 @@ La EUA faciliterà un uso più ampio di remdesivir per il trattamento di pazient
 
 La EUA è stata rilasciata a [Gilead Sciences Inc](https://www.gilead.com/news-and-press/press-room/press-releases/2020/5/gileads-investigational-antiviral-remdesivir-receives-us-food-and-drug-administration-emergency-use-authorization-for-the-treatment-of-covid19). 
 
-> L'autorizzazione di emergenza di remdesivir da parte della FDA, due giorni dopo che la sperimentazione clinica del National Institutes of Health ha mostrato risultati promettenti, è un significativo passo avanti nella lotta contro COVID-19 e un altro esempio dell'amministrazione Trump che si muove il più rapidamente possibile per usare la scienza per salvare vite umane. NIH, FDA e scienziati in America e nel mondo hanno lavorato instancabilmente con i pazienti per procurarci questo nuovo potenziale trattamento per COVID-19. La perfetta collaborazione tra governo e industria privata secondo l'approccio all-of-America del Presidente al COVID-19 sta ottenendo opzioni di trattamento per i pazienti in tempi record.
+> L'autorizzazione per l'uso in emergenza di remdesivir da parte della FDA, due giorni dopo che la sperimentazione clinica del National Institutes of Health ha mostrato risultati promettenti, è un significativo passo avanti nella lotta contro COVID-19 e un altro esempio dell'amministrazione Trump che si muove il più rapidamente possibile per usare la scienza per salvare vite umane. NIH, FDA e scienziati in America e nel mondo hanno lavorato instancabilmente con i pazienti per procurarci questo nuovo potenziale trattamento per COVID-19. La perfetta collaborazione tra governo e industria privata secondo l'approccio all-of-America del Presidente al COVID-19 sta ottenendo opzioni di trattamento per i pazienti in tempi record.
 
  Ha spiegato il segretario del HHS (Health and Human Services) degli Stati Uniti, Alex Azar.
